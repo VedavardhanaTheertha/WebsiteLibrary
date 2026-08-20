@@ -1,0 +1,48 @@
+# ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ
+
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)
+Kruti:Sri Vadirajaru (Hayavadana)
+
+## ಕನ್ನಡ ಸಾಹಿತ್ಯ
+
+ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ
+ಕಂಡು ಬದುಕಿದೆ ಇಂದು ನಾನು ಕರುಣಿಸೋ ಎನ್ನೊಡೆಯನೇ ||ಪ||
+
+ಉಟ್ಟದಟ್ಟಿಯು ಪಿಡಿದ ವಂಕಿಯು ತೊಟ್ಟ ಕೌಸ್ತುಭ ಭೂಷಣ |
+ಮೆಟ್ಟಿದ ನವರತ್ನದ್ಹಾವಿಗೆ ಇಟ್ಟ ಕಸ್ತೂರಿ ತಿಲಕವು ||೧||
+
+ಮಂದಹಾಸವು ದಂತಪಂಕ್ತಿಯು ಚೆಲುವ ಕಡೆಗಣ್ಣ ನೋಟವು
+ಅಂದವಾದ ಕುರುಳು ಕೂದಲು ಮುದ್ದು ಸುರಿಯುವ ಮುಖವನಾ ||೨||
+
+ಮೊಲ್ಲೆ ಮಲ್ಲಿಗೆ ದಂಡೆ ಕೊರಳಲಿ ಚೆಲ್ವ ಕಂಕಣ ಕೈಯಲಿ ||
+ಗೊಲ್ಲ ಸತಿಯರ ಕುಚಗಳಲ್ಲಿ ಝಲ್ಲು ಝಲ್ಲೆಂದು ನಲಿವನಾ ||೩||
+
+ಸುರರು ಪುಷ್ಪದ ವೃಷ್ಠಿ ಕರೆಯಲು ಅಸುರರೆಲ್ಲರು ಓಡಲು ||
+ಕ್ರೂರ ಕಾಳಿಯ ಫಣಗಳಲ್ಲಿ ಧೀರ ನಲಿ ನಲಿದಾಡಲು ||೪||
+
+ಇನ್ನು ಎನ್ನ ಬಂಧ ತೀರಿತು ಇನ್ನು ಎನ್ನ ಕ್ಲೇಶ ಹೋಯಿತು
+ಇನ್ನು ಅನ್ಯರ ಭಜಿಸಲ್ಯಾಕೆ ಮನ್ನಿಸೋ ಹಯವದನನೆ ||೫||
+
+## Lyrics transliterated to english
+
+kaMDe kaMDenu kRuShNa ninnaya divya maMgaLa mUrtiya
+kaMDu badukide iMdu nAnu karuNisO ennoDeyanE ||pa||
+ 
+uTTadaTTiyu piDida vaMkiyu toTTa kaustuBa BUShaNa |
+meTTida navaratnad~hAvige iTTa kastUri tilakavu ||1||
+ 
+maMdahAsavu daMtapaMktiyu celuva kaDegaNNa nOTavu
+aMdavAda kuruLu kUdalu muddu suriyuva muKavanA ||2||
+ 
+molle mallige daMDe koraLali celva kaMkaNa kaiyali ||
+golla satiyara kucagaLalli Jallu JalleMdu nalivanA ||3||
+
+suraru puShpada vRuShThi kareyalu asurarellaru ODalu ||
+krUra kALiya PaNagaLalli dhIra nali nalidADalu ||4||
+ 
+innu enna baMdha tIritu innu enna klESa hOyitu
+innu anyara BajisalyAke mannisO hayavadanane ||5||
+
+## Search Tags
+
+ವಾದಿರಾಜರು, ಹಯವದನ, Vadirajaru, Hayavadana, vadirajara krutigalu, vadirajara keerthanegalu,ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ, ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ, kande kandenu krishna ninnaya song, kande kandenu krishna song lyrics, kande kandenu krishna song, hayavadana ankita hadugalu with lyrics, hayavadana ankita songs,krishna songs,ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು, ಕೃಷ್ಣನ ಹಾಡುಗಳು, krishnana bhakti geetegalu, krishna dasara hadugalu, krishnana hadugalu,
