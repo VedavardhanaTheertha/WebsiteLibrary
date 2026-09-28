@@ -7,3 +7,5 @@
 Sri Vedavardhana Teertharu is identified on the official About page as the current spiritual master and the thirtieth numbered entry in the sacred lineage. The page labels the available image as a placeholder and publishes no further guru-specific biographical details in the lineage section.
 
 ## Details
+
+Details about Sri Vedavardhana Teertharu coming soon.
