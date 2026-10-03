@@ -28,7 +28,7 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576101"
-phone: "+91 820 2520448"
+phone: "+91 8203551440"
 email: "support@shiroormatha.org"
 timings:
   en: "Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 8:00 PM (Special festival timings apply)"
@@ -91,7 +91,7 @@ categories:
 - **Address / ವಿಳಾಸ:** Car Street, Udupi – 576 101, Karnataka, India | ರಥಬೀದಿ, ಉಡುಪಿ – ೫೭೬ ೧೦೧, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಅಂಚೆ ಸೂಚ್ಯಂಕ (ಪಿನ್‌ಕೋಡ್):** 576101 | ೫೭೬೧೦೧
 - **Timings / ದರ್ಶನ ಸಮಯ:** Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 8:00 PM (ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦ | ಸಂಜೆ ೪:೦೦ – ೮:೦೦)
-- **Contact / ಸಂಪರ್ಕ:** Phone: +91 820 2520448 | Email: support@shiroormatha.org
+- **Contact / ಸಂಪರ್ಕ:** Phone: +91 8203551440 | Email: support@shiroormatha.org
 - **Google Maps / ನಕ್ಷೆ:** [View on Google Maps](https://maps.google.com/?q=Shri+Shiroor+Matha+Car+Street+Udupi+576101)
 
 The administrative headquarters and principal town seat of Shri Shiroor Matha, located on the sacred Car Street of Udupi adjacent to Sri Krishna Matha. Houses the divine icon of Pattada Devaru Sri Vittala Devaru (Anna Vittala).
@@ -132,7 +132,7 @@ In recent decades, the 29th pontiff Sri Lakshmivara Teertharu introduced landmar
 - **Address (English):** Car Street, Udupi – 576 101, Karnataka, India
 - **ವಿಳಾಸ (ಕನ್ನಡ):** ರಥಬೀದಿ, ಉಡುಪಿ – ೫೭೬ ೧೦೧, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಪಿನ್‌ಕೋಡ್:** 576101 (೫೭೬ ೧೦೧)
-- **Phone / ದೂರವಾಣಿ:** +91 820 2520448
+- **Phone / ದೂರವಾಣಿ:** +91 8203551440
 - **Email / ಇಮೇಲ್:** support@shiroormatha.org
 - **Darshan Timings / ದರ್ಶನ ಸಮಯ:**
   - Morning / ಬೆಳಿಗ್ಗೆ: 6:00 AM – 12:00 PM (೬:೦೦ – ೧೨:೦೦)

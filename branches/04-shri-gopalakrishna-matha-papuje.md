@@ -34,7 +34,7 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576113"
-phone: "+91 820 2520448"
+phone: ""
 email: "support@shiroormatha.org"
 timings:
   en: "Morning: 6:30 AM – 12:00 PM | Evening: 4:30 PM – 7:30 PM"
@@ -98,7 +98,7 @@ categories:
 - **Address / ವಿಳಾಸ:** Papuje, Bommarabettu Village, Hiriyadka, Udupi Taluk & District, Pincode: 576 113, Karnataka, India | ಪಾಪೂಜೆ, ಬೊಮ್ಮರಬೆಟ್ಟು ಗ್ರಾಮ, ಹಿರಿಯಡ್ಕ, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೧೩, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಅಂಚೆ ಸೂಚ್ಯಂಕ (ಪಿನ್‌ಕೋಡ್):** 576113 | ೫೭೬೧೧೩
 - **Timings / ದರ್ಶನ ಸಮಯ:** Morning: 6:30 AM – 12:00 PM | Evening: 4:30 PM – 7:30 PM (ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೨:೦೦ | ಸಂಜೆ ೪:೩೦ – ೭:೩೦)
-- **Contact / ಸಂಪರ್ಕ:** Phone: +91 820 2520448 | Email: support@shiroormatha.org
+- **Contact / ಸಂಪರ್ಕ:** Phone:  | Email: support@shiroormatha.org
 - **Google Maps / ನಕ್ಷೆ:** [View on Google Maps](https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Papuje+Bommarabettu+Hiriyadka+576113)
 
 A renowned and sacred branch matha of Shri Shiroor Matha situated in Papuje near Hiriyadka. Founded by the 21st pontiff Sri Lakshmipathi Teertharu following a miraculous dream unearthing of Lord Venugopala Krishna.
@@ -143,7 +143,7 @@ Two centuries later, the 27th pontiff Sri Lakshmisamudra Teertharu (1886–1926 
 - **Address (English):** Papuje, Bommarabettu Village, Hiriyadka, Udupi Taluk & District, Pincode: 576 113, Karnataka, India
 - **ವಿಳಾಸ (ಕನ್ನಡ):** ಪಾಪೂಜೆ, ಬೊಮ್ಮರಬೆಟ್ಟು ಗ್ರಾಮ, ಹಿರಿಯಡ್ಕ, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೧೩, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಪಿನ್‌ಕೋಡ್:** 576113 (೫೭೬ ೧೧೩)
-- **Phone / ದೂರವಾಣಿ:** +91 820 2520448
+- **Phone / ದೂರವಾಣಿ:** 
 - **Email / ಇಮೇಲ್:** support@shiroormatha.org
 - **Darshan Timings / ದರ್ಶನ ಸಮಯ:**
   - Morning / ಬೆಳಿಗ್ಗೆ: 6:30 AM – 12:00 PM (೬:೩೦ – ೧೨:೦೦)

@@ -31,7 +31,7 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576124"
-phone: "+91 820 2520448"
+phone: "+91 9900025432"
 email: "support@shiroormatha.org"
 timings:
   en: "Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 7:30 PM"
@@ -94,7 +94,7 @@ categories:
 - **Address / ವಿಳಾಸ:** 41 Shirooru, Udupi Taluk & District, Pincode: 576 124, Karnataka, India | ೪೧ ಶೀರೂರು, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೨೪, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಅಂಚೆ ಸೂಚ್ಯಂಕ (ಪಿನ್‌ಕೋಡ್):** 576124 | ೫೭೬೧೨೪
 - **Timings / ದರ್ಶನ ಸಮಯ:** Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 7:30 PM (ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦ | ಸಂಜೆ ೪:೦೦ – ೭:೩೦)
-- **Contact / ಸಂಪರ್ಕ:** Phone: +91 820 2520448 | Email: support@shiroormatha.org
+- **Contact / ಸಂಪರ್ಕ:** Phone: +91 9900025432 | Email: support@shiroormatha.org
 - **Google Maps / ನಕ್ಷೆ:** [View on Google Maps](https://maps.google.com/?q=Shiroor+Moola+Matha+Shirooru+576124)
 
 The foundational heritage seat (Moola Samsthana) of Shri Shiroor Matha situated in Shiroor village along the Suvarna river. Features the ancient Jabali Muni hermitage, Sri Mukhyaprana temple, and sacred Vrindavanas of pontiffs.
@@ -135,7 +135,7 @@ In the 18th century, the 23rd pontiff Sri Lakshmiramana Teertharu (1735–1781 C
 - **Address (English):** 41 Shirooru, Udupi Taluk & District, Pincode: 576 124, Karnataka, India
 - **ವಿಳಾಸ (ಕನ್ನಡ):** ೪೧ ಶೀರೂರು, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೨೪, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಪಿನ್‌ಕೋಡ್:** 576124 (೫೭೬ ೧೨೪)
-- **Phone / ದೂರವಾಣಿ:** +91 820 2520448
+- **Phone / ದೂರವಾಣಿ:** +91 9900025432
 - **Email / ಇಮೇಲ್:** support@shiroormatha.org
 - **Darshan Timings / ದರ್ಶನ ಸಮಯ:**
   - Morning / ಬೆಳಿಗ್ಗೆ: 6:00 AM – 12:00 PM (೬:೦೦ – ೧೨:೦೦)

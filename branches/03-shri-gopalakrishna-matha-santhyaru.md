@@ -34,7 +34,7 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576124"
-phone: "+91 820 2520448"
+phone: ""
 email: "support@shiroormatha.org"
 timings:
   en: "Morning: 6:30 AM – 11:30 AM | Evening: 5:00 PM – 7:30 PM"
@@ -95,7 +95,7 @@ categories:
 - **Address / ವಿಳಾಸ:** Santhyaru, Byrampalli Village, Post Harikhandige, Udupi Taluk & District, Pincode: 576 124, Karnataka, India | ಸಾಂತ್ಯಾರು, ಬೈರಂಪಳ್ಳಿ ಗ್ರಾಮ, ಅಂಚೆ ಹರಿಕಂಡಿಗೆ, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೨೪, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಅಂಚೆ ಸೂಚ್ಯಂಕ (ಪಿನ್‌ಕೋಡ್):** 576124 | ೫೭೬೧೨೪
 - **Timings / ದರ್ಶನ ಸಮಯ:** Morning: 6:30 AM – 11:30 AM | Evening: 5:00 PM – 7:30 PM (ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೧:೩೦ | ಸಂಜೆ ೫:೦೦ – ೭:೩೦)
-- **Contact / ಸಂಪರ್ಕ:** Phone: +91 820 2520448 | Email: support@shiroormatha.org
+- **Contact / ಸಂಪರ್ಕ:** Phone:  | Email: support@shiroormatha.org
 - **Google Maps / ನಕ್ಷೆ:** [View on Google Maps](https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Santhyaru+Byrampalli+576124)
 
 A historic branch matha of Shri Shiroor Matha situated in Santhyaru, Byrampalli village. Revered for its ancient shrine of Lord Sri Gopalakrishna, renovated by the 28th pontiff Sri Lakshmindra Teertharu.
@@ -136,7 +136,7 @@ Under Sri Lakshmindra Teertharu's direct patronage, the sanctum was systematical
 - **Address (English):** Santhyaru, Byrampalli Village, Post Harikhandige, Udupi Taluk & District, Pincode: 576 124, Karnataka, India
 - **ವಿಳಾಸ (ಕನ್ನಡ):** ಸಾಂತ್ಯಾರು, ಬೈರಂಪಳ್ಳಿ ಗ್ರಾಮ, ಅಂಚೆ ಹರಿಕಂಡಿಗೆ, ಉಡುಪಿ ತಾಲೂಕು ಮತ್ತು ಜಿಲ್ಲೆ, ಪಿನ್‌ಕೋಡ್: ೫೭೬ ೧೨೪, ಕರ್ನಾಟಕ, ಭಾರತ
 - **Pincode / ಪಿನ್‌ಕೋಡ್:** 576124 (೫೭೬ ೧೨೪)
-- **Phone / ದೂರವಾಣಿ:** +91 820 2520448
+- **Phone / ದೂರವಾಣಿ:** 
 - **Email / ಇಮೇಲ್:** support@shiroormatha.org
 - **Darshan Timings / ದರ್ಶನ ಸಮಯ:**
   - Morning / ಬೆಳಿಗ್ಗೆ: 6:30 AM – 11:30 AM (೬:೩೦ – ೧೧:೩೦)
