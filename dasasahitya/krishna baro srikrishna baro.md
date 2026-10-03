@@ -1,3 +1,33 @@
+---
+id: krishna-baro-srikrishna-baro
+title: ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನೀ ಬಾರಯ್ಯ
+sourceFile: krishna baro srikrishna baro.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - ಪುರಂದರ ದಾಸರ ಪದಗಳು
+  - ಹಾಡುಗಳು
+  - purandara vittala
+  - purandara dasara hadugalu
+  - purandara dasara krutigalu
+  - purandara dasaru
+  - ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ
+  - krishna baaro kannada lyrics
+  - krishna baaro sri krishna baaro
+  - krishnayya ni barayya
+  - krishna bhajans
+  - krishna devotional songs
+  - balakrishna songs
+  - kannada devaranamagalu
+  - ಕೃಷ್ಣನ ದಾಸರ ಹಾಡುಗಳು
+  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
+---
+
 # ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನೀ ಬಾರಯ್ಯ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

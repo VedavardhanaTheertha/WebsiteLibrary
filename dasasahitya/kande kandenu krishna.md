@@ -1,3 +1,33 @@
+---
+id: kande-kandenu-krishna
+title: ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ
+sourceFile: kande kandenu krishna.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Vadirajaru
+  - Hayavadana
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ
+  - ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ
+  - kande kandenu krishna ninnaya song
+  - kande kandenu krishna song lyrics
+  - kande kandenu krishna song
+  - hayavadana ankita hadugalu with lyrics
+  - hayavadana ankita songs
+  - krishna songs
+  - ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - krishnana bhakti geetegalu
+  - krishna dasara hadugalu
+  - krishnana hadugalu
+---
+
 # ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

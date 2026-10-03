@@ -1,3 +1,31 @@
+---
+id: banda-nodi-krishna
+title: ಬಂದ ನೋಡಿ ಗೋವಿಂದ ಕೃಷ್ಣ ಬಂದ ನೋಡಿ
+sourceFile: banda nodi krishna.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - purandara dasara padagalu
+  - purandara dasara hadugalu
+  - puranda vittala
+  - purandara dasaru
+  - ಪುರಂದರ ದಾಸರ ಪದಗಳು
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - ಹಾಡುಗಳು
+  - ಬಂದ ನೋಡಿ ಗೋವಿಂದ ಕೃಷ್ಣ
+  - ಬಂದ ನೋಡಿ ಗೋವಿಂದ
+  - banda nodi govinda krishna
+  - banda nodi govinda lyrics
+  - banda nodi english lyrics
+  - banda nodi govinda krishna kannada lyrics
+  - krishna songs
+  - krishna dasara padagalu
+---
+
 # ಬಂದ ನೋಡಿ ಗೋವಿಂದ ಕೃಷ್ಣ ಬಂದ ನೋಡಿ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

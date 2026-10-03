@@ -1,3 +1,33 @@
+---
+id: baaro-krishnayya
+title: ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನಿನ್ನ ಭಕ್ತರ ಮನೆಗೀಗ ಕೃಷ್ಣಯ್ಯ
+sourceFile: baaro krishnayya.md
+kruti-kn: ಶ್ರೀ ಕನಕ ದಾಸರು
+ankita-kn: ನೆಲೆಯಾದಿ ಕೇಶವ
+kruti: Sri Kanaka Dasaru
+ankita: Neleyadi Keshava
+searchTags:
+  - adikeshava
+  - ಆದಿಕೇಶವ
+  - ನೆಲೆಯಾದಿಕೇಶವ ಅಂಕಿತ
+  - ಕನಕದಾಸರು
+  - neleyadikeshava
+  - nele adikeshava
+  - kanakadasaru
+  - kanaka dasara hadugalu
+  - kanaka dasa songs
+  - ಕನಕದಾಸರ ಹಾಡುಗಳು
+  - kanaka dasa bhakti geetegalu
+  - devotional songs kanakadasaru
+  - baro krishnayya
+  - baaro krishnayya lyrics
+  - baaro krishnayya kannada lyrics
+  - dasara hadugalu with kannada lyrics
+  - ಬಾರೋ ಕೃಷ್ಣಯ್ಯ
+  - ಬಾರೋ ಕೃಷ್ಣಯ್ಯ lyrics
+  - kanakadasa krishna songs
+---
+
 # ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನಿನ್ನ ಭಕ್ತರ ಮನೆಗೀಗ ಕೃಷ್ಣಯ್ಯ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕ ದಾಸರು (ನೆಲೆಯಾದಿ ಕೇಶವ)

@@ -1,3 +1,33 @@
+---
+id: krishna-nee-begane-baaro
+title: ಕೃಷ್ಣ ನೀ ಬೇಗನೇ ಬಾರೋ
+sourceFile: krishna nee begane baaro.md
+kruti-kn: ಶ್ರೀ ವ್ಯಾಸರಾಜರು
+ankita-kn: ಶ್ರೀ ಕೃಷ್ಣ
+kruti: Sri Vyasarajaru
+ankita: Sri Krishna
+searchTags:
+  - vyasarajara krutigalu
+  - vyasarajaru
+  - sri krishna
+  - ವ್ಯಾಸರಾಜರ ಕೃತಿಗಳು
+  - ಶ್ರೀ ಕೃಷ್ಣ ಅಂಕಿತ
+  - ಸಿರಿ ಕೃಷ್ಣ
+  - siri krishna
+  - hadugalu
+  - ಕೃಷ್ಣ ನೀ ಬೇಗನೇ ಬಾರೋ
+  - krishna nee begane baro lyrics
+  - krishna ni begane baaro english lyrics
+  - kannada lyrics
+  - krishna songs
+  - krishna bhakti geetegalu
+  - krishna devotional song
+  - krishna kannada dasara pada
+  - krishna kannada devotional songs
+  - ಕೃಷ್ಣ ದಾಸರ ಪದಗಳು
+  - ಕೃಷ್ಣ ಭಕ್ತಿ ಗೀತೆಗಳು
+---
+
 # ಕೃಷ್ಣ ನೀ ಬೇಗನೇ ಬಾರೋ
 
 ಸಾಹಿತ್ಯ :    ಶ್ರೀ ವ್ಯಾಸರಾಜರು  (ಶ್ರೀ ಕೃಷ್ಣ)

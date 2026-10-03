@@ -1,3 +1,24 @@
+---
+id: bhaktha-jana-palaka
+title: ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
+sourceFile: bhaktha jana palaka.md
+kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
+ankita-kn: ವಿಜಯವಿಠಲ
+kruti: Sri Vijaya Dasaru
+ankita: Vijayavittala
+searchTags:
+  - ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
+  - bhaktha jana palaka
+  - Kannada lyrics
+  - Kannada devotional song
+  - dasara padagalu
+  - bhakti geethegalu
+  - ಶ್ರೀ ವಿಜಯ ದಾಸರು
+  - ವಿಜಯವಿಠಲ
+  - Sri Vijaya Dasaru
+  - Vijayavittala
+---
+
 # ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯವಿಠಲ)

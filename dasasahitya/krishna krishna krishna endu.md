@@ -1,3 +1,40 @@
+---
+id: krishna-krishna-krishna-endu
+title: ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಎಂದು ಮೂರು ಬಾರಿ ನೆನೆಯಿರೋ
+sourceFile: krishna krishna krishna endu.md
+kruti-kn: ಶ್ರೀ ವ್ಯಾಸರಾಜರು
+ankita-kn: ಶ್ರೀ ಕೃಷ್ಣ
+kruti: Sri Vyasarajaru
+ankita: Sri Krishna
+searchTags:
+  - Krishna songs
+  - haridasara krutigalu
+  - dasara hadugalu
+  - dasara kritigalu kannada
+  - kannada bhajans
+  - devotional songs
+  - dasara bhakti geetegalu
+  - kannada bhakti geetegalu
+  - dasara pada with lyrics
+  - dasa sahitya
+  - krishnana hadugalu
+  - haridasara hadugalu with lyrics
+  - kannada devotional songs
+  - kannada bhajans
+  - bhakti songs
+  - haridasa bhakti songs
+  - kannada bhajane with lyrics
+  - devotional songs with lyrics
+  - vyasarajara hadugalu
+  - ವ್ಯಾಸರಾಜರ ಹಾಡುಗಳು
+  - ವ್ಯಾಸರಾಜರು
+  - vyasarajara krutigalu
+  - siri krishna ankita
+  - krishna krishna krishna endu
+  - krishna krishna endu
+  - ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಕೃಷ್ಣ ಎಂದು
+---
+
 # ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಎಂದು ಮೂರು ಬಾರಿ ನೆನೆಯಿರೋ
 
 ಸಾಹಿತ್ಯ :    ಶ್ರೀ ವ್ಯಾಸರಾಜರು  (ಶ್ರೀ ಕೃಷ್ಣ)

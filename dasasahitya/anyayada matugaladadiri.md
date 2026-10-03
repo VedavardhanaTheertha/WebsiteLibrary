@@ -1,3 +1,24 @@
+---
+id: anyayada-matugaladadiri
+title: ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು
+sourceFile: anyayada matugaladadiri.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು
+  - anyayada matugaladadiri
+  - Kannada lyrics
+  - Kannada devotional song
+  - dasara padagalu
+  - bhakti geethegalu
+  - ಶ್ರೀ ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Sri Vadirajaru
+  - Hayavadana
+---
+
 # ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

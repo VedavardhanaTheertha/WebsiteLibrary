@@ -1,3 +1,33 @@
+---
+id: udupina-krishna
+title: ಉಡುಪಿನಕೃಷ್ಣ ಸಕಲ ಜಗದೀಶ
+sourceFile: udupina krishna.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
+  - hayavadana ankita hadugalu
+  - ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು
+  - gayathri songs
+  - gayathri kannada songs
+  - gayathri kannada bhajane
+  - krishna vadiraja bhajana sangha
+  - ಉಡುಪಿನಕೃಷ್ಣ ಸಕಲ ಜಗದೀಶ
+  - ಉಡುಪಿನಕೃಷ್ಣ ಸಕಲ
+  - udupina krishna sakala lyrics
+  - udupina krishna kannada lyrics
+  - udupina krishna sakala jagadisha
+---
+
 # ಉಡುಪಿನಕೃಷ್ಣ ಸಕಲ ಜಗದೀಶ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

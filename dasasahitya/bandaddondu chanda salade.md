@@ -1,3 +1,34 @@
+---
+id: bandaddondu-chanda-salade
+title: ಬಂದದ್ದೊಂದು ಚಂದ ಸಾಲದೆ ಗೋವಿಂದನು
+sourceFile: bandaddondu chanda salade.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - purandara dasaru
+  - purandara dasara hadugalu
+  - purandara dasara padagalu
+  - purandara vittala
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಪುರಂದರ ದಾಸರ ಪದಗಳು
+  - ಬಂದದ್ದೊಂದು ಚಂದ ಸಾಲದೆ
+  - ಬಂದದ್ದೊಂದು ಚಂದ
+  - bandaddondu chanda salade
+  - bandaddondu chanda lyrics
+  - bandaddondu chanda kannada lyrics
+  - english lyrics
+  - gayathri bhajanegalu
+  - gayathri songs
+  - ಗಾಯತ್ರಿ ಭಜನೆಗಳು
+  - ದಾಸರ ಪದಗಳು
+  - ಹಾಡುಗಳು
+  - gayathri dasara padagalu
+  - dasara padagalu with kannada lyrics
+---
+
 # ಬಂದದ್ದೊಂದು ಚಂದ ಸಾಲದೆ ಗೋವಿಂದನು
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

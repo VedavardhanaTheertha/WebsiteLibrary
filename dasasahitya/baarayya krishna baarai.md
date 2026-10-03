@@ -1,3 +1,24 @@
+---
+id: baarayya-krishna-baarai
+title: ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ
+sourceFile: baarayya krishna baarai.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ
+  - baarayya krishna baarai
+  - Kannada lyrics
+  - Kannada devotional song
+  - dasara padagalu
+  - bhakti geethegalu
+  - ಶ್ರೀ ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Sri Vadirajaru
+  - Hayavadana
+---
+
 # ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

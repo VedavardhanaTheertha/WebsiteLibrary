@@ -1,3 +1,30 @@
+---
+id: jo-jo-sri-krishna
+title: ಜೋ ಜೋ ಶ್ರೀ ಕೃಷ್ಣ ಪರಮಾನಂದ
+sourceFile: jo jo sri krishna.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - ಜೋ ಜೋ ಶ್ರೀ ಕೃಷ್ಣ
+  - ಜೋ ಜೋ ಶ್ರೀ ಕೃಷ್ಣ ಪರಮಾನಂದ
+  - ಜೋ ಜೋ
+  - jO jO SrI kRuShNa paramAnaMda
+  - jO jO SrI kRuShNa
+  - jO jO
+  - Krishna sleep songs
+  - laali haadu
+  - laali song
+  - jogula
+  - ಲಾಲಿ ಹಾಡು
+  - ಜೋಗುಳ
+---
+
 # ಜೋ ಜೋ ಶ್ರೀ ಕೃಷ್ಣ ಪರಮಾನಂದ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

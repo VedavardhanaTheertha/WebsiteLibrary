@@ -1,3 +1,34 @@
+---
+id: ena-pelale-naanu-krishnana-mahime
+title: ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ, ಯಾರಿಗೂ ತಿಳಿಯದಮ್ಮ
+sourceFile: ena pelale naanu krishnana mahime.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - sri purandara dasara hadugalu
+  - purandara vittala
+  - purandara dasa songs
+  - purandara dasaru
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಪುರಂದರ ವಿಠಲ
+  - ಪುರಂದರ ದಾಸರು
+  - ಏನ ಪೇಳಲೆ ನಾನು
+  - ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ
+  - ena pelale nanu krishnana mahime
+  - ena pelale nanu kannada lyrics
+  - english lyrics
+  - gayathri songs
+  - gayathri hadugalu
+  - gayathri bhajane
+  - krishnana hadugalu
+  - ಕೃಷ್ಣನ ಹಾಡು
+  - sri krishna songs
+  - sri krishnana hadugalu
+  - ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು
+---
+
 # ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ, ಯಾರಿಗೂ ತಿಳಿಯದಮ್ಮ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

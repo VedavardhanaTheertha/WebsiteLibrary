@@ -1,3 +1,30 @@
+---
+id: aarigaaro-krishna
+title: ಆರಿಗಾರೋ ಕೃಷ್ಣ ಶೂರಕುಮಾರನೆ
+sourceFile: aarigaaro krishna.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
+  - hayavadana ankita hadugalu
+  - ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು
+  - ಆರಿಗಾರೋ ಕೃಷ್ಣ
+  - aarigaaro krishna
+  - aarigaaro krishna lyrics kannada
+  - arigaro krishna song lyrics
+  - sri krishna songs
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+---
+
 # ಆರಿಗಾರೋ ಕೃಷ್ಣ ಶೂರಕುಮಾರನೆ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

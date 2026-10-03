@@ -1,3 +1,32 @@
+---
+id: baaro-manege-baaro
+title: ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ
+sourceFile: baaro manege baaro.md
+kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
+ankita-kn: ವಿಜಯವಿಠಲ
+kruti: Sri Vijaya Dasaru
+ankita: Vijayavittala
+searchTags:
+  - ವಿಜಯ ದಾಸರು
+  - Vijaya Dasaru
+  - ವಿಜಯದಾಸರು
+  - ವಿಜಯವಿಠಲ
+  - vijayavithala
+  - vijaya vittala
+  - ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ
+  - ಬಾರೋ ಮನೆಗೆ ಬಾರೋ
+  - baarO manege baarO veMkaTaramaNa
+  - baarO manege baarO
+  - baarO manege
+  - ಬಾರೋ ಮನೆಗೆ
+  - srinivasa song
+  - ಶ್ರೀನಿವಾಸನ ಹಾಡು
+  - ವೆಂಕಟರಮಣ
+  - venkataramana
+  - ಶ್ರೀನಿವಾಸ ದೇವರ ಹಾಡು
+  - srinivasa devara song
+---
+
 # ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯವಿಠಲ)

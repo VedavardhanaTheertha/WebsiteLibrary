@@ -1,3 +1,32 @@
+---
+id: ee-muddu-krishnana
+title: ಈ ಮುದ್ದು ಕೃಷ್ಣನ ಈ ಕ್ಷಣದ ಸುಖವೆ ಸಾಕು
+sourceFile: ee muddu krishnana.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Vadirajaru
+  - Hayavadana
+  - ಈ ಮುದ್ದು ಕೃಷ್ಣನ
+  - Ee muddu krishnana
+  - I muddu krishnana
+  - vadirajara krutigalu
+  - vadirajara hadugalu
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ಕನ್ನಡ ದಾಸರ ಪದಗಳು
+  - ಕನ್ನಡ ದಾಸರ ಭಜನೆಗಳು
+  - kannada dasara padagalu
+  - kannada dasara bhajanegalu
+  - ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - ದಾಸ ಸಾಹಿತ್ಯ
+  - dasa sahitya
+  - ಹರಿದಾಸ ಸಾಹಿತ್ಯ
+---
+
 # ಈ ಮುದ್ದು ಕೃಷ್ಣನ ಈ ಕ್ಷಣದ ಸುಖವೆ ಸಾಕು
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

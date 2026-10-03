@@ -1,3 +1,22 @@
+---
+id: aane-bantaane-bantaane-bantammamma
+title: ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮಾ
+sourceFile: aane bantaane bantaane bantammamma.md
+kruti-kn: ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು
+ankita-kn: ಪ್ರಸನ್ನ ವೇಂಕಟ
+kruti: Sri Prasanna Venkata Dasaru
+ankita: Prasanna Venkata
+searchTags:
+  - prasanna venkata dasara hadugalu
+  - prasanna venkata dasaru
+  - aane bantane with lyrics
+  - aane bantane kannada lyrics
+  - ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮ
+  - aane bantane bantammamma with lyrics
+  - ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರ ಹಾಡುಗಳು
+  - ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರು
+---
+
 # ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮಾ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು 

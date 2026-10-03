@@ -1,3 +1,31 @@
+---
+id: amma-nimma-manegalalli
+title: ಅಮ್ಮ ನಿಮ್ಮ ಮನೆಗಳಲ್ಲಿ ನಮ್ಮ ರಂಗನ ಕಂಡಿರೇನಮ್ಮ
+sourceFile: amma nimma manegalalli.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ  ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - purandara dasara keerthanegalu
+  - purandara dasara krutigalu
+  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - dasara krutigalu
+  - purandara dasara hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಅಮ್ಮ ನಿಮ್ಮ ಮನೆಗಳಲ್ಲಿ
+  - amma nimma manegalalli
+  - amma nimma manegalalli song lyrics
+  - amma nimma manegalalli song lyrics kannada
+---
+
 # ಅಮ್ಮ ನಿಮ್ಮ ಮನೆಗಳಲ್ಲಿ ನಮ್ಮ ರಂಗನ ಕಂಡಿರೇನಮ್ಮ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

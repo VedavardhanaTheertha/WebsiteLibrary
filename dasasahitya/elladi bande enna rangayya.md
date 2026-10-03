@@ -1,3 +1,29 @@
+---
+id: elladi-bande-enna-rangayya
+title: ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ ನೀ ಎಲ್ಲಾಡಿ ಬಂದೆ ಮುದ್ದು ಕೃಷ್ಣಯ್ಯ
+sourceFile: elladi bande enna rangayya.md
+kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
+ankita-kn: ರಂಗ ವಿಠಲ
+kruti: Sri Sripadarajaru
+ankita: Ranga vittala
+searchTags:
+  - ಶ್ರೀಪಾದರಾಜರು
+  - ರಂಗ ವಿಠಲ
+  - Sripadarajaru
+  - Ranga vittala
+  - ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ
+  - ಎಲ್ಲಾಡಿ ಬಂದೆ
+  - elladi bande enna rangayya
+  - elladi bande
+  - ellandi bande with lyrics
+  - popular bhajnas
+  - hari bhajane
+  - sripadadarajara hadugalu with sahitya
+  - sahitya
+  - ಕೃಷ್ಣ ಭಜನೆ
+  - krishna bhajan
+---
+
 # ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ ನೀ ಎಲ್ಲಾಡಿ ಬಂದೆ ಮುದ್ದು ಕೃಷ್ಣಯ್ಯ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು (ರಂಗ ವಿಠಲ)

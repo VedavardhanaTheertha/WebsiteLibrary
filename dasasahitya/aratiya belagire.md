@@ -1,3 +1,24 @@
+---
+id: aratiya-belagire
+title: ಆರತಿಯ ಬೆಳಗಿರೆ
+sourceFile: aratiya belagire.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ಆರತಿಯ ಬೆಳಗಿರೆ
+  - aratiya belagire
+  - Kannada lyrics
+  - Kannada devotional song
+  - dasara padagalu
+  - bhakti geethegalu
+  - ಶ್ರೀ ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Sri Vadirajaru
+  - Hayavadana
+---
+
 # ಆರತಿಯ ಬೆಳಗಿರೆ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

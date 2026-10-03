@@ -1,3 +1,22 @@
+---
+id: bhayakrudbhayahaari-radhaa
+title: ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
+sourceFile: bhayakrudbhayahaari radhaa.md
+kruti-kn: ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು
+ankita-kn: ಶ್ರೀದ ವಿಠಲ
+kruti: Sri Shreeda Vithala Dasaru
+ankita: Shreeda Vithala
+searchTags:
+  - ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
+  - bhayakrudbhayahaari radhaa
+  - Kannada lyrics
+  - Kannada devotional song
+  - dasara padagalu
+  - bhakti geethegalu
+  - ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು
+  - Sri Shreeda Vithala Dasaru
+---
+
 # ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು (ಶ್ರೀದ ವಿಠಲ)

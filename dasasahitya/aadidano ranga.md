@@ -1,3 +1,34 @@
+---
+id: aadidano-ranga
+title: ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ
+sourceFile: aadidano ranga.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - purandara dasara keerthanegalu
+  - purandara dasara krutigalu
+  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - dasara krutigalu
+  - purandara dasara hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಆಡಿದನೋ ರಂಗ
+  - ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ
+  - aadidano ranga
+  - adidano ranga
+  - adidano ranga lyrics
+  - aadidano ranga with kannada lyrics
+  - adidano ranga adbhutadindali
+---
+
 # ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

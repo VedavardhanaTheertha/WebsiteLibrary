@@ -1,3 +1,32 @@
+---
+id: aane-banditamma-mariyaane-banditamma
+title: ಆನೆ ಬಂದಿತಮ್ಮಾ ಮರಿಯಾನೆ ಬಂದಿತಮ್ಮಾ
+sourceFile: aane banditamma mariyaane banditamma.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ  ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - purandara dasara keerthanegalu
+  - purandara dasara krutigalu
+  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - dasara krutigalu
+  - purandara dasara hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಆನೆ ಬಂದಿತಮ್ಮಾ| ಮರಿಯಾನೆ ಬಂದಿತಮ್ಮಾ
+  - ಆನೆ ಬಂದಿತಮ್ಮಾ
+  - aane banditamma song lyrics
+  - aane banditamma lyrics kannada
+  - aane banditamma lyrics english
+---
+
 # ಆನೆ ಬಂದಿತಮ್ಮಾ ಮರಿಯಾನೆ ಬಂದಿತಮ್ಮಾ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

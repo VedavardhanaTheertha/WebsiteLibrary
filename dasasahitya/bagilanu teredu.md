@@ -1,3 +1,34 @@
+---
+id: bagilanu-teredu
+title: ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡು ಹರಿಯೇ
+sourceFile: bagilanu teredu.md
+kruti-kn: ಶ್ರೀ ಕನಕ ದಾಸರು
+ankita-kn: ನೆಲೆಯಾದಿ ಕೇಶವ
+kruti: Sri Kanaka Dasaru
+ankita: Neleyadi Keshava
+searchTags:
+  - kanaka dasaru
+  - kanaka dasara hadugalu
+  - kanaka dasara krutigalu
+  - adikeshava ankita
+  - neleyadi keshava
+  - ಕನಕ ದಾಸರು
+  - ಕನಕ ದಾಸರ ಹಾಡುಗಳು
+  - ಕನಕ ದಾಸರ ಕೃತಿಗಳು
+  - ಪದಗಳು
+  - ಆದಿಕೇಶವ ಅಂಕಿತ
+  - ನೆಲೆಯಾದಿ ಕೇಶವ
+  - ಬಾಗಿಲನು ತೆಗೆಸಿ
+  - ಬಾಗಿಲನು ತೆರೆದು
+  - bagilanu tegesi kannada lyrics
+  - bagilanu tegesi lyrics
+  - english lyrics
+  - bagilanu teredu seve lyrics
+  - kannada devaranamagalu
+  - gayathri bhajanegalu
+  - hadugalu
+---
+
 # ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡು ಹರಿಯೇ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕ ದಾಸರು (ನೆಲೆಯಾದಿ ಕೇಶವ)

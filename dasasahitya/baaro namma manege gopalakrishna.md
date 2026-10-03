@@ -1,3 +1,30 @@
+---
+id: baaro-namma-manege-gopalakrishna
+title: ಬಾರೋ ನಮ್ಮ ಮನೆಗೆ ಗೋಪಾಲಕೃಷ್ಣ
+sourceFile: baaro namma manege gopalakrishna.md
+kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
+ankita-kn: ರಂಗ ವಿಠಲ
+kruti: Sri Sripadarajaru
+ankita: Ranga vittala
+searchTags:
+  - ranga vithala Ankita
+  - sripadarajara hadugalu
+  - sripadarajara kritigalu
+  - ರಂಗ ವಿಠಲ ಅಂಕಿತ
+  - ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರ ಹಾಡುಗಳು
+  - ಕೃತಿಗಳು
+  - ಬಾರೋ ನಮ್ಮ ಮನೆಗೆ ಗೋಪಾಲಕೃಷ್ಣ
+  - ಬಾರೋ ನಮ್ಮ ಮನೆಗೆ
+  - baaro namma manege gopalakrishna
+  - baro namma manege kannada lyrics
+  - baaro namma manege english lyrics
+  - baaro namma manege with lyrics
+  - gayathri bhajanegalu
+  - gayathri hadugalu
+  - ಗಾಯತ್ರಿ ಹಾಡುಗಳು
+  - ಗಾಯತ್ರಿ ಭಜನೆಗಳು
+---
+
 # ಬಾರೋ ನಮ್ಮ ಮನೆಗೆ ಗೋಪಾಲಕೃಷ್ಣ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು (ರಂಗ ವಿಠಲ)

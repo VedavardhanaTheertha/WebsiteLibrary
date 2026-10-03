@@ -1,3 +1,33 @@
+---
+id: kandenaa-udupiya-krishnarayana
+title: ಕಂಡೆ ನಾ ಉಡುಪಿಯ ಕೃಷ್ಣರಾಯನ
+sourceFile: kandenaa udupiya krishnarayana.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - purandara vithala
+  - purandara vittala
+  - purandara dasaru
+  - purandara dasa songs kannada
+  - purandara dasa songs
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಪುರಂದರ ವಿಠಲ
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ದಾಸ
+  - purandara dasara padagalu
+  - purandara dasa krishna songs
+  - ಕಂಡೆ ನಾ ಉಡುಪಿಯ ಕೃಷ್ಣ
+  - ಕಂಡೆ ನಾ ಉಡುಪಿಯ
+  - kande na udupiya lyrics kannada
+  - kande na udupiya english lyrics
+  - krishna songs
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - ಉಡುಪಿ ಕೃಷ್ಣನ ಹಾಡು
+  - udupi krishna songs
+---
+
 # ಕಂಡೆ ನಾ ಉಡುಪಿಯ ಕೃಷ್ಣರಾಯನ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

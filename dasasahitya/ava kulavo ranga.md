@@ -1,3 +1,22 @@
+---
+id: ava-kulavo-ranga
+title: ಆವ ಕುಲವೋ ರಂಗ ಅರಿಯಬಾರದು
+sourceFile: ava kulavo ranga.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - ವಾದಿರಾಜರು
+  - ಹಯವದನ
+  - Vadirajaru
+  - Hayavadana
+  - ಆವ ಕುಲವೋ ರಂಗ
+  - ಆವ ಕುಲವೋ
+  - Ava kulavO raMga
+  - Ava kulavO
+---
+
 # ಆವ ಕುಲವೋ ರಂಗ ಅರಿಯಬಾರದು
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

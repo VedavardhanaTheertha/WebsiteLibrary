@@ -1,3 +1,30 @@
+---
+id: bandanene-ranga
+title: ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ
+sourceFile: bandanene ranga.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ
+  - ಬಂದನೇನೆ ರಂಗ
+  - Bandanene Ranga Bandanene
+  - Bandanene Ranga
+  - Bandanene ranga song lyrics
+  - purandara dasara keerthanegalu
+  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
+  - dasa sahitya
+  - dasara pada with lyrics
+  - ದೇವರನಾಮಗಳು
+  - Devaranamagalu
+  - Krishnana dasara hadugalu
+---
+
 # ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

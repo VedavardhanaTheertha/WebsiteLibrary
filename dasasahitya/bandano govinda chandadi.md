@@ -1,3 +1,36 @@
+---
+id: bandano-govinda-chandadi
+title: ಬಂದನೋ ಗೋವಿಂದ ಚಂದದಿ ಆನಂದ
+sourceFile: bandano govinda chandadi.md
+kruti-kn: ಶ್ರೀ ವಾಸುದೇವ ವಿಠಲ ದಾಸರು
+ankita-kn: ವಾಸುದೇವ ವಿಠಲ
+kruti: Sri Vasudeva Vithala Dasaru
+ankita: Vasudeva Vittala
+searchTags:
+  - ಬಂದನೋ ಗೋವಿಂದ
+  - bandano govinda
+  - bandano govinda lyrics
+  - bandano govinda kannada lyrics
+  - english lyrics
+  - vasudeva vithala
+  - ವಾಸುದೇವ ವಿಠಲ
+  - ಗಾಯತ್ರಿ ದಾಸರ ಹಾಡುಗಳು
+  - ಗಾಯತ್ರಿ ದಾಸರ ಪದಗಳು
+  - ಗಾಯತ್ರಿ ಭಜನೆಗಳು
+  - gayathri bhajanegalu
+  - gayathri dasara padagalu
+  - ಬಂದನೋ ಗೋವಿಂದ ಚಂದದಿ ಆನಂದ
+  - krishnana hadugalu
+  - krishna songs
+  - krishna dasara padagalu
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - balakrishna songs
+  - krishna bhakti geetegalu
+  - devotional songs
+  - ಕೃಷ್ಣ ಭಕ್ತಿ ಗೀತೆಗಳು
+---
+
 # ಬಂದನೋ ಗೋವಿಂದ ಚಂದದಿ ಆನಂದ
 
 ಸಾಹಿತ್ಯ :  ಶ್ರೀ ವಾಸುದೇವ ವಿಠಲ ದಾಸರು 

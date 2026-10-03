@@ -1,3 +1,29 @@
+---
+id: aluvudyatako-rangayya
+title: ಅಳುವುದ್ಯಾತಕೋ ರಂಗಯ್ಯ ಅತ್ತರಂಜಿಪ ಗುಮ್ಮ
+sourceFile: aluvudyatako rangayya.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - purandara dasara hadugalu
+  - purandara vithala
+  - purandra vittala
+  - krutigalu
+  - songs
+  - ಪುರಂದರ ವಿಠಲ
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - ಅಳುವುದ್ಯಾತಕೋ ರಂಗಯ್ಯ
+  - aluvudyatako rangayya
+  - aluvudyatako ranga kannada lyrics
+  - aluvudyatako rangayya lyrics
+  - krishna songs
+  - balakrishna songs
+  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
+---
+
 # ಅಳುವುದ್ಯಾತಕೋ ರಂಗಯ್ಯ ಅತ್ತರಂಜಿಪ ಗುಮ್ಮ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

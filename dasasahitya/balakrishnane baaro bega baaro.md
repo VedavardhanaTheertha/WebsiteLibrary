@@ -1,3 +1,35 @@
+---
+id: balakrishnane-baaro-bega-baaro
+title: ಬಾಲಕೃಷ್ಣನೆ ಬಾರೋ ಬೇಗ ಬಾರೋ
+sourceFile: balakrishnane baaro bega baaro.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara Dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ  ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - purandara dasara keerthanegalu
+  - purandara dasara krutigalu
+  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
+  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
+  - dasara krutigalu
+  - purandara dasara hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - hadugalu
+  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
+  - ಬಾಲಕೃಷ್ಣನೆ ಬಾರೋ
+  - balakrishnane baaro with lyrics
+  - balakrishnane baro kannada lyrics
+  - krishna songs
+  - krishnana hadugalu
+  - balakrishna songs
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
+---
+
 # ಬಾಲಕೃಷ್ಣನೆ ಬಾರೋ ಬೇಗ ಬಾರೋ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)

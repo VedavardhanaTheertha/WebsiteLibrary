@@ -1,3 +1,36 @@
+---
+id: bidade-bhajisi-bomma
+title: ಬಿಡದೆ ಭಜಿಸಿ ಬೊಮ್ಮ ಮೃಡ ಮುಖ್ಯ ಸುರರಿಗೆ
+sourceFile: bidade bhajisi bomma.md
+kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
+ankita-kn: ಹಯವದನ
+kruti: Sri Vadirajaru
+ankita: Hayavadana
+searchTags:
+  - hayavadana ankita hadugalu with lyrics
+  - hayavadana ankita songs
+  - vadirajara krutigalu
+  - vadirajara keerthanegalu
+  - ವಾದಿರಾಜರ ಹಾಡುಗಳು
+  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
+  - ಬಿಡದೆ ಭಜಿಸಿ ಬೊಮ್ಮ
+  - Bidade Bhajisi
+  - kannada devotional songs
+  - kannada hari dasara krutigalu
+  - krishna songs
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - ಕೃಷ್ಣನ ದಾಸರ ಪದಗಳು
+  - krishna dasara pada
+  - krishna dasara hadugalu
+  - ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - krishnana bhakti geetegalu
+  - krishna dasara hadugalu
+  - kannada bhajans
+  - devotional songs
+  - kannada krishna songs
+---
+
 # ಬಿಡದೆ ಭಜಿಸಿ ಬೊಮ್ಮ ಮೃಡ ಮುಖ್ಯ ಸುರರಿಗೆ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಾದಿರಾಜರು (ಹಯವದನ)

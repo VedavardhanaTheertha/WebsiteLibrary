@@ -1,3 +1,34 @@
+---
+id: ada-hogona-baaro-ranga
+title: ಆಡ ಹೋಗೋಣ ಬಾರೋ ರಂಗ
+sourceFile: ada hogona baaro ranga.md
+kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
+ankita-kn: ರಂಗ ವಿಠಲ
+kruti: Sri Sripadarajaru
+ankita: Ranga vittala
+searchTags:
+  - ಆಡ ಹೋಗೋಣ ಬಾರೋ ರಂಗ
+  - ಆಡ ಹೋಗೋಣ ಬಾರೋ
+  - aada hogona baaro lyrics
+  - aada hogona baaro song lyrics kannada
+  - ada hogona baaro lyrics english
+  - sripadarajara hadugalu
+  - ranga vithala
+  - ranga vittala
+  - sripadarajaru
+  - ಶ್ರೀಪಾದರಾಜರು
+  - ಶ್ರೀಪಾದರಾಜರ ಹಾಡುಗಳು
+  - ಶ್ರೀಪದರಾಜರು
+  - krishna songs
+  - kannada hari dasara krutigalu
+  - krishnana hadugalu
+  - krishna dasara hadugalu
+  - ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು
+  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
+  - krishnana bhakti geetegalu
+  - krishna bhajans
+---
+
 # ಆಡ ಹೋಗೋಣ ಬಾರೋ ರಂಗ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು (ರಂಗ ವಿಠಲ)

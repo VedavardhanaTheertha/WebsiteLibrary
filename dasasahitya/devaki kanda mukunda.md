@@ -1,3 +1,34 @@
+---
+id: devaki-kanda-mukunda
+title: ದೇವಕಿ ಕಂದ ಮುಕುಂದ ಗೋವಿಂದ
+sourceFile: devaki kanda mukunda.md
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
+kruti: Sri Purandara dasaru
+ankita: Purandara vittala
+searchTags:
+  - ಪುರಂದರ ದಾಸರು
+  - ಪುರಂದರ ವಿಠಲ
+  - Purandara dasaru
+  - Purandara vittala
+  - ದೇವಕಿ ಕಂದ ಮುಕುಂದ
+  - ದೇವಕಿ ಕಂದ
+  - devaki kanda mukunda
+  - devaki kanda
+  - krishna songs
+  - dasa sahitya
+  - haridasa songs
+  - krihna bhajans with lyrics
+  - haridasara hadugalu
+  - easy bhajan learning
+  - easy devaranama
+  - purandara dasara kritigalu
+  - ಹರಿದಾಸರ ಕೃತಿಗಳು
+  - ದಾಸ ನಮನ
+  - ಬಾಲಕೃಷ್ಣ
+  - balakrishna songs
+---
+
 # ದೇವಕಿ ಕಂದ ಮುಕುಂದ ಗೋವಿಂದ
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)
