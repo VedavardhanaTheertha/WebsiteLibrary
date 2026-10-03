@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
 ankita-kn: ವಿಜಯವಿಠಲ
 kruti: Sri Vijaya Dasaru
 ankita: Vijayavittala
-searchTags:
-  - ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
-  - bhaktha jana palaka
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ವಿಜಯ ದಾಸರು
-  - ವಿಜಯವಿಠಲ
-  - Sri Vijaya Dasaru
-  - Vijayavittala
 ---
 
 # ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
@@ -67,7 +56,3 @@ ajajanaka gajavarada bhujagaSayanane ninna
 bhajipa bhaagyavane koDiso kRuShNa
 nijavaagi ninhoratu salahuvara naa kaaNe
 vijayaviThThalarEya kRuShNa ||3||
-
-## Search Tags
-
-ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ, bhaktha jana palaka, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ವಿಜಯ ದಾಸರು, ವಿಜಯವಿಠಲ, Sri Vijaya Dasaru, Vijayavittala

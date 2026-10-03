@@ -6,15 +6,6 @@ kruti-kn: ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು
 ankita-kn: ಶ್ರೀದ ವಿಠಲ
 kruti: Sri Shreeda Vithala Dasaru
 ankita: Shreeda Vithala
-searchTags:
-  - ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
-  - bhayakrudbhayahaari radhaa
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು
-  - Sri Shreeda Vithala Dasaru
 ---
 
 # ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
@@ -47,7 +38,3 @@ maMdaradhara maadhava jitamadanaa ||2||
 
 duShTakulaaMtaka I dhareyoLu
 SrIda viThala vidhi bhava vaMdita paada ||3||
-
-## Search Tags
-
-ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ, bhayakrudbhayahaari radhaa, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು , Sri Shreeda Vithala Dasaru,

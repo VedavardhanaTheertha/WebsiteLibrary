@@ -6,26 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Vadirajaru
-  - Hayavadana
-  - vadirajara krutigalu
-  - vadirajara keerthanegalu
-  - ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ
-  - ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ
-  - kande kandenu krishna ninnaya song
-  - kande kandenu krishna song lyrics
-  - kande kandenu krishna song
-  - hayavadana ankita hadugalu with lyrics
-  - hayavadana ankita songs
-  - krishna songs
-  - ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು
-  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
-  - krishnana bhakti geetegalu
-  - krishna dasara hadugalu
-  - krishnana hadugalu
 ---
 
 # ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ
@@ -72,7 +52,3 @@ krUra kALiya PaNagaLalli dhIra nali nalidADalu ||4||
  
 innu enna baMdha tIritu innu enna klESa hOyitu
 innu anyara BajisalyAke mannisO hayavadanane ||5||
-
-## Search Tags
-
-ವಾದಿರಾಜರು, ಹಯವದನ, Vadirajaru, Hayavadana, vadirajara krutigalu, vadirajara keerthanegalu,ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ, ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ, kande kandenu krishna ninnaya song, kande kandenu krishna song lyrics, kande kandenu krishna song, hayavadana ankita hadugalu with lyrics, hayavadana ankita songs,krishna songs,ಕೃಷ್ಣನ ಭಕ್ತಿ ಗೀತೆಗಳು, ಕೃಷ್ಣನ ಹಾಡುಗಳು, krishnana bhakti geetegalu, krishna dasara hadugalu, krishnana hadugalu,

@@ -6,28 +6,6 @@ kruti-kn: ಶ್ರೀ ಇಂದಿರೇಶ ದಾಸರು
 ankita-kn: ಇಂದಿರೇಶ
 kruti: Sri Indiresha Dasaru
 ankita: Indiresha
-searchTags:
-  - indiresha
-  - indiresha dasaru
-  - ಇಂದಿರೇಶ ದಾಸರು
-  - ಹಾಡುಗಳು
-  - ಕೃತಿಗಳು
-  - ಏಳು ಬೆಳಗಾಯಿತು ಬಾಲಕೃಷ್ಣ
-  - ಏಳು ಬೆಳಗಾಯಿತು
-  - elu belagayitu lyrics
-  - elu belagayitu balakrishna
-  - balakrishna songs
-  - balakrishnana hadugalu
-  - krishna suprabhata songs
-  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
-  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
-  - ಕೃಷ್ಣ ಸುಪ್ರಭಾತದ ಹಾಡುಗಳು
-  - ದಾಸರ ಪದಗಳು
-  - ಗಾಯತ್ರಿ ಭಜನೆಗಳು
-  - gayathri bhajanegalu
-  - hadugalu
-  - kannada dasara padas
-  - devottional song
 ---
 
 # ಏಳು ಬೆಳಗಾಯಿತು ಬಾಲಕೃಷ್ಣ
@@ -74,7 +52,3 @@ Esu puDugaru namma vaasadedurige niMtu
 GOShadiMdale vatsarAshi turuvaa
 kUse karevaru ninna bhUShisuve bEgELu
 taasu horag~hOgi iMdirEsha bA bEga ||3||
-
-## Search Tags
-
-indiresha, indiresha dasaru, ಇಂದಿರೇಶ ದಾಸರು, ಹಾಡುಗಳು, ಕೃತಿಗಳು, ಏಳು ಬೆಳಗಾಯಿತು ಬಾಲಕೃಷ್ಣ, ಏಳು ಬೆಳಗಾಯಿತು, elu belagayitu lyrics, elu belagayitu balakrishna, balakrishna songs, balakrishnana hadugalu, krishna suprabhata songs, ಕೃಷ್ಣನ ಹಾಡುಗಳು, ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು, ಕೃಷ್ಣ ಸುಪ್ರಭಾತದ ಹಾಡುಗಳು, ದಾಸರ ಪದಗಳು, ಗಾಯತ್ರಿ ಭಜನೆಗಳು, gayathri bhajanegalu, hadugalu, kannada dasara padas, devottional song, 

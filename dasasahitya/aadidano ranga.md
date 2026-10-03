@@ -6,27 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಪುರಂದರ ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - Purandara dasaru
-  - Purandara vittala
-  - purandara dasara keerthanegalu
-  - purandara dasara krutigalu
-  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
-  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
-  - dasara krutigalu
-  - purandara dasara hadugalu
-  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
-  - hadugalu
-  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
-  - ಆಡಿದನೋ ರಂಗ
-  - ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ
-  - aadidano ranga
-  - adidano ranga
-  - adidano ranga lyrics
-  - aadidano ranga with kannada lyrics
-  - adidano ranga adbhutadindali
 ---
 
 # ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ
@@ -75,7 +54,3 @@ suraru puShpava vRuShTiya kareyalu sudatiyarellaru paaDalu
 naagakannikeyaru naathanu bEDalu naanaa vidhadi stuti maaDalu
 rakkasarellaru kakkasavane kaMDu dikku dikkugaLige ODalu cikkavanivanalla
 puraMdara viThala vEMkaTaramaNana bEga yashOde biMkadoLetti muddaaDe shrIkRuShNana ||3||
-
-## Search Tags
-
-ಪುರಂದರ ದಾಸರು, ಪುರಂದರ ವಿಠಲ, Purandara dasaru, Purandara vittala,purandara dasara keerthanegalu, purandara dasara krutigalu,ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು, ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು, dasara krutigalu, purandara dasara hadugalu, ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು, hadugalu, ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು, ಆಡಿದನೋ ರಂಗ, ಆಡಿದನೋ ರಂಗ ಅದ್ಭುತದಿಂದಲಿ, aadidano ranga, adidano ranga, adidano ranga lyrics, aadidano ranga with kannada lyrics,adidano ranga adbhutadindali

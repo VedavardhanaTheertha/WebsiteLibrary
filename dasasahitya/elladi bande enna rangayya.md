@@ -6,22 +6,6 @@ kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
 ankita-kn: ರಂಗ ವಿಠಲ
 kruti: Sri Sripadarajaru
 ankita: Ranga vittala
-searchTags:
-  - ಶ್ರೀಪಾದರಾಜರು
-  - ರಂಗ ವಿಠಲ
-  - Sripadarajaru
-  - Ranga vittala
-  - ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ
-  - ಎಲ್ಲಾಡಿ ಬಂದೆ
-  - elladi bande enna rangayya
-  - elladi bande
-  - ellandi bande with lyrics
-  - popular bhajnas
-  - hari bhajane
-  - sripadadarajara hadugalu with sahitya
-  - sahitya
-  - ಕೃಷ್ಣ ಭಜನೆ
-  - krishna bhajan
 ---
 
 # ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ ನೀ ಎಲ್ಲಾಡಿ ಬಂದೆ ಮುದ್ದು ಕೃಷ್ಣಯ್ಯ
@@ -56,7 +40,3 @@ balu diTTa tanadi olyADalu puTTa kRuShNayya nI enna kaNNa muMdADade | 2 |
  
 aShTa dikkali arasI kANade nA dRuShTigeTTenO ninna nODade inneShTu hELali|
 kELabArade raMgaviThala nI enna kaNNa muMdADade | 3 |
-
-## Search Tags
-
-ಶ್ರೀಪಾದರಾಜರು, ರಂಗ ವಿಠಲ, Sripadarajaru, Ranga vittala, ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ, ಎಲ್ಲಾಡಿ ಬಂದೆ, elladi bande enna rangayya, elladi bande, ellandi bande with lyrics, popular bhajnas, hari bhajane, sripadadarajara hadugalu with sahitya, sahitya, ಕೃಷ್ಣ ಭಜನೆ, krishna bhajan,  

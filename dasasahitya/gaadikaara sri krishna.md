@@ -6,22 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Vadirajaru
-  - Hayavadana
-  - ಗಾಡಿಕಾರ ಶ್ರೀಕೃಷ್ಣ
-  - gadikaara srikrishna ranna
-  - gadikara srikrishna
-  - krishna bhajans
-  - krishna songs
-  - krishna dasara padagalu
-  - dasara pada with lyrics
-  - dasa sahitya
-  - devaranamagalu
-  - devaranama with lyrics
-  - srihari songs
 ---
 
 # ಗಾಡಿಕಾರ ಶ್ರೀಕೃಷ್ಣ ರನ್ನ ಬಿಡದಿರೋ ಎನ್ನ
@@ -68,7 +52,3 @@ bhavaabdhi taarakadEva bhaavisuvara saMjIva || 4 ||
 
 madhvamunipanoDeya shuddhayatigaNapriya
 shuddhavaada Agamaj~jEya muddu hayavadanaraaya || 5 ||
-
-## Search Tags
-
-ವಾದಿರಾಜರು, ಹಯವದನ, Vadirajaru, Hayavadana, ಗಾಡಿಕಾರ ಶ್ರೀಕೃಷ್ಣ, gadikaara srikrishna ranna, gadikara srikrishna, krishna bhajans, krishna songs, krishna dasara padagalu, dasara pada with lyrics, dasa sahitya, devaranamagalu, devaranama with lyrics, srihari songs,

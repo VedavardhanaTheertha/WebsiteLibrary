@@ -6,27 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಪುರಂದರ ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - Purandara dasaru
-  - Purandara vittala
-  - ದೇವಕಿ ಕಂದ ಮುಕುಂದ
-  - ದೇವಕಿ ಕಂದ
-  - devaki kanda mukunda
-  - devaki kanda
-  - krishna songs
-  - dasa sahitya
-  - haridasa songs
-  - krihna bhajans with lyrics
-  - haridasara hadugalu
-  - easy bhajan learning
-  - easy devaranama
-  - purandara dasara kritigalu
-  - ಹರಿದಾಸರ ಕೃತಿಗಳು
-  - ದಾಸ ನಮನ
-  - ಬಾಲಕೃಷ್ಣ
-  - balakrishna songs
 ---
 
 # ದೇವಕಿ ಕಂದ ಮುಕುಂದ ಗೋವಿಂದ
@@ -61,7 +40,3 @@ makara kuMDala dhara mOhana vESha || rukumiNi vallaBa pAMDava pOSha ||3||
 kaMsamardana kaustuBABaraNa | haMsa vAhana pUjita caraNa ||4|| 
  
 varavElApura cenna prasanna puraMdara viThala sakalA guNapUrNa ||5||
-
-## Search Tags
-
-ಪುರಂದರ ದಾಸರು, ಪುರಂದರ ವಿಠಲ, Purandara dasaru, Purandara vittala, ದೇವಕಿ ಕಂದ ಮುಕುಂದ, ದೇವಕಿ ಕಂದ, devaki kanda mukunda, devaki kanda, krishna songs, dasa sahitya, haridasa songs, krihna bhajans with lyrics, haridasara hadugalu, easy bhajan learning, easy devaranama, purandara dasara kritigalu, ಹರಿದಾಸರ ಕೃತಿಗಳು, ದಾಸ ನಮನ, ಬಾಲಕೃಷ್ಣ, balakrishna songs,

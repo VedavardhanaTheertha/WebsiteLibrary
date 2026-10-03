@@ -6,25 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - vadirajaru
-  - vadirajara hadugalu
-  - hayavadana ankita hadugalu
-  - vadirajara krutigalu
-  - ವಾದಿರಾಜರು
-  - ವಾದಿರಾಜರ ಹಾಡುಗಳು
-  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
-  - ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು
-  - ಬಂದಾ ಶ್ರೀ ಕೃಷ್ಣ ನಲಿಯುತ್ತ
-  - banda sri krishna lyrics
-  - banda sri krishna kannada lyrics
-  - krishna songs
-  - krishna bhakti songs
-  - krishna bhajanegalu
-  - krishna bhajans
-  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
-  - ಕೃಷ್ಣನ ಭಜನೆಗಳು
-  - ಕೃಷ್ಣನ ದಾಸರ ಹಾಡುಗಳು
 ---
 
 # ಬಂದಾ ಶ್ರೀ ಕೃಷ್ಣ ನಲಿಯುತ್ತ
@@ -71,7 +52,3 @@ kuruLakUdalu araLele maagaayi
 koraLa padakahaara eseyutire
 charaNadaMduge gejje ghalughalukennutali
 siriyarasa hayavadananenipa mOhanaaMga||3||
-
-## Search Tags
-
-vadirajaru, vadirajara hadugalu, hayavadana ankita hadugalu, vadirajara krutigalu, ವಾದಿರಾಜರು, ವಾದಿರಾಜರ ಹಾಡುಗಳು, ವಾದಿರಾಜರ ಕೃತಿಗಳು, ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು, ಬಂದಾ ಶ್ರೀ ಕೃಷ್ಣ ನಲಿಯುತ್ತ, banda sri krishna lyrics, banda sri krishna kannada lyrics, krishna songs, krishna bhakti songs, krishna bhajanegalu, krishna bhajans, ಕೃಷ್ಣನ ಹಾಡುಗಳು, ಕೃಷ್ಣನ ಭಜನೆಗಳು, ಕೃಷ್ಣನ ದಾಸರ ಹಾಡುಗಳು, 

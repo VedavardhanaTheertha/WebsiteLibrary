@@ -6,20 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾಸುದೇವ ವಿಠ್ಠಲ ದಾಸರು
 ankita-kn: ವಾಸುದೇವ ವಿಠಲ
 kruti: Sri Vasudeva Vittala Dasaru
 ankita: Vasudeva Vittala
-searchTags:
-  - ಬಂದ ಕೃಷ್ಣ ಚಂದದಿಂದ
-  - banda krishna chandadinda
-  - banda krishna chandadinda lyrics
-  - banda krishna lyrics kannada
-  - krishna songs
-  - krishna devotional songs
-  - krishnana bhajanegalu
-  - gayathri bhajanegalu
-  - gayatri devaranamagalu
-  - gayathri devaranamagalu
-  - gayathri dasara padagalu
-  - ಗಾಯತ್ರಿ ಭಜನೆಗಳು
-  - ಗಾಯತ್ರಿ ದೇವರನಾಮಗಳು
 ---
 
 # ಬಂದ ಕೃಷ್ಣ ಚಂದದಿಂದ
@@ -56,7 +42,3 @@ tApalOpa lApaTOpa baMda nODE ||2||
  
 BUsura suKa sUsutta baMda nODE| svAmi 
 vAsudEva viThThala tA baMda nODE ||3||
-
-## Search Tags
-
-ಬಂದ ಕೃಷ್ಣ ಚಂದದಿಂದ, banda krishna chandadinda, banda krishna chandadinda lyrics, banda krishna lyrics kannada, krishna songs, krishna devotional songs, krishnana bhajanegalu, gayathri bhajanegalu, gayatri devaranamagalu, gayathri devaranamagalu, gayathri dasara padagalu, ಗಾಯತ್ರಿ ಭಜನೆಗಳು, ಗಾಯತ್ರಿ ದೇವರನಾಮಗಳು, 

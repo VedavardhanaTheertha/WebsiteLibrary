@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ಅನ್ನವನುಣಿಸಿದರತಿ ಹರುಷದಿಂದ ನಂದಗೋಪನ ಕಂದನಿಗೆ
-  - annavanunisidarati harushadinda
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Sri Vadirajaru
-  - Hayavadana
 ---
 
 # ಅನ್ನವನುಣಿಸಿದರತಿ ಹರುಷದಿಂದ ನಂದಗೋಪನ ಕಂದನಿಗೆ
@@ -49,7 +38,3 @@ caMcalAkShiyaru cinnada taTTEli kaMjalOcana kRuShNagArati beLagutta ||2||
 
 dadhi GRuta BAMDavanoDedu brahmAMDa bAyali tOrida harige | 
 hadinAru sAvira gOpEranoDagUDi koLalanUduva hayavadana mUrutige ||3||
-
-## Search Tags
-
-ಅನ್ನವನುಣಿಸಿದರತಿ ಹರುಷದಿಂದ ನಂದಗೋಪನ ಕಂದನಿಗೆ, annavanunisidarati harushadinda, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ವಾದಿರಾಜರು, ಹಯವದನ, Sri Vadirajaru, Hayavadana

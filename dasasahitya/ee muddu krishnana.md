@@ -6,25 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Vadirajaru
-  - Hayavadana
-  - ಈ ಮುದ್ದು ಕೃಷ್ಣನ
-  - Ee muddu krishnana
-  - I muddu krishnana
-  - vadirajara krutigalu
-  - vadirajara hadugalu
-  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
-  - ಕನ್ನಡ ದಾಸರ ಪದಗಳು
-  - ಕನ್ನಡ ದಾಸರ ಭಜನೆಗಳು
-  - kannada dasara padagalu
-  - kannada dasara bhajanegalu
-  - ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು
-  - ದಾಸ ಸಾಹಿತ್ಯ
-  - dasa sahitya
-  - ಹರಿದಾಸ ಸಾಹಿತ್ಯ
 ---
 
 # ಈ ಮುದ್ದು ಕೃಷ್ಣನ ಈ ಕ್ಷಣದ ಸುಖವೆ ಸಾಕು
@@ -71,7 +52,3 @@ sakala dEvOttamane sarvaguNa pUrNane,
 akaLaMka aKiLAgama stutane aprAkRutane ||
 aKiLA jIvOttamara bhinna hayavadanane 
 mukura kaDegOlu nENugaLa piDidippane ||3||
-
-## Search Tags
-
-ವಾದಿರಾಜರು, ಹಯವದನ, Vadirajaru, Hayavadana, ಈ ಮುದ್ದು ಕೃಷ್ಣನ, Ee muddu krishnana, I muddu krishnana, vadirajara krutigalu, vadirajara hadugalu, ವಾದಿರಾಜರ ಕೃತಿಗಳು, ಕನ್ನಡ ದಾಸರ ಪದಗಳು, ಕನ್ನಡ ದಾಸರ ಭಜನೆಗಳು, kannada dasara padagalu, kannada dasara bhajanegalu, ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು, ದಾಸ ಸಾಹಿತ್ಯ, dasa sahitya, ಹರಿದಾಸ ಸಾಹಿತ್ಯ, 

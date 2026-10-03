@@ -6,23 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - vadirajara krutigalu
-  - vadirajara keerthanegalu
-  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
-  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
-  - vadirajara krutigalu
-  - vadirajara keerthanegalu
-  - ವಾದಿರಾಜರ ಕೃತಿಗಳು
-  - ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು
-  - hayavadana ankita hadugalu
-  - ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು
-  - ಆರಿಗಾರೋ ಕೃಷ್ಣ
-  - aarigaaro krishna
-  - aarigaaro krishna lyrics kannada
-  - arigaro krishna song lyrics
-  - sri krishna songs
-  - ಕೃಷ್ಣನ ಹಾಡುಗಳು
 ---
 
 # ಆರಿಗಾರೋ ಕೃಷ್ಣ ಶೂರಕುಮಾರನೆ
@@ -59,7 +42,3 @@ vaasudEvane ninna daasaneMdenisayya  ||2||
 
 maayamaDuvinoLmuLugi gaayavaayito kaaya u-
 paaya yaavudo muMde raaya hayavadana ||3||
-
-## Search Tags
-
-vadirajara krutigalu, vadirajara keerthanegalu, ವಾದಿರಾಜರ ಕೃತಿಗಳು, ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು, vadirajara krutigalu, vadirajara keerthanegalu, ವಾದಿರಾಜರ ಕೃತಿಗಳು, ವಾದಿರಾಜರ ಕೀರ್ತನೆಗಳು, hayavadana ankita hadugalu, ಹಯವದನ ಅಂಕಿತ ಹಾಡುಗಳು, ಆರಿಗಾರೋ ಕೃಷ್ಣ, aarigaaro krishna, aarigaaro krishna lyrics kannada, arigaro krishna song lyrics, sri krishna songs, ಕೃಷ್ಣನ ಹಾಡುಗಳು,

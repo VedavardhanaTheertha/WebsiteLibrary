@@ -6,23 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಬಾರೋ ಬ್ರಹ್ಮಾದಿ ವಂದ್ಯ
-  - baaro brahmadi vandya lyrics
-  - baro brahmadi vandya kannada lyrics
-  - english lyrics
-  - purandara dasara padagalu
-  - purandara vithala
-  - purandara dasara hadugalu
-  - purandara dasa songs
-  - kannada devotional song
-  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
-  - ಪದಗಳು
-  - ಕೃತಿಗಳು
-  - ಪುರಂದರ ವಿಠಲ
-  - ಗಾಯತ್ರಿ ಹಾಡುಗಳು
-  - gayatri hadugalu
-  - gayathri sudarshan songs
 ---
 
 # ಬಾರೋ ಬ್ರಹ್ಮಾದಿ ವಂದ್ಯ
@@ -60,7 +43,3 @@ doDDa purada dvAraka vAsa puraMdara viThala bEganE bArO |3|
 
 ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)
 Kruti: Sri Purandara Dasaru (Purandara vittala)
-
-## Search Tags
-
-ಬಾರೋ ಬ್ರಹ್ಮಾದಿ ವಂದ್ಯ, baaro brahmadi vandya lyrics, baro brahmadi vandya kannada lyrics, english lyrics, purandara dasara padagalu, purandara vithala, purandara dasara hadugalu, purandara dasa songs, kannada devotional song, ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು, ಪದಗಳು, ಕೃತಿಗಳು, ಪುರಂದರ ವಿಠಲ, ಗಾಯತ್ರಿ ಹಾಡುಗಳು, gayatri hadugalu, gayathri sudarshan songs,

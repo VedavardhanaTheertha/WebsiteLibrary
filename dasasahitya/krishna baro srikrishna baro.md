@@ -6,26 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಪುರಂದರ ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು
-  - ಪುರಂದರ ದಾಸರ ಪದಗಳು
-  - ಹಾಡುಗಳು
-  - purandara vittala
-  - purandara dasara hadugalu
-  - purandara dasara krutigalu
-  - purandara dasaru
-  - ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ
-  - krishna baaro kannada lyrics
-  - krishna baaro sri krishna baaro
-  - krishnayya ni barayya
-  - krishna bhajans
-  - krishna devotional songs
-  - balakrishna songs
-  - kannada devaranamagalu
-  - ಕೃಷ್ಣನ ದಾಸರ ಹಾಡುಗಳು
-  - ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು
 ---
 
 # ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನೀ ಬಾರಯ್ಯ
@@ -60,7 +40,3 @@ Siradi oppuva navilu kaNgaLiMda tara taradABaraNa dharisi nI bArO |2|
  
 hAlu beNNegaLa kaiyalli koDuve| mElAgi BakShyagaLa  mucciTTu taruve|
 jAla mADade bArayya mariye| bAla enna taMde SrI puraMdara viThala |3|
-
-## Search Tags
-
-ಪುರಂದರ ದಾಸರು, ಪುರಂದರ ವಿಠಲ, ಪುರಂದರ ದಾಸರ ಕೃತಿಗಳು, ಪುರಂದರ ದಾಸರ ಪದಗಳು, ಹಾಡುಗಳು, purandara vittala, purandara dasara hadugalu, purandara dasara krutigalu, purandara dasaru, ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ, krishna baaro kannada lyrics, krishna baaro sri krishna baaro, krishnayya ni barayya, krishna bhajans, krishna devotional songs, balakrishna songs, kannada devaranamagalu, ಕೃಷ್ಣನ ದಾಸರ ಹಾಡುಗಳು, ಬಾಲಕೃಷ್ಣನ ಹಾಡುಗಳು, 

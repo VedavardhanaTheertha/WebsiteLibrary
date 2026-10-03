@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ  ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ ಅಂಕಿತ
 kruti: Sri Purandara dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಪುರಂದರ  ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - Purandara dasaru
-  - Purandara vittala
-  - ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ ಶೃಂಗಾರವಾದೇನೆ
-  - ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ
-  - ಅಂಗಿ ತೊಟ್ಟೇನೆ
-  - angi tottene song lyrics kannada
-  - angi tottene song
-  - angi tottene
 ---
 
 # ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ ಶೃಂಗಾರವಾದೇನೆ
@@ -63,7 +52,3 @@ guMDukallinaMtha buttiya kaTTi hiMDu gOvugaLa kaaydu baMdene || 4 ||
 
 I lIlegaLa kELi gopi tOLinoL bigidappi
 shrIlOla puraMdara viThala lIleyiMda baarenuta || 5 ||
-
-## Search Tags
-
-ಪುರಂದರ  ದಾಸರು, ಪುರಂದರ ವಿಠಲ, Purandara dasaru,Purandara vittala, ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ ಶೃಂಗಾರವಾದೇನೆ, ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ, ಅಂಗಿ ತೊಟ್ಟೇನೆ, angi tottene song lyrics kannada, angi tottene song, angi tottene, 

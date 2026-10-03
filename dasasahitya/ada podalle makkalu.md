@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಆಡ ಪೋದಲ್ಲೆ ಮಕ್ಕಳು ಎನ್ನ ಆಡಿಕೊಂಬುವರು ನೋಡಮ್ಮ
-  - ada podalle makkalu
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ಪುರಂದರ ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - Sri Purandara Dasaru
-  - Purandara vittala
 ---
 
 # ಆಡ ಪೋದಲ್ಲೆ ಮಕ್ಕಳು ಎನ್ನ ಆಡಿಕೊಂಬುವರು ನೋಡಮ್ಮ
@@ -63,7 +52,3 @@ kaccalu baMda kaaLiMgana koccalu maDuva dhumukidenaMte ||4||
 
 haddu enna vaahanavaMte haavu enna haasigeyaMte
 kaddu beNNeya naa tiMdenaMte muddu puraMdaraviThalanaMte ||5||
-
-## Search Tags
-
-ಆಡ ಪೋದಲ್ಲೆ ಮಕ್ಕಳು ಎನ್ನ ಆಡಿಕೊಂಬುವರು ನೋಡಮ್ಮ, ada podalle makkalu, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ಪುರಂದರ ದಾಸರು, ಪುರಂದರ ವಿಠಲ, Sri Purandara Dasaru, Purandara vittala

@@ -6,23 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara dasaru
 ankita: Purandara vittala
-searchTags:
-  - ಪುರಂದರ ದಾಸರು
-  - ಪುರಂದರ ವಿಠಲ
-  - Purandara dasaru
-  - Purandara vittala
-  - ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ
-  - ಬಂದನೇನೆ ರಂಗ
-  - Bandanene Ranga Bandanene
-  - Bandanene Ranga
-  - Bandanene ranga song lyrics
-  - purandara dasara keerthanegalu
-  - ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು
-  - dasa sahitya
-  - dasara pada with lyrics
-  - ದೇವರನಾಮಗಳು
-  - Devaranamagalu
-  - Krishnana dasara hadugalu
 ---
 
 # ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ
@@ -69,7 +52,3 @@ hiDi hiDi hiDi eMdu puraMdara viThalana
 duDu duDu duDu duDunE ODutA|
 naDe naDe naDeyeMdu mellane piDiyalu| 
 biDi biDi biDi biDi dammayya ennuta |3|
-
-## Search Tags
-
-ಪುರಂದರ ದಾಸರು, ಪುರಂದರ ವಿಠಲ, Purandara dasaru, Purandara vittala, ಬಂದನೇನೆ ರಂಗ ಬಂದನೇನೆ,  ಬಂದನೇನೆ ರಂಗ, Bandanene Ranga Bandanene, Bandanene Ranga, Bandanene ranga song lyrics, purandara dasara keerthanegalu, ಪುರಂದರ ದಾಸರ ಕೀರ್ತನೆಗಳು, dasa sahitya, dasara pada with lyrics, ದೇವರನಾಮಗಳು, Devaranamagalu, Krishnana dasara hadugalu, 

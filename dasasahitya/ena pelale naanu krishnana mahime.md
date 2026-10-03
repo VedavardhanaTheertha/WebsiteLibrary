@@ -6,27 +6,6 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
-searchTags:
-  - sri purandara dasara hadugalu
-  - purandara vittala
-  - purandara dasa songs
-  - purandara dasaru
-  - ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು
-  - ಪುರಂದರ ವಿಠಲ
-  - ಪುರಂದರ ದಾಸರು
-  - ಏನ ಪೇಳಲೆ ನಾನು
-  - ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ
-  - ena pelale nanu krishnana mahime
-  - ena pelale nanu kannada lyrics
-  - english lyrics
-  - gayathri songs
-  - gayathri hadugalu
-  - gayathri bhajane
-  - krishnana hadugalu
-  - ಕೃಷ್ಣನ ಹಾಡು
-  - sri krishna songs
-  - sri krishnana hadugalu
-  - ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು
 ---
 
 # ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ, ಯಾರಿಗೂ ತಿಳಿಯದಮ್ಮ
@@ -72,8 +51,4 @@ kaMda muttu tOrisu caMdira nIneMdu muddisidaLu ||2||
 
 tAya karedu hittaloLage muttina giDava tOrisida 
 paMTe paMTege eMTu eMTu goMcu goMcu jOlutiralu, 
-kaDidu kaDidu rASi hAkida parama puraMdara viThalarAya ||3|| 
-
-## Search Tags
-
-sri purandara dasara hadugalu, purandara vittala, purandara dasa songs, purandara dasaru, ಪುರಂದರ ದಾಸರ ಹಾಡುಗಳು, ಪುರಂದರ ವಿಠಲ, ಪುರಂದರ ದಾಸರು, ಏನ ಪೇಳಲೆ ನಾನು, ಏನ ಪೇಳಲೆ ನಾನು ಕೃಷ್ಣನ ಮಹಿಮೆ, ena pelale nanu krishnana mahime, ena pelale nanu kannada lyrics, english lyrics, gayathri songs, gayathri hadugalu, gayathri bhajane, krishnana hadugalu, ಕೃಷ್ಣನ ಹಾಡು, sri krishna songs, sri krishnana hadugalu, ಶ್ರೀ ಕೃಷ್ಣನ ಹಾಡುಗಳು, 
+kaDidu kaDidu rASi hAkida parama puraMdara viThalarAya ||3||

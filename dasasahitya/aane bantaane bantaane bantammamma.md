@@ -6,15 +6,6 @@ kruti-kn: ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು
 ankita-kn: ಪ್ರಸನ್ನ ವೇಂಕಟ
 kruti: Sri Prasanna Venkata Dasaru
 ankita: Prasanna Venkata
-searchTags:
-  - prasanna venkata dasara hadugalu
-  - prasanna venkata dasaru
-  - aane bantane with lyrics
-  - aane bantane kannada lyrics
-  - ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮ
-  - aane bantane bantammamma with lyrics
-  - ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರ ಹಾಡುಗಳು
-  - ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರು
 ---
 
 # ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮಾ
@@ -61,7 +52,3 @@ naLinajaBavarige silukada Ane|
 olaviMda Bakutara salahuva Ane|
 halavu kavigaLige nilukada Ane| 
 bala prasanvEMkaTa nilayaneMbAne |3|
-
-## Search Tags
-
-prasanna venkata dasara hadugalu, prasanna venkata dasaru, aane bantane with lyrics, aane bantane kannada lyrics, ಆನೆ ಬಂತಾನೆ ಬಂತಾನೆ ಬಂತಮ್ಮಮ್ಮ, aane bantane bantammamma with lyrics, ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರ ಹಾಡುಗಳು, ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರು, 

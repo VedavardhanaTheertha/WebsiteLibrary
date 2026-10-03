@@ -6,22 +6,6 @@ kruti-kn: ಶ್ರೀ ಪ್ರಾಣೇಶ ವಿಠಲ ದಾಸರು
 ankita-kn: ಪ್ರಾಣೇಶ ವಿಠಲ
 kruti: Sri Pranesha Vittala Dasaru
 ankita: Pranesha Vittala
-searchTags:
-  - pranesha vithala dasaru
-  - ಪ್ರಾಣೇಶ ವಿಠಲ ದಾಸರು
-  - ಪ್ರಾಣೇಶ ವಿಠಲ
-  - pranesha vithala
-  - ಬಂದಾ ಗೋವಿಂದಾ ಮುಕುಂದಾ
-  - ಬಂದ ದುರಿತಗಳ ಪರಿಹರಿಸಲು
-  - banda govinda mukunda lyrics
-  - banda govinda mukunda kannada lyrics
-  - banda govinda english lyrics
-  - banda duritagala pariharisalu lyrics
-  - sri srinivasa devara hadugalu
-  - srinivasa devara songs
-  - venkateshana dasara hadugalu
-  - ಶ್ರೀನಿವಾಸನ ಹಾಡುಗಳು
-  - ವೆಂಕಟೇಷನ ಹಾಡುಗಳು
 ---
 
 # ಬಂದಾ ಗೋವಿಂದಾ ಮುಕುಂದಾ
@@ -74,8 +58,3 @@ guNanidhi prANESa viThalanu baMdA
 Ganatara vAdya viSEShagaLiMda 
 JaNa JaNakennuva gejjenAdagaLiMda 
 taddhimi dhimikeMdu kuNiyutA baMdA ||3||
-
-## Search Tags
-
-pranesha vithala dasaru, ಪ್ರಾಣೇಶ ವಿಠಲ ದಾಸರು, ಪ್ರಾಣೇಶ ವಿಠಲ, pranesha vithala, ಬಂದಾ ಗೋವಿಂದಾ ಮುಕುಂದಾ, 
-ಬಂದ ದುರಿತಗಳ ಪರಿಹರಿಸಲು, banda govinda mukunda lyrics, banda govinda mukunda kannada lyrics, banda govinda english lyrics, banda duritagala pariharisalu lyrics, sri srinivasa devara hadugalu, srinivasa devara songs, venkateshana dasara hadugalu, ಶ್ರೀನಿವಾಸನ ಹಾಡುಗಳು, ವೆಂಕಟೇಷನ ಹಾಡುಗಳು, 

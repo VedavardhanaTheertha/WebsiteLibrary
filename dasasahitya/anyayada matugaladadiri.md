@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು
-  - anyayada matugaladadiri
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Sri Vadirajaru
-  - Hayavadana
 ---
 
 # ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು
@@ -137,7 +126,3 @@ madanaarige taanu adbhuta maaDidava
 idu aatana lIleye
 padumaakSha sirihayavadanaraayana bhajisi
 mudadiMda nIvu baaLire    ||10||
-
-## Search Tags
-
-ಅನ್ಯಾಯದ ಮಾತುಗಳಾಡದಿರಿ ನೀವು, anyayada matugaladadiri, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ವಾದಿರಾಜರು, ಹಯವದನ, Sri Vadirajaru, Hayavadana

@@ -6,17 +6,6 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
-searchTags:
-  - ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ
-  - baarayya krishna baarai
-  - Kannada lyrics
-  - Kannada devotional song
-  - dasara padagalu
-  - bhakti geethegalu
-  - ಶ್ರೀ ವಾದಿರಾಜರು
-  - ಹಯವದನ
-  - Sri Vadirajaru
-  - Hayavadana
 ---
 
 # ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ
@@ -51,7 +40,3 @@ kaMdarpanaraviMdaneMba kaNeya toTTa maMdaradharane bAro ||2||
 
 nODuve nuDisuve pADuve bayakeya bEDuve hayavadanana
 mADuve pUjeya kUDuve ninnoDanADuveno bEgane kADade bEga bAro ||3||
-
-## Search Tags
-
-ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ, baarayya krishna baarai, Kannada lyrics, Kannada devotional song, dasara padagalu, bhakti geethegalu, ಶ್ರೀ ವಾದಿರಾಜರು, ಹಯವದನ, Sri Vadirajaru, Hayavadana
