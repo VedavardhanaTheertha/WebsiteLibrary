@@ -1,25 +1,25 @@
 ---
 id: vedic-school-expansion
 title:
-  en: "Vedic School Expansion"
-  kn: "ವೇದ ಪಾಠಶಾಲೆಯ ವಿಸ್ತರಣೆ"
+  en: Vedic School Expansion
+  kn: ವೇದ ಪಾಠಶಾಲೆಯ ವಿಸ್ತರಣೆ
 summary:
-  en: "Expanded learning facilities to accommodate forty additional students."
-  kn: "ಹೆಚ್ಚುವರಿ ನಲವತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸುವ ವಿಸ್ತೃತ ಕಲಿಕಾ ಸೌಲಭ್ಯಗಳು."
+  en: Expanded learning facilities to accommodate forty additional students.
+  kn: ಹೆಚ್ಚುವರಿ ನಲವತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸುವ ವಿಸ್ತೃತ ಕಲಿಕಾ ಸೌಲಭ್ಯಗಳು.
 status:
-  en: "Completed in 2023"
-  kn: "೨೦೨೩ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ"
-image: "@image.swamiji"
+  en: Completed in 2023
+  kn: ೨೦೨೩ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ
+image: '@image.swamiji'
 tags:
   - code: completed
-    en: "completed"
-    kn: "ಪೂರ್ಣಗೊಂಡ"
+    en: completed
+    kn: ಪೂರ್ಣಗೊಂಡ
   - code: education
-    en: "education"
-    kn: "ಶಿಕ್ಷಣ"
+    en: education
+    kn: ಶಿಕ್ಷಣ
   - code: veda
-    en: "Veda"
-    kn: "ವೇದ"
+    en: Veda
+    kn: ವೇದ
 ---
 
 ## English
@@ -29,6 +29,8 @@ tags:
 The Veda Pathashala expansion added space and facilities intended to support forty more students in a focused learning environment.
 
 This converted project note will be supplemented with verified program, facility, and student-support details.
+
+Extended the Veda Pathashala to accommodate 40 more students with modern facilities.
 
 ## ಕನ್ನಡ
 

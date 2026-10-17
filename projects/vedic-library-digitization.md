@@ -1,25 +1,25 @@
 ---
 id: vedic-library-digitization
 title:
-  en: "Vedic Library Digitization"
-  kn: "ವೈದಿಕ ಗ್ರಂಥಾಲಯದ ಡಿಜಿಟಲೀಕರಣ"
+  en: Vedic Library Digitization
+  kn: ವೈದಿಕ ಗ್ರಂಥಾಲಯದ ಡಿಜಿಟಲೀಕರಣ
 summary:
-  en: "Preserving rare manuscripts and texts through careful digitization."
-  kn: "ಅಪರೂಪದ ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಗ್ರಂಥಗಳನ್ನು ಎಚ್ಚರಿಕೆಯ ಡಿಜಿಟಲೀಕರಣದ ಮೂಲಕ ಸಂರಕ್ಷಿಸುವುದು."
+  en: Preserving rare manuscripts and texts through careful digitization.
+  kn: ಅಪರೂಪದ ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಗ್ರಂಥಗಳನ್ನು ಎಚ್ಚರಿಕೆಯ ಡಿಜಿಟಲೀಕರಣದ ಮೂಲಕ ಸಂರಕ್ಷಿಸುವುದು.
 status:
-  en: "Ongoing - 35 percent"
-  kn: "ಚಾಲ್ತಿಯಲ್ಲಿದೆ - ಶೇಕಡಾ ೩೫"
-image: "@image.madhwacharya"
+  en: Ongoing - 35 percent
+  kn: ಚಾಲ್ತಿಯಲ್ಲಿದೆ - ಶೇಕಡಾ ೩೫
+image: '@image.madhwacharya'
 tags:
   - code: ongoing
-    en: "ongoing"
-    kn: "ಚಾಲ್ತಿಯಲ್ಲಿರುವ"
+    en: ongoing
+    kn: ಚಾಲ್ತಿಯಲ್ಲಿರುವ
   - code: manuscripts
-    en: "manuscripts"
-    kn: "ಹಸ್ತಪ್ರತಿಗಳು"
+    en: manuscripts
+    kn: ಹಸ್ತಪ್ರತಿಗಳು
   - code: preservation
-    en: "preservation"
-    kn: "ಸಂರಕ್ಷಣೆ"
+    en: preservation
+    kn: ಸಂರಕ್ಷಣೆ
 ---
 
 ## English
@@ -29,6 +29,8 @@ tags:
 This initiative aims to digitize more than five thousand rare palm-leaf manuscripts and texts for long-term preservation and responsible access.
 
 The previous static page reported thirty-five percent progress. Collection scope and access policy remain to be reviewed.
+
+Digitizing over 5,000 rare palm-leaf manuscripts and texts for preservation and public access.
 
 ## ಕನ್ನಡ
 

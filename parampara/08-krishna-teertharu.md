@@ -1,3 +1,14 @@
+---
+id: krishna-teertharu
+name: Sri Krishna Teertharu
+timePeriod: ''
+summary: >-
+  Sri Krishna Teertharu is the eighth numbered spiritual master in the Guru Parampara displayed on the
+  official About page. No further guru-specific biography, dates, teachings, or image are published there.
+thumbnailImage: ''
+fullImage: ''
+---
+
 # Sri Krishna Teertharu
 
 - **Parampara position:** 8

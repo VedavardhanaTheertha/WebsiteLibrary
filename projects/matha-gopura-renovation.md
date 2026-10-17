@@ -1,25 +1,25 @@
 ---
 id: matha-gopura-renovation
 title:
-  en: "Matha Gopura Renovation"
-  kn: "ಮಠದ ಗೋಪುರದ ಜೀರ್ಣೋದ್ಧಾರ"
+  en: Matha Gopura Renovation
+  kn: ಮಠದ ಗೋಪುರದ ಜೀರ್ಣೋದ್ಧಾರ
 summary:
-  en: "Restoration of the historic gopura using traditional Agama shilpa methods."
-  kn: "ಸಾಂಪ್ರದಾಯಿಕ ಆಗಮ ಶಿಲ್ಪ ವಿಧಾನಗಳಿಂದ ಐತಿಹಾಸಿಕ ಗೋಪುರದ ಪುನರುಜ್ಜೀವನ."
+  en: Restoration of the historic gopura using traditional Agama shilpa methods.
+  kn: ಸಾಂಪ್ರದಾಯಿಕ ಆಗಮ ಶಿಲ್ಪ ವಿಧಾನಗಳಿಂದ ಐತಿಹಾಸಿಕ ಗೋಪುರದ ಪುನರುಜ್ಜೀವನ.
 status:
-  en: "Completed in 2024"
-  kn: "೨೦೨೪ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ"
-image: "@image.gopura"
+  en: Completed in 2024
+  kn: ೨೦೨೪ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ
+image: '@image.gopura'
 tags:
   - code: completed
-    en: "completed"
-    kn: "ಪೂರ್ಣಗೊಂಡ"
+    en: completed
+    kn: ಪೂರ್ಣಗೊಂಡ
   - code: restoration
-    en: "restoration"
-    kn: "ಜೀರ್ಣೋದ್ಧಾರ"
+    en: restoration
+    kn: ಜೀರ್ಣೋದ್ಧಾರ
   - code: heritage
-    en: "heritage"
-    kn: "ಪರಂಪರೆ"
+    en: heritage
+    kn: ಪರಂಪರೆ
 ---
 
 ## English
@@ -29,6 +29,8 @@ tags:
 The renovation project restored the historic gopura with attention to traditional form, materials, and the requirements of a living sacred space.
 
 This converted project note preserves the existing summary. Dates, scope, photographs, and conservation details will be added after review.
+
+Restored the 200-year-old gopura of Shri Shiroor Matha with traditional Agama shilpa shastra methods.
 
 ## ಕನ್ನಡ
 

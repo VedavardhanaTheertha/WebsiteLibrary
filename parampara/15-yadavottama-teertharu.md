@@ -1,3 +1,14 @@
+---
+id: yadavottama-teertharu
+name: Sri Yadavottama Teertharu
+timePeriod: ''
+summary: >-
+  Sri Yadavottama Teertharu is the fifteenth numbered spiritual master in the Guru Parampara displayed on the
+  official About page. No further guru-specific biography, dates, teachings, or image are published there.
+thumbnailImage: ''
+fullImage: ''
+---
+
 # Sri Yadavottama Teertharu
 
 - **Parampara position:** 15

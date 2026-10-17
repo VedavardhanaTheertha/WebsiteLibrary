@@ -1,3 +1,14 @@
+---
+id: lakshmindra-teertharu
+name: Sri Lakshmindra Teertharu
+timePeriod: ''
+summary: >-
+  Sri Lakshmindra Teertharu is the twenty-eighth numbered spiritual master in the Guru Parampara displayed on
+  the official About page. No further guru-specific biography, dates, teachings, or image are published there.
+thumbnailImage: ''
+fullImage: ''
+---
+
 # Sri Lakshmindra Teertharu
 
 - **Parampara position:** 28

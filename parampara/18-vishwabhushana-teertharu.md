@@ -1,3 +1,14 @@
+---
+id: vishwabhushana-teertharu
+name: Sri Vishwabhushana Teertharu
+timePeriod: ''
+summary: >-
+  Sri Vishwabhushana Teertharu is the eighteenth numbered spiritual master in the Guru Parampara displayed on
+  the official About page. No further guru-specific biography, dates, teachings, or image are published there.
+thumbnailImage: ''
+fullImage: ''
+---
+
 # Sri Vishwabhushana Teertharu
 
 - **Parampara position:** 18

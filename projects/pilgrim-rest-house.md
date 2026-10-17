@@ -1,25 +1,25 @@
 ---
 id: pilgrim-rest-house
 title:
-  en: "Pilgrim Rest House"
-  kn: "ಯಾತ್ರಿಕರ ವಿಶ್ರಾಂತಿ ಗೃಹ"
+  en: Pilgrim Rest House
+  kn: ಯಾತ್ರಿಕರ ವಿಶ್ರಾಂತಿ ಗೃಹ
 summary:
-  en: "A proposed accommodation complex for visiting pilgrims."
-  kn: "ಭೇಟಿ ನೀಡುವ ಯಾತ್ರಿಕರಿಗಾಗಿ ಪ್ರಸ್ತಾವಿತ ವಸತಿ ಸಂಕೀರ್ಣ."
+  en: A proposed accommodation complex for visiting pilgrims.
+  kn: ಭೇಟಿ ನೀಡುವ ಯಾತ್ರಿಕರಿಗಾಗಿ ಪ್ರಸ್ತಾವಿತ ವಸತಿ ಸಂಕೀರ್ಣ.
 status:
-  en: "Upcoming"
-  kn: "ಮುಂಬರುವ ಯೋಜನೆ"
-image: "@image.shiroorMutt"
+  en: Upcoming
+  kn: ಮುಂಬರುವ ಯೋಜನೆ
+image: '@image.shiroorMutt'
 tags:
   - code: upcoming
-    en: "upcoming"
-    kn: "ಮುಂಬರುವ"
+    en: upcoming
+    kn: ಮುಂಬರುವ
   - code: accommodation
-    en: "accommodation"
-    kn: "ವಸತಿ"
+    en: accommodation
+    kn: ವಸತಿ
   - code: pilgrims
-    en: "pilgrims"
-    kn: "ಯಾತ್ರಿಕರು"
+    en: pilgrims
+    kn: ಯಾತ್ರಿಕರು
 ---
 
 ## English
@@ -29,6 +29,8 @@ tags:
 The proposed rest house is intended to offer practical accommodation close to the Matha for pilgrims visiting Udupi.
 
 The earlier static page described a 250-room concept. Capacity, location, amenities, and implementation dates remain temporary.
+
+250-room pilgrim accommodation complex near the Matha.
 
 ## ಕನ್ನಡ
 

@@ -1,25 +1,25 @@
 ---
 id: annadana-hall-construction
 title:
-  en: "Annadana Hall Construction"
-  kn: "ಅನ್ನದಾನ ಭವನ ನಿರ್ಮಾಣ"
+  en: Annadana Hall Construction
+  kn: ಅನ್ನದಾನ ಭವನ ನಿರ್ಮಾಣ
 summary:
-  en: "A planned hall designed to serve two thousand devotees during peak periods."
-  kn: "ಜನಸಂದಣಿಯ ಅವಧಿಯಲ್ಲಿ ಎರಡು ಸಾವಿರ ಭಕ್ತರಿಗೆ ಸೇವೆ ನೀಡಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಯೋಜಿತ ಭವನ."
+  en: A planned hall designed to serve two thousand devotees during peak periods.
+  kn: ಜನಸಂದಣಿಯ ಅವಧಿಯಲ್ಲಿ ಎರಡು ಸಾವಿರ ಭಕ್ತರಿಗೆ ಸೇವೆ ನೀಡಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಯೋಜಿತ ಭವನ.
 status:
-  en: "Upcoming"
-  kn: "ಮುಂಬರುವ ಯೋಜನೆ"
-image: "@image.kraj0615"
+  en: Upcoming
+  kn: ಮುಂಬರುವ ಯೋಜನೆ
+image: '@image.kraj0615'
 tags:
   - code: upcoming
-    en: "upcoming"
-    kn: "ಮುಂಬರುವ"
+    en: upcoming
+    kn: ಮುಂಬರುವ
   - code: annadana
-    en: "Annadana"
-    kn: "ಅನ್ನದಾನ"
+    en: Annadana
+    kn: ಅನ್ನದಾನ
   - code: pilgrims
-    en: "pilgrims"
-    kn: "ಯಾತ್ರಿಕರು"
+    en: pilgrims
+    kn: ಯಾತ್ರಿಕರು
 ---
 
 ## English
@@ -29,6 +29,8 @@ tags:
 The proposed hall is intended to increase meal-service capacity and improve movement, seating, cleanliness, and volunteer coordination during busy periods.
 
 The concept and capacity are converted from the previous static page. Final plans and timelines are temporary.
+
+New hall to serve 2,000 devotees simultaneously during peak Paryaya periods.
 
 ## ಕನ್ನಡ
 
