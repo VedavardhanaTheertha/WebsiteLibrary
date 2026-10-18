@@ -23,11 +23,11 @@ website files under `src/gen/` are disposable and must not be edited.
 | `events/` | Event records and authored dates |
 | Knowledge topic folders | Articles and validated topic-specific metadata |
 | `pages/` | Metadata-only references to existing website pages |
-| `hero/{dev,prod}/` | Original environment-specific hero groups |
+| `hero/{dev,prod}/` | Environment-specific hero groups |
 
 Topic copy belongs in its owning folder, including nested `pages/` documents where
 used. Do not create duplicate authorities in language JSON or settings. Short reusable
-UI labels and retained media catalogs live in the website's `content/languages/`;
+UI labels and media catalogs live in the website's `content/languages/`;
 homepage copy and composition live in the settings repository.
 
 ## Structured copy and translations
@@ -64,13 +64,12 @@ attribution, verse layout, stable identifiers, and visible knowledge/review stat
   inherit missing optional facts; do not duplicate ordering in a JSON index.
 - Project `_index.md` holds collection-wide copy and is not an article. Individual
   project Markdown owns its description and supplied status/year/progress facts.
-- Sevas own offerings and their language-specific guidelines. The preserved material
+- Sevas own offerings and their language-specific guidelines. The material
   list and prices live only in `donations/pages/donation.md`; do not duplicate them.
-- Official Connect records must be verified. Support email is
-  `support@shiroormatha.org`; the WhatsApp destination is a broadcast channel, not
-  a private-message inbox.
+- Official Connect records must be verified. Broadcast channels must not be used
+  for private enquiries.
 - Update the Yajna announcement's count and required
-  `pages.local_copy.yajna_as_of_date` together (initial snapshot: **2026-07-01**).
+  `pages.local_copy.yajna_as_of_date` together.
   All translations share the same quoted ISO date; never stamp the build date.
   Preserve the temporary Panchanga test-data note, whose localized `panchanga_notice`
   belongs in topic Markdown.
