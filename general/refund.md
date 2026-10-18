@@ -62,4 +62,6 @@ fields:
   page_metadata.refund:
     en:
       title: Refund Policy | Shri Shiroor Matha
+    kn:
+      title: ಮರುಪಾವತಿ ನೀತಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
 ---

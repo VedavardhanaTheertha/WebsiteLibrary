@@ -70,4 +70,6 @@ fields:
   page_metadata.terms:
     en:
       title: Terms of Service | Shri Shiroor Matha
+    kn:
+      title: ಸೇವಾ ನಿಯಮಗಳು | ಶ್ರೀ ಶಿರೂರು ಮಠ
 ---

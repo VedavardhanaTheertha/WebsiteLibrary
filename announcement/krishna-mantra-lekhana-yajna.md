@@ -8,8 +8,8 @@ fields:
     en: Krishna Mantra Lekhana Yajna
     kn: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞ
   announcement.body:
-    en: Write "..."
-    kn: '"..." ಬರೆಯಿರಿ'
+    en: Write "Shri Krishnaya Namaha"
+    kn: '"ಶ್ರೀ ಕೃಷ್ಣಾಯ ನಮಃ" ಬರೆಯಿರಿ'
   pages.local_copy.yajna_title:
     en: Krishna Mantra Lekhana Yajna
     kn: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞ
@@ -111,4 +111,9 @@ fields:
       description: >-
         Join the sacred Krishna Mantra Lekhana Yajna during Paryaya 2026-2028. Write Shri Krishnaya Namaha and
         offer your devotion.
+    kn:
+      title: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞ — ಶ್ರೀ ಶಿರೂರು ಮಠ
+      description: >-
+        ಪರ್ಯಾಯ 2026-2028ರ ಅವಧಿಯಲ್ಲಿ ಪವಿತ್ರ ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞದಲ್ಲಿ ಭಾಗವಹಿಸಿ. ಶ್ರೀ ಕೃಷ್ಣಾಯ ನಮಃ ಎಂದು ಬರೆದು
+        ನಿಮ್ಮ ಭಕ್ತಿಯನ್ನು ಅರ್ಪಿಸಿ.
 ---

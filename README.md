@@ -96,12 +96,12 @@ least four eligible articles. It uses article title, summary, image, and status 
 the collection's page-reference title; do not author a duplicate settings list.
 
 For image-only edits preserve translated text and other metadata. Keep remote image
-URLs consistent with settings image policy, verify availability, and record rights;
-public availability alone does not establish permission.
+URLs consistent with settings image policy and verify availability. Preserve
+applicable licenses and required attribution.
 
 ## Review
 
-Follow the website's content/language guidelines and record new asset provenance.
+Follow the website's content/language guidelines.
 Have devotional, historical, and scholarly claims reviewed by an appropriate person.
 Validate integration from the website checkout with `npm run content:validate` and
 `npm run ci`, and disclose any incomplete review or validation.

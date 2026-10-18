@@ -69,4 +69,6 @@ fields:
   page_metadata.privacy:
     en:
       title: Privacy Policy | Shri Shiroor Matha
+    kn:
+      title: ಗೌಪ್ಯತಾ ನೀತಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
 ---
