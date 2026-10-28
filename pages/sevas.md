@@ -1,8 +1,8 @@
 ---
 kind: "page-reference"
 title:
-  en: "Sevas & Donations"
-  kn: "ಸೇವೆಗಳು ಮತ್ತು ದೇಣಿಗೆಗಳು"
+  en: "Sevas"
+  kn: "ಸೇವೆಗಳು"
 description:
   en: "Offer a seva at Shri Shiroor Matha. Browse all  sevas across Krishna Sannidhi, Annadaana, Navagraha, and more."
   kn: "ಶ್ರೀ ಶಿರೂರು ಮಠದಲ್ಲಿ ಸೇವೆ ಅರ್ಪಿಸಿ. ಕೃಷ್ಣ ಸನ್ನಿಧಿ, ಅನ್ನದಾನ, ನವಗ್ರಹ ಮತ್ತು ಇತರ ವಿಭಾಗಗಳ ಎಲ್ಲ ಸೇವೆಗಳನ್ನು ನೋಡಿ."
