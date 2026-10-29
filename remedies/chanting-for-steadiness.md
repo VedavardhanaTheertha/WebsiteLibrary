@@ -9,7 +9,7 @@ summary:
 status:
   en: "Temporary content"
   kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "@image.krishna"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/chanting-for-steadiness.webp"
 tags:
   - code: chanting
     en: "chanting"

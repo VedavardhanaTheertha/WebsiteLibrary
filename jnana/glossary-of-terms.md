@@ -9,7 +9,7 @@ summary:
 status:
   en: "Growing reference"
   kn: "ಬೆಳೆಯುತ್ತಿರುವ ಉಲ್ಲೇಖ"
-image: "@image.shiroorMutt"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/glossary-of-terms.webp"
 tags:
   - code: glossary
     en: "glossary"

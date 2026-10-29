@@ -9,7 +9,7 @@ summary:
 status:
   en: Completed in 2024
   kn: ೨೦೨೪ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ
-image: '@image.gopura'
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/matha-gopura-renovation.webp"
 tags:
   - code: completed
     en: completed

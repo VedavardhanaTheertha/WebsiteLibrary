@@ -9,7 +9,7 @@ summary:
 status:
   en: "Introductory guide"
   kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
-image: "@image.shiroorMutt"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/ashta-mathas.webp"
 tags:
   - code: udupi
     en: "Udupi"

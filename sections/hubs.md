@@ -43,7 +43,7 @@ fields:
             description: >-
               The unbroken lineage of gurus from Sri Madhwacharya to the present pontiff of Shri Shiroor
               Matha.
-            image: "@image.swamiji"
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.webp"
             href: /history/parampara
           - title: Sadhana Stories and Chronicles
             description: Accounts of disciplined practice, devotion, service, and moments remembered by the community.
@@ -108,7 +108,7 @@ fields:
         items:
           - title: ಶಿರೂರು ಮಠ ಮತ್ತು ಗುರು ಪರಂಪರೆ
             description: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಇಂದಿನ ಪೀಠಾಧಿಪತಿಗಳವರೆಗಿನ ಗುರುಗಳ ಅವಿಚ್ಛಿನ್ನ ಪರಂಪರೆ.
-            image: "@image.swamiji"
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.webp"
             href: /history/parampara
           - title: ಸಾಧನಾ ಕಥೆಗಳು ಮತ್ತು ಚರಿತ್ರೆಗಳು
             description: ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯವು ಸ್ಮರಿಸುವ ಕ್ಷಣಗಳ ಕಥನಗಳು.
