@@ -1,6 +1,5 @@
 ---
 id: go-shala
-date: "2026-06-15"
 cover: "@image.goMatha"
 title:
   en: Go Shāla
@@ -18,17 +17,6 @@ tags:
     - ಗೋಸೇವೆ
     - ಗೋಪೂಜೆ
 items:
-  - small-webp: "/images/albums/go-shala/img-01-small.webp"
-    small-avif: "/images/albums/go-shala/img-01-small.avif"
-    large-webp: "/images/albums/go-shala/img-01-large.webp"
-    large-avif: "/images/albums/go-shala/img-01-large.avif"
-  - small-webp: "/images/albums/go-shala/img-02-small.webp"
-    small-avif: "/images/albums/go-shala/img-02-small.avif"
-    large-webp: "/images/albums/go-shala/img-02-large.webp"
-    large-avif: "/images/albums/go-shala/img-02-large.avif"
-  - small-webp: "/images/albums/go-shala/img-03-small.webp"
-    small-avif: "/images/albums/go-shala/img-03-small.avif"
-    large-webp: "/images/albums/go-shala/img-03-large.webp"
-    large-avif: "/images/albums/go-shala/img-03-large.avif"
+  - small-webp: "@image.goMatha"
+    large-webp: "@image.goMatha"
 ---
-
