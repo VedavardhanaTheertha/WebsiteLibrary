@@ -1,0 +1,91 @@
+---
+id: 2026-01-11-horekanike
+date: "2026-01-11"
+cover: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-l.webp"
+title:
+  en: Horekanike
+  kn: Horekanike
+description:
+  en: Horekanike — celebrations and darshan.
+  kn: Horekanike — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+tags:
+  en:
+    - Paryaya
+    - Horekanike
+  kn:
+    - ಪರ್ಯಾಯ
+    - Horekanike
+items:
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/622bfd8d-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/622bfd8d-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5ba275e1-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5ba275e1-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/34b2aba4-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/34b2aba4-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7f74a0fc-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7f74a0fc-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7909518e-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7909518e-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5a9927bb-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5a9927bb-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/1ee514b0-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/1ee514b0-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/52018a73-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/52018a73-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/60536fbe-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/60536fbe-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/a4a7ab64-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/a4a7ab64-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/3e15934e-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/3e15934e-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/abbcfc51-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/abbcfc51-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/ed3243f0-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/ed3243f0-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/826412d1-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/826412d1-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/889fa100-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/889fa100-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/c589cb79-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/c589cb79-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/807cc39d-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/807cc39d-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7363aa77-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7363aa77-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/fb6a876e-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/fb6a876e-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/abdb9971-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/abdb9971-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/ea3819e8-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/ea3819e8-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/87c9e838-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/87c9e838-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7aeb78f8-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7aeb78f8-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/d65b811e-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/d65b811e-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7f0615c4-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7f0615c4-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/60f93f38-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/60f93f38-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/1351e3a9-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/1351e3a9-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/376d8491-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/376d8491-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7b17e92f-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/7b17e92f-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5af28081-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5af28081-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5e027f64-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/5e027f64-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/107d112d-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/107d112d-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/91846209-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/91846209-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/696c4cd3-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/696c4cd3-l.webp"
+  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/02e7fccb-s.webp"
+    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/02e7fccb-l.webp"
+---
