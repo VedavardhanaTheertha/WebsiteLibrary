@@ -13,23 +13,23 @@ fields:
         items:
           - title: Mantra Nāda
             description: Sacred chants and their meanings, gathered for careful study and recitation.
-            image: "@image.krishna"
+            image: "@image.mantraNada"
             href: /library/mantra
           - title: Shāstra Vidya
             description: Introductions to foundational texts and ideas in the Dvaita tradition.
-            image: "@image.swamiji"
+            image: "@image.shastraVidya"
             href: /library/shastra
           - title: Bhakti Gāna
             description: Kannada devotional compositions of the Haridasa tradition.
-            image: "@image.lordVitthala"
+            image: "@image.bhaktiGana"
             href: /library/bhakti
           - title: Jnāna Kosha
             description: A growing glossary and reference collection for tradition, history, and philosophy.
-            image: "@image.shiroorMutt"
+            image: "@image.jnanaKosha"
             href: /library/jnana
           - title: Dharma Vidhi
             description: Practical introductions to daily observances, vows, rites, and festival practice.
-            image: "@image.kraj0615"
+            image: "@image.dharmaVidhi"
             href: /library/dharma
       story:
         eyebrow: Living Tradition
@@ -80,23 +80,23 @@ fields:
         items:
           - title: ಮಂತ್ರ ನಾದ
             description: ಎಚ್ಚರಿಕೆಯಿಂದ ಅಧ್ಯಯನ ಮಾಡಲು ಮತ್ತು ಪಠಿಸಲು ಸಂಗ್ರಹಿಸಿದ ಪವಿತ್ರ ಮಂತ್ರಗಳು ಹಾಗೂ ಅವುಗಳ ಅರ್ಥಗಳು.
-            image: "@image.krishna"
+            image: "@image.mantraNada"
             href: /library/mantra
           - title: ಶಾಸ್ತ್ರ ವಿದ್ಯಾ
             description: ದ್ವೈತ ಪರಂಪರೆಯ ಮೂಲಭೂತ ಗ್ರಂಥಗಳು ಮತ್ತು ತತ್ವಗಳ ಪರಿಚಯ.
-            image: "@image.swamiji"
+            image: "@image.shastraVidya"
             href: /library/shastra
           - title: ಭಕ್ತಿ ಗಾನ
             description: ಹರಿದಾಸ ಪರಂಪರೆಯ ಕನ್ನಡ ಭಕ್ತಿ ರಚನೆಗಳು.
-            image: "@image.lordVitthala"
+            image: "@image.bhaktiGana"
             href: /library/bhakti
           - title: ಜ್ಞಾನ ಕೋಶ
             description: ಪರಂಪರೆ, ಇತಿಹಾಸ ಮತ್ತು ತತ್ವಶಾಸ್ತ್ರದ ಪದಕೋಶ ಹಾಗೂ ಉಲ್ಲೇಖಗಳ ಬೆಳೆಯುತ್ತಿರುವ ಸಂಗ್ರಹ.
-            image: "@image.shiroorMutt"
+            image: "@image.jnanaKosha"
             href: /library/jnana
           - title: ಧರ್ಮ ವಿಧಿ
             description: ದೈನಂದಿನ ಆಚರಣೆಗಳು, ವ್ರತಗಳು, ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ಹಬ್ಬಗಳ ಆಚರಣೆಯ ಪ್ರಾಯೋಗಿಕ ಪರಿಚಯ.
-            image: "@image.kraj0615"
+            image: "@image.dharmaVidhi"
             href: /library/dharma
       story:
         eyebrow: ಜೀವಂತ ಪರಂಪರೆ
