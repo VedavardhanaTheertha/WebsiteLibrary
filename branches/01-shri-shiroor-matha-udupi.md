@@ -57,10 +57,10 @@ embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9233.34752
 coordinates:
   latitude: 13.341291
   longitude: 74.755495
-image: "https://pub-93b6a521943a4df0aa899a838fdad684.r2.dev/vittala-murthy.png"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
 images:
-  - "https://pub-93b6a521943a4df0aa899a838fdad684.r2.dev/vittala-murthy.png"
-  - "/lord-vitthala.jpeg"
+  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
+  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
 tags:
   - main-matha
   - udupi

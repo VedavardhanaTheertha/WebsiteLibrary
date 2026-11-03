@@ -26,9 +26,9 @@ performers:
     - ವಿಠ್ಠಲ್ ರಂಗನ್ (ವಯಲಿನ್)
     - ಸಾಯಿ ಗಿರಿಧರ್ (ಮೃದಂಗ)
     - ಎಸ್. ಕೃಷ್ಣ (ಘಟಂ)
-image: https://dash.shiroormatha.org/uploads/Shiroor_Parya_6_e7723f5f4e.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-ranjani-gayatri.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Shiroor_Parya_6_e7723f5f4e.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-ranjani-gayatri.avif
 recurrence: special
 tags:
   - concert
@@ -86,5 +86,5 @@ Celebrated Carnatic vocal recital by the acclaimed sisters Vidushi Ranjani and V
 
 ### Gallery Images
 
-![Carnatic Vocal Duet by Ranjani & Gayatri - Image 1](https://dash.shiroormatha.org/uploads/Shiroor_Parya_6_e7723f5f4e.jpg)
+![Carnatic Vocal Duet by Ranjani & Gayatri - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-ranjani-gayatri.avif)
 

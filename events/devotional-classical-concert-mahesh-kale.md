@@ -20,9 +20,9 @@ performers:
     - Pandit Mahesh Kale (Hindustani Vocal) & Ensemble
   kn:
     - ಪಂಡಿತ್ ಮಹೇಶ್ ಕಾಳೆ (ಹಿಂದೂಸ್ತಾನಿ ಗಾಯನ) ಮತ್ತು ವಾದ್ಯ ವೃಂದ
-image: https://dash.shiroormatha.org/uploads/2_7ecb306409.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif
 images:
-  - https://dash.shiroormatha.org/uploads/2_7ecb306409.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif
 recurrence: special
 tags:
   - concert
@@ -80,5 +80,5 @@ National Award-winning vocalist Mahesh Kale presenting an inspiring Hindustani c
 
 ### Gallery Images
 
-![Devotional & Classical Concert by Mahesh Kale - Image 1](https://dash.shiroormatha.org/uploads/2_7ecb306409.jpg)
+![Devotional & Classical Concert by Mahesh Kale - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif)
 

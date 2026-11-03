@@ -26,9 +26,9 @@ performers:
     - ಮೈಲೈ ಎಂ. ಕಾರ್ತಿಕೇಯನ್ (ನಾದಸ್ವರ)
     - ಪ್ರವೀಣ್ ಸ್ಪರ್ಶ್ (ಮೃದಂಗ)
     - ಜಿ. ಚಂದ್ರಶೇಖರ ಶರ್ಮ (ಘಟಂ)
-image: https://dash.shiroormatha.org/uploads/1_7e244639e7.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-quartet.avif
 images:
-  - https://dash.shiroormatha.org/uploads/1_7e244639e7.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-quartet.avif
 recurrence: special
 tags:
   - concert
@@ -86,5 +86,5 @@ A rare and enthralling musical synthesis featuring the traditional auspicious te
 
 ### Gallery Images
 
-![A Carnatic Quartet (Nadaswaram & Violin) by Shreya Devnath & Mylai M. Karthikeyan - Image 1](https://dash.shiroormatha.org/uploads/1_7e244639e7.jpg)
+![A Carnatic Quartet (Nadaswaram & Violin) by Shreya Devnath & Mylai M. Karthikeyan - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-quartet.avif)
 

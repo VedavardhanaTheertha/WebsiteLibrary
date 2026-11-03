@@ -22,9 +22,9 @@ performers:
   kn:
     - ಪರಮ ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನತೀರ್ಥ ಶ್ರೀಪಾದರು
     - ಜನಪ್ರತಿನಿಧಿಗಳು ಹಾಗೂ ಪರ್ಯಾಯ ಸ್ವಾಗತ ಸಮಿತಿ
-image: https://dash.shiroormatha.org/uploads/IMG_20260115_WA_0027_e1ef5d3717.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/parashurama-dvara-guddali-pooja.avif
 images:
-  - https://dash.shiroormatha.org/uploads/IMG_20260115_WA_0027_e1ef5d3717.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/parashurama-dvara-guddali-pooja.avif
 recurrence: special
 tags:
   - pooja
@@ -79,5 +79,5 @@ Groundbreaking foundation ceremony (Guddali Pooja) for the grand welcome arch "P
 
 ### Gallery Images
 
-![Parashurama Dvara Groundbreaking Ceremony (Guddali Pooja) - Image 1](https://dash.shiroormatha.org/uploads/IMG_20260115_WA_0027_e1ef5d3717.jpg)
+![Parashurama Dvara Groundbreaking Ceremony (Guddali Pooja) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/parashurama-dvara-guddali-pooja.avif)
 

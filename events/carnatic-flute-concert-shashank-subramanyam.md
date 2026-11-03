@@ -20,9 +20,9 @@ performers:
     - Pandit Shashank Subramanyam (Bamboo Flute) & Accompanists
   kn:
     - ಪಂಡಿತ್ ಶಶಾಂಕ್ ಸುಬ್ರಮಣ್ಯಂ (ವೇಣುವಾದನ) ಮತ್ತು ಸಹ ಕಲಾವಿದರು
-image: https://dash.shiroormatha.org/uploads/3_6469f7b77c.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-flute-shashank-subramanyam.avif
 images:
-  - https://dash.shiroormatha.org/uploads/3_6469f7b77c.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-flute-shashank-subramanyam.avif
 recurrence: special
 tags:
   - concert
@@ -80,5 +80,5 @@ Mesmerizing bamboo flute recital by Grammy-nominated maestro Pandit Shashank Sub
 
 ### Gallery Images
 
-![Carnatic Flute Concert by Shashank Subramanyam - Image 1](https://dash.shiroormatha.org/uploads/3_6469f7b77c.jpg)
+![Carnatic Flute Concert by Shashank Subramanyam - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-flute-shashank-subramanyam.avif)
 

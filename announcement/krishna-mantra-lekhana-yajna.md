@@ -88,6 +88,9 @@ fields:
   pages.local_copy.yajna_option_4:
     en: Custom count
     kn: ಬೇರೆ ಸಂಖ್ಯೆ
+  pages.local_copy.yajna_image:
+    en: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
+    kn: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
   pages.detected.yajna_eyebrow:
     en: PARYAYA 2026-2028 — SPECIAL YAJNA
     kn: ಪರ್ಯಾಯ 2026-2028 — ವಿಶೇಷ ಯಜ್ಞ

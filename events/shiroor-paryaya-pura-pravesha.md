@@ -22,14 +22,14 @@ performers:
   kn:
     - ಭಾವೀ ಪರ್ಯಾಯ ಮಠಾಧೀಶರಾದ ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥ ಶ್ರೀಪಾದರು
     - ಭಕ್ತ ಸಮೂಹ, ಕಲಾತಂಡಗಳು ಹಾಗೂ ನಾಗರಿಕರು
-image: https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_af2bc863cf.webp
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-1.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_af2bc863cf.webp
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_4_27492a429d.webp
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_2_367fd76a0f.webp
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_5_81643e205e.webp
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_3_7dd3a84ebe.webp
-  - https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_1_0b5156b56b.webp
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-1.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-5.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-3.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-6.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-4.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-2.avif
 recurrence: special
 tags:
   - pura pravesha
@@ -84,15 +84,15 @@ Ahead of his maiden Paryaya, His Holiness Shri Shri Vedavardhana Tirtha Swamiji 
 
 ### Gallery Images
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 1](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_af2bc863cf.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-1.avif)
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 2](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_4_27492a429d.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-5.avif)
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 3](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_2_367fd76a0f.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 3](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-3.avif)
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 4](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_5_81643e205e.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 4](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-6.avif)
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 5](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_3_7dd3a84ebe.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 5](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-4.avif)
 
-![Shiroor Paryaya Pura Pravesha✨ - Image 6](https://dash.shiroormatha.org/uploads/Shiroor_Paryaya_shiroormatha_official_shiroor_pary_1_0b5156b56b.webp)
+![Shiroor Paryaya Pura Pravesha✨ - Image 6](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-2.avif)
 

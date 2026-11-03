@@ -24,17 +24,17 @@ performers:
     - ಶ್ರೀ ಕ್ಷೇತ್ರ ಧರ್ಮಸ್ಥಳ ಗ್ರಾಮಾಭಿವೃದ್ಧಿ ಯೋಜನೆ ಮತ್ತು ಬೆಳ್ತಂಗಡಿಯ ನಾಗರಿಕರು
     - ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು
     - ಶಾಸಕ ಯಶ್ ಪಾಲ್ ಸುವರ್ಣ, ಬೈಕಾಡಿ ಸುಪ್ರಸಾದ್ ಶೆಟ್ಟಿ, ಮೋಹನ್ ಭಟ್, ಉದಯಕುಮಾರ ಸರಳತ್ತಾಯ, ನಂದನ್ ಜೈನ್
-image: https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_4_36c6e2a1da.jpeg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif
 images:
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_4_36c6e2a1da.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_9_f50f79a0f2.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_3_b64a7c16d8.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_2_362cd4660f.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_8_5d1a0998eb.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_1_5ceada47a7.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_61e76dd746.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_6_a083f64f68.jpeg
-  - https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_5_4a7f5b395b.jpeg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-9.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-3.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-2.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-8.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-1.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-7.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-6.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-5.avif
 recurrence: special
 tags:
   - horekanike
@@ -89,21 +89,21 @@ The maiden Horekanike voluntary offering procession for the Shiroor Paryaya, ded
 
 ### Gallery Images
 
-![Grand Green Horekanike Offering Procession - Image 1](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_4_36c6e2a1da.jpeg)
+![Grand Green Horekanike Offering Procession - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif)
 
-![Grand Green Horekanike Offering Procession - Image 2](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_9_f50f79a0f2.jpeg)
+![Grand Green Horekanike Offering Procession - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-9.avif)
 
-![Grand Green Horekanike Offering Procession - Image 3](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_3_b64a7c16d8.jpeg)
+![Grand Green Horekanike Offering Procession - Image 3](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-3.avif)
 
-![Grand Green Horekanike Offering Procession - Image 4](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_2_362cd4660f.jpeg)
+![Grand Green Horekanike Offering Procession - Image 4](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-2.avif)
 
-![Grand Green Horekanike Offering Procession - Image 5](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_8_5d1a0998eb.jpeg)
+![Grand Green Horekanike Offering Procession - Image 5](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-8.avif)
 
-![Grand Green Horekanike Offering Procession - Image 6](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_1_5ceada47a7.jpeg)
+![Grand Green Horekanike Offering Procession - Image 6](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-1.avif)
 
-![Grand Green Horekanike Offering Procession - Image 7](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_61e76dd746.jpeg)
+![Grand Green Horekanike Offering Procession - Image 7](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-7.avif)
 
-![Grand Green Horekanike Offering Procession - Image 8](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_6_a083f64f68.jpeg)
+![Grand Green Horekanike Offering Procession - Image 8](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-6.avif)
 
-![Grand Green Horekanike Offering Procession - Image 9](https://dash.shiroormatha.org/uploads/SERIES_1_10_01_2025_5_4a7f5b395b.jpeg)
+![Grand Green Horekanike Offering Procession - Image 9](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-5.avif)
 

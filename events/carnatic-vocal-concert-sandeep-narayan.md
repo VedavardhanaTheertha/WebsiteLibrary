@@ -26,9 +26,9 @@ performers:
     - ನಿಶಾಂತ್ ಚಂದ್ರನ್ (ವಯಲಿನ್)
     - ತುಮಕೂರು ಬಿ. ರವಿಶಂಕರ್ (ಮೃದಂಗ)
     - ಜಿ. ಗುರುಪ್ರಸನ್ನ (ಖಂಜಿರ)
-image: https://dash.shiroormatha.org/uploads/Shiroor_Parya_7_1b0ef0fa91.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-sandeep-narayan.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Shiroor_Parya_7_1b0ef0fa91.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-sandeep-narayan.avif
 recurrence: special
 tags:
   - concert
@@ -82,5 +82,5 @@ Classical Carnatic vocal concert rendered by Vidwan Sandeep Narayan, with Nishan
 
 ### Gallery Images
 
-![Carnatic Vocal Concert by Sandeep Narayan - Image 1](https://dash.shiroormatha.org/uploads/Shiroor_Parya_7_1b0ef0fa91.jpg)
+![Carnatic Vocal Concert by Sandeep Narayan - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-sandeep-narayan.avif)
 

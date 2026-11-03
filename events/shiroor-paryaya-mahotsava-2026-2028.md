@@ -24,9 +24,9 @@ performers:
     - ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನತೀರ್ಥ ಶ್ರೀಪಾದಂಗಳವರು
     - ಉಡುಪಿಯ ಅಷ್ಟಮಠಗಳ ಯತಿವರ್ಯರು
     - ವೈದಿಕ ವಿದ್ವಾಂಸರು, ಪುರೋಹಿತರು ಹಾಗೂ ಭಕ್ತಾದಿಗಳು
-image: https://dash.shiroormatha.org/uploads/Snap_Insta_to_619256466_18065243210629750_8985444816920342391_n_478f4a5bd7.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/paryaya-mahotsava-2026.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Snap_Insta_to_619256466_18065243210629750_8985444816920342391_n_478f4a5bd7.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/paryaya-mahotsava-2026.avif
 recurrence: special
 tags:
   - paryaya
@@ -81,5 +81,5 @@ The historic ascension of His Holiness Shri Shri Vedavardhana Tirtha Swamiji to 
 
 ### Gallery Images
 
-![Shiroor Paryaya Mahotsava 2026-28 - Image 1](https://dash.shiroormatha.org/uploads/Snap_Insta_to_619256466_18065243210629750_8985444816920342391_n_478f4a5bd7.jpg)
+![Shiroor Paryaya Mahotsava 2026-28 - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/paryaya-mahotsava-2026.avif)
 

@@ -22,10 +22,10 @@ performers:
   kn:
     - ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನತೀರ್ಥ ಶ್ರೀಪಾದಂಗಳವರು
     - ವೈದಿಕ ಪುರೋಹಿತರು, ವಿದ್ವಾಂಸರು ಹಾಗೂ ಭಕ್ತಾದಿಗಳು
-image: https://dash.shiroormatha.org/uploads/39de8d26_a580_462f_a56b_63821a7cf6b5_11676e73cd.jpeg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-1.avif
 images:
-  - https://dash.shiroormatha.org/uploads/39de8d26_a580_462f_a56b_63821a7cf6b5_11676e73cd.jpeg
-  - https://dash.shiroormatha.org/uploads/e89bf4b4_0fd4_464b_83f2_9d03d4abb01f_afb5c287fd.jpeg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-1.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-2.avif
 recurrence: special
 tags:
   - dhanya muhurtha
@@ -80,7 +80,7 @@ The auspicious fourth preliminary muhurtha of Paryaya (Dhanya Muhurtha) performe
 
 ### Gallery Images
 
-![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 1](https://dash.shiroormatha.org/uploads/39de8d26_a580_462f_a56b_63821a7cf6b5_11676e73cd.jpeg)
+![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-1.avif)
 
-![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 2](https://dash.shiroormatha.org/uploads/e89bf4b4_0fd4_464b_83f2_9d03d4abb01f_afb5c287fd.jpeg)
+![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-2.avif)
 

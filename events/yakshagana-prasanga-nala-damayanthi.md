@@ -46,9 +46,9 @@ performers:
     - ವಿನಯ್ ಬೇರೋಳ್ಳಿ
     - ನಿರಂಜನ ಜಾಗೃತಿ
     - ದೀಪಕ್ ಕುಂಕಿ
-image: https://dash.shiroormatha.org/uploads/Shiroor_Parya_10_279f800345.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Shiroor_Parya_10_279f800345.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif
 recurrence: special
 tags:
   - yakshagana
@@ -103,5 +103,5 @@ Grand Badaguthittu Yakshagana performance depicting the classic epic tale of "Na
 
 ### Gallery Images
 
-![Yakshagana Prasanga: Nala Damayanthi - Image 1](https://dash.shiroormatha.org/uploads/Shiroor_Parya_10_279f800345.jpg)
+![Yakshagana Prasanga: Nala Damayanthi - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif)
 

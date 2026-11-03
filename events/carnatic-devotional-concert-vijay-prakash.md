@@ -20,9 +20,9 @@ performers:
     - Vijay Prakash & Instrumental Ensemble
   kn:
     - ವಿಜಯ್ ಪ್ರಕಾಶ್ ಮತ್ತು ವಾದ್ಯ ವೃಂದ
-image: https://dash.shiroormatha.org/uploads/4_96a89f4d69.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-devotional-vijay-prakash.avif
 images:
-  - https://dash.shiroormatha.org/uploads/4_96a89f4d69.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-devotional-vijay-prakash.avif
 recurrence: special
 tags:
   - concert
@@ -80,5 +80,5 @@ Soulful evening of classical Carnatic compositions, Haridasa devaranamas, and de
 
 ### Gallery Images
 
-![Carnatic & Devotional Concert by Vijay Prakash - Image 1](https://dash.shiroormatha.org/uploads/4_96a89f4d69.jpg)
+![Carnatic & Devotional Concert by Vijay Prakash - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-devotional-vijay-prakash.avif)
 

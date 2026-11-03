@@ -26,9 +26,9 @@ performers:
     - ಲಾಲ್ಗುಡಿ ವಿಜಯಲಕ್ಷ್ಮಿ (ವಯಲಿನ್)
     - ತಿರುಚಿ ಬಿ. ಹರಿಕುಮಾರ್ (ಮೃದಂಗ)
     - ತ್ರಿಪುನಿತುರ ರಾಧಾಕೃಷ್ಣನ್ (ಘಟಂ)
-image: https://dash.shiroormatha.org/uploads/Shiroor_Parya_8_91d112dc46.jpg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/violin-duet-lalgudi-krishnan.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Shiroor_Parya_8_91d112dc46.jpg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/violin-duet-lalgudi-krishnan.avif
 recurrence: special
 tags:
   - concert
@@ -86,5 +86,5 @@ Sublime classical Carnatic violin duet by maestro Lalgudi G.J.R. Krishnan and Sm
 
 ### Gallery Images
 
-![Carnatic Violin Duet Concert - Image 1](https://dash.shiroormatha.org/uploads/Shiroor_Parya_8_91d112dc46.jpg)
+![Carnatic Violin Duet Concert - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/violin-duet-lalgudi-krishnan.avif)
 

@@ -20,10 +20,10 @@ performers:
     - Scholars, Bhajana Mandalis and Cultural Artists
   kn:
     - ವಿದ್ವಾಂಸರು, ಭಜನಾ ಮಂಡಳಿಗಳು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕಲಾವಿದರು
-image: https://dash.shiroormatha.org/uploads/Whats_App_Image_2026_02_12_at_11_41_25_AM_0f5b113281.jpeg
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif
 images:
-  - https://dash.shiroormatha.org/uploads/Whats_App_Image_2026_02_12_at_11_41_25_AM_0f5b113281.jpeg
-  - https://dash.shiroormatha.org/uploads/Whats_App_Image_2026_02_11_at_8_37_18_PM_25d8e5ad43.jpeg
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-2.avif
 recurrence: annual
 tags:
   - shivaratri
@@ -81,7 +81,7 @@ You and your family are cordially invited to the holy Maha Shivaratri Mahotsav t
 
 ### Gallery Images
 
-![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 1](https://dash.shiroormatha.org/uploads/Whats_App_Image_2026_02_12_at_11_41_25_AM_0f5b113281.jpeg)
+![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif)
 
-![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 2](https://dash.shiroormatha.org/uploads/Whats_App_Image_2026_02_11_at_8_37_18_PM_25d8e5ad43.jpeg)
+![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-2.avif)
 

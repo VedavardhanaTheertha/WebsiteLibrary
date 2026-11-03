@@ -6,7 +6,7 @@ title:
 description:
   en: "Introductory reflections on forms, gestures, offerings, and ritual symbols."
   kn: "ದೇವತಾ ರೂಪಗಳು, ಮುದ್ರೆಗಳು, ಅರ್ಪಣೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳ ಸಂಕೇತಗಳ ಕುರಿತು ಪರಿಚಯಾತ್ಮಕ ಚಿಂತನೆಗಳು."
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/deepa-and-sacred-light.avif"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
 page_type:
   en: "Knowledge section index"
   kn: "ಜ್ಞಾನ ವಿಭಾಗದ ಪಟ್ಟಿ"

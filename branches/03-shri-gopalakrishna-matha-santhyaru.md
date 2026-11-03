@@ -63,9 +63,9 @@ embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15539.0!2d
 coordinates:
   latitude: 13.3524
   longitude: 74.8812
-image: "/lord-vitthala.jpeg"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
 images:
-  - "/lord-vitthala.jpeg"
+  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
 tags:
   - branch-matha
   - santhyaru
