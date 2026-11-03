@@ -3,14 +3,14 @@ id: baaro-manege-baaro
 title: ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ
 sourceFile: baaro manege baaro.md
 kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
-ankita-kn: ವಿಜಯವಿಠಲ
+ankita-kn: ವಿಜಯ ವಿಠಲ
 kruti: Sri Vijaya Dasaru
 ankita: Vijayavittala
 ---
 
 # ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯವಿಠಲ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯ ವಿಠಲ)
 Kruti: Sri Vijaya Dasaru (Vijayavittala)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ

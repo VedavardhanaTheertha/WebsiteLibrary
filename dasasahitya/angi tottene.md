@@ -2,15 +2,15 @@
 id: angi-tottene
 title: ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ ಶೃಂಗಾರವಾದೇನೆ
 sourceFile: angi tottene.md
-kruti-kn: ಶ್ರೀ ಪುರಂದರ  ದಾಸರು
-ankita-kn: ಪುರಂದರ ವಿಠಲ ಅಂಕಿತ
+kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
+ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara dasaru
 ankita: Purandara vittala
 ---
 
 # ಅಂಗಿ ತೊಟ್ಟೇನೆ ಗೋಪಿ ಶೃಂಗಾರವಾದೇನೆ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ  ದಾಸರು (ಪುರಂದರ ವಿಠಲ ಅಂಕಿತ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪುರಂದರ ದಾಸರು (ಪುರಂದರ ವಿಠಲ)
 Kruti: Sri Purandara dasaru (Purandara vittala)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ
