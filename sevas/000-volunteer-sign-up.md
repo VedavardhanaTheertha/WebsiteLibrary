@@ -23,6 +23,7 @@ location:
   en: "Shri Shiroor Matha, Udupi and remote opportunities"
   kn: "ಶ್ರೀ ಶಿರೂರು ಮಠ, ಉಡುಪಿ ಹಾಗೂ ದೂರಸ್ಥ ಸೇವಾ ಅವಕಾಶಗಳು"
 amount: 0
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/000-volunteer-sign-up.avif"
 formatted_amount:
   en: "Offer your time and skills"
   kn: "ನಿಮ್ಮ ಸಮಯ ಮತ್ತು ಕೌಶಲ್ಯವನ್ನು ಸಮರ್ಪಿಸಿ"

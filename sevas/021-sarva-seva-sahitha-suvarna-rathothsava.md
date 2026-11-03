@@ -23,6 +23,7 @@ location:
   en: "Shri Krishna Matha, Udupi"
   kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
 amount: 50000
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/021-sarva-seva-sahitha-suvarna-rathothsava.avif"
 formatted_amount:
   en: "₹50,000"
   kn: "₹೫೦,೦೦೦"

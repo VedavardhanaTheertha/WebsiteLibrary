@@ -23,6 +23,7 @@ location:
   en: "Shri Krishna Matha, Udupi"
   kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
 amount: 18000
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/029-pratyaksha-godana.avif"
 formatted_amount:
   en: "₹18,000"
   kn: "₹೧೮,೦೦೦"

@@ -9,7 +9,7 @@ summary:
 status:
   en: "Temporary content"
   kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festivals-of-udupi.webp"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festivals-of-udupi.avif"
 tags:
   - code: festival
     en: "festival"

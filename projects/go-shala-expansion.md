@@ -9,7 +9,7 @@ summary:
 status:
   en: Ongoing - 60 percent
   kn: ಚಾಲ್ತಿಯಲ್ಲಿದೆ - ಶೇಕಡಾ ೬೦
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.webp"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.avif"
 tags:
   - code: ongoing
     en: ongoing

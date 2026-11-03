@@ -9,7 +9,7 @@ summary:
 status:
   en: "Introductory guide"
   kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dvaita-vedanta.webp"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dvaita-vedanta.avif"
 tags:
   - code: dvaita
     en: "Dvaita"

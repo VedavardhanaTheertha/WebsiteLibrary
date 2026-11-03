@@ -23,6 +23,7 @@ location:
   en: "Shri Krishna Matha, Udupi"
   kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
 amount: 300000
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/012-annadana-for-one-day.avif"
 formatted_amount:
   en: "₹3,00,000"
   kn: "₹೩,೦೦,೦೦೦"

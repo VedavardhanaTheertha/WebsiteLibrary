@@ -9,7 +9,7 @@ summary:
 status:
   en: Completed in 2023
   kn: ೨೦೨೩ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡಿದೆ
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-school-expansion.webp"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-school-expansion.avif"
 tags:
   - code: completed
     en: completed

@@ -6,7 +6,7 @@ title:
 description:
   en: "Search and read Kannada devotional compositions from the Haridasa tradition."
   kn: "ಹರಿದಾಸ ಪರಂಪರೆಯ ಕನ್ನಡ ಭಕ್ತಿಗೀತೆಗಳನ್ನು ಹುಡುಕಿ ಓದಿ."
-image: "https://www.shiroormatha.org/vitthala-desktop.jpg"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/bhakti-gana.avif"
 page_type:
   en: "Devotional literature browser"
   kn: "ಭಕ್ತಿ ಸಾಹಿತ್ಯದ ಅನ್ವೇಷಣೆ"

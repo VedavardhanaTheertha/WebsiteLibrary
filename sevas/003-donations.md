@@ -23,6 +23,7 @@ location:
   en: "Shri Krishna Matha, Udupi"
   kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
 amount: 0
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/003-donations.avif"
 formatted_amount:
   en: "Any Amount / Devotee's Wish"
   kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"

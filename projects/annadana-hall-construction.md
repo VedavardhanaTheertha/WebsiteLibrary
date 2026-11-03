@@ -9,7 +9,7 @@ summary:
 status:
   en: Upcoming
   kn: ಮುಂಬರುವ ಯೋಜನೆ
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-hall-construction.webp"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-hall-construction.avif"
 tags:
   - code: upcoming
     en: upcoming

@@ -6,7 +6,7 @@ title:
 description:
   en: "Accounts of disciplined practice, devotion, service, and moments remembered by the community."
   kn: "ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮರಣೀಯ ಕ್ಷಣಗಳ ವೃತ್ತಾಂತಗಳು."
-image: "https://pub-93b6a521943a4df0aa899a838fdad684.r2.dev/Guru.png"
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/a-life-shaped-by-daily-worship.avif"
 page_type:
   en: "Knowledge section index"
   kn: "ಜ್ಞಾನ ವಿಭಾಗದ ಪಟ್ಟಿ"

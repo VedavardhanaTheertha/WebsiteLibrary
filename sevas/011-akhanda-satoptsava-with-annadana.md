@@ -23,6 +23,7 @@ location:
   en: "Shri Krishna Matha, Udupi"
   kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
 amount: 500000
+image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/011-akhanda-satoptsava-with-annadana.avif"
 formatted_amount:
   en: "₹5,00,000"
   kn: "₹೫,೦೦,೦೦೦"
