@@ -2,15 +2,15 @@
 id: bagilanu-teredu
 title: ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡು ಹರಿಯೇ
 sourceFile: bagilanu teredu.md
-kruti-kn: ಶ್ರೀ ಕನಕ ದಾಸರು
-ankita-kn: ನೆಲೆಯಾದಿ ಕೇಶವ
+kruti-kn: ಶ್ರೀ ಕನಕದಾಸರು
+ankita-kn: ಕಾಗಿನೆಲೆಯಾದಿ ಕೇಶವ
 kruti: Sri Kanaka Dasaru
 ankita: Neleyadi Keshava
 ---
 
 # ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡು ಹರಿಯೇ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕ ದಾಸರು (ನೆಲೆಯಾದಿ ಕೇಶವ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕದಾಸರು (ಕಾಗಿನೆಲೆಯಾದಿ ಕೇಶವ)
 Kruti: Sri Kanaka Dasaru (Neleyadi Keshava)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ

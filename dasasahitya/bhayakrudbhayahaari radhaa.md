@@ -2,15 +2,15 @@
 id: bhayakrudbhayahaari-radhaa
 title: ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
 sourceFile: bhayakrudbhayahaari radhaa.md
-kruti-kn: ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು
-ankita-kn: ಶ್ರೀದ ವಿಠಲ
+kruti-kn: ಶ್ರೀ ಶ್ರೀದವಿಠಲ ದಾಸರು
+ankita-kn: ಶ್ರೀದವಿಠಲ
 kruti: Sri Shreeda Vithala Dasaru
 ankita: Shreeda Vithala
 ---
 
 # ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀದ ವಿಠಲ ದಾಸರು (ಶ್ರೀದ ವಿಠಲ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ಶ್ರೀದವಿಠಲ ದಾಸರು (ಶ್ರೀದವಿಠಲ)
 Kruti: Sri Shreeda Vithala Dasaru (Shreeda Vithala)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ

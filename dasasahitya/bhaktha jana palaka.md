@@ -3,14 +3,14 @@ id: bhaktha-jana-palaka
 title: ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
 sourceFile: bhaktha jana palaka.md
 kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
-ankita-kn: ವಿಜಯವಿಠಲ
+ankita-kn: ವಿಜಯ ವಿಠಲ
 kruti: Sri Vijaya Dasaru
 ankita: Vijayavittala
 ---
 
 # ಭಕ್ತಜನ ಪಾಲಕ ಭಕ್ತಿಸುಖದಾಯಕ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯವಿಠಲ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ವಿಜಯ ದಾಸರು (ವಿಜಯ ವಿಠಲ)
 Kruti: Sri Vijaya Dasaru (Vijayavittala)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ

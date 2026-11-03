@@ -2,15 +2,15 @@
 id: baaro-krishnayya
 title: ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನಿನ್ನ ಭಕ್ತರ ಮನೆಗೀಗ ಕೃಷ್ಣಯ್ಯ
 sourceFile: baaro krishnayya.md
-kruti-kn: ಶ್ರೀ ಕನಕ ದಾಸರು
-ankita-kn: ನೆಲೆಯಾದಿ ಕೇಶವ
+kruti-kn: ಶ್ರೀ ಕನಕದಾಸರು
+ankita-kn: ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ
 kruti: Sri Kanaka Dasaru
 ankita: Neleyadi Keshava
 ---
 
 # ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನಿನ್ನ ಭಕ್ತರ ಮನೆಗೀಗ ಕೃಷ್ಣಯ್ಯ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕ ದಾಸರು (ನೆಲೆಯಾದಿ ಕೇಶವ)
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ಕನಕದಾಸರು (ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ)
 Kruti: Sri Kanaka Dasaru (Neleyadi Keshava)
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ

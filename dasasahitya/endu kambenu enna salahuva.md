@@ -2,15 +2,15 @@
 id: endu-kambenu-enna-salahuva
 title: ಎಂದು ಕಾಂಬೆನೋ ಎನ್ನ ಸಲಹುವ ತಂದೆ ಉಡುಪಿನ ಜಾಣನ
 sourceFile: endu kambenu enna salahuva.md
-kruti-kn: ಶ್ರೀ ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರು
-ankita-kn: ಪ್ರಸನ್ನ ವೆಂಕಟ
+kruti-kn: ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು
+ankita-kn: ಪ್ರಸನ್ನ ವೇಂಕಟ
 kruti: Sri Prasanna Venkata Dasaru
 ankita: Prasanna Venkata
 ---
 
 # ಎಂದು ಕಾಂಬೆನೋ ಎನ್ನ ಸಲಹುವ ತಂದೆ ಉಡುಪಿನ ಜಾಣನ
 
-ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪ್ರಸನ್ನ ವೆಂಕಟ ದಾಸರು
+ಸಾಹಿತ್ಯ : ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು
 Kruti: Sri Prasanna Venkata Dasaru
 
 ## ಕನ್ನಡ ಸಾಹಿತ್ಯ
