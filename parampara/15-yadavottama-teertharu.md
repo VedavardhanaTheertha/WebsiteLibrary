@@ -1,21 +1,77 @@
 ---
 id: yadavottama-teertharu
-name: Sri Yadavottama Teertharu
-timePeriod: ''
-summary: >-
-  Sri Yadavottama Teertharu is the fifteenth numbered spiritual master in the Guru Parampara displayed on the
-  official About page. No further guru-specific biography, dates, teachings, or image are published there.
+position: 15
+name: Sri Yadavottama Teertharu (ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು)
+name-en: Sri Yadavottama Teertharu
+name-kn: ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು
+timePeriod: '1592–1611 CE (ಶಾ.ಶಕ ೧೫೩೩)'
+timePeriod-en: '1592–1611 CE'
+timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೫೯೨–೧೬೧೧ (ಶಾ.ಶಕ ೧೫೩೩)'
+shaka: '1533'
+shaka-kn: '೧೫೩೩'
+samvatsara-en: Virodhikritu
+samvatsara-kn: ವಿರೋಧಿಕೃತು
+aradhana-en: Magha Shukla Saptami
+aradhana-kn: ಮಾಘ ಶುಕ್ಲ ಸಪ್ತಮೀ
+vrindavanaKshetra-en: Kashi Kshetra
+vrindavanaKshetra-kn: ಕಾಶೀ ಕ್ಷೇತ್ರ
+summary: |-
+  Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
+
+  ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
+summary-en: |-
+  Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
+summary-kn: |-
+  ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
 thumbnailImage: ''
 fullImage: ''
 ---
 
-# Sri Yadavottama Teertharu
+# Sri Yadavottama Teertharu (ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು)
 
-- **Parampara position:** 15
-- **Time period:**
+- **Parampara position:** 15 (೧೫)
+- **Time period:** 1592–1611 CE (ಶಾ.ಶಕ ೧೫೩೩)
+- **Shalivahana Shaka:** 1533 (೧೫೩೩)
+- **Samvatsara:** Virodhikritu (ವಿರೋಧಿಕೃತು)
+- **Aradhana:** Magha Shukla Saptami (ಮಾಘ ಶುಕ್ಲ ಸಪ್ತಮೀ)
+- **Vrindavana Kshetra:** Kashi Kshetra (ಕಾಶೀ ಕ್ಷೇತ್ರ)
 
-Sri Yadavottama Teertharu is the fifteenth numbered spiritual master in the Guru Parampara displayed on the official About page. No further guru-specific biography, dates, teachings, or image are published there.
+Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
+
+ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
 
 ## Details
 
-Details about Sri Yadavottama Teertharu coming soon.
+### English Details
+
+- **Parampara Position:** 15
+- **Time Period:** 1592–1611 CE
+- **Shalivahana Shaka:** 1533
+- **Samvatsara:** Virodhikritu
+- **Aradhana:** Magha Shukla Saptami
+- **Vrindavana Kshetra:** Kashi Kshetra
+
+### Scholarly Debates in Kashi
+Sri Yadavottama Teertharu was an intellectual colossus renowned for his prowess in scriptural debate (*vyakhyartha*). In the holy city of Kashi—the premier arena of Indian philosophical debate—he engaged opposing schools of thought in public disputations, establishing the unassailable logical foundation of Dvaita Vedanta and earning wide acclaim for Shiroor Matha.
+
+### Devotional Administration
+He served the samsthana and conducted worship of Lord Sri Vittala and Lord Sri Krishna with rigorous discipline for nineteen years.
+
+### Departure
+Sri Yadavottama Teertharu entered Paramadhama at Kashi Kshetra in 1611 CE (Shalivahana Shaka 1533, Virodhikrutu samvatsara, Magha Shukla Saptami).
+
+### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
+
+- **ಪರಂಪರೆಯ ಕ್ರಮ ಸಂಖ್ಯೆ:** ೧೫
+- **ಕಾಲಾವಧಿ (ಕ್ರಿ.ಶ.):** ೧೫೯೨–೧೬೧೧
+- **ಶಾಲಿವಾಹನ ಶಕ:** ೧೫೩೩
+- **ಸಂವತ್ಸರ:** ವಿರೋಧಿಕೃತು
+- **ಆರಾಧನಾ ತಿಥಿ:** ಮಾಘ ಶುಕ್ಲ ಸಪ್ತಮೀ
+- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಕಾಶೀ ಕ್ಷೇತ್ರ
+
+#### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
+ಪ್ರಖಂಡ ಪಂಡಿತರಾಗಿ ಕಾಶೀ ಹಾಗೂ ಇತರ ಪಂಡಿತರನ್ನು ವ್ಯಾಖ್ಯಾರ್ಥದಲ್ಲಿ ಗೆದ್ದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಹತ್ತೊಂಬತ್ತು ವರ್ಷ ಸಂಸ್ಥಾನ ಪೂಜೆಯನ್ನು ನೆರವೇರಿಸಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮಗತರಾದರು.
+
+### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
+
+> ಯಾದವೋತ್ತಮಯೋಗೀಂದ್ರಂ ತಥಾ ಶ್ರೀರಾಘವೋತ್ತಮಮ್ | ಲಕ್ಷ್ಮೀನಾರಾಯಣಮುನಿಂ ವಿಶ್ವಭೂಷಣ ಯೋಗಿನಮ್
