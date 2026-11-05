@@ -52,13 +52,13 @@ Sri Lakshmipathi Teertharu is the twenty-first pontiff of Sri Shiroor Matha, fam
 - **Vrindavana Kshetra:** Papooje Matha (Hiriadka)
 
 ### Dream Vision and Discovery of Venugopala Krishna
-During his extensive travels propagating Dvaita Shastra, Sri Lakshmipathi Teertharu arrived at a village known as 'Papooje' (near Hiriadka). Following his night pooja, while in deep sleep, a young boy holding a flute (*Venudhari balaka*) appeared in his dream, pointed to a nearby anthill (*huttha*) in which his divine idol was hidden, and instructed Swamiji to unearth it. The following morning, Swamiji gathered the villagers, dug up the anthill, and discovered the exquisite, ancient murti of Sri Venugopala Krishna.
+While traveling on pilgrimage blessing devotees across the region, Sri Lakshmipathi Teertharu halted overnight at a village known as 'Papuje' (situated 7 *haradari*—approximately 21 miles—east of Udupi, near Hiriadka). Following his night pooja, while in deep sleep, a young boy holding a flute (*Venudhari balaka*) appeared in his dream, revealed that a sacred idol was buried inside a nearby anthill (*huttha*), and instructed Swamiji to excavate it before disappearing. The following morning, Swamiji directed the anthill to be dug up, discovering the exquisite, divine murti of Sri Venugopala Krishna.
 
-### Establishment of Papooje Matha
-Sri Lakshmipathi Teertharu built a temple at the site, consecrated Sri Venugopala Krishna, and established the Papooje Matha as a permanent branch of Sri Shiroor Matha. He made Papooje his primary spiritual hermitage for many years.
+### Establishment and Endowments of Papuje Matha
+Sri Lakshmipathi Teertharu built a temple at the site, consecrated the sacred idol of Sri Venugopala Krishna, and established what became celebrated as the **Papuje Matha**. Devotees endowed extensive surrounding lands for the daily pooja and rituals. Swamiji made Papuje his primary spiritual hermitage for many years.
 
 ### Departure
-Sri Lakshmipathi Teertharu entered Vrindavana at Papooje Matha in 1720 CE (Shalivahana Shaka 1642, Sharvari samvatsara, Bhadrapada Shukla Dashami) after sixteen years of pontifical service.
+Sri Lakshmipathi Teertharu entered Vrindavana at Papuje Matha in 1720 CE (Shalivahana Shaka 1642, Sharvari samvatsara, Bhadrapada Shukla Dashami) after sixteen years of pontifical service.
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,9 +70,9 @@ Sri Lakshmipathi Teertharu entered Vrindavana at Papooje Matha in 1720 CE (Shali
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಪಾಪೂಜೆ ಮಠ (ಹಿರಿಯಡ್ಕ)
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀಗಳವರು ಹದಿನಾರು ವರ್ಷ ಕಾಲ ಪೀಠವನ್ನಾಳಿದರು. ದ್ವೈತ ಶಾಸ್ತ್ರವನ್ನು ಪ್ರಚಾರ ಮಾಡುವ ಅವರ ಪ್ರವಾಸದ ಒಂದು ಸಂದರ್ಭದಲ್ಲಿ 'ಪಾಪೂಜೆ' ಎಂಬ ಊರಿನಲ್ಲಿ ತಂಗಿದರು. ರಾತ್ರಿಯ ಪೂಜಾ ನಂತರ ನಿದ್ರಿಸುತ್ತಿದ್ದಾಗ ಶ್ರೀಗಳವರಿಗೆ ಸ್ವಪ್ನದಲ್ಲಿ ವೇಣುಧಾರಿ ಬಾಲಕನೊಬ್ಬ ಅಲ್ಲಿಯ ಹುತ್ತದಲ್ಲಿ ಹುದುಗಿದ್ದ ಮೂರ್ತಿಯನ್ನು ಅಗೆದು ತೆಗೆಯುವಂತೆ ಹೇಳಿ ಅದೃಶ್ಯನಾದನು.
+ಈ ಶ್ರೀಗಳವರು ಯಾತ್ರಾಪರರಾಗಿ ಭಕ್ತರನ್ನು ಅನುಗ್ರಹಿಸುತ್ತಾ ಉಡುಪಿಯಿಂದ ಪೂರ್ವಕ್ಕೆ ೭ ಹರದಾರಿ ದೂರದಲ್ಲಿರುವ 'ಪಾಪುಜೆ' ಎಂಬಲ್ಲಿ ಒಂದು ರಾತ್ರಿ ತಂಗಿರಲು, ರಾತ್ರಿ ಪೂಜಾನಂತರ ನಿದ್ರಿಸುತ್ತಿದ್ದಾಗ ಸ್ವಪ್ನದಲ್ಲಿ ವೇಣುಧಾರಿಯಾದ ಬಾಲಕನೊಬ್ಬನು ಅಲ್ಲಿಯೇ ಒಂದು ಹುತ್ತದಲ್ಲಿ ಹುಗಿದಿದ್ದ ಮೂರ್ತಿಯನ್ನು ಅಗೆಯಿಸಿ ತೆಗೆಯುವಂತೆ ಹೇಳಿ ಅದೃಶ್ಯನಾದನು.
 
-ಅದರಂತೆ ಶ್ರೀಗಳವರು ಮರುದಿನ ಆ ಹುತ್ತವನ್ನು ಅಗಿಸಿ ನೋಡಲಾಗಿ ಅಲ್ಲಿ ದಿವ್ಯ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ಪ್ರತಿಮೆ ದೊರೆಯಿತು. ಶ್ರೀಗಳವರು ಅಲ್ಲಿಯೇ ಗುಡಿಯನ್ನು ಕಟ್ಟಿಸಿ ಆ ವಿಗ್ರಹವನ್ನು ಸ್ಥಾಪಿಸಿ ಮಠವನ್ನು ನಿರ್ಮಿಸಿದರು. ಅಲ್ಲಿಂದ ಆ ಮಠಕ್ಕೆ 'ಪಾಪೂಜೆ' ಮಠ ಎಂದು ಹೆಸರಾಯಿತು. ಶ್ರೀಗಳವರು ಅಲ್ಲಿಯೇ ಬಹುಕಾಲವಿದ್ದು ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+ಮರುದಿನ ಶ್ರೀಗಳವರು ಅದರಂತೆ ಆ ಹುತ್ತವನ್ನು ಅಗೆಯಿಸಿ ನೋಡಲಾಗಿ, ಅಲ್ಲಿ ದಿವ್ಯ ವೇಣುಗೋಪಾಲಕೃಷ್ಣನ ಪ್ರತಿಮೆ ದೊರೆಯಿತು. ಶ್ರೀಗಳವರು ಅಲ್ಲಿಯೇ ಗುಡಿಯನ್ನು ಕಟ್ಟಿಸಿ, ಆ ವಿಗ್ರಹವನ್ನು ಪ್ರತಿಷ್ಠೆ ಮಾಡಿಸಿದರು. ಆಗಿನ ಭಕ್ತಜನರು ಆ ಮಠದ ಸುತ್ತಲಿನ ಪೂಜೋಪಯುಕ್ತ ಭೂಮಿಯನ್ನೂ ಶ್ರೀಗಳವರಿಗೆ ಸಮರ್ಪಿಸಿದರು. ಅಂದಿನಿಂದ ಈ ಮಠಕ್ಕೆ 'ಪಾಪುಜೆ ಮಠ'ವೆಂದು ಹೆಸರಾಯಿತು. ಈ ಯತಿವರರು ಅಲ್ಲಿಯೇ ಬಹುಕಾಲ ಇದ್ದು, ೧೬ ವರ್ಷ ಪೀಠಾಧಿರೂಢರಾಗಿದ್ದು, ಶಾ. ಶಕ ೧೬೪೨ (ಕ್ರಿ.ಶ. ೧೭೨೦) ಶಾರ್ವರಿ ಸಂವತ್ಸರದ ಭಾದ್ರಪದ ಶುಕ್ಲ ೧೦ ರ ದಿನ ವೃಂದಾವನಸ್ಥರಾದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

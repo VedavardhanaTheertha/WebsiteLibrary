@@ -51,14 +51,11 @@ Sri Lakshmidhara Teertharu is the twenty-second pontiff of Sri Shiroor Matha, wh
 - **Aradhana:** Shravana Krishna Ashtami (Sri Krishna Janmashtami)
 - **Vrindavana Kshetra:** Puttige (Near Hiriadka)
 
-### Succession and Ministry
-Sri Lakshmidhara Teertharu was initiated into sanyasa ashrama by Sri Lakshmipathi Teertharu, receiving the sacred legacy of both the Udupi samsthana and the newly established Papooje Matha. He was known for his steadfast devotion to the daily worship of Sri Krishna and Sri Vittala Devaru.
+### Purvashrama Relationship and Ministry
+In his purvashrama, Sri Lakshmidhara Teertharu was the younger brother of the contemporary pontiff of Sri Puttige Matha. He was initiated into sanyasa ashrama by Sri Lakshmipathi Teertharu, receiving the sacred legacy of both the Udupi samsthana and the newly established Papuje Matha. Dedicated to the continuous worship of Lord Sri Krishna and Lord Sri Vittala, he ably guided the samsthana for fifteen years.
 
-### Fifteen-Year Tenure
-For fifteen years, he guided the matha, maintaining the sacred worship at Papooje Matha and Udupi while overseeing religious activities across the regional branches.
-
-### Departure
-Sri Lakshmidhara Teertharu reached Vishnu Pada at Puttige (near Hiriadka) on the sacred day of Sri Krishna Janmashtami (Shravana Krishna Ashtami) in 1735 CE (Shalivahana Shaka 1657, Rakshasa samvatsara).
+### Final Days and Departure
+During his final days, Sri Lakshmidhara Teertharu resided alongside his purvashrama elder brother at Puttige. On the supremely auspicious day of Sri Krishna Janmashtami (Shravana Krishna Ashtami) in 1735 CE (Shalivahana Shaka 1657, Rakshasa samvatsara), he attained Vishnu Pada in Puttige.
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +67,7 @@ Sri Lakshmidhara Teertharu reached Vishnu Pada at Puttige (near Hiriadka) on the
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಪುತ್ತಿಗೆ (ಹಿರಿಯಡ್ಕದ ಸಮೀಪ)
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶೀರೂರು ಮಠದ ಗುರು ಪರಂಪರೆಯಲ್ಲಿ ಇಪ್ಪತ್ತೆರಡನೆಯ ಯತಿಗಳಾದ ಇವರು ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರಿಂದ ಆಶ್ರಮವನ್ನು ಪಡೆದು ಶ್ರೀಕೃಷ್ಣ – ಶ್ರೀ ವಿಠಲ ಪೂಜಾ ನಿರತರಾಗಿ ಹದಿನೈದು ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನಾಳಿದರು. ಕ್ರಿ.ಶ. ೧೭೩೫ ರಲ್ಲಿ ಪುತ್ತಿಗೆಯಲ್ಲಿ (ಹಿರಿಯಡ್ಕದ ಸಮೀಪ) ಶ್ರೀ ವಿಷ್ಣುಪದವನ್ನು ಸೇರಿದರು.
+ಈ ಶ್ರೀಗಳವರು ಶ್ರೀಕೃಷ್ಣ-ವಿಟ್ಠಲ ಪೂಜಾನಿರತರಾಗಿ ೧೫ ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನಾಳಿದರು. ಇವರು ಆಗಿನ ಪುತ್ತಿಗೆ ಮಠದ ಶ್ರೀಗಳವರ ಪೂರ್ವಾಶ್ರಮದ ತಮ್ಮನಾಗಿದ್ದು, ತಮ್ಮ ಅಂತ್ಯಕಾಲದಲ್ಲಿ ಅಣ್ಣನ ಜೊತೆಯಲ್ಲಿಯೇ ಇದ್ದ ಪ್ರಯುಕ್ತ ಪುತ್ತಿಗೆಯಲ್ಲಿ ಶಾ. ಶಕ ೧೬೫೭ (ಕ್ರಿ.ಶ. ೧೭೩೫) ರಾಕ್ಷಸ ಸಂವತ್ಸರದ ಶ್ರೀಕೃಷ್ಣ ಜನ್ಮಾಷ್ಟಮಿಯ ಪುಣ್ಯದಿನದಂದು (ಶ್ರಾವಣ ಕೃಷ್ಣ ೮) ಶ್ರೀವಿಷ್ಣುಪದವನ್ನು ಸೇರಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

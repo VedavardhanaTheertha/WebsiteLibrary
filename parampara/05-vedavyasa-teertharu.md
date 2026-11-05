@@ -51,14 +51,16 @@ Sri Vedavyasa Teertharu is the fifth pontiff of Sri Shiroor Matha, celebrated fo
 - **Aradhana:** Chaitra Shukla Pratipat
 - **Vrindavana Kshetra:** Kashi Kshetra
 
-### Spiritual Foresight
-Sri Vedavyasa Teertharu succeeded Sri Vedagamya Teertharu as the fifth pontiff in the lineage. Known in the tradition as a *Trikalajnani*, he was blessed with profound inner vision capable of understanding the subtleties of time—past, present, and future—guiding disciples and devotees through turbulent eras with wise counsel.
+### Spiritual Foresight and Trikalajnatva
+Sri Vedavyasa Teertharu (recorded in earlier historical texts as Sri Vedanyasa Teertharu) succeeded Sri Vedagamya Teertharu as the fifth pontiff in the lineage. Known in tradition as an exalted *Maha Yogi* and *Trikalajnani*, he was blessed with divine spiritual vision capable of knowing the past, present, and future.
+
+A famous historical miracle demonstrated his uncanny prescience: once while distributing sacred teertha to gathered devotees, Swamiji unexpectedly withheld teertha from a certain lady and strictly ordered her to exit the premises at once. As soon as she stepped outside, her relatives arrived bearing the tragic tidings of her husband's demise, showing how Swamiji had perceived the inauspicious event (*ashaucha*) through his divine foresight before anyone else knew.
 
 ### Administration of the Peetha
-He ruled the sacred peetha for seventeen years, dedicating his life to unceasing contemplation of Lord Sri Vittala and teaching the timeless wisdom of the Brahma Sutras.
+He ruled the sacred peetha for seventeen years, dedicating his life to unceasing contemplation of Lord Sri Vittala and teaching the timeless wisdom of the scriptures while traveling on holy yatras.
 
 ### Departure
-He attained Paramadhama in the holy city of Kashi on the auspicious new year day of Chaitra Shukla Pratipat in 1404 CE (Shalivahana Shaka 1326, Tarana samvatsara).
+He attained Paramadhama in the holy city of Kashi on the auspicious new year day of Chaitra Shukla Pratipat (Ugadi) in 1404 CE (Shalivahana Shaka 1326, Tarana samvatsara).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +72,7 @@ He attained Paramadhama in the holy city of Kashi on the auspicious new year day
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಕಾಶೀ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ತ್ರಿಕಾಲಜ್ಞಾನಿಗಳಾಗಿದ್ದ ಇವರು ೧೭ ವರ್ಷ ಧರ್ಮಪೀಠವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೪೦೪ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮವನ್ನು ಪಡೆದರು.
+ಇವರನ್ನು ಐತಿಹಾಸಿಕ ಕೃತಿಗಳಲ್ಲಿ 'ಶ್ರೀವೇದನ್ಯಾಸತೀರ್ಥರು' ಎಂದೂ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ. ಈ ಶ್ರೀಮಚ್ಚರಣರವರು ಮಹಾಯೋಗಿಗಳೂ ತ್ರಿಕಾಲಜ್ಞಾನಿಗಳೂ ಆಗಿದ್ದರು. ಒಂದು ಸಲ ಭಕ್ತಾದಿಗಳಿಗೆ ತೀರ್ಥವನ್ನು ಕೊಡುತ್ತಿದ್ದಾಗ ಒಬ್ಬ ಹೆಂಗಸಿಗೆ ತೀರ್ಥಕೊಡದೆ ಆಕೆಗೆ ಹೊರಗೆ ಹೋಗುವಂತೆ ಆಜ್ಞಾಪಿಸಿದರು. ಅವಳು ಹೊರಗೆ ಹೋದೊಡನೆಯೇ ಅವಳ ಬಂಧುಗಳು ಅಲ್ಲಿಗೆ ಬಂದು ಆಕೆಯ ಪತಿಯ ಮರಣ ವಾರ್ತೆಯನ್ನು ತಿಳಿಸಿ ಕರೆದೊಯ್ದರು. ಈ ಮೂಲಕ ಅವರ ತ್ರಿಕಾಲಜ್ಞಾನವು ಸರ್ವರಿಗೂ ವ್ಯಕ್ತವಾಯಿತು. ಇವರು ೧೭ ವರ್ಷ ಧರ್ಮಪೀಠದಲ್ಲಿದ್ದು ತೀರ್ಥಯಾತ್ರೆ ಮಾಡುತ್ತಾ ಶಾ. ಶಕ ೧೩೨೬ (ಕ್ರಿ.ಶ. ೧೪೦೪) ತಾರಣ ಸಂವತ್ಸರದ ಯುಗಾದಿಯ ದಿನ (ಚೈತ್ರ ಶುಕ್ಲ ೧) ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮವನ್ನು ಪಡೆದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

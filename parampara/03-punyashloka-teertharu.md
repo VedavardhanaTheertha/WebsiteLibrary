@@ -52,13 +52,13 @@ Sri Punyashloka Teertharu is the third pontiff of Sri Shiroor Matha, celebrated 
 - **Vrindavana Kshetra:** Vrindavana Kshetra (Mathura)
 
 ### Shastric Scholarship and Divine Grace
-Sri Punyashloka Teertharu was hailed as a *Chatu-samstha / Chatu-shastra Pandita*, possessing masterful command over the four major branches of classical Indian philosophy and scripture. His profound devotion to Lord Mukhyaprana earned him divine grace: it is traditionally recorded that Lord Mukhyaprana appeared in his dreams to reveal insights into past occurrences and future happenings.
+Sri Punyashloka Teertharu was hailed as a *Chatuḥṣaṣṭi-kalā-kōvida* (master of the sixty-four traditional arts) and a *Chatu-shastra Pandita*, possessing masterful command over classical philosophy. He authored an insightful commentary (*Teeka*) on the foundational epistemology work *Pramana Paddhati*. His profound devotion to Lord Mukhyaprana earned him divine grace: Lord Mukhyaprana appeared in his dreams to reveal insights into past occurrences and future happenings (*bhoota-bhavishyad-vrittanta*). Armed with this divine insight, Swamiji guided the people, revealing hidden resources and immense prosperity to guide devotees towards well-being.
 
 ### Peetha Administration
 He occupied the dharma peetha for eighteen years, actively strengthening the foundation of the matha's pooja traditions, disciple training, and spiritual discourses.
 
 ### Departure
-Sri Punyashloka Teertharu attained Paramadhama at the sacred Vrindavana Kshetra in Mathura in 1365 CE (Shalivahana Shaka 1287, Vishvavasu samvatsara, Kartika Shukla Panchami).
+Sri Punyashloka Teertharu attained Muktipada / Paramadhama at the sacred Vrindavana Kshetra in 1365 CE (Shalivahana Shaka 1287, Vishvavasu samvatsara, Kartika Shukla Panchami) while on pilgrimage.
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ Sri Punyashloka Teertharu attained Paramadhama at the sacred Vrindavana Kshetra 
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ವೃಂದಾವನ ಕ್ಷೇತ್ರ (ಮಥುರಾ)
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಇವರು ಚತುಸ್ಸಂಸ್ಥ (ಚತುಃಶಾಸ್ತ್ರ) ಪಂಡಿತರೆಂದು ಪ್ರಖ್ಯಾತರಾಗಿದ್ದರು. ಇವರಿಗೆ ಮುಖ್ಯಪ್ರಾಣನು ಒಲಿದು ಸ್ವಪ್ನ ಮೂಲಕ ಭೂತ ಭವಿಷ್ಯದ ವೃತ್ತಾಂತವನ್ನು ಬೋಧಿಸುತ್ತಿದ್ದರೆಂಬ ಐತಿಹ್ಯವಿದೆ. ಶ್ರೀಗಳವರು ಹದಿನೆಂಟು ವರ್ಷ ಪೀಠದಲ್ಲಿ ವಿರಾಜಮಾನರಾಗಿದ್ದರು. ಕ್ರಿ.ಶ. ೧೩೬೫ ರಲ್ಲಿ ವೃಂದಾವನ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಂಧಾಮವನ್ನು ಹೊಂದಿದರು.
+ಇವರು ಚತುಃಷಷ್ಟಿಕಲಾಕೋವಿದರು (೬೪ ಕಲೆಗಳಲ್ಲಿ ಪರಿಣಿತರು) ಹಾಗೂ ಚತುಃಶಾಸ್ತ್ರ ಪಂಡಿತರು. 'ಪ್ರಮಾಣಪದ್ಧತಿ' ಎಂಬ ಪ್ರಸಿದ್ಧ ಗ್ರಂಥಕ್ಕೆ ಪಾಂಡಿತ್ಯಪೂರ್ಣ ಟೀಕೆಯನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇವರಿಗೆ ಶ್ರೀಮುಖ್ಯಪ್ರಾಣನು ಒಲಿದು ಸ್ವಪ್ನಮೂಲಕ ಭೂತ-ಭವಿಷ್ಯದ್ವೃತ್ತಾಂತವನ್ನು ಬೋಧಿಸುತ್ತಿದ್ದುದಾಗಿ ತಿಳಿದುಬರುತ್ತದೆ. ಈ ದಿವ್ಯ ಶಕ್ತಿಯಿಂದ ಶ್ರೀಗಳವರು ಜನರಿಗೆ ಅಪಾರವಾದ ಸಂಪತ್ಸಂಪತ್ತುಗಳನ್ನು ಸೂಚಿಸಿ ಸನ್ಮಾರ್ಗದರ್ಶನ ಮಾಡಿದರು. ಶ್ರೀಗಳವರು ೧೮ ವರ್ಷ ಧರ್ಮಪೀಠದಲ್ಲಿದ್ದು ಯಾತ್ರಾಪರರಾಗಿ ಶಾ. ಶಕ ೧೨೮೭ (ಕ್ರಿ.ಶ. ೧೩೬೫) ವಿಶ್ವಾವಸು ಸಂವತ್ಸರದ ಕಾರ್ತಿಕ ಶುಕ್ಲ ೫ ರ ದಿನ ವೃಂದಾವನ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮುಕ್ತಿಪದವನ್ನು ಹೊಂದಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

@@ -55,10 +55,10 @@ Sri Vamana Teertharu is the first pontiff (Moola Yati) of Sri Shiroor Matha, dir
 Sri Vamana Teertharu is the root pontiff (Moola Yati) of the Sri Shiroor Matha lineage. He had the supreme privilege of receiving sanyasa ashrama directly from Jagadguru Sri Madhwacharya. As his upasya devata, Acharya Madhwa gifted him the divine idol of Sri Vittala Devaru (Anna Vittala), which remains the central presiding deity of Shiroor Matha.
 
 ### Propagation and Yogic Penance
-Under the instructions of Sri Madhwacharyaru, Sri Vamana Teertharu dedicatedly propagated the worship of Lord Sri Krishna and the tenets of Tatvavada for about ten years across Bharata. A profound master of Ashtanga Yoga and Pranayama, he subsequently retired to the sacred vicinity of Kurukshetra, where he immersed himself in intense spiritual tapas for many years.
+Under the instructions of Sri Madhwacharyaru, Sri Vamana Teertharu dedicatedly propagated the worship of Lord Sri Krishna and the tenets of Tatvavada for about ten years across Bharata. A profound master of Ashtanga Yoga and Pranayama, he undertook extensive holy pilgrimages, engaging in the sacred worship of Sri Krishna and Sri Vittala Devaru. He subsequently retired to the sacred vicinity of Kurukshetra, where he immersed himself in intense spiritual tapas for many years.
 
 ### Succession and Departure
-After years of austerity, Sri Vamana Teertharu coronated his worthy disciple, Sri Vasudeva Teertharu, as the successor to the peetha. He then journeyed to Badari Kshetra, where he attained Vaikuntha / Haripada in 1327 CE (Shalivahana Shaka 1249, Prabhava samvatsara, Vaishakha Shukla Dvadashi).
+After years of austerity, Sri Vamana Teertharu coronated his worthy disciple, Sri Vasudeva Teertharu, as the successor to the peetha. He then journeyed to Badari Kshetra, where he attained Vaikuntha / Haripada in 1327 CE (Shalivahana Shaka 1249, Prabhava samvatsara, Vaishakha Shukla Dvadashi) after presiding over the samsthana for ten years following Sri Madhwacharya's departure.
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ After years of austerity, Sri Vamana Teertharu coronated his worthy disciple, Sr
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಬದರೀ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳು. ಇವರಿಗೆ ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ಪೂಜಿಸಿ ಅನುಗ್ರಹಿಸಿ ಕೊಟ್ಟಿರುವ ದೇವರು ಶ್ರೀ ವಿಠಲಮೂರ್ತಿ. ಶ್ರೀಗಳವರು ಗುರುಗಳ ಆಜ್ಞೆಯಂತೆ ಶ್ರೀಕೃಷ್ಣ ಪೂಜಾ ಸಿದ್ಧಾಂತ ಪ್ರಚಾರ ನಿರತರಾಗಿ ಸುಮಾರು ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನದಲ್ಲಿ ವಿರಾಜಿಸಿದ್ದಾರೆ. ಇವರು ಕುರುಕ್ಷೇತ್ರದ ಬಳಿ ಹಲವು ವರ್ಷಗಳ ತಪಸ್ಸು ಮಾಡಿ ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರಿಗೆ ಪೀಠವನ್ನು ಒಪ್ಪಿಸಿ ಶ್ರೀ ಬದರೀಕ್ಷೇತ್ರದಲ್ಲಿ ಕ್ರಿ.ಶ. ೧೩೨೭ ಇಸವಿಯಲ್ಲಿ ವೈಕುಂಠಪದವನ್ನು ಹೊಂದಿದರು. ಇವರು ಯೋಗ ಮತ್ತು ಪ್ರಾಣಾಯಾಮದಲ್ಲಿ ಪರಿಣತರಾಗಿದ್ದರು.
+ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳು ಹಾಗೂ ಮೂಲ ಗುರುಗಳು. ಇವರಿಗೆ ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ಪೂಜಿಸಿ ಅನುಗ್ರಹಿಸಿ ಕೊಟ್ಟಿರುವ ಆರಾಧ್ಯ ದೇವರು ಶ್ರೀ ವಿಠಲಮೂರ್ತಿ. ಶ್ರೀಗಳವರು ಗುರುಗಳ ಆಜ್ಞೆಯಂತೆ ಶ್ರೀಕೃಷ್ಣ-ವಿಟ್ಠಲ ಪೂಜಾನಿರತರಾಗಿ ತೀರ್ಥಯಾತ್ರೆ ಮಾಡುತ್ತಾ, ಶ್ರೀಮದಾಚಾರ್ಯರ ಕಾಲದ ಮೇಲೆ ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನು ಆಳಿದರು. ಇವರು ಕುರುಕ್ಷೇತ್ರದ ಬಳಿ ಹಲವು ವರ್ಷಗಳ ಕಾಲ ತಪಸ್ಸು ಮಾಡಿ ಯೋಗ ಮತ್ತು ಪ್ರಾಣಾಯಾಮದಲ್ಲಿ ಪರಿಣತರಾಗಿದ್ದರು. ನಂತರ ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರಿಗೆ ಪೀಠವನ್ನು ಒಪ್ಪಿಸಿ ಶ್ರೀ ಬದರೀಕ್ಷೇತ್ರದಲ್ಲಿ ಶಾ. ಶಕ ೧೨೪೯ (ಕ್ರಿ.ಶ. ೧೩೨೭) ನೇ ಪ್ರಭವ ಸಂವತ್ಸರದ ವೈಶಾಖ ಶುಕ್ಲ ೧೨ ರ ದಿನ ವೈಕುಂಠಪದವನ್ನು ಹೊಂದಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

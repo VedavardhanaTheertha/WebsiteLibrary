@@ -51,14 +51,14 @@ Sri Vedabhushana Teertharu is the eleventh pontiff of Sri Shiroor Matha, celebra
 - **Aradhana:** Jyeshtha Krishna Shashthi
 - **Vrindavana Kshetra:** Sri Mushnam Kshetra
 
-### Shastric Scholarship
-Sri Vedabhushana Teertharu was hailed as a *Pandita Prakanda Vidvamsa*, honored across royal courts and academic assemblies for his encyclopedic mastery of Vedic literature and Dvaita dialectics.
+### Shastric Scholarship and Five Sudha Mangalas
+Sri Vedabhushana Teertharu was hailed as a *Pandita Prakanda Vidvamsa*, honored across academic assemblies for his encyclopedic mastery of Vedic literature and Dvaita dialectics. Notably, he successfully conducted the prestigious *Sudha Mangala* celebration five distinct times (*Pancha Sudha Mangalas*).
 
 ### Mentorship and Transition
 He adorned the dharma peetha for sixteen years, during which he personally trained Sri Srinivasa Teertharu in the highest branches of Vedanta. After successfully transmitting the samsthana's spiritual authority to his disciple, he undertook pilgrimage to holy sites in Tamil Nadu.
 
 ### Departure
-Sri Vedabhushana Teertharu entered Paramapada at the renowned Svayamvyakta Kshetra of Srimushnam (dedicated to Lord Bhuvaraha) in 1523 CE (Shalivahana Shaka 1445, Svabhanu samvatsara, Jyeshtha Krishna Shashthi).
+Sri Vedabhushana Teertharu entered Paramapada while on pilgrimage at the renowned Svayamvyakta Kshetra of Srimushnam (dedicated to Lord Bhuvaraha) in 1523 CE (Shalivahana Shaka 1445, Svabhanu samvatsara, Jyeshtha Krishna Shashthi).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ Sri Vedabhushana Teertharu entered Paramapada at the renowned Svayamvyakta Kshet
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶ್ರೀ ಮುಷ್ಣ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಪಂಡಿತ ಪ್ರಕಾಂಡ ವಿದ್ವಾಂಸರಾದ ಇವರು ಹದಿನಾರು ವರ್ಷ ಧರ್ಮಪೀಠವನ್ನು ಅಲಂಕರಿಸಿ ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರಿಗೆ ಪೀಠವನ್ನು ಹಸ್ತಾಂತರಿಸಿ ಕ್ರಿ.ಶ. ೧೫೨೩ ರಲ್ಲಿ ಶ್ರೀ ಮುಷ್ಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದವನ್ನು ಹೊಂದಿದರು.
+ಈ ಮಹಾವಿದ್ವಾಂಸರು ಐದು ಸಲ ಸುಧಾಮಂಗಲವನ್ನು ಮಾಡಿದ್ದರು. ೧೬ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪೀಠದಲ್ಲಿ ವಿರಾಜಿಸಿ, ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರಿಗೆ ಪೀಠವನ್ನು ಹಸ್ತಾಂತರಿಸಿ, ಯಾತ್ರಾಪರರಾಗಿ ಶಾ. ಶಕ ೧೪೪೫ (ಕ್ರಿ.ಶ. ೧೫೨೩) ಸ್ವಭಾನು ಸಂವತ್ಸರದ ಜ್ಯೇಷ್ಠ ಕೃಷ್ಣ ೬ ರ ದಿನ ಶ್ರೀಮುಷ್ಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದವನ್ನು ಹೊಂದಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

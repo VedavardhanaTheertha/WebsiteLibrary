@@ -52,7 +52,7 @@ Sri Krishna Teertharu is the eighth pontiff of Sri Shiroor Matha, celebrated as 
 - **Vrindavana Kshetra:** Tirupati Kshetra
 
 ### Musical Mastery and Ecstatic Devotion
-Sri Krishna Teertharu combined deep ascetic renunciation with extraordinary mastery over classical devotional music (*sangeeta tajjna*). When he sang soul-stirring bhajans in adoration of Lord Sri Krishna, the divine presence manifested palpably: witnesses recorded the melodious jingling of dancing anklets (*gejje*) and toe-rings (*kalungura*) echoing from inside the locked sanctum of Lord Krishna, confirming the Lord's joyous dance to his devotee's melodies.
+Sri Krishna Teertharu combined deep ascetic renunciation with extraordinary mastery over the science of music (*sangeeta shastrajna*). When he sang soul-stirring bhajans in adoration of Lord Sri Krishna, the divine presence manifested palpably: witnesses recorded the melodious jingling of dancing anklets and foot ornaments (*gejje-kalukadagagala manjula dhvani*) echoing from inside the deserted sanctum sanctorum of Lord Krishna, confirming the Lord's joyous dance to his devotee's melodies.
 
 ### Governance and Legacy
 He administered the Shiroor Matha samsthana for sixteen years, enriching its tradition of musical and devotional worship alongside traditional Vedanta study.
@@ -70,7 +70,7 @@ Sri Krishna Teertharu attained Vaikuntha at Tirupati Kshetra at the sacred footh
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ತಿರುಪತಿ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀಗಳವರು ಮಹಾ ತಪಸ್ವಿಗಳೂ ಸಂಗೀತ ತಜ್ಞರೂ ಆಗಿದ್ದರು. ಶ್ರೀಕೃಷ್ಣನನ್ನು ಸ್ತುತಿಸುವ ಭಜನೆ ಹಾಡುತ್ತಿರುವಾಗ ಶ್ರೀಕೃಷ್ಣನ ಗುಡಿಯೊಳಗೆ ಗೆಜ್ಜೆ ಕಾಲುಂಗುರಗಳ ಮಂಜುಳ ಧ್ವನಿ ಕೇಳಿಬರುತ್ತಿತ್ತು ಎಂಬ ಐತಿಹ್ಯವಿದೆ. ಇವರು ಹದಿನಾರು ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ತಿರುಪತಿಯಲ್ಲಿ ವೈಕುಂಠ ವಾಸಿಗಳಾದರು.
+ಶ್ರೀಗಳವರು ಮಹಾತಪಸ್ವಿಗಳೂ ಸಂಗೀತಶಾಸ್ತ್ರಜ್ಞರೂ ಆಗಿದ್ದರು. ಇವರು ಭಜನೆ ಮಾಡುತ್ತಿರುವಾಗ ಒಂದು ಸಲ ನಿರ್ಜನವಾಗಿದ್ದ ಶ್ರೀಕೃಷ್ಣನ ಗುಡಿಯೊಳಗಿನಿಂದ ಅಕಸ್ಮಾತ್ತಾಗಿ ಗೆಜ್ಜೆ-ಕಾಲುಕಡಗಗಳ ಮಂಜುಲ ಧ್ವನಿ ಕೇಳಿಬಂದಿತೆಂದು ಬಲ್ಲವರು ಹೇಳುತ್ತಾರೆ. ಇವರು ೧೬ ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನು ಆಳಿ, ತಿರುಪತಿಯಲ್ಲಿ ಶಾ. ಶಕ ೧೩೮೯ (ಕ್ರಿ.ಶ. ೧೪೬೭) ಸರ್ವಜಿತು ಸಂವತ್ಸರದ ಫಾಲ್ಗುನ ಶುಕ್ಲ ೪ ರ ದಿನ ವೈಕುಂಠವಾಸಿಗಳಾದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

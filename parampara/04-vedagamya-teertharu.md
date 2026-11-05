@@ -52,13 +52,13 @@ Sri Vedagamya Teertharu is the fourth pontiff of Sri Shiroor Matha, renowned for
 - **Vrindavana Kshetra:** Rameshwara Kshetra
 
 ### Vedic Erudition
-Sri Vedagamya Teertharu was a walking treasury of Vedic wisdom. He had committed to memory and mastered the four Vedas (Rig, Yajur, Sama, and Atharva), the six auxiliary sciences (Vedangas: Shiksha, Kalpa, Vyakarana, Nirukta, Chhandas, and Jyotisha), and the ten Principal Upanishads (Dashopanishads). His lectures drew scholars from across southern India.
+Sri Vedagamya Teertharu was a walking treasury of Vedic wisdom. He had committed to memory (*mukhapatha*) the four Vedas (Rig, Yajur, and Sama Vedas), the six auxiliary sciences (Vedangas), and the sacred Veda-Upanishads. His encyclopedic mastery and brilliant recitations drew scholars from across southern India.
 
 ### Leadership and Yatra
-Guiding the Shiroor Matha for twenty-two years, Sri Vedagamya Teertharu undertook extensive pilgrimages across the subcontinent, invigorating spiritual communities along his route.
+Guiding the Shiroor Matha samsthana for twenty-two years, Sri Vedagamya Teertharu undertook extensive pilgrimages across the subcontinent, invigorating spiritual communities along his route.
 
 ### Departure
-He attained Paramapada at Rameshwara Kshetra in 1387 CE (Shalivahana Shaka 1309, Prabhava samvatsara, Jyeshtha Krishna Dashami).
+He attained Paramapada on pilgrimage at Rameshwara Kshetra in 1387 CE (Shalivahana Shaka 1309, Prabhava samvatsara, Jyeshtha Krishna / Bahula Dashami).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ He attained Paramapada at Rameshwara Kshetra in 1387 CE (Shalivahana Shaka 1309,
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ರಾಮೇಶ್ವರ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಇವರು ಚತುರ್ವೇದ, ಷಡಂಗ ಸಹಿತ ದಶೋಪನಿಷತ್ತುಗಳನ್ನು ಮುಖಪಾಠವಾಗಿ ತಿಳಿದಿದ್ದರು. ಶ್ರೀಗಳವರು ಇಪ್ಪತ್ತೆರಡು ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೩೮೭ ರಲ್ಲಿ ರಾಮೇಶ್ವರದಲ್ಲಿ ಪರಮಪದವನ್ನು ಹೊಂದಿದರು.
+ಈ ಶ್ರೀಗಳವರು ಋಗ್, ಯಜುಸ್ ಮತ್ತು ಸಾಮವೇದಗಳನ್ನೂ ಷಡಂಗಗಳ ಜೊತೆಗೆ ವೇದೋಪನಿಷತ್ತುಗಳನ್ನೂ ಮುಖಪಾಠವಾಗಿ ಬಲ್ಲವರಾಗಿದ್ದರು. ೨೨ ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನು ನಡೆಸಿ, ಯಾತ್ರಾಪರರಾಗಿ ರಾಮೇಶ್ವರದಲ್ಲಿ ಶಾ. ಶಕ ೧೩೦೯ (ಕ್ರಿ.ಶ. ೧೩೮೭) ಪ್ರಭವ ಸಂವತ್ಸರದ ಜ್ಯೇಷ್ಠ ಬಹುಳ ೧೦ರಲ್ಲಿ ಪರಮಪದವನ್ನು ಹೊಂದಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

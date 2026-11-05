@@ -52,32 +52,33 @@ Sri Lakshmiramana Teertharu is the twenty-third pontiff of Sri Shiroor Matha, ce
 - **Vrindavana Kshetra:** Shiroor Moola Matha
 
 ### Early Miracle with the Cobra
-A legendary incident marked Sri Lakshmiramana Teertharu's early infancy: while lying in his cradle, a venomous hooded cobra spread its wide hood over his head. Undaunted, the fearless infant caught hold of the serpent and played with it joyfully, a miracle seen by all as an omen of his divine spiritual stature.
+A legendary incident marked Sri Lakshmiramana Teertharu's early infancy: while lying in his cradle, a venomous cobra spread its wide hood over his head. Undaunted, the fearless infant held onto the serpent and played with it joyfully, a miracle seen by all as an omen of his divine spiritual stature.
 
 ### Debating Eloquence and Exquisite Alankaras
 Swamiji was celebrated as a passionate debater and powerful orator (*Vada Priya, Vagmi*), championing Dvaita philosophy against rival scholars. He was equally famous for his aesthetic devotion, inventing intricate and artistic alankaras (decorations) for Lord Sri Balakrishna in Udupi.
 
-### Architectural Legacy
-Sri Lakshmiramana Teertharu made monumental contributions to the matha's infrastructure:
-1. **Shiroor Moola Matha:** He established the present Shiroor Moola Matha complex at Shirooru village along the Suvarna river.
-2. **Olaga Mantapa in Udupi:** He constructed the historic eastern Olaga Mantapa in Udupi and offered it to Lord Sri Krishna.
+### Architectural Legacy and Royal Grants
+Sri Lakshmiramana Teertharu made monumental contributions to the matha's infrastructure and holdings:
+1. **Olaga Mantapa in Udupi:** By divine inspiration, he constructed the historic eastern Olaga Mantapa in Udupi and offered it to Lord Sri Krishna.
+2. **Gift of Shiroor Village & Moola Matha:** During his time, Mudradi Ananthayya, the Diwan of the then Nagara Samsthana, gifted the entire village of Shiroor as a permanent Jahagir (*dharadatta*) to Sri Vittala Devaru in 1756 CE (Shalivahana Shaka 1678, Dhatu samvatsara, Vaishakha Krishna Trayodashi). Sri Lakshmiramana Teertharu constructed the permanent Shiroor Moola Matha there.
+3. **Endowments in Santuru:** Diwan Mudradi Ananthayya also granted extensive tax-free Inam lands (*Uttara*) in his ancestral village of Santuru (Shivapuri) for the worship of Shiroor Matha's presiding deity.
 
 ### Departure
-After a glorious reign of forty-six years, Sri Lakshmiramana Teertharu attained Haripada at Shiroor in 1781 CE (Shalivahana Shaka 1703, Plavanga samvatsara, Margashira Shukla Poornima).
+After a glorious reign of forty-six years, Sri Lakshmiramana Teertharu attained Haripada at Shiroor in 1781 CE (Shalivahana Shaka 1703, Plava / Plavanga samvatsara, Margashira Shukla Poornima / 15th day).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
 - **ಪರಂಪರೆಯ ಕ್ರಮ ಸಂಖ್ಯೆ:** ೨೩
 - **ಕಾಲಾವಧಿ (ಕ್ರಿ.ಶ.):** ೧೭೩೫–೧೭೮೧
 - **ಶಾಲಿವಾಹನ ಶಕ:** ೧೭೦೩
-- **ಸಂವತ್ಸರ:** ಪ್ಲವಂಗ
+- **ಸಂವತ್ಸರ:** ಪ್ಲವ / ಪ್ಲವಂಗ
 - **ಆರಾಧನಾ ತಿಥಿ:** ಮಾರ್ಗಶಿರ ಶುಕ್ಲ ಪೂರ್ಣಿಮಾ
-- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶೀರೂರು
+- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶೀರೂರು ಮೂಲ ಮಠ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀಗಳವರು ಬಾಲ್ಯದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲಿದ್ದಾಗ ಒಂದು ನಾಗರಹಾವು ತನ್ನ ಹೆಡೆಯನ್ನು ಇವರ ತಲೆಯ ಮೇಲೆ ಬಿಡಿಸಿಕೊಂಡಿರಲು ಅದನ್ನು ಹಿಡಿದು ಆಡುತ್ತಿದ್ದರು ಎಂದು ಐತಿಹ್ಯವಿದೆ. ಇವರು ತುಂಬಾ ವಾದ ಪ್ರಿಯರು, ವಾಗ್ಮಿಗಳು. ಕೃಷ್ಣನ ವಿವಿಧ ಶೈಲಿಯ ಅಲಂಕಾರಗಳನ್ನು ಮಾಡಿಪೂಜಿಸುತ್ತಿದ್ದರು.
+ಶ್ರೀಗಳವರು ಬಾಲ್ಯದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲಿದ್ದಾಗ ಒಂದು ನಾಗರಹಾವು ತನ್ನ ಹೆಡೆಯನ್ನು ಇವರ ತಲೆಯ ಮೇಲೆ ಬಿಡಿಸಿಕೊಂಡಿರಲು ಅದನ್ನು ಹಿಡಿದು ಆಡುತ್ತಿದ್ದರೆಂದು ಐತಿಹ್ಯವಿದೆ. ಇವರು ತುಂಬಾ ವಾದಪ್ರಿಯರು, ವಾಗ್ಮಿಗಳು ಹಾಗೂ ಕೃಷ್ಣನ ವಿವಿಧ ಶೈಲಿಯ ನಯನಮನೋಹರ ಅಲಂಕಾರಗಳನ್ನು ಮಾಡಿ ಪೂಜಿಸುತ್ತಿದ್ದರು.
 
-ಈಗ ಇರುವ ಶೀರೂರು ಮೂಲಮಠವನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಉಡುಪಿಯ ಪೂರ್ವಕ್ಕಿರುವ ಓಲಗ ಮಂಟಪವನ್ನು ಕಟ್ಟಿಸಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸಿದರು. ಶ್ರೀಗಳವರು ನಲವತ್ತಾರು ವರ್ಷ ಕಾಲ ಧರ್ಮ ಪೀಠವನ್ನು ಅಲಂಕರಿಸಿ ಕ್ರಿ.ಶ. ೧೭೮೧ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ಹರಿಪದವನ್ನು ಸೇರಿದರು.
+ಉಡುಪಿಯ ಶೀರೂರು ಮಠದ ಪೂರ್ವಕ್ಕಿರುವ ಓಲಗಮಂಟಪವನ್ನು ಭಗವತ್ಪ್ರೇರಣೆಯಿಂದ ಕಟ್ಟಿಸಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸಿದರು. ಇವರ ಕಾಲದಲ್ಲಿಯೇ ಆಗಿನ ನಗರ ಸಂಸ್ಥಾನದ ದಿವಾನರಾಗಿದ್ದ ಮುದ್ರಾಡಿ ಅನಂತಯ್ಯನವರು ಶಾ. ಶಕ ೧೬೭೮ (ಕ್ರಿ.ಶ. ೧೭೫೬) ಧಾತು ಸಂವತ್ಸರದ ವೈಶಾಖ ಕೃಷ್ಣ ೧೩ ರ ದಿನ ಶ್ರೀವಿಟ್ಠಲದೇವರಿಗೆ ಶೀರೂರು ಗ್ರಾಮವನ್ನು ಜಹಗೀರಾಗಿ ಧಾರಾದತ್ತ ಮಾಡಿಕೊಟ್ಟರು. ಅಲ್ಲಿ ಶ್ರೀಗಳವರು ಭವ್ಯ ಮೂಲಮಠವನ್ನು ಕಟ್ಟಿಸಿದರು. ಇದಲ್ಲದೆ ಈ ಮುದ್ರಾಡಿ ಅನಂತಯ್ಯನವರು ಸಾಂತೂರು ಎಂಬ ತಮ್ಮ ಅಜ್ಜನಮನೆ ಊರು ಶಿವಪುರಿಯಲ್ಲಿ ಇವರ ಆರಾಧ್ಯದೇವರಿಗೆ ಬಹು ಉತ್ತಾರ (ಇನಾಮು ಭೂಮಿ) ಬಿಟ್ಟಿದ್ದರು. ಶ್ರೀಗಳವರು ೪೬ ವರ್ಷ ಧರ್ಮಪೀಠವನ್ನು ಅಲಂಕರಿಸಿ ಶಾ. ಶಕ ೧೭೦೩ (ಕ್ರಿ.ಶ. ೧೭೮೧) ಪ್ಲವ ಸಂವತ್ಸರದ ಮಾರ್ಗಶಿರ ಶುಕ್ಲ ೧೫ ರ ದಿನ ಶೀರೂರಲ್ಲಿ ಹರಿಪದವನ್ನು ಸೇರಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

@@ -51,14 +51,14 @@ Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowne
 - **Aradhana:** Magha Shukla Saptami
 - **Vrindavana Kshetra:** Kashi Kshetra
 
-### Scholarly Debates in Kashi
-Sri Yadavottama Teertharu was an intellectual colossus renowned for his prowess in scriptural debate (*vyakhyartha*). In the holy city of Kashi—the premier arena of Indian philosophical debate—he engaged opposing schools of thought in public disputations, establishing the unassailable logical foundation of Dvaita Vedanta and earning wide acclaim for Shiroor Matha.
+### Scholarly Debates and Discourses in Kashi
+Sri Yadavottama Teertharu was an intellectual colossus renowned for his prowess in scriptural debate (*vyakhyartha*). In the holy city of Kashi—the premier arena of Indian philosophical debate—he engaged opposing scholars in public disputations, establishing the unassailable logical foundation of Dvaita Vedanta. Following his victory, he resided in Kashi for a substantial period, imparting higher teachings in *Sriman Nyayasudha* and other sacred treatises to eager assemblies of scholars.
 
 ### Devotional Administration
 He served the samsthana and conducted worship of Lord Sri Vittala and Lord Sri Krishna with rigorous discipline for nineteen years.
 
 ### Departure
-Sri Yadavottama Teertharu entered Paramadhama at Kashi Kshetra in 1611 CE (Shalivahana Shaka 1533, Virodhikrutu samvatsara, Magha Shukla Saptami).
+Sri Yadavottama Teertharu entered Paramadhama at Kashi Kshetra on the auspicious Ratha Saptami day in 1611 CE (Shalivahana Shaka 1533, Virodhikrutu samvatsara, Magha Shukla Saptami).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ Sri Yadavottama Teertharu entered Paramadhama at Kashi Kshetra in 1611 CE (Shali
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಕಾಶೀ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಪ್ರಖಂಡ ಪಂಡಿತರಾಗಿ ಕಾಶೀ ಹಾಗೂ ಇತರ ಪಂಡಿತರನ್ನು ವ್ಯಾಖ್ಯಾರ್ಥದಲ್ಲಿ ಗೆದ್ದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಹತ್ತೊಂಬತ್ತು ವರ್ಷ ಸಂಸ್ಥಾನ ಪೂಜೆಯನ್ನು ನೆರವೇರಿಸಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮಗತರಾದರು.
+ಈ ವಿದ್ಯಾಘನರು ಕಾಶಿಯಲ್ಲಿ ಪಂಡಿತರನ್ನು ಗೆದ್ದು, ಅಲ್ಲಿಯೇ ಕೆಲವು ಕಾಲ ಸುಧಾದಿ ಪಾಠಪ್ರವಚನಗಳಿಂದ ಕಾಲವನ್ನು ಸುಕೃತಮಯವಾಗಿ ಕಳೆದು, ಸಂಸ್ಥಾನಪೂಜೆಯನ್ನು ೧೯ ವರ್ಷ ನೆರವೇರಿಸಿದರು. ನಂತರ ಕಾಶಿಯಲ್ಲಿ ಶಾ. ಶಕ ೧೫೩೩ (ಕ್ರಿ.ಶ. ೧೬೧೧) ವಿರೋಧಿಕೃತು ಸಂವತ್ಸರದ ಮಾಘ ಶುಕ್ಲ ೭ (ರಥಸಪ್ತಮಿ) ರ ದಿನ ಪರಂಧಾಮಗತರಾದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

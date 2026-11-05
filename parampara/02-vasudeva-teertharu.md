@@ -52,13 +52,13 @@ Sri Vasudeva Teertharu is the second pontiff of Sri Shiroor Matha, celebrated fo
 - **Vrindavana Kshetra:** Haridwara Kshetra
 
 ### Ascetic Eminence and Miracle
-Sri Vasudeva Teertharu succeeded Sri Vamana Teertharu as the second pontiff of Shiroor Matha. He was renowned as a *Maha Tapasvi* whose spiritual power was recognized across scholarly circles. During his travels, he engaged in rigorous philosophical debates with Bauddha (Buddhist) scholars. By the divine grace of Hari and Guru, his melodious and resonant chanting of Vedic hymns caused a dried, lifeless tree to miraculously sprout lush green leaves and vibrant blossoms.
+Sri Vasudeva Teertharu succeeded Sri Vamana Teertharu as the second pontiff of Shiroor Matha. He was renowned as a *Maha Tapasvi* whose spiritual power was recognized across scholarly circles. During his travels, he engaged in rigorous philosophical debates with Bauddha (Buddhist) scholars, specifically establishing and defending the reality of conscious spiritual sentience (*Chaitanya Samarthane*) in *Jivanmukti*. By the grace of Sri Madhwacharyaru, through the sacred chanting and singing of Vedic hymns (*Veda Sukta Gana*), he caused a withered, dried tree to visibly blossom and bear both flowers and fruits (*phala-pushpa*) before the assembly.
 
 ### Governance and Samsthana Seva
 Sri Vasudeva Teertharu ably guided the samsthana for twenty years, fostering Vedic learning and steadfast devotion to Lord Sri Vittala and Lord Sri Krishna.
 
 ### Departure
-In 1347 CE (Shalivahana Shaka 1269, Sarvajitu samvatsara, on the holy day of Magha Shukla Poornima), Sri Vasudeva Teertharu attained Vishnu Pada at Haridwara Kshetra on the banks of the sacred Ganga river.
+In 1347 CE (Shalivahana Shaka 1269, Sarvajitu samvatsara, on the holy day of Magha Shukla Poornima / 15th day), Sri Vasudeva Teertharu attained Vishnu Pada while on pilgrimage at Shiravali (also revered in tradition at Haridwara Kshetra).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -67,10 +67,10 @@ In 1347 CE (Shalivahana Shaka 1269, Sarvajitu samvatsara, on the holy day of Mag
 - **ಶಾಲಿವಾಹನ ಶಕ:** ೧೨೬೯
 - **ಸಂವತ್ಸರ:** ಸರ್ವಜಿತ್ತು
 - **ಆರಾಧನಾ ತಿಥಿ:** ಮಾಘ ಶುಕ್ಲ ಪೂರ್ಣಿಮಾ
-- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಹರಿದ್ವಾರ ಕ್ಷೇತ್ರ
+- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶಿರಾವಳಿ / ಹರಿದ್ವಾರ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಮಹಾ ತಪಸ್ವಿಗಳಾದ ಶ್ರೀಗಳವರು ಬೌದ್ಧ ಸನ್ಯಾಸಿಯೊಡನೆ ವಾದಮಾಡಿ ಹರಿಗುರುಗಳ ಅನುಗ್ರಹದಿಂದ ವೇದ ಸೂಕ್ತಿನ ಗಾನದ ಮೂಲಕ ಒಣಗಿದ ಮರಕ್ಕೆ ಎಲೆಗಳನ್ನು ಮತ್ತು ಹೂಗಳನ್ನು ತರಿಸಿ ಪವಾಡಗೈದ ಮಹಾತ್ಮರು. ಇವರು ಇಪ್ಪತ್ತು ವರ್ಷಕಾಲ ಸಂಸ್ಥಾನವನ್ನು ಆಳಿ ಹರಿದ್ವಾರದಲ್ಲಿ ಕ್ರಿ.ಶ. ೧೩೪೭ ರಲ್ಲಿ ವಿಷ್ಣುಪದವನ್ನು ಸೇರಿದರು.
+ಮಹಾ ತಪಸ್ವಿಗಳಾದ ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು ಒಬ್ಬ ಬೌದ್ಧ ಸನ್ಯಾಸಿಯೊಡನೆ ವಾದದಲ್ಲಿ ಜೀವನ್ಮುಕ್ತಿಗೆ ಚೈತನ್ಯ ಸಮರ್ಥನೆ ಮಾಡುತ್ತಿರಲು, ಶ್ರೀಮದಾಚಾರ್ಯರ ಅನುಗ್ರಹದಿಂದ ವೇದಸೂಕ್ತದ ಗಾನದ ಮೂಲಕ ಒಂದು ಒಣಗಿದ ಮರದಲ್ಲಿ ಫಲಪುಷ್ಪಗಳನ್ನು ಪ್ರತ್ಯಕ್ಷ ತೋರಿಸಿ ಪವಾಡಗೈದ ಮಹಾತ್ಮರು. ಶ್ರೀಗಳವರು ೨೦ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನು ಆಳಿ ತೀರ್ಥಯಾತ್ರಾಪರರಾಗಿ ಶಿರಾವಳಿಯಲ್ಲಿ ಶಾ. ಶಕ ೧೨೬೯ (ಕ್ರಿ.ಶ. ೧೩೪೭) ಸರ್ವಜಿತು ಸಂವತ್ಸರದ ಮಾಘ ಶುಕ್ಲ ೧೫ನೇ ದಿನ ವಿಷ್ಣುಪದವನ್ನು ಸೇರಿದರು (ಹರಿದ್ವಾರ ಕ್ಷೇತ್ರದಲ್ಲೂ ಇವರ ವೃಂದಾವನ ಸ್ಮರಣೆಯಿದೆ).
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

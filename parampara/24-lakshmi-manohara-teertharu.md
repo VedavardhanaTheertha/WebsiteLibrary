@@ -51,8 +51,8 @@ Sri Lakshmi Manohara Teertharu is the twenty-fourth pontiff of Sri Shiroor Matha
 - **Aradhana:** Magha Krishna Panchami
 - **Vrindavana Kshetra:** Shiroor Moola Matha
 
-### Construction of Udupi Shiroor Matha
-Sri Lakshmi Manohara Teertharu was a visionary builder and administrator. He completely reconstructed the Shiroor Matha complex on Car Street (Rathabeedi) in Udupi, creating the distinguished headquarters building that stands today facing the Sri Krishna Matha complex.
+### Lineage and Construction of Udupi Shiroor Matha
+Sri Lakshmi Manohara Teertharu hailed from the respected Ahitagni family belonging to the Bharadwaja Gotra. A visionary builder and administrator, he completely reconstructed the Shiroor Matha complex on Car Street (Rathabeedi) in Udupi anew, creating the distinguished matha building facing the Sri Krishna Matha complex.
 
 ### Village and Agricultural Development
 He spearheaded major developmental works in Shiroor village and surrounding rural localities, improving irrigation, agriculture, and pilgrim amenities, and establishing the matha as a pillar of community welfare.
@@ -70,10 +70,10 @@ Sri Lakshmi Manohara Teertharu entered Vrindavana at Shiroor in 1819 CE (Shaliva
 - **ಶಾಲಿವಾಹನ ಶಕ:** ೧೭೪೧
 - **ಸಂವತ್ಸರ:** ಪ್ರಮಾಥಿ
 - **ಆರಾಧನಾ ತಿಥಿ:** ಮಾಘ ಕೃಷ್ಣ ಪಂಚಮೀ
-- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶೀರೂರು
+- **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಶೀರೂರು ಮೂಲ ಮಠ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀಗಳವರು ಉಡುಪಿಯ ಈಗಿನ ಶೀರೂರು ಮಠವನ್ನು ನೂತನವಾಗಿ ಕಟ್ಟಿಸಿದರು. ಶೀರೂರು ಗ್ರಾಮ ಹಾಗೂ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಿದರು. ಇವರು ಮೂವತ್ತೆಂಟು ವರ್ಷ ಪೀಠವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೮೧೯ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವೃಂದಾವನಗತರಾದರು.
+ಈ ಶ್ರೀಗಳವರು ಭಾರದ್ವಾಜಗೋತ್ರದ ಆಹಿತಾಗ್ನಿ ವಂಶದವರು. ತಮ್ಮ ಶ್ರೀದೇವರ ಪೂಜಾನಿರತರಾಗಿದ್ದು ಉಡುಪಿಯ ಶೀರೂರು ಮಠವನ್ನು ನೂತನವಾಗಿ ಕಟ್ಟಿಸಿದರು. ಶೀರೂರು ಗ್ರಾಮ ಹಾಗೂ ಸುತ್ತಮುತ್ತಲಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಿದರು. ಇವರು ೩೮ ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಶಾ. ಶಕ ೧೭೪೧ (ಕ್ರಿ.ಶ. ೧೮೧೯) ಪ್ರಮಾಥಿ ಸಂವತ್ಸರದ ಮಾಘ ಕೃಷ್ಣ ೫ ರ ದಿನ ಶೀರೂರಲ್ಲಿ ವೃಂದಾವನಗತರಾದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

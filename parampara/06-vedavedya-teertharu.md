@@ -52,13 +52,13 @@ Sri Vedavedya Teertharu is the sixth pontiff of Sri Shiroor Matha, known for his
 - **Vrindavana Kshetra:** Godavari Teera Kshetra
 
 ### Scriptural Parayana and Healing
-Sri Vedavedya Teertharu was an eminent scholar whose life exemplified the healing power of sacred scripture. When he contracted a life-threatening, incurable abdominal dropsy (*Mahodara roga*), he resolved to seek refuge solely in the grace of Badarayana. He undertook continuous, devout recitation (*parayana*) of Sri Madhwacharya's *Brahma Sutra Bhashya*. By the grace of Lord Hari and Acharya Madhwa, his disease was completely cured, inspiring generations of scholars on the spiritual potency of the Bhashya.
+Sri Vedavedya Teertharu was an eminent scholar whose life exemplified the healing power of sacred scripture. He had committed both the *Gita Bhashya* and *Brahma Sutra Bhashya* of Jagadguru Sri Madhwacharya entirely to memory (*mukhagata*). When he contracted a life-threatening, incurable abdominal dropsy (*Mahodara roga*), he resolved to seek refuge solely in the grace of the Lord and Acharya Madhwa. He undertook continuous, devout recitation (*parayana*) of Sri Madhwacharya's holy Bhashyas. By this devout sadhana, his illness was miraculously and completely cured, inspiring generations of scholars on the supreme spiritual potency of the Sarvamoola granthas.
 
 ### Tenure and Contribution
-He served the samsthana with profound dedication for twenty-three years, imparting shastric teachings to numerous disciples and elevating the scholastic standing of the matha.
+He served the samsthana with profound dedication for twenty-three years, imparting shastric teachings to numerous disciples and elevating the scholastic standing of the matha while undertaking sacred pilgrimages.
 
 ### Departure
-Sri Vedavedya Teertharu attained Vishnu Pada on the banks of the sacred Godavari river in 1427 CE (Shalivahana Shaka 1349, Plavanga samvatsara, Shravana Shukla Shashthi).
+Sri Vedavedya Teertharu attained Vishnu Pada while on pilgrimage on the banks of the sacred Godavari river in 1427 CE (Shalivahana Shaka 1349, Plavanga samvatsara, Shravana Shukla Shashthi).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ Sri Vedavedya Teertharu attained Vishnu Pada on the banks of the sacred Godavari
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಗೋದಾವರಿ ತೀರ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಮಹಾ ವಿದ್ವಾಂಸರಾದ ಯತಿಗಳು ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯ ಪಾರಾಯಣ ಮಾಡಿ ತಮಗೆ ಒದಗಿ ಬಂದ ಮಹೋದರ ರೋಗವನ್ನು ಪರಿಹರಿಸಿಕೊಂಡರೆಂದು ಐತಿಹ್ಯವಿದೆ. ಶ್ರೀಗಳವರು ಇಪ್ಪತ್ತಮೂರು ವರುಷ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ೧೪೨೭ ರಲ್ಲಿ ಗೋದಾವರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದವನ್ನು ಹೊಂದಿದರು.
+ಈ ಮಹಾವಿದ್ವಾಂಸರಾದ ಯತಿಗಳವರಿಗೆ ಶ್ರೀಮದಾಚಾರ್ಯರ ಗೀತಾಭಾಷ್ಯ ಹಾಗೂ ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯಗಳು ಮುಖಗತವಾಗಿದ್ದವು (ಕಂಠಪಾಠವಾಗಿದ್ದವು). ನಿರಂತರ ಭಾಷ್ಯಪಾರಾಯಣ ಮಾಡಿ ತಮಗೆ ಪ್ರಾಪ್ತವಾದ ಅಸಾಧ್ಯ ಮಹೋದರ ರೋಗವನ್ನು ಪರಿಹರಿಸಿಕೊಂಡರೆಂದು ತಿಳಿದುಬರುತ್ತದೆ. ಇವರು ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವನ್ನು ಆಳಿ, ತೀರ್ಥಯಾತ್ರೆ ಮಾಡುತ್ತಾ ಗೋದಾವರೀ ತೀರದಲ್ಲಿ ಶಾ. ಶಕ ೧೩೪೯ (ಕ್ರಿ.ಶ. ೧೪೨೭) ಪ್ಲವಂಗ ಸಂವತ್ಸರದ ಶ್ರಾವಣ ಶುಕ್ಲ ೬ರಲ್ಲಿ ವಿಷ್ಣುಪದವನ್ನು ಸೇರಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

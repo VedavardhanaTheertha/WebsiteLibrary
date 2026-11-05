@@ -52,13 +52,13 @@ Sri Maheesha Teertharu is the seventh pontiff of Sri Shiroor Matha, renowned for
 - **Vrindavana Kshetra:** Krishna Teera Kshetra
 
 ### Severe Vratas and Tapas
-Sri Maheesha Teertharu was celebrated among contemporary ascetics for his uncompromising tapasya and self-discipline. Notably, he observed the formidable *Dvadasha-varsha Upavasa Vrata* (a strict twelve-year cycle of disciplined fasting and austerities), demonstrating supreme mastery over bodily senses and steadfast dedication to Lord Sri Vittala.
+Sri Maheesha Teertharu (also written as Sri Mahesha Teertharu) was celebrated among contemporary ascetics for his uncompromising tapasya and self-discipline. Notably, he observed the formidable *Dvadasha-varsha Upavasa Vrata* (a strict twelve-year cycle of disciplined fasting and austerities), demonstrating supreme mastery over bodily senses and steadfast dedication to Lord Sri Vittala.
 
-### Peetha Leadership
-For twenty-four years, he steered the matha's spiritual activities, emphasizing austere sadhana, shastric fidelity, and the primacy of devotional service.
+### Scholarly Contemporary of Pejavara Sri Vijayadhwaja Teertharu
+Sri Mahesha Teertharu was a distinguished contemporary of Sri Vijayadhwaja Teertha of Pejavara Matha, the legendary commentator on Srimad Bhagavatam (*Vijayadhwajeeya*), and shared cordial scholarly exchanges during an illustrious epoch in Udupi's history.
 
-### Departure
-Sri Maheesha Teertharu attained Haripada on the sacred banks of the Krishna river in 1451 CE (Shalivahana Shaka 1373, Prajotpatti samvatsara, Pushya Shukla Trayodashi).
+### Peetha Leadership and Departure
+For twenty-four years, he steered the matha's spiritual activities, emphasizing austere sadhana, shastric fidelity, and the primacy of devotional service. While on holy pilgrimage, Sri Maheesha Teertharu attained Haripada on the sacred banks of the Krishna river in 1451 CE (Shalivahana Shaka 1373, Prajotpatti samvatsara, Pushya Shukla Dvadashi / Trayodashi).
 
 ### ಕನ್ನಡ ವಿವರಗಳು (Kannada Details)
 
@@ -70,7 +70,7 @@ Sri Maheesha Teertharu attained Haripada on the sacred banks of the Krishna rive
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಕೃಷ್ಣಾ ತೀರ ಕ್ಷೇತ್ರ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ದ್ವಾದಶ ವರ್ಷ ಉಪವಾಸಾದಿ ಮಹಾ ವ್ರತಗಳನ್ನು ಆಚರಿಸಿದ ನಿಷ್ಠಾವಂತ ಯತಿಗಳು. ಇವರು ಇಪ್ಪತ್ತನಾಲ್ಕು ವರ್ಷ ಧರ್ಮಪೀಠವನ್ನು ಅಲಂಕರಿಸಿ ಕ್ರಿ.ಶ. ೧೪೫೧ ರಲ್ಲಿ ಕೃಷ್ಣಾ ತೀರದಲ್ಲಿ ಹರಿಪದವನ್ನು ಹೊಂದಿದರು.
+ಈ ಯತಿವರರು ದ್ವಾದಶವರ್ಷ ಉಪವಾಸಾದಿ ಮಹಾವ್ರತಗಳನ್ನು ಆಚರಿಸಿದ ನಿಷ್ಠಾವಂತರು. ಇವರು ಪೇಜಾವರ ಮಠದ ಶ್ರೀವಿಜಯಧ್ವಜತೀರ್ಥರ ಸಮಕಾಲಿಕರು. ಇಪ್ಪತ್ತನಾಲ್ಕು ವರ್ಷ ಧರ್ಮಪೀಠವನ್ನು ಅಲಂಕರಿಸಿ, ಯಾತ್ರಾಪರರಾಗಿ ಕೃಷ್ಣಾತೀರದಲ್ಲಿ ಶಾ. ಶಕ ೧೩೭೩ (ಕ್ರಿ.ಶ. ೧೪೫೧) ಪ್ರಜೋತ್ಪತ್ತಿ ಸಂವತ್ಸರದ ಪುಷ್ಯ ಶುಕ್ಲ ೧೨/೧೩ ರಲ್ಲಿ ಹರಿಪದವನ್ನು ಹೊಂದಿದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

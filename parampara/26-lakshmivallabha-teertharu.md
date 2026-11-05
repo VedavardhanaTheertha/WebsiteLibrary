@@ -60,8 +60,11 @@ Known as a *Maha Tapasvi*, his spiritual life was marked by rare achievements:
 - Performed a complete *Bhagavata Saptaha* with profound scholarly exposition.
 - Celebrated three prestigious *Sudha Mangalas*.
 
-### Transcendental Passing
-On a sacred Dvadashi tithi, while engaged in the holy worship of Lord Sri Vittala Devaru, with the lighted camphor aarathi plate held in his hands, Sri Lakshmivallabha Teertharu peacefully shed his mortal frame and entered Vishnu Loka in a state of highest spiritual elevation.
+### Transcendental Passing While Worshipping Sri Vittala
+In his advanced age, following a fast on Ekadashi, on the sacred Dvadashi tithi amidst his beloved disciples, relatives, and attendants, while engaged in the holy worship of Lord Sri Vittala Devaru with the lighted camphor aarathi plate (*arati harivana*) held in his hands, Sri Lakshmivallabha Teertharu peacefully departed and entered Vishnu Loka in a state of highest spiritual elevation.
+
+### Financial and Land Endowments
+Utilizing the voluntary seva contributions (*seva-dravya*) offered by visiting pilgrims during his extensive Paryaya worship, he acquired fertile agricultural lands and extensive property endowments for Sri Vittala Devaru.
 
 ### Fifty-Seven Years of Guidance
 His fifty-seven-year reign is among the longest and most revered in the annals of Shiroor Matha. He entered Vrindavana in Udupi in 1886 CE (Shalivahana Shaka 1808, Vyaya samvatsara, Vaishakha Krishna Dvadashi).
@@ -76,9 +79,9 @@ His fifty-seven-year reign is among the longest and most revered in the annals o
 - **ವೃಂದಾವನಸ್ಥರಾದ ಕ್ಷೇತ್ರ:** ಉಡುಪಿ
 
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
-ಶ್ರೀಗಳವರು ಶ್ರೀಕೃಷ್ಣಾಪುರ ಮಠದ ಆಗಿನ ಪೀಠಾಧಿಪತಿಗಳ ವಿದ್ಯಾಶಿಷ್ಯರಾಗಿದ್ದರು. ಮಹಾತಪಸ್ವಿಗಳಾಗಿದ್ದ ಇವರು ಐದು ಸಲ ವಿಷ್ಣು ಪಂಚಕ, ಒಂದು ಸಲ ಭಾಗವತ ಸಪ್ತಾಹ, ಮೂರು ಸಲ ಸುಧಾಮಂಗಳ ಮಾಡಿದ ಮಹಾಮಹಿಮರು.
+ಈ ಶ್ರೀಗಳವರು ಶ್ರೀಕೃಷ್ಣಾಪುರ ಮಠಾಧೀಶರ ವಿದ್ಯಾಶಿಷ್ಯರು. ಈ ಮಹಾಮಹಿಮರು ಮಹಾವ್ರತಿಗಳು. ಐದು ಸಲ ವಿಷ್ಣುಪಂಚಕ, ಒಂದು ಸಲ ಭಾಗವತ ಸಪ್ತಾಹ, ಅಲ್ಲದೆ ಮೂರು ಸಲ ಸುಧಾಮಂಗಲ ಮಾಡಿ, ತನ್ನ ಜೀರ್ಣವಯಸ್ಸಿನಲ್ಲಿ ಉಪವಾಸ ಮಾಡಿ ದ್ವಾದಶೀದಿನ ತನ್ನ ಕರಕಂಜಸಂಜಾತ ಶಿಷ್ಯ-ಬಂಧು-ಸೇವಕರ ಮಧ್ಯೆ ಶ್ರೀವಿಟ್ಠಲದೇವರಿಗೆ ಪೂಜೆ ಮಾಡುವಾಗ ಕೈಯಲ್ಲಿಯೇ ಆರತಿ ಹರಿವಾಣ ಇದ್ದಂತೆ ವಿಷ್ಣುಲೋಕಗತರಾದ ಮಹಾಮಹಿಮರು.
 
-ಒಂದು ದ್ವಾದಶಿ ತಿಥಿಯಂದು ಶ್ರೀವಿಠಲದೇವರಿಗೆ ಪೂಜೆ ಮಾಡುವಾಗ ಕೈಯಲ್ಲೇ ಆರತಿ ಹರಿವಾಣ ಇದ್ದಂತೆ ದೇಹವನ್ನು ತೊರೆದು ವಿಷ್ಣುಲೋಕಗತರಾದ ಮಹಾವ್ರತಿಗಳು. ಐವತ್ತೇಳು ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೮೮೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+ಇವರು ತೀರ್ಥಯಾತ್ರೆಗಾಗಿ ಬರತಕ್ಕ ಭಕ್ತರಿಂದ ದೊರೆತ ಸೇವಾದ್ರವ್ಯದಿಂದ ಪರ್ಯಾಯ ಪೂಜೆಯನ್ನು ಸಾಂಗವಾಗಿ ನಡೆಯಿಸಿ, ಶ್ರೀವಿಟ್ಠಲದೇವರಿಗೆ ಬಹಳ ಭೂಮಿಸಂಪತ್ತನ್ನು ಸಂಪಾದಿಸಿದರು. ೫೭ ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು, ಶಾ. ಶಕ ೧೮೦೮ (ಕ್ರಿ.ಶ. ೧೮೮೬) ವ್ಯಯ ಸಂವತ್ಸರದ ವೈಶಾಖ ಕೃಷ್ಣ ೧೨ ರ ದಿನ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 
