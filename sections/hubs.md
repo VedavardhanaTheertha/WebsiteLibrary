@@ -63,12 +63,22 @@ fields:
           traditions of Shri Shiroor Matha.
         open_label: Explore story
         items:
+          - title: Mathas of Shri Shiroor Matha
+            description: >-
+              The sacred seats and branch mathas of Shri Shiroor Matha including Car Street Udupi and Shiroor Moola Matha.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
+            href: /story?tab=mathas
           - title: Shiroor Matha and Guru Parampara
             description: >-
               The unbroken lineage of gurus from Sri Madhwacharya to the present pontiff of Shri Shiroor
               Matha.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.avif"
-            href: /history/parampara
+            href: /story?tab=parampara
+          - title: Presiding Deities of Shri Shiroor Matha
+            description: >-
+              The venerable deities worshipped across centuries including Lord Anna Vittala and Lord Mukhyaprana.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
+            href: /story?tab=deities
     kn:
       library:
         eyebrow: ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪನ್ಮೂಲಗಳು
@@ -130,8 +140,16 @@ fields:
           ಪರಂಪರೆಗಳನ್ನು ಅನ್ವೇಷಿಸಿ.
         open_label: ಕಥೆಯನ್ನು ಅನ್ವೇಷಿಸಿ
         items:
+          - title: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಮಠಗಳು
+            description: ಉಡುಪಿಯ ರಥಬೀದಿ ಮಠ ಮತ್ತು ಶಿರೂರು ಮೂಲ ಮಠ ಸೇರಿದಂತೆ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಸನ್ನಿಧಾನಗಳು.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
+            href: /story?tab=mathas
           - title: ಶಿರೂರು ಮಠ ಮತ್ತು ಗುರು ಪರಂಪರೆ
             description: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಇಂದಿನ ಪೀಠಾಧಿಪತಿಗಳವರೆಗಿನ ಗುರುಗಳ ಅವಿಚ್ಛಿನ್ನ ಪರಂಪರೆ.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.avif"
-            href: /history/parampara
+            href: /story?tab=parampara
+          - title: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಆರಾಧ್ಯ ವಿಗ್ರಹಗಳು
+            description: ಶ್ರೀ ಅಣ್ಣ ವಿಠ್ಠಲ ಮತ್ತು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಸೇರಿದಂತೆ ಮಠದಲ್ಲಿ ಶತಮಾನಗಳಿಂದ ಪೂಜಿಸಲ್ಪಡುವ ಆರಾಧ್ಯ ದೇವತೆಗಳು.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
+            href: /story?tab=deities
 ---
