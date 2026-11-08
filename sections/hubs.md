@@ -7,8 +7,8 @@ fields:
         eyebrow: Spiritual Resources
         title: Sacred Knowledge
         description: >-
-          Choose a collection to explore chants, scripture, devotional literature, reference material, and
-          practice.
+          Choose a collection to explore chants, scripture, devotional literature, reference material,
+          traditions, reflections, and practice.
         open_label: Explore collection
         items:
           - title: Mantra Nāda
@@ -31,6 +31,30 @@ fields:
             description: Practical introductions to daily observances, vows, rites, and festival practice.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dharma-vidhi.avif"
             href: /library/dharma
+          - title: Sadhana Stories and Chronicles
+            description: Accounts of disciplined practice, devotion, service, and moments remembered by the community.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
+            href: /library/stories
+          - title: Blogs and Articles
+            description: Reflections, explainers, news, and reading from the Matha community.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
+            href: /library/articles
+          - title: Symbolism of Hindu Deities and Rituals
+            description: Introductory reflections on forms, gestures, offerings, and ritual symbols.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
+            href: /library/symbolism
+          - title: Problem-Solving Mantras and Remedies
+            description: General devotional practices for reflection, steadiness, and seeking qualified guidance.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/spiritual-guidance-remedies.avif"
+            href: /library/remedies
+          - title: Hindu Science and Vedic Philosophy
+            description: Introductions to philosophical inquiry, classical knowledge systems, and careful comparison.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-science-philosophy.avif"
+            href: /library/science
+          - title: Pilgrim Site Guide
+            description: Practical starting points for darshan, travel, nearby sacred sites, and accommodation.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
+            href: /library/pilgrim-guide
       story:
         eyebrow: Living Tradition
         title: Know the Story
@@ -45,36 +69,12 @@ fields:
               Matha.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.avif"
             href: /history/parampara
-          - title: Sadhana Stories and Chronicles
-            description: Accounts of disciplined practice, devotion, service, and moments remembered by the community.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
-            href: /history/stories
-          - title: Blogs and Articles
-            description: Reflections, explainers, news, and reading from the Matha community.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
-            href: /history/articles
-          - title: Symbolism of Hindu Deities and Rituals
-            description: Introductory reflections on forms, gestures, offerings, and ritual symbols.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
-            href: /history/symbolism
-          - title: Problem-Solving Mantras and Remedies
-            description: General devotional practices for reflection, steadiness, and seeking qualified guidance.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/spiritual-guidance-remedies.avif"
-            href: /history/remedies
-          - title: Hindu Science and Vedic Philosophy
-            description: Introductions to philosophical inquiry, classical knowledge systems, and careful comparison.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-science-philosophy.avif"
-            href: /history/science
-          - title: Pilgrim Site Guide
-            description: Practical starting points for darshan, travel, nearby sacred sites, and accommodation.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
-            href: /history/pilgrim-guide
     kn:
       library:
         eyebrow: ಆಧ್ಯಾತ್ಮಿಕ ಸಂಪನ್ಮೂಲಗಳು
         title: ಪವಿತ್ರ ಜ್ಞಾನ
         description: >-
-          ಮಂತ್ರಗಳು, ಶಾಸ್ತ್ರಗಳು, ಭಕ್ತಿ ಸಾಹಿತ್ಯ, ಉಲ್ಲೇಖ ಸಾಮಗ್ರಿ ಮತ್ತು ಆಚರಣೆಗಳನ್ನು ಅನ್ವೇಷಿಸಲು ಒಂದು ಸಂಗ್ರಹವನ್ನು
+          ಮಂತ್ರಗಳು, ಶಾಸ್ತ್ರಗಳು, ಭಕ್ತಿ ಸಾಹಿತ್ಯ, ಉಲ್ಲೇಖ ಸಾಮಗ್ರಿ, ಪರಂಪರೆ ಮತ್ತು ಆಚರಣೆಗಳನ್ನು ಅನ್ವೇಷಿಸಲು ಒಂದು ಸಂಗ್ರಹವನ್ನು
           ಆಯ್ಕೆಮಾಡಿ.
         open_label: ಸಂಗ್ರಹವನ್ನು ಅನ್ವೇಷಿಸಿ
         items:
@@ -98,6 +98,30 @@ fields:
             description: ದೈನಂದಿನ ಆಚರಣೆಗಳು, ವ್ರತಗಳು, ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ಹಬ್ಬಗಳ ಆಚರಣೆಯ ಪ್ರಾಯೋಗಿಕ ಪರಿಚಯ.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dharma-vidhi.avif"
             href: /library/dharma
+          - title: ಸಾಧನಾ ಕಥೆಗಳು ಮತ್ತು ಚರಿತ್ರೆಗಳು
+            description: ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯವು ಸ್ಮರಿಸುವ ಕ್ಷಣಗಳ ಕಥನಗಳು.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
+            href: /library/stories
+          - title: ಬ್ಲಾಗ್‌ಗಳು ಮತ್ತು ಲೇಖನಗಳು
+            description: ಮಠದ ಸಮುದಾಯದಿಂದ ಚಿಂತನೆಗಳು, ವಿವರಣೆಗಳು, ಸುದ್ದಿಗಳು ಮತ್ತು ಓದುವಿಕೆ.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
+            href: /library/articles
+          - title: ಹಿಂದೂ ದೇವತೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳ ಸಂಕೇತಾರ್ಥ
+            description: ರೂಪಗಳು, ಮುದ್ರೆಗಳು, ಅರ್ಪಣೆಗಳು ಮತ್ತು ಧಾರ್ಮಿಕ ಸಂಕೇತಗಳ ಪರಿಚಯಾತ್ಮಕ ಚಿಂತನೆಗಳು.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
+            href: /library/symbolism
+          - title: ಸಮಸ್ಯಾ ಪರಿಹಾರ ಮಂತ್ರಗಳು ಮತ್ತು ಉಪಾಯಗಳು
+            description: ಚಿಂತನೆ, ಮನೋಸ್ಥೈರ್ಯ ಮತ್ತು ಅರ್ಹ ಮಾರ್ಗದರ್ಶಕರ ಸಲಹೆ ಪಡೆಯಲು ಸಾಮಾನ್ಯ ಭಕ್ತಿಪರ ಆಚರಣೆಗಳು.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/spiritual-guidance-remedies.avif"
+            href: /library/remedies
+          - title: ಹಿಂದೂ ವಿಜ್ಞಾನ ಮತ್ತು ವೈದಿಕ ತತ್ವಶಾಸ್ತ್ರ
+            description: ತಾತ್ವಿಕ ವಿಚಾರಣೆ, ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನ ಪದ್ಧತಿಗಳು ಮತ್ತು ಎಚ್ಚರಿಕೆಯ ತುಲನಾತ್ಮಕ ಅಧ್ಯಯನದ ಪರಿಚಯ.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-science-philosophy.avif"
+            href: /library/science
+          - title: ಯಾತ್ರಾ ಸ್ಥಳ ಮಾರ್ಗದರ್ಶಿ
+            description: ದರ್ಶನ, ಪ್ರಯಾಣ, ಸಮೀಪದ ಪವಿತ್ರ ಸ್ಥಳಗಳು ಮತ್ತು ವಸತಿಗಾಗಿ ಪ್ರಾಯೋಗಿಕ ಆರಂಭಿಕ ಮಾಹಿತಿ.
+            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
+            href: /library/pilgrim-guide
       story:
         eyebrow: ಜೀವಂತ ಪರಂಪರೆ
         title: ಪರಂಪರೆಯ ಕಥೆ
@@ -110,28 +134,4 @@ fields:
             description: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಇಂದಿನ ಪೀಠಾಧಿಪತಿಗಳವರೆಗಿನ ಗುರುಗಳ ಅವಿಚ್ಛಿನ್ನ ಪರಂಪರೆ.
             image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.avif"
             href: /history/parampara
-          - title: ಸಾಧನಾ ಕಥೆಗಳು ಮತ್ತು ಚರಿತ್ರೆಗಳು
-            description: ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯವು ಸ್ಮರಿಸುವ ಕ್ಷಣಗಳ ಕಥನಗಳು.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
-            href: /history/stories
-          - title: ಬ್ಲಾಗ್‌ಗಳು ಮತ್ತು ಲೇಖನಗಳು
-            description: ಮಠದ ಸಮುದಾಯದಿಂದ ಚಿಂತನೆಗಳು, ವಿವರಣೆಗಳು, ಸುದ್ದಿಗಳು ಮತ್ತು ಓದುವಿಕೆ.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
-            href: /history/articles
-          - title: ಹಿಂದೂ ದೇವತೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳ ಸಂಕೇತಾರ್ಥ
-            description: ರೂಪಗಳು, ಮುದ್ರೆಗಳು, ಅರ್ಪಣೆಗಳು ಮತ್ತು ಧಾರ್ಮಿಕ ಸಂಕೇತಗಳ ಪರಿಚಯಾತ್ಮಕ ಚಿಂತನೆಗಳು.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
-            href: /history/symbolism
-          - title: ಸಮಸ್ಯಾ ಪರಿಹಾರ ಮಂತ್ರಗಳು ಮತ್ತು ಉಪಾಯಗಳು
-            description: ಚಿಂತನೆ, ಮನೋಸ್ಥೈರ್ಯ ಮತ್ತು ಅರ್ಹ ಮಾರ್ಗದರ್ಶಕರ ಸಲಹೆ ಪಡೆಯಲು ಸಾಮಾನ್ಯ ಭಕ್ತಿಪರ ಆಚರಣೆಗಳು.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/spiritual-guidance-remedies.avif"
-            href: /history/remedies
-          - title: ಹಿಂದೂ ವಿಜ್ಞಾನ ಮತ್ತು ವೈದಿಕ ತತ್ವಶಾಸ್ತ್ರ
-            description: ತಾತ್ವಿಕ ವಿಚಾರಣೆ, ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನ ಪದ್ಧತಿಗಳು ಮತ್ತು ಎಚ್ಚರಿಕೆಯ ತುಲನಾತ್ಮಕ ಅಧ್ಯಯನದ ಪರಿಚಯ.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-science-philosophy.avif"
-            href: /history/science
-          - title: ಯಾತ್ರಾ ಸ್ಥಳ ಮಾರ್ಗದರ್ಶಿ
-            description: ದರ್ಶನ, ಪ್ರಯಾಣ, ಸಮೀಪದ ಪವಿತ್ರ ಸ್ಥಳಗಳು ಮತ್ತು ವಸತಿಗಾಗಿ ಪ್ರಾಯೋಗಿಕ ಆರಂಭಿಕ ಮಾಹಿತಿ.
-            image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif"
-            href: /history/pilgrim-guide
 ---

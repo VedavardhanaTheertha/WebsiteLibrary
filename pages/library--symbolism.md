@@ -10,7 +10,7 @@ image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avi
 page_type:
   en: "Knowledge section index"
   kn: "ಜ್ಞಾನ ವಿಭಾಗದ ಪಟ್ಟಿ"
-url: "/history/symbolism"
+url: "/library/symbolism"
 footnote:
   en: ""
   kn: ""
