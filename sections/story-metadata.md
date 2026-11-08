@@ -13,9 +13,9 @@ fields:
       title: Know the Story
       intro: Discover the sacred mathas, venerable guru lineage, and revered presiding deities of Shri Shiroor Matha.
       tabs:
-        mathas: Mathas of Shiroor Matha
-        parampara: Guru Parampara
-        deities: Deities of Shiroor Matha
+        mathas: Matha
+        parampara: Parampare
+        deities: Deities
       search_mathas: Search mathas...
       search_deities: Search deities...
       no_results: No entries found matching your search.
@@ -32,9 +32,9 @@ fields:
       title: ಪರಂಪರೆಯ ಕಥೆ
       intro: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಮಠಗಳು, ಪರಂಪರೆಯ ಗುರುಗಳು ಮತ್ತು ಆರಾಧ್ಯ ದೇವತೆಗಳ ದಿವ್ಯ ಚರಿತ್ರೆಯನ್ನು ತಿಳಿಯಿರಿ.
       tabs:
-        mathas: ಶಿರೂರು ಮಠದ ಶಾಖಾ ಮಠಗಳು
-        parampara: ಗುರು ಪರಂಪರೆ
-        deities: ಶಿರೂರು ಮಠದ ಆರಾಧ್ಯ ದೇವರುಗಳು
+        mathas: ಮಠ
+        parampara: ಪರಂಪರೆ
+        deities: ವಿಗ್ರಹಗಳು
       search_mathas: ಮಠಗಳನ್ನು ಹುಡುಕಿ...
       search_deities: ದೇವರುಗಳನ್ನು ಹುಡುಕಿ...
       no_results: ಯಾವುದೇ ವಿವರಗಳು ಕಂಡುಬಂದಿಲ್ಲ.
