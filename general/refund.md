@@ -1,67 +1,60 @@
 ---
 kind: localized-copy
 fields:
-  pages.local_copy.refund_title:
-    en: Refund Policy
-    kn: ಮರುಪಾವತಿ ನೀತಿ
-  pages.local_copy.refund_heading_1:
-    en: 1. Donations (General)
-    kn: 1. ದೇಣಿಗೆಗಳು (ಸಾಮಾನ್ಯ)
-  pages.local_copy.refund_heading_2:
-    en: 2. Seva Offerings
-    kn: 2. ಸೇವಾ ಅರ್ಪಣೆಗಳು
-  pages.local_copy.refund_heading_3:
-    en: 3. How to Request a Refund
-    kn: 3. ಮರುಪಾವತಿಯನ್ನು ವಿನಂತಿಸುವುದು
-  pages.local_copy.refund_heading_4:
-    en: 4. Processing Time
-    kn: 4. ಪ್ರಕ್ರಿಯೆಯ ಅವಧಿ
-  pages.local_copy.refund_seva:
-    en: >-
-      If a booked seva cannot be performed due to circumstances at the Matha (e.g., unavailability on the
-      requested date), the amount will be refunded in full or the seva will be rescheduled at the devotee's
-      preference.
-    kn: >-
-      ಮಠದ ಪರಿಸ್ಥಿತಿಗಳಿಂದ (ಉದಾ. ಕೋರಿದ ದಿನಾಂಕದಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲದಿದ್ದರೆ) ಕಾಯ್ದಿರಿಸಿದ ಸೇವೆಯನ್ನು ನಡೆಸಲು
-      ಸಾಧ್ಯವಾಗದಿದ್ದಲ್ಲಿ ಪೂರ್ಣ ಮೊತ್ತವನ್ನು ಮರುಪಾವತಿಸಲಾಗುತ್ತದೆ ಅಥವಾ ಭಕ್ತರ ಆದ್ಯತೆಯಂತೆ ಸೇವೆಯನ್ನು
-      ಮರುನಿಗದಿಪಡಿಸಲಾಗುತ್ತದೆ.
-  pages.local_copy.refund_window:
-    en: >-
-      Refund requests for seva bookings must be submitted at least 48 hours before the scheduled date.
-      Requests received after this window will not be eligible for a refund.
-    kn: >-
-      ಸೇವೆಯ ಕಾಯ್ದಿರಿಸುವಿಕೆಗಾಗಿ ಮರುಪಾವತಿ ವಿನಂತಿಗಳನ್ನು ನಿಗದಿತ ದಿನಾಂಕಕ್ಕಿಂತ ಕನಿಷ್ಠ 48 ಗಂಟೆಗಳ ಮೊದಲು ಸಲ್ಲಿಸಬೇಕು. ಈ
-      ಅವಧಿಯ ನಂತರ ಬಂದ ವಿನಂತಿಗಳು ಮರುಪಾವತಿಗೆ ಅರ್ಹವಾಗುವುದಿಲ್ಲ.
-  pages.local_copy.refund_contact_before:
-    en: Email us at
-    kn: 'ನಮಗೆ ಇಮೇಲ್ ಮಾಡಿ:'
-  pages.local_copy.refund_email:
-    en: refund@shiroormatha.org
-    kn: refund@shiroormatha.org
-  pages.local_copy.refund_contact_after:
-    en: with your name, transaction ID, and reason for the request. We aim to respond within 2 business days.
-    kn: >-
-      ನಿಮ್ಮ ಹೆಸರು, ವ್ಯವಹಾರ ಗುರುತು ಮತ್ತು ವಿನಂತಿಯ ಕಾರಣವನ್ನು ಸೇರಿಸಿ. 2 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯಿಸುವ ಗುರಿ
-      ಹೊಂದಿದ್ದೇವೆ.
-  pages.local_copy.refund_processing:
-    en: >-
-      Approved refunds will be credited to the original payment method within 7–10 business days. Bank
-      processing times may vary.
-    kn: >-
-      ಅನುಮೋದಿತ ಮರುಪಾವತಿಗಳನ್ನು ಮೂಲ ಪಾವತಿ ವಿಧಾನಕ್ಕೆ 7–10 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಜಮಾ ಮಾಡಲಾಗುತ್ತದೆ. ಬ್ಯಾಂಕ್ ಪ್ರಕ್ರಿಯೆಯ
-      ಅವಧಿ ಬದಲಾಗಬಹುದು.
-  pages.detected.refund_donations:
-    en: >-
-      All voluntary donations to Shri Shiroor Matha are generally non-refundable, as they are offered to a
-      religious institution for charitable purposes. However, in the case of a duplicate payment or technical
-      error, we will process a full refund within 7–10 business days.
-    kn: >-
-      ಶ್ರೀ ಶಿರೂರು ಮಠಕ್ಕೆ ನೀಡುವ ಎಲ್ಲ ಸ್ವಯಂಪ್ರೇರಿತ ದೇಣಿಗೆಗಳು ಧಾರ್ಮಿಕ ಸಂಸ್ಥೆಗೆ ಧಾರ್ಮಿಕ ದತ್ತಿ ಉದ್ದೇಶಕ್ಕಾಗಿ
-      ನೀಡಲಾಗುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಮರುಪಾವತಿಯಾಗುವುದಿಲ್ಲ. ಆದರೆ ದ್ವಿಪಾವತಿ ಅಥವಾ ತಾಂತ್ರಿಕ ದೋಷದ ಸಂದರ್ಭದಲ್ಲಿ 7–10 ಕೆಲಸದ
-      ದಿನಗಳಲ್ಲಿ ಪೂರ್ಣ ಮರುಪಾವತಿಯನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತೇವೆ.
   page_metadata.refund:
     en:
       title: Refund Policy | Shri Shiroor Matha
     kn:
       title: ಮರುಪಾವತಿ ನೀತಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+  pages.local_copy.refund_title:
+    en: Refund and Cancellation Policy
+    kn: ಮರುಪಾವತಿ ಮತ್ತು ರದ್ದತಿ ನೀತಿ
+  pages.local_copy.refund_intro:
+    en: Shri Shiroor Matha follows a transparent policy regarding contributions and Seva bookings.
+    kn: ಶ್ರೀ ಶಿರೂರು ಮಠವು ಭಕ್ತರ ಕಾಣಿಕೆಗಳು ಮತ್ತು ಸೇವಾ ಕಾಯ್ದಿರಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪಾರದರ್ಶಕ ನೀತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ.
+  pages.local_copy.refund_heading_1:
+    en: 3.1 Seva Cancellations
+    kn: 3.1 ಸೇವಾ ರದ್ದತಿಗಳು
+  pages.local_copy.refund_seva_traditional_label:
+    en: "Traditional Sevas: "
+    kn: "ಸಾಂಪ್ರದಾಯಿಕ ಸೇವೆಗಳು: "
+  pages.local_copy.refund_seva_traditional:
+    en: Once a Seva is booked and the Sankalpa is performed, no refunds will be entertained as the spiritual ritual is considered concluded.
+    kn: ಸೇವೆಯನ್ನು ಕಾಯ್ದಿರಿಸಿ ಸಂಕಲ್ಪ ನೆರವೇರಿದ ನಂತರ, ಆಧ್ಯಾತ್ಮಿಕ ವಿಧಿವಿಧಾನಗಳು ಸಂಪನ್ನಗೊಂಡಿವೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುವುದರಿಂದ ಯಾವುದೇ ಮರುಪಾವತಿಯನ್ನು ನೀಡಲಾಗುವುದಿಲ್ಲ.
+  pages.local_copy.refund_rescheduling_label:
+    en: "Rescheduling: "
+    kn: "ದಿನಾಂಕ ಬದಲಾವಣೆ: "
+  pages.local_copy.refund_rescheduling:
+    en: If you are unable to attend or perform a booked Seva, please contact us at least 48 hours in advance. We may, at our discretion, reschedule the Seva to a later date.
+    kn: ಕಾಯ್ದಿರಿಸಿದ ಸೇವೆಗೆ ಹಾಜರಾಗಲು ಅಥವಾ ನೆರವೇರಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಕನಿಷ್ಠ 48 ಗಂಟೆಗಳ ಮುಂಚಿತವಾಗಿ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ. ನಮ್ಮ ವಿವೇಚನೆಗೆ ಅನುಗುಣವಾಗಿ, ಸೇವೆಯನ್ನು ಮುಂದಿನ ದಿನಾಂಕಕ್ಕೆ ಮರುನಿಗದಿಪಡಿಸಬಹುದು.
+  pages.local_copy.refund_heading_2:
+    en: 3.2 Donations and Kanikes
+    kn: 3.2 ದೇಣಿಗೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
+  pages.local_copy.refund_donations_1:
+    en: Donations made to the Matha are considered voluntary contributions. Refunds for donations are not permitted once the transaction is successful.
+    kn: ಮಠಕ್ಕೆ ನೀಡುವ ದೇಣಿಗೆಗಳನ್ನು ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆಗಳೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ವ್ಯವಹಾರ ಯಶಸ್ವಿಯಾದ ನಂತರ ದೇಣಿಗೆಗಳಿಗೆ ಯಾವುದೇ ಮರುಪಾವತಿಯನ್ನು ನೀಡಲಾಗುವುದಿಲ್ಲ.
+  pages.local_copy.refund_donations_2:
+    en: If a duplicate transaction occurs due to a technical error, the extra amount will be refunded after verification.
+    kn: ತಾಂತ್ರಿಕ ದೋಷದಿಂದಾಗಿ ಹೆಚ್ಚುವರಿ ಅಥವಾ ದ್ವಿಪಾವತಿ ವ್ಯವಹಾರ ಸಂಭವಿಸಿದಲ್ಲಿ, ಪರಿಶೀಲನೆಯ ನಂತರ ಹೆಚ್ಚುವರಿ ಮೊತ್ತವನ್ನು ಮರುಪಾವತಿಸಲಾಗುತ್ತದೆ.
+  pages.local_copy.refund_heading_3:
+    en: 3.3 Refund Process (Technical Errors)
+    kn: 3.3 ಮರುಪಾವತಿ ಪ್ರಕ್ರಿಯೆ (ತಾಂತ್ರಿಕ ದೋಷಗಳು)
+  pages.local_copy.refund_process_1:
+    en: In case of a failed transaction where the amount is deducted but the booking is not confirmed, the amount is usually rolled back by your bank automatically within 5-7 working days.
+    kn: ವ್ಯವಹಾರ ವಿಫಲಗೊಂಡು ಮೊತ್ತ ಕಡಿತಗೊಂಡಿದ್ದರೂ ಕಾಯ್ದಿರಿಸುವಿಕೆ ದೃಢೀಕರಣವಾಗದಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಸಾಮಾನ್ಯವಾಗಿ 5-7 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಮೊತ್ತವನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹಿಂತಿರುಗಿಸುತ್ತದೆ.
+  pages.local_copy.refund_process_email_before:
+    en: "If you believe a refund is due because of a technical double-payment, please email "
+    kn: "ತಾಂತ್ರಿಕ ದ್ವಿಪಾವತಿಯ ಕಾರಣದಿಂದ ಮರುಪಾವತಿ ಅಗತ್ಯವಿದೆ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ದಯವಿಟ್ಟು "
+  pages.local_copy.refund_process_email:
+    en: support@shiroormatha.org
+    kn: support@shiroormatha.org
+  pages.local_copy.refund_process_email_after:
+    en: " with your Transaction ID. Approved refunds will be processed to the original payment method within 10-15 business days."
+    kn: " ಗೆ ನಿಮ್ಮ ವ್ಯವಹಾರ ಗುರುತಿನ (Transaction ID) ವಿವರಗಳೊಂದಿಗೆ ಇಮೇಲ್ ಮಾಡಿ. ಅನುಮೋದಿತ ಮರುಪಾವತಿಗಳನ್ನು 10-15 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಮೂಲ ಪಾವತಿ ವಿಧಾನಕ್ಕೆ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ."
+  pages.local_copy.refund_heading_4:
+    en: 3.4 80G Receipts
+    kn: 3.4 80G ರಸೀದಿಗಳು
+  pages.local_copy.refund_80g:
+    en: Currently 80G is not applicable to donations made to the Matha.
+    kn: ಪ್ರಸ್ತುತ ಮಠಕ್ಕೆ ನೀಡಲಾಗುವ ದೇಣಿಗೆಗಳಿಗೆ 80G ತೆರಿಗೆ ವಿನಾಯಿತಿ ಅನ್ವಯಿಸುವುದಿಲ್ಲ.
 ---
