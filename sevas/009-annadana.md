@@ -1,50 +1,51 @@
 ---
-id: "seva-009-annadana"
+id: seva-009-annadana
 code: 9
 entity_id: 3
 event_id: 4
 title:
-  en: "Annadana"
-  kn: "ಅನ್ನದಾನ"
+  en: Annadana
+  kn: ಅನ್ನದಾನ
 name:
-  en: "Annadana"
-  kn: "ಅನ್ನದಾನ"
+  en: Annadana
+  kn: ಅನ್ನದಾನ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/009-annadana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/009-annadana.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=9"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=9
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Annadana offering to support the feeding of thousands of visiting pilgrims with sanctified Mahaprasada."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠಕ್ಕೆ ಆಗಮಿಸುವ ಸಾವಿರಾರು ಭಕ್ತರಿಗೆ ಅನ್ನಬ್ರಹ್ಮನ ದಿವ್ಯ ಪ್ರಸಾದ ವಿತರಣೆಗೆ ನೀಡುವ ಸೇವೆ."
+  en: Annadana offering to support the feeding of thousands of visiting pilgrims with sanctified Mahaprasada.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠಕ್ಕೆ ಆಗಮಿಸುವ ಸಾವಿರಾರು ಭಕ್ತರಿಗೆ ಅನ್ನಬ್ರಹ್ಮನ ದಿವ್ಯ ಪ್ರಸಾದ ವಿತರಣೆಗೆ ನೀಡುವ ಸೇವೆ.
 significance:
-  en: "Udupi is world-renowned as 'Anna Brahma Kshetra'; feeding devotees is the highest form of virtue."
-  kn: "ಉಡುಪಿಯು ಅನ್ನಬ್ರಹ್ಮ ಕ್ಷೇತ್ರವೆಂದು ಪ್ರಸಿದ್ಧ. ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ನೀಡುವುದರಿಂದ ಸಕಲ ಪಾಪಗಳು ಕಳೆದು ಮೋಕ್ಷ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ."
+  en: Udupi is world-renowned as 'Anna Brahma Kshetra'; feeding devotees is the highest form of virtue.
+  kn: ಉಡುಪಿಯು ಅನ್ನಬ್ರಹ್ಮ ಕ್ಷೇತ್ರವೆಂದು ಪ್ರಸಿದ್ಧ. ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ನೀಡುವುದರಿಂದ ಸಕಲ ಪಾಪಗಳು ಕಳೆದು ಮೋಕ್ಷ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # Annadana

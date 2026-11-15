@@ -4,11 +4,11 @@ position: 5
 name: Sri Vedavyasa Teertharu (ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು)
 name-en: Sri Vedavyasa Teertharu
 name-kn: ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು
-timePeriod: '1387–1404 CE (ಶಾ.ಶಕ ೧೩೨೬)'
-timePeriod-en: '1387–1404 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೩೮೭–೧೪೦೪ (ಶಾ.ಶಕ ೧೩೨೬)'
-shaka: '1326'
-shaka-kn: '೧೩೨೬'
+timePeriod: 1387–1404 CE (ಶಾ.ಶಕ ೧೩೨೬)
+timePeriod-en: 1387–1404 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೩೮೭–೧೪೦೪ (ಶಾ.ಶಕ ೧೩೨೬)
+shaka: "1326"
+shaka-kn: ೧೩೨೬
 samvatsara-en: Tarana
 samvatsara-kn: ತಾರಣ
 aradhana-en: Chaitra Shukla Pratipat
@@ -19,12 +19,11 @@ summary: |-
   Sri Vedavyasa Teertharu is the fifth pontiff of Sri Shiroor Matha, celebrated for his exceptional spiritual foresight as a Trikalajnani. He guided the dharma peetha for 17 years, upholding the sanctity of the lineage's worship traditions, and attained Paramadhama at Kashi Kshetra in 1404 CE.
 
   ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಐದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತ್ರಿಕಾಲಜ್ಞಾನಿಗಳಾಗಿದ್ದ ಇವರು ಧರ್ಮಪೀಠವನ್ನು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ, ಜ್ಞಾನ ಪ್ರಸಾರಗೈದು ಕ್ರಿ.ಶ. ೧೪೦೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಂಧಾಮ ಪಡೆದರು.
-summary-en: |-
-  Sri Vedavyasa Teertharu is the fifth pontiff of Sri Shiroor Matha, celebrated for his exceptional spiritual foresight as a Trikalajnani. He guided the dharma peetha for 17 years, upholding the sanctity of the lineage's worship traditions, and attained Paramadhama at Kashi Kshetra in 1404 CE.
-summary-kn: |-
-  ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಐದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತ್ರಿಕಾಲಜ್ಞಾನಿಗಳಾಗಿದ್ದ ಇವರು ಧರ್ಮಪೀಠವನ್ನು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ, ಜ್ಞಾನ ಪ್ರಸಾರಗೈದು ಕ್ರಿ.ಶ. ೧೪೦೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಂಧಾಮ ಪಡೆದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vedavyasa Teertharu is the fifth pontiff of Sri Shiroor Matha, celebrated for his exceptional spiritual foresight as a Trikalajnani. He guided the dharma peetha for 17 years, upholding the sanctity of the lineage's worship traditions, and attained Paramadhama at Kashi Kshetra in 1404 CE.
+summary-kn: ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಐದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತ್ರಿಕಾಲಜ್ಞಾನಿಗಳಾಗಿದ್ದ ಇವರು ಧರ್ಮಪೀಠವನ್ನು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ, ಜ್ಞಾನ ಪ್ರಸಾರಗೈದು ಕ್ರಿ.ಶ. ೧೪೦೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಂಧಾಮ ಪಡೆದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vedavyasa Teertharu (ಶ್ರೀ ವೇದವ್ಯಾಸ ತೀರ್ಥರು)

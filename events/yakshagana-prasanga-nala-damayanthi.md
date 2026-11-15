@@ -69,6 +69,7 @@ categories:
   - code: cultural
     en: Cultural
     kn: ಸಾಂಸ್ಕೃತಿಕ
+enabled: false
 ---
 
 # Yakshagana Prasanga: Nala Damayanthi
@@ -104,4 +105,3 @@ Grand Badaguthittu Yakshagana performance depicting the classic epic tale of "Na
 ### Gallery Images
 
 ![Yakshagana Prasanga: Nala Damayanthi - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif)
-

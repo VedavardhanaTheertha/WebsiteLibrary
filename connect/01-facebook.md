@@ -3,13 +3,14 @@ id: facebook
 order: 1
 platform: Facebook
 handle: "@shrishiroormuttudupi"
-audience: "11K+"
+audience: 11K+
 audience_label: Audience
-url: "https://www.facebook.com/shrishiroormuttudupi"
+url: https://www.facebook.com/shrishiroormuttudupi
 brand_color: "#1877F2"
-icon: "/icons/connect/facebook.svg"
+icon: /icons/connect/facebook.svg
 source_page: /connect
 source_section: Connect With Us
+enabled: true
 ---
 
 # Facebook

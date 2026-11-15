@@ -1,50 +1,51 @@
 ---
-id: "seva-026-navarathna-rathothsava"
+id: seva-026-navarathna-rathothsava
 code: 26
 entity_id: 3
 event_id: 4
 title:
-  en: "Navarathna Rathothsava"
-  kn: "ನವರತ್ನ ರಥೋತ್ಸವ"
+  en: Navarathna Rathothsava
+  kn: ನವರತ್ನ ರಥೋತ್ಸವ
 name:
-  en: "Navarathna Rathothsava"
-  kn: "ನವರತ್ನ ರಥೋತ್ಸವ"
+  en: Navarathna Rathothsava
+  kn: ನವರತ್ನ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 25000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/026-navarathna-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/026-navarathna-rathothsava.avif
 formatted_amount:
-  en: "₹25,000"
-  kn: "₹೨೫,೦೦೦"
-currency: "INR"
+  en: ₹25,000
+  kn: ₹೨೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=26"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=26
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Navarathna Rathotsava chariot adorned with radiant gemstones drawn along sacred Car Street."
-  kn: "ನವರತ್ನಗಳಿಂದ ಕಂಗೊಳಿಸುವ ಸುಂದರ ನವರತ್ನ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ದಿವ್ಯ ಮೆರವಣಿಗೆ ಸೇವೆ."
+  en: Navarathna Rathotsava chariot adorned with radiant gemstones drawn along sacred Car Street.
+  kn: ನವರತ್ನಗಳಿಂದ ಕಂಗೊಳಿಸುವ ಸುಂದರ ನವರತ್ನ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ದಿವ್ಯ ಮೆರವಣಿಗೆ ಸೇವೆ.
 significance:
-  en: "Harmonizing nine celestial planetary energies through the nine gems dedicated to Lord Krishna."
-  kn: "ನವರತ್ನ ರಥೋತ್ಸವದಿಂದ ನವಗ್ರಹ ದೋಷಗಳು ನಿವಾರಣೆಯಾಗಿ, ಸುಖ-ಸಮೃದ್ಧಿ ದೊರೆಯುತ್ತದೆ."
+  en: Harmonizing nine celestial planetary energies through the nine gems dedicated to Lord Krishna.
+  kn: ನವರತ್ನ ರಥೋತ್ಸವದಿಂದ ನವಗ್ರಹ ದೋಷಗಳು ನಿವಾರಣೆಯಾಗಿ, ಸುಖ-ಸಮೃದ್ಧಿ ದೊರೆಯುತ್ತದೆ.
+enabled: true
 ---
 
 # Navarathna Rathothsava

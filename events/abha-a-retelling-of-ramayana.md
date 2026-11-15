@@ -49,6 +49,7 @@ categories:
   - code: cultural
     en: Cultural
     kn: ಸಾಂಸ್ಕೃತಿಕ
+enabled: false
 ---
 
 # ABHA: A Retelling of Ramayana (Dance)
@@ -84,4 +85,3 @@ Acclaimed dance production "ABHA: A Retelling of Ramayana" through the perspecti
 ### Gallery Images
 
 ![ABHA: A Retelling of Ramayana (Dance) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/abha-ramayana.avif)
-

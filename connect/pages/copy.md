@@ -83,4 +83,5 @@ fields:
   connect_page.connect_intro:
     en: Join our growing spiritual community for updates, live sessions, and sacred teachings.
     kn: ನವೀಕರಣಗಳು, ನೇರ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಪವಿತ್ರ ಬೋಧನೆಗಳಿಗಾಗಿ ನಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಸಮುದಾಯಕ್ಕೆ ಸೇರಿ.
+enabled: true
 ---

@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಬಿಡದೆ ಭಜಿಸಿ ಬೊಮ್ಮ ಮೃಡ ಮುಖ್ಯ ಸುರರಿಗೆ

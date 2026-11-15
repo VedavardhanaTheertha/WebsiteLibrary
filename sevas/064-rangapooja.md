@@ -1,50 +1,51 @@
 ---
-id: "seva-064-rangapooja"
+id: seva-064-rangapooja
 code: 64
 entity_id: 3
 event_id: 4
 title:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 400
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/064-rangapooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/064-rangapooja.avif
 formatted_amount:
-  en: "₹400"
-  kn: "₹೪೦೦"
-currency: "INR"
+  en: ₹400
+  kn: ₹೪೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=64"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=64
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Rangapooja with artistic oil lamp arrangements before Lord Sri Mukhyaprana."
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ದೀಪಗಳ ಸಾಲಿನಿಂದ ರಂಗಸ್ಥಳವನ್ನು ಶೃಂಗರಿಸಿ ಮಾಡುವ ರಂಗಪೂಜೆ."
+  en: Rangapooja with artistic oil lamp arrangements before Lord Sri Mukhyaprana.
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ದೀಪಗಳ ಸಾಲಿನಿಂದ ರಂಗಸ್ಥಳವನ್ನು ಶೃಂಗರಿಸಿ ಮಾಡುವ ರಂಗಪೂಜೆ.
 significance:
-  en: "Illuminates spiritual intellect and bestows divine protection from adversity."
-  kn: "ರಂಗಪೂಜೆಯಿಂದ ಕುಟುಂಬಕ್ಕೆ ದೃಷ್ಟಿದೋಷ ನಿವಾರಣೆಯಾಗಿ ಸುಖಶಾಂತಿ ನೆಲೆಸುತ್ತದೆ."
+  en: Illuminates spiritual intellect and bestows divine protection from adversity.
+  kn: ರಂಗಪೂಜೆಯಿಂದ ಕುಟುಂಬಕ್ಕೆ ದೃಷ್ಟಿದೋಷ ನಿವಾರಣೆಯಾಗಿ ಸುಖಶಾಂತಿ ನೆಲೆಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Rangapooja

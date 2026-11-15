@@ -4,11 +4,11 @@ position: 20
 name: Sri Lakshminarayana Teertharu (II) (ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (೨))
 name-en: Sri Lakshminarayana Teertharu (II)
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (೨)
-timePeriod: '1677–1704 CE (ಶಾ.ಶಕ ೧೬೨೬)'
-timePeriod-en: '1677–1704 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೬೭೭–೧೭೦೪ (ಶಾ.ಶಕ ೧೬೨೬)'
-shaka: '1626'
-shaka-kn: '೧೬೨೬'
+timePeriod: 1677–1704 CE (ಶಾ.ಶಕ ೧೬೨೬)
+timePeriod-en: 1677–1704 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೬೭೭–೧೭೦೪ (ಶಾ.ಶಕ ೧೬೨೬)
+shaka: "1626"
+shaka-kn: ೧೬೨೬
 samvatsara-en: Tarana
 samvatsara-kn: ತಾರಣ
 aradhana-en: Margashirsha Krishna Navami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshminarayana Teertharu (the second pontiff bearing this name) is the twentieth pontiff of Sri Shiroor Matha, celebrated as a profound tattvajnani dedicated to continuous deity worship. He guided the samsthana for 27 years and reached Vishnu Pada at Udupi in 1704 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (ದ್ವಿತೀಯರು) ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತತ್ತ್ವಜ್ಞಾನಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೨೭ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೭೦೪ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshminarayana Teertharu (the second pontiff bearing this name) is the twentieth pontiff of Sri Shiroor Matha, celebrated as a profound tattvajnani dedicated to continuous deity worship. He guided the samsthana for 27 years and reached Vishnu Pada at Udupi in 1704 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (ದ್ವಿತೀಯರು) ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತತ್ತ್ವಜ್ಞಾನಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೨೭ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೭೦೪ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshminarayana Teertharu (the second pontiff bearing this name) is the twentieth pontiff of Sri Shiroor Matha, celebrated as a profound tattvajnani dedicated to continuous deity worship. He guided the samsthana for 27 years and reached Vishnu Pada at Udupi in 1704 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (ದ್ವಿತೀಯರು) ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತತ್ತ್ವಜ್ಞಾನಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೨೭ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೭೦೪ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshminarayana Teertharu (II) (ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ತೀರ್ಥರು (೨))

@@ -1,25 +1,26 @@
 ---
 id: service-before-sunrise
 title:
-  en: "Service Before Sunrise"
-  kn: "ಸೂರ್ಯೋದಯಕ್ಕೂ ಮುನ್ನ ಸೇವೆ"
+  en: Service Before Sunrise
+  kn: ಸೂರ್ಯೋದಯಕ್ಕೂ ಮುನ್ನ ಸೇವೆ
 summary:
-  en: "A placeholder story about volunteers preparing a sacred space before devotees arrive."
-  kn: "ಭಕ್ತರು ಬರುವ ಮೊದಲು ಪವಿತ್ರ ಸ್ಥಳವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸ್ವಯಂಸೇವಕರ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಕಥೆ."
+  en: A placeholder story about volunteers preparing a sacred space before devotees arrive.
+  kn: ಭಕ್ತರು ಬರುವ ಮೊದಲು ಪವಿತ್ರ ಸ್ಥಳವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸ್ವಯಂಸೇವಕರ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಕಥೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/service-before-sunrise.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/service-before-sunrise.avif
 tags:
   - code: seva
-    en: "seva"
-    kn: "ಸೇವೆ"
+    en: seva
+    kn: ಸೇವೆ
   - code: volunteers
-    en: "volunteers"
-    kn: "ಸ್ವಯಂಸೇವಕರು"
+    en: volunteers
+    kn: ಸ್ವಯಂಸೇವಕರು
   - code: morning
-    en: "morning"
-    kn: "ಮುಂಜಾನೆ"
+    en: morning
+    kn: ಮುಂಜಾನೆ
+enabled: false
 ---
 
 ## English

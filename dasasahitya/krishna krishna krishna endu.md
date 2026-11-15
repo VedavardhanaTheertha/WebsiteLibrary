@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವ್ಯಾಸರಾಜರು
 ankita-kn: ಶ್ರೀ ಕೃಷ್ಣ
 kruti: Sri Vyasarajaru
 ankita: Sri Krishna
+enabled: true
 ---
 
 # ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಕೃಷ್ಣಾ ಎಂದು ಮೂರು ಬಾರಿ ನೆನೆಯಿರೋ

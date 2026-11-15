@@ -13,12 +13,10 @@ sanctum:
   en: Shri Shiroor Moola Matha Sanctum
   kn: ಶ್ರೀ ಶಿರೂರು ಮೂಲ ಮಠದ ಸನ್ನಿಧಾನ
 summary:
-  en: >-
-    The sacred guardian deity consecrated in Treta Yuga by Sage Jabali on the banks of the Suvarna River,
-    protecting the spiritual hermitage of Shiroor Matha.
-  kn: >-
-    ತ್ರೇತಾಯುಗದಲ್ಲಿ ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳಿಂದ ಸುವರ್ಣ ನದಿಯ ತೀರದಲ್ಲಿ ಪ್ರತಿಷ್ಠಾಪಿತಗೊಂಡ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ರಕ್ಷಕ ಪ್ರಾಣದೇವರು.
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif"
+  en: The sacred guardian deity consecrated in Treta Yuga by Sage Jabali on the banks of the Suvarna River, protecting the spiritual hermitage of Shiroor Matha.
+  kn: ತ್ರೇತಾಯುಗದಲ್ಲಿ ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳಿಂದ ಸುವರ್ಣ ನದಿಯ ತೀರದಲ್ಲಿ ಪ್ರತಿಷ್ಠಾಪಿತಗೊಂಡ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ರಕ್ಷಕ ಪ್ರಾಣದೇವರು.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-symbolism.avif
+enabled: true
 ---
 
 # Lord Sri Mukhyaprana (Shiroor Moola Matha)

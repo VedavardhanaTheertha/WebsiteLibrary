@@ -48,6 +48,7 @@ categories:
   - code: classical
     en: Classical
     kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # Carnatic Vocal Concert by Sandeep Narayan
@@ -83,4 +84,3 @@ Classical Carnatic vocal concert rendered by Vidwan Sandeep Narayan, with Nishan
 ### Gallery Images
 
 ![Carnatic Vocal Concert by Sandeep Narayan - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-sandeep-narayan.avif)
-

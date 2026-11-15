@@ -1,50 +1,51 @@
 ---
-id: "seva-067-vayusthuthi-parayana"
+id: seva-067-vayusthuthi-parayana
 code: 67
 entity_id: 3
 event_id: 4
 title:
-  en: "Vayusthuthi Parayana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ"
+  en: Vayusthuthi Parayana
+  kn: ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ
 name:
-  en: "Vayusthuthi Parayana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ"
+  en: Vayusthuthi Parayana
+  kn: ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/067-vayusthuthi-parayana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/067-vayusthuthi-parayana.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=67"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=67
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Vayusthuthi Parayana chanting the sacred prayer composed by Sri Trivikrama Panditacharya."
-  kn: "ಶ್ರೀ ಹರಿವಾಯುಸ್ತುತಿಯನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ವೇದವಿದ್ವಾಂಸರಿಂದ ಪಾರಾಯಣ ಮಾಡಿಸುವ ಸೇವೆ."
+  en: Vayusthuthi Parayana chanting the sacred prayer composed by Sri Trivikrama Panditacharya.
+  kn: ಶ್ರೀ ಹರಿವಾಯುಸ್ತುತಿಯನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ವೇದವಿದ್ವಾಂಸರಿಂದ ಪಾರಾಯಣ ಮಾಡಿಸುವ ಸೇವೆ.
 significance:
-  en: "Protects against sudden perils and brings peace, prosperity, and spiritual growth."
-  kn: "ವಾಯುಸ್ತುತಿಯ ನಿತ್ಯ ಪಾರಾಯಣದಿಂದ ಜೀವನದಲ್ಲಿ ಎದುರಾಗುವ ಸಕಲ ವಿಘ್ನಗಳೂ ನಿವಾರಣೆಯಾಗುತ್ತವೆ."
+  en: Protects against sudden perils and brings peace, prosperity, and spiritual growth.
+  kn: ವಾಯುಸ್ತುತಿಯ ನಿತ್ಯ ಪಾರಾಯಣದಿಂದ ಜೀವನದಲ್ಲಿ ಎದುರಾಗುವ ಸಕಲ ವಿಘ್ನಗಳೂ ನಿವಾರಣೆಯಾಗುತ್ತವೆ.
+enabled: true
 ---
 
 # Vayusthuthi Parayana

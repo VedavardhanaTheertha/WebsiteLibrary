@@ -55,6 +55,7 @@ categories:
   - code: annadaana
     en: Annadaana
     kn: ಅನ್ನದಾನ
+enabled: false
 ---
 
 # Grand Green Horekanike Offering Procession
@@ -106,4 +107,3 @@ The maiden Horekanike voluntary offering procession for the Shiroor Paryaya, ded
 ![Grand Green Horekanike Offering Procession - Image 8](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-6.avif)
 
 ![Grand Green Horekanike Offering Procession - Image 9](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-5.avif)
-

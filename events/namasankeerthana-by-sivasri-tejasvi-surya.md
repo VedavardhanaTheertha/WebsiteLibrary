@@ -42,6 +42,7 @@ categories:
   - code: namasankeerthana
     en: Namasankeerthana
     kn: ನಾಮಸಂಕೀರ್ತನೆ
+enabled: false
 ---
 
 # Namasankeerthana by Sivasri Tejasvi Surya
@@ -77,4 +78,3 @@ Ecstatic congregational chanting and Namasankeerthana in the Sampradaya Dakshina
 ### Gallery Images
 
 ![Namasankeerthana by Sivasri Tejasvi Surya - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/namasankeerthana-tejasvi-surya.avif)
-

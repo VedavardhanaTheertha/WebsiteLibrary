@@ -1,24 +1,25 @@
 ---
 id: hari-vayu-stuti
 title:
-  en: "Hari Vayu Stuti"
-  kn: "ಹರಿವಾಯು ಸ್ತುತಿ"
+  en: Hari Vayu Stuti
+  kn: ಹರಿವಾಯು ಸ್ತುತಿ
 summary:
-  en: "A celebrated hymn honoring Lord Hari and Mukhyaprana."
-  kn: "ಶ್ರೀಹರಿ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರನ್ನು ಗೌರವಿಸುವ ಪ್ರಸಿದ್ಧ ಸ್ತೋತ್ರ."
+  en: A celebrated hymn honoring Lord Hari and Mukhyaprana.
+  kn: ಶ್ರೀಹರಿ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರನ್ನು ಗೌರವಿಸುವ ಪ್ರಸಿದ್ಧ ಸ್ತೋತ್ರ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: hari
-    en: "Hari"
-    kn: "ಹರಿ"
+    en: Hari
+    kn: ಹರಿ
   - code: vayu
-    en: "Vayu"
-    kn: "ವಾಯು"
+    en: Vayu
+    kn: ವಾಯು
   - code: stuti
-    en: "stuti"
-    kn: "ಸ್ತುತಿ"
+    en: stuti
+    kn: ಸ್ತುತಿ
+enabled: false
 ---
 
 ## English

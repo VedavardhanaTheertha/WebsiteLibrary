@@ -1,50 +1,51 @@
 ---
-id: "seva-003-donations"
+id: seva-003-donations
 code: 3
 entity_id: 3
 event_id: 4
 title:
-  en: "Donations"
-  kn: "ದೇಣಿಗೆ"
+  en: Donations
+  kn: ದೇಣಿಗೆ
 name:
-  en: "Donations"
-  kn: "ದೇಣಿಗೆ"
+  en: Donations
+  kn: ದೇಣಿಗೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/003-donations.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/003-donations.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=3"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=3
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "General donation supporting religious, educational, cultural, and community activities of Shri Shiroor Matha."
-  kn: "ಮಠದ ಧಾರ್ಮಿಕ, ಶೈಕ್ಷಣಿಕ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಮಾಜಮುಖಿ ಕಾರ್ಯಗಳಿಗೆ ಭಕ್ತರು ನೀಡುವ ಸಾಮಾನ್ಯ ದೇಣಿಗೆ."
+  en: General donation supporting religious, educational, cultural, and community activities of Shri Shiroor Matha.
+  kn: ಮಠದ ಧಾರ್ಮಿಕ, ಶೈಕ್ಷಣಿಕ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಮಾಜಮುಖಿ ಕಾರ್ಯಗಳಿಗೆ ಭಕ್ತರು ನೀಡುವ ಸಾಮಾನ್ಯ ದೇಣಿಗೆ.
 significance:
-  en: "Fostering temple restoration, veda pathashalas, and dharma prachara initiatives."
-  kn: "ಧರ್ಮ ಪ್ರಚಾರ, ವೇದ ಪಾಠಶಾಲೆ, ಸಮಾಜ ಸೇವೆ ಮತ್ತು ಧಾರ್ಮಿಕ ಕೈಂಕರ್ಯಗಳ ನಿರಂತರ ಬೆಳವಣಿಗೆಗೆ ನೆರವಾಗುವುದು."
+  en: Fostering temple restoration, veda pathashalas, and dharma prachara initiatives.
+  kn: ಧರ್ಮ ಪ್ರಚಾರ, ವೇದ ಪಾಠಶಾಲೆ, ಸಮಾಜ ಸೇವೆ ಮತ್ತು ಧಾರ್ಮಿಕ ಕೈಂಕರ್ಯಗಳ ನಿರಂತರ ಬೆಳವಣಿಗೆಗೆ ನೆರವಾಗುವುದು.
+enabled: true
 ---
 
 # Donations

@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಆರಿಗಾರೋ ಕೃಷ್ಣ ಶೂರಕುಮಾರನೆ

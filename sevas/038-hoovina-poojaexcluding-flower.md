@@ -1,50 +1,51 @@
 ---
-id: "seva-038-hoovina-poojaexcluding-flower"
+id: seva-038-hoovina-poojaexcluding-flower
 code: 38
 entity_id: 3
 event_id: 4
 title:
-  en: "Hoovina Pooja(Excluding Flower)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಹೂವು ಹೊರತುಪಡಿಸಿ)"
+  en: Hoovina Pooja(Excluding Flower)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಹೂವು ಹೊರತುಪಡಿಸಿ)
 name:
-  en: "Hoovina Pooja(Excluding Flower)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಹೂವು ಹೊರತುಪಡಿಸಿ)"
+  en: Hoovina Pooja(Excluding Flower)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಹೂವು ಹೊರತುಪಡಿಸಿ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 5000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/038-hoovina-poojaexcluding-flower.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/038-hoovina-poojaexcluding-flower.avif
 formatted_amount:
-  en: "₹5,000"
-  kn: "₹೫,೦೦೦"
-currency: "INR"
+  en: ₹5,000
+  kn: ₹೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=38"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=38
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Elaborate Pushpa Pooja archana ritual conducted inside the sanctum sanctorum."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅರ್ಚಕರಿಂದ ನಾನಾ ಬಗೆಯ ಪುಷ್ಪಾರ್ಚನೆಯನ್ನು ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ಮಾಡಿಸುವ ಸೇವೆ."
+  en: Elaborate Pushpa Pooja archana ritual conducted inside the sanctum sanctorum.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅರ್ಚಕರಿಂದ ನಾನಾ ಬಗೆಯ ಪುಷ್ಪಾರ್ಚನೆಯನ್ನು ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ಮಾಡಿಸುವ ಸೇವೆ.
 significance:
-  en: "Offering floral tribute to every limb of Lord Krishna, invoking serenity and happiness."
-  kn: "ಕೃಷ್ಣನ ಪ್ರತಿಯೊಂದು ಅಂಗಕ್ಕೂ ಪುಷ್ಪಗಳನ್ನು ಅರ್ಪಿಸಿ ಪೂಜಿಸುವ ನಯನಮನೋಹರ ಸೇವೆ."
+  en: Offering floral tribute to every limb of Lord Krishna, invoking serenity and happiness.
+  kn: ಕೃಷ್ಣನ ಪ್ರತಿಯೊಂದು ಅಂಗಕ್ಕೂ ಪುಷ್ಪಗಳನ್ನು ಅರ್ಪಿಸಿ ಪೂಜಿಸುವ ನಯನಮನೋಹರ ಸೇವೆ.
+enabled: true
 ---
 
 # Hoovina Pooja(Excluding Flower)

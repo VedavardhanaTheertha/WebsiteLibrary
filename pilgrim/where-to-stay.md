@@ -1,25 +1,26 @@
 ---
 id: where-to-stay
 title:
-  en: "Where to Stay"
-  kn: "ಎಲ್ಲಿ ತಂಗಬೇಕು"
+  en: Where to Stay
+  kn: ಎಲ್ಲಿ ತಂಗಬೇಕು
 summary:
-  en: "General considerations when choosing pilgrim accommodation in Udupi."
-  kn: "ಉಡುಪಿಯಲ್ಲಿ ಯಾತ್ರಿಕರ ವಸತಿಯನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ ಪರಿಗಣಿಸಬೇಕಾದ ಸಾಮಾನ್ಯ ಅಂಶಗಳು."
+  en: General considerations when choosing pilgrim accommodation in Udupi.
+  kn: ಉಡುಪಿಯಲ್ಲಿ ಯಾತ್ರಿಕರ ವಸತಿಯನ್ನು ಆಯ್ಕೆಮಾಡುವಾಗ ಪರಿಗಣಿಸಬೇಕಾದ ಸಾಮಾನ್ಯ ಅಂಶಗಳು.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/where-to-stay.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/where-to-stay.avif
 tags:
   - code: accommodation
-    en: "accommodation"
-    kn: "ವಸತಿ"
+    en: accommodation
+    kn: ವಸತಿ
   - code: pilgrims
-    en: "pilgrims"
-    kn: "ಯಾತ್ರಿಕರು"
+    en: pilgrims
+    kn: ಯಾತ್ರಿಕರು
   - code: planning
-    en: "planning"
-    kn: "ಯೋಜನೆ"
+    en: planning
+    kn: ಯೋಜನೆ
+enabled: false
 ---
 
 ## English

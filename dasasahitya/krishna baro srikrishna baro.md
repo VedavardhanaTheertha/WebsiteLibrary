@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
+enabled: true
 ---
 
 # ಕೃಷ್ಣ ಬಾರೋ ಶ್ರೀಕೃಷ್ಣ ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನೀ ಬಾರಯ್ಯ

@@ -35,37 +35,37 @@ country:
   kn: ಭಾರತ
 pincode: "576124"
 phone: ""
-email: "support@shiroormatha.org"
+email: support@shiroormatha.org
 timings:
   en: "Morning: 6:30 AM – 11:30 AM | Evening: 5:00 PM – 7:30 PM"
   kn: "ಬೆಳಿಗ್ಗೆ: ೬:೩೦ – ೧೧:೩೦ | ಸಂಜೆ: ೫:೦೦ – ೭:೩೦"
 darshan_timings:
   morning:
-    en: "6:30 AM – 11:30 AM"
-    kn: "ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೧:೩೦"
+    en: 6:30 AM – 11:30 AM
+    kn: ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೧:೩೦
   evening:
-    en: "5:00 PM – 7:30 PM"
-    kn: "ಸಂಜೆ ೫:೦೦ – ೭:೩೦"
+    en: 5:00 PM – 7:30 PM
+    kn: ಸಂಜೆ ೫:೦೦ – ೭:೩೦
   special:
-    en: "Special festive poojas during Krishna Janmashtami, Gokulashtami, and Annual Rathotsava"
-    kn: "ಶ್ರೀಕೃಷ್ಣ ಜನ್ಮಾಷ್ಟಮಿ, ಗೋಕುಲಾಷ್ಟಮಿ ಹಾಗೂ ವಾರ್ಷಿಕ ರಥೋತ್ಸವ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ಪೂಜೆಗಳು"
+    en: Special festive poojas during Krishna Janmashtami, Gokulashtami, and Annual Rathotsava
+    kn: ಶ್ರೀಕೃಷ್ಣ ಜನ್ಮಾಷ್ಟಮಿ, ಗೋಕುಲಾಷ್ಟಮಿ ಹಾಗೂ ವಾರ್ಷಿಕ ರಥೋತ್ಸವ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ಪೂಜೆಗಳು
 deity:
-  en: "Lord Sri Gopalakrishna"
-  kn: "ಶ್ರೀ ಗೋಪಾಲಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Gopalakrishna
+  kn: ಶ್ರೀ ಗೋಪಾಲಕೃಷ್ಣ ದೇವರು
 established_by:
-  en: "Ancient temple renovated by Sri Lakshmindra Teertharu (28th Pontiff of Shri Shiroor Matha)"
+  en: Ancient temple renovated by Sri Lakshmindra Teertharu (28th Pontiff of Shri Shiroor Matha)
   kn: "ಪ್ರಾಚೀನ ಸನ್ನಿಧಾನ (ಜೀರ್ಣೋದ್ಧಾರ: ಶ್ರೀ ಶೀರೂರು ಮಠದ ೨೮ ನೆಯ ಯತಿ ಶ್ರೀ ಮದ್ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು)"
 history_era:
-  en: "Ancient heritage, major reconstruction in 20th Century CE"
-  kn: "ಪ್ರಾಚೀನ ಪರಂಪರೆ, ೨೦ ನೆಯ ಶತಮಾನದಲ್ಲಿ ಮಹಾ ಜೀರ್ಣೋದ್ಧಾರ"
-map_link: "https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Santhyaru+Byrampalli+576124"
-embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15539.0!2d74.88!3d13.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sSanthyaru+Gopalakrishna+Temple!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin"
+  en: Ancient heritage, major reconstruction in 20th Century CE
+  kn: ಪ್ರಾಚೀನ ಪರಂಪರೆ, ೨೦ ನೆಯ ಶತಮಾನದಲ್ಲಿ ಮಹಾ ಜೀರ್ಣೋದ್ಧಾರ
+map_link: https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Santhyaru+Byrampalli+576124
+embed_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15539.0!2d74.88!3d13.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sSanthyaru+Gopalakrishna+Temple!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin
 coordinates:
   latitude: 13.3524
   longitude: 74.8812
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
 images:
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
 tags:
   - branch-matha
   - santhyaru
@@ -73,11 +73,11 @@ tags:
   - gopalakrishna
   - lakshmindra-teertharu
 description:
-  en: "A historic branch matha of Shri Shiroor Matha situated in Santhyaru, Byrampalli village. Revered for its ancient shrine of Lord Sri Gopalakrishna, renovated by the 28th pontiff Sri Lakshmindra Teertharu."
-  kn: "ಬೈರಂಪಳ್ಳಿ ಗ್ರಾಮದ ಸಾಂತ್ಯಾರಿನಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಾಚೀನ ಶಾಖಾ ಮಠ. ೨೮ ನೆಯ ಪೀಠಾಧಿಪತಿಗಳಾದ ಶ್ರೀ ಮದ್ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರಿಂದ ಜೀರ್ಣೋದ್ಧಾರಗೊಂಡ ಶ್ರೀ ಗೋಪಾಲಕೃಷ್ಣ ದೇವರ ಪವಿತ್ರ ಸನ್ನಿಧಿ."
+  en: A historic branch matha of Shri Shiroor Matha situated in Santhyaru, Byrampalli village. Revered for its ancient shrine of Lord Sri Gopalakrishna, renovated by the 28th pontiff Sri Lakshmindra Teertharu.
+  kn: ಬೈರಂಪಳ್ಳಿ ಗ್ರಾಮದ ಸಾಂತ್ಯಾರಿನಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಾಚೀನ ಶಾಖಾ ಮಠ. ೨೮ ನೆಯ ಪೀಠಾಧಿಪತಿಗಳಾದ ಶ್ರೀ ಮದ್ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರಿಂದ ಜೀರ್ಣೋದ್ಧಾರಗೊಂಡ ಶ್ರೀ ಗೋಪಾಲಕೃಷ್ಣ ದೇವರ ಪವಿತ್ರ ಸನ್ನಿಧಿ.
 details:
-  en: "Nestled in the lush agricultural landscape of Byrampalli, this branch provides spiritual solace to surrounding villages with daily archana, seasonal festivals, and pastoral blessings."
-  kn: "ಬೈರಂಪಳ್ಳಿಯ ಹಸಿರು ಪ್ರಕೃತಿಯ ನಡುವೆ ನೆಲೆಸಿರುವ ಈ ಶಾಖೆಯು ನಿತ್ಯ ಅರ್ಚನೆ, ಧಾರ್ಮಿಕ ಉತ್ಸವಗಳು ಹಾಗೂ ಗ್ರಾಮೀಣ ಜನತೆಯ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯುದಯದ ಪವಿತ್ರ ಕೇಂದ್ರವಾಗಿದೆ."
+  en: Nestled in the lush agricultural landscape of Byrampalli, this branch provides spiritual solace to surrounding villages with daily archana, seasonal festivals, and pastoral blessings.
+  kn: ಬೈರಂಪಳ್ಳಿಯ ಹಸಿರು ಪ್ರಕೃತಿಯ ನಡುವೆ ನೆಲೆಸಿರುವ ಈ ಶಾಖೆಯು ನಿತ್ಯ ಅರ್ಚನೆ, ಧಾರ್ಮಿಕ ಉತ್ಸವಗಳು ಹಾಗೂ ಗ್ರಾಮೀಣ ಜನತೆಯ ಆಧ್ಯಾತ್ಮಿಕ ಅಭ್ಯುದಯದ ಪವಿತ್ರ ಕೇಂದ್ರವಾಗಿದೆ.
 categories:
   - code: branch-matha
     en: Branch Matha
@@ -85,6 +85,7 @@ categories:
   - code: temple
     en: Temple Complex
     kn: ದೇವಸ್ಥಾನ ಕ್ಷೇತ್ರ
+enabled: true
 ---
 
 # Shri Gopalakrishna Matha (Santhyaru)

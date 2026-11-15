@@ -1,25 +1,26 @@
 ---
 id: a-life-shaped-by-daily-worship
 title:
-  en: "A Life Shaped by Daily Worship"
-  kn: "ದೈನಂದಿನ ಪೂಜೆಯಿಂದ ರೂಪುಗೊಂಡ ಜೀವನ"
+  en: A Life Shaped by Daily Worship
+  kn: ದೈನಂದಿನ ಪೂಜೆಯಿಂದ ರೂಪುಗೊಂಡ ಜೀವನ
 summary:
-  en: "A temporary chronicle about the quiet discipline of returning to worship each day."
-  kn: "ಪ್ರತಿದಿನ ಪೂಜೆಗೆ ಮರಳುವ ಮೌನ ಶಿಸ್ತಿನ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ."
+  en: A temporary chronicle about the quiet discipline of returning to worship each day.
+  kn: ಪ್ರತಿದಿನ ಪೂಜೆಗೆ ಮರಳುವ ಮೌನ ಶಿಸ್ತಿನ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/a-life-shaped-by-daily-worship.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/a-life-shaped-by-daily-worship.avif
 tags:
   - code: sadhana
-    en: "sadhana"
-    kn: "ಸಾಧನೆ"
+    en: sadhana
+    kn: ಸಾಧನೆ
   - code: worship
-    en: "worship"
-    kn: "ಪೂಜೆ"
+    en: worship
+    kn: ಪೂಜೆ
   - code: discipline
-    en: "discipline"
-    kn: "ಶಿಸ್ತು"
+    en: discipline
+    kn: ಶಿಸ್ತು
+enabled: false
 ---
 
 ## English

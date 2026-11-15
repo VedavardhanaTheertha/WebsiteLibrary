@@ -1,24 +1,25 @@
 ---
 id: gita-bhashya
 title:
-  en: "Gita Bhashya"
-  kn: "ಗೀತಾ ಭಾಷ್ಯ"
+  en: Gita Bhashya
+  kn: ಗೀತಾ ಭಾಷ್ಯ
 summary:
-  en: "A guide to Madhwa's commentary on the Bhagavad Gita."
-  kn: "ಭಗವದ್ಗೀತೆಯ ಮೇಲಿನ ಮಧ್ವರ ಭಾಷ್ಯಕ್ಕೆ ಮಾರ್ಗದರ್ಶಿ."
+  en: A guide to Madhwa's commentary on the Bhagavad Gita.
+  kn: ಭಗವದ್ಗೀತೆಯ ಮೇಲಿನ ಮಧ್ವರ ಭಾಷ್ಯಕ್ಕೆ ಮಾರ್ಗದರ್ಶಿ.
 status:
-  en: "Introductory guide"
-  kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
+  en: Introductory guide
+  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
 tags:
   - code: bhagavad-gita
-    en: "Bhagavad Gita"
-    kn: "ಭಗವದ್ಗೀತೆ"
+    en: Bhagavad Gita
+    kn: ಭಗವದ್ಗೀತೆ
   - code: madhwa
-    en: "Madhwa"
-    kn: "ಮಾಧ್ವ"
+    en: Madhwa
+    kn: ಮಾಧ್ವ
   - code: commentary
-    en: "commentary"
-    kn: "ಭಾಷ್ಯ"
+    en: commentary
+    kn: ಭಾಷ್ಯ
+enabled: false
 ---
 
 ## English

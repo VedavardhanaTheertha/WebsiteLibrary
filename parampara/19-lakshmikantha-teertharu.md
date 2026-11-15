@@ -4,11 +4,11 @@ position: 19
 name: Sri Lakshmikantha Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು)
 name-en: Sri Lakshmikantha Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು
-timePeriod: '1672–1677 CE (ಶಾ.ಶಕ ೧೫೯೯)'
-timePeriod-en: '1672–1677 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೬೭೨–೧೬೭೭ (ಶಾ.ಶಕ ೧೫೯೯)'
-shaka: '1599'
-shaka-kn: '೧೫೯೯'
+timePeriod: 1672–1677 CE (ಶಾ.ಶಕ ೧೫೯೯)
+timePeriod-en: 1672–1677 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೬೭೨–೧೬೭೭ (ಶಾ.ಶಕ ೧೫೯೯)
+shaka: "1599"
+shaka-kn: ೧೫೯೯
 samvatsara-en: Pingala
 samvatsara-kn: ಪಿಂಗಳ
 aradhana-en: Kartika Shukla Ashtami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmikantha Teertharu is the nineteenth pontiff of Sri Shiroor Matha, revered as a deeply detached ascetic of saintly gentleness who was continuously absorbed in the worship of Lord Sri Krishna and Lord Sri Vittala. He adorned the peetha for 5 years and entered Vrindavana at Udupi in 1677 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಅಪಾರ ವಿರಕ್ತಿ ಹಾಗೂ ಸಾಧು ಸಜ್ಜನಿಕೆಯ ಮಹಾಯತಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ ಮತ್ತು ಶ್ರೀವಿಠಲ ಪೂಜೆಯಲ್ಲಿ ನಿರತರಾಗಿ ೫ ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೬೭೭ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-summary-en: |-
-  Sri Lakshmikantha Teertharu is the nineteenth pontiff of Sri Shiroor Matha, revered as a deeply detached ascetic of saintly gentleness who was continuously absorbed in the worship of Lord Sri Krishna and Lord Sri Vittala. He adorned the peetha for 5 years and entered Vrindavana at Udupi in 1677 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಅಪಾರ ವಿರಕ್ತಿ ಹಾಗೂ ಸಾಧು ಸಜ್ಜನಿಕೆಯ ಮಹಾಯತಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ ಮತ್ತು ಶ್ರೀವಿಠಲ ಪೂಜೆಯಲ್ಲಿ ನಿರತರಾಗಿ ೫ ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೬೭೭ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmikantha Teertharu is the nineteenth pontiff of Sri Shiroor Matha, revered as a deeply detached ascetic of saintly gentleness who was continuously absorbed in the worship of Lord Sri Krishna and Lord Sri Vittala. He adorned the peetha for 5 years and entered Vrindavana at Udupi in 1677 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಅಪಾರ ವಿರಕ್ತಿ ಹಾಗೂ ಸಾಧು ಸಜ್ಜನಿಕೆಯ ಮಹಾಯತಿಗಳಾದ ಇವರು ಶ್ರೀಕೃಷ್ಣ ಮತ್ತು ಶ್ರೀವಿಠಲ ಪೂಜೆಯಲ್ಲಿ ನಿರತರಾಗಿ ೫ ವರ್ಷ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೬೭೭ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmikantha Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಕಾಂತ ತೀರ್ಥರು)

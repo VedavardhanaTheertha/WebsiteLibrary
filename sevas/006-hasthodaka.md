@@ -1,50 +1,51 @@
 ---
-id: "seva-006-hasthodaka"
+id: seva-006-hasthodaka
 code: 6
 entity_id: 3
 event_id: 4
 title:
-  en: "Hasthodaka"
-  kn: "ಹಸ್ತೋದಕ"
+  en: Hasthodaka
+  kn: ಹಸ್ತೋದಕ
 name:
-  en: "Hasthodaka"
-  kn: "ಹಸ್ತೋದಕ"
+  en: Hasthodaka
+  kn: ಹಸ್ತೋದಕ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/006-hasthodaka.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/006-hasthodaka.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=6"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=6
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Hasthodaka offering to Jagadguru Sri Madhwacharya and the holy Vrindavanas of the Shiroor Matha lineage."
-  kn: "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ."
+  en: Hasthodaka offering to Jagadguru Sri Madhwacharya and the holy Vrindavanas of the Shiroor Matha lineage.
+  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ.
 significance:
-  en: "Honoring the lineage of saintly teachers and invoking their eternal guidance and blessings."
-  kn: "ಜ್ಞಾನಭಕ್ತಿ ಪ್ರದಾಯಕರಾದ ಗುರುಗಳ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ ಅವರ ದಿವ್ಯ ಆಶೀರ್ವಾದ ಪಡೆಯುವುದು."
+  en: Honoring the lineage of saintly teachers and invoking their eternal guidance and blessings.
+  kn: ಜ್ಞಾನಭಕ್ತಿ ಪ್ರದಾಯಕರಾದ ಗುರುಗಳ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ ಅವರ ದಿವ್ಯ ಆಶೀರ್ವಾದ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Hasthodaka

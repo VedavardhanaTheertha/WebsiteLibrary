@@ -1,50 +1,51 @@
 ---
-id: "seva-063-sundarakanda-parayana"
+id: seva-063-sundarakanda-parayana
 code: 63
 entity_id: 3
 event_id: 4
 title:
-  en: "Sundarakanda Parayana"
-  kn: "ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ"
+  en: Sundarakanda Parayana
+  kn: ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ
 name:
-  en: "Sundarakanda Parayana"
-  kn: "ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ"
+  en: Sundarakanda Parayana
+  kn: ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/063-sundarakanda-parayana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/063-sundarakanda-parayana.avif
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=63"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=63
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Sundarakanda Parayana from Srimad Ramayana celebrating Hanuman's triumph across the ocean."
-  kn: "ಶ್ರೀಮದ್ರಾಮಾಯಣದ ಭಕ್ತಿರಸ ಪ್ರಧಾನವಾದ ಸುಂದರಕಾಂಡವನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿಯಲ್ಲಿ ಪಠಿಸುವ ಸೇವೆ."
+  en: Sundarakanda Parayana from Srimad Ramayana celebrating Hanuman's triumph across the ocean.
+  kn: ಶ್ರೀಮದ್ರಾಮಾಯಣದ ಭಕ್ತಿರಸ ಪ್ರಧಾನವಾದ ಸುಂದರಕಾಂಡವನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿಯಲ್ಲಿ ಪಠಿಸುವ ಸೇವೆ.
 significance:
-  en: "Brings immense hope, resolves marital and financial problems, and brings triumph over impossible hurdles."
-  kn: "ಸುಂದರಕಾಂಡ ಪಾರಾಯಣದಿಂದ ಕಷ್ಟಕಾರ್ಪಣ್ಯಗಳು ಕರಗಿ, ಜಯ, ಶಾಂತಿ ಮತ್ತು ಸಂತೋಷ ಲಭಿಸುತ್ತದೆ."
+  en: Brings immense hope, resolves marital and financial problems, and brings triumph over impossible hurdles.
+  kn: ಸುಂದರಕಾಂಡ ಪಾರಾಯಣದಿಂದ ಕಷ್ಟಕಾರ್ಪಣ್ಯಗಳು ಕರಗಿ, ಜಯ, ಶಾಂತಿ ಮತ್ತು ಸಂತೋಷ ಲಭಿಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Sundarakanda Parayana

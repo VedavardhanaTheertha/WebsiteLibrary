@@ -13,4 +13,5 @@ fields:
   contact_enquiry_sub:
     en: "For seva bookings, volunteering, donations, or any other enquiry, write to us at:"
     kn: "ಸೇವೆ, ಸ್ವಯಂಸೇವಕ, ದೇಣಿಗೆ ಅಥವಾ ಇತರ ವಿಚಾರಣೆಗಾಗಿ ಇಲ್ಲಿ ಬರೆಯಿರಿ:"
+enabled: true
 ---

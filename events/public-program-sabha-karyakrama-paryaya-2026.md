@@ -45,6 +45,7 @@ categories:
   - code: sabha
     en: Sabha
     kn: ಸಭಾ ಕಾರ್ಯಕ್ರಮ
+enabled: false
 ---
 
 # Paryaya Public Program | Sabha Karyakrama
@@ -80,4 +81,3 @@ Grand public convention (Sabha Karyakrama) held in the benign divine presence of
 ### Gallery Images
 
 ![Paryaya Public Program | Sabha Karyakrama - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/public-sabha-karyakrama-2026.avif)
-

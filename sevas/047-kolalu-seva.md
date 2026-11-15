@@ -1,50 +1,51 @@
 ---
-id: "seva-047-kolalu-seva"
+id: seva-047-kolalu-seva
 code: 47
 entity_id: 3
 event_id: 4
 title:
-  en: "Kolalu Seva"
-  kn: "ಕೊಳಲು ಸೇವೆ"
+  en: Kolalu Seva
+  kn: ಕೊಳಲು ಸೇವೆ
 name:
-  en: "Kolalu Seva"
-  kn: "ಕೊಳಲು ಸೇವೆ"
+  en: Kolalu Seva
+  kn: ಕೊಳಲು ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/047-kolalu-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/047-kolalu-seva.avif
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=47"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=47
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Kolalu (Flute) Seva offering the divine flute to Lord Venugopala Krishna."
-  kn: "ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ಕೋಮಲ ಹಸ್ತಗಳಿಗೆ ಚಿನ್ನ/ಬೆಳ್ಳಿಯ ಕೊಳಲನ್ನು ಸಮರ್ಪಿಸಿ ಮಾಡುವ ಸಂಗೀತ ಸೇವೆ."
+  en: Kolalu (Flute) Seva offering the divine flute to Lord Venugopala Krishna.
+  kn: ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ಕೋಮಲ ಹಸ್ತಗಳಿಗೆ ಚಿನ್ನ/ಬೆಳ್ಳಿಯ ಕೊಳಲನ್ನು ಸಮರ್ಪಿಸಿ ಮಾಡುವ ಸಂಗೀತ ಸೇವೆ.
 significance:
-  en: "Attunes the devotee's heart to divine harmony, sweet speech, and artistic wisdom."
-  kn: "ಗಾನಲೋಲನಾದ ಕೃಷ್ಣನಿಗೆ ಕೊಳಲು ಸಮರ್ಪಿಸಿ, ಮಾತು ಮತ್ತು ಜೀವನದಲ್ಲಿ ಮಾಧುರ್ಯವನ್ನು ತುಂಬಿಕೊಳ್ಳುವುದು."
+  en: Attunes the devotee's heart to divine harmony, sweet speech, and artistic wisdom.
+  kn: ಗಾನಲೋಲನಾದ ಕೃಷ್ಣನಿಗೆ ಕೊಳಲು ಸಮರ್ಪಿಸಿ, ಮಾತು ಮತ್ತು ಜೀವನದಲ್ಲಿ ಮಾಧುರ್ಯವನ್ನು ತುಂಬಿಕೊಳ್ಳುವುದು.
+enabled: true
 ---
 
 # Kolalu Seva

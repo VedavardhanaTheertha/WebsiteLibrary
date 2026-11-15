@@ -1,50 +1,51 @@
 ---
-id: "seva-008-thottilu-pooje"
+id: seva-008-thottilu-pooje
 code: 8
 entity_id: 3
 event_id: 4
 title:
-  en: "Thottilu pooje"
-  kn: "ತೊಟ್ಟಿಲು ಪೂಜೆ"
+  en: Thottilu pooje
+  kn: ತೊಟ್ಟಿಲು ಪೂಜೆ
 name:
-  en: "Thottilu pooje"
-  kn: "ತೊಟ್ಟಿಲು ಪೂಜೆ"
+  en: Thottilu pooje
+  kn: ತೊಟ್ಟಿಲು ಪೂಜೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/008-thottilu-pooje.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/008-thottilu-pooje.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=8"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=8
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Sacred Thottilu (Cradle) Pooja placing infant or prayer in the divine cradle of Bala Krishna for child welfare."
-  kn: "ಬಾಲಕೃಷ್ಣನ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮಗುವನ್ನು ಮಲಗಿಸಿ ಆಶೀರ್ವಾದ ಪಡೆಯುವ ಸಂತಾನ ಭಾಗ್ಯ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣದ ಪವಿತ್ರ ಪೂಜೆ."
+  en: Sacred Thottilu (Cradle) Pooja placing infant or prayer in the divine cradle of Bala Krishna for child welfare.
+  kn: ಬಾಲಕೃಷ್ಣನ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮಗುವನ್ನು ಮಲಗಿಸಿ ಆಶೀರ್ವಾದ ಪಡೆಯುವ ಸಂತಾನ ಭಾಗ್ಯ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣದ ಪವಿತ್ರ ಪೂಜೆ.
 significance:
-  en: "Bestowing the blessing of progeny, good health, and long life to children under Lord Krishna's protection."
-  kn: "ಸಂತಾನ ಸೌಭಾಗ್ಯ, ಮಕ್ಕಳ ದೀರ್ಘಾಯುಷ್ಯ, ಉತ್ತಮ ಆರೋಗ್ಯ ಮತ್ತು ವಿದ್ಯೆಯ ಸಿದ್ಧಿಗಾಗಿ ಬಾಲಕೃಷ್ಣನಿಗೆ ಮಾಡುವ ಸೇವೆ."
+  en: Bestowing the blessing of progeny, good health, and long life to children under Lord Krishna's protection.
+  kn: ಸಂತಾನ ಸೌಭಾಗ್ಯ, ಮಕ್ಕಳ ದೀರ್ಘಾಯುಷ್ಯ, ಉತ್ತಮ ಆರೋಗ್ಯ ಮತ್ತು ವಿದ್ಯೆಯ ಸಿದ್ಧಿಗಾಗಿ ಬಾಲಕೃಷ್ಣನಿಗೆ ಮಾಡುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Thottilu pooje

@@ -1,49 +1,50 @@
 ---
-id: "seva-094-upanayanadi-havanagalige-kanike"
+id: seva-094-upanayanadi-havanagalige-kanike
 code: 94
 entity_id: 3
 event_id: 4
 title:
-  en: "Upanayanadi Havanagalige Kanike"
-  kn: "ಉಪನಯನಾದಿ ಹವನಗಳಿಗೆ ಕಾಣಿಕೆ"
+  en: Upanayanadi Havanagalige Kanike
+  kn: ಉಪನಯನಾದಿ ಹವನಗಳಿಗೆ ಕಾಣಿಕೆ
 name:
-  en: "Upanayanadi Havanagalige Kanike"
-  kn: "ಉಪನಯನಾದಿ ಹವನಗಳಿಗೆ ಕಾಣಿಕೆ"
+  en: Upanayanadi Havanagalige Kanike
+  kn: ಉಪನಯನಾದಿ ಹವನಗಳಿಗೆ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 2500
 formatted_amount:
-  en: "₹2,500"
-  kn: "₹೨,೫೦೦"
-currency: "INR"
+  en: ₹2,500
+  kn: ₹೨,೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=94"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=94
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Kanike contribution for conducting Upanayana (sacred thread ceremony) and Vedic havanas at the Matha."
-  kn: "ಶ್ರೀ ಮಠದ ಆಶ್ರಯದಲ್ಲಿ ಉಪನಯನ, ಬ್ರಹ್ಮೋಪದೇಶ ಹಾಗೂ ವೈದಿಕ ಹವನಗಳನ್ನು ನೆರವೇರಿಸಲು ಸಮರ್ಪಿಸುವ ಕಾಣಿಕೆ."
+  en: Kanike contribution for conducting Upanayana (sacred thread ceremony) and Vedic havanas at the Matha.
+  kn: ಶ್ರೀ ಮಠದ ಆಶ್ರಯದಲ್ಲಿ ಉಪನಯನ, ಬ್ರಹ್ಮೋಪದೇಶ ಹಾಗೂ ವೈದಿಕ ಹವನಗಳನ್ನು ನೆರವೇರಿಸಲು ಸಮರ್ಪಿಸುವ ಕಾಣಿಕೆ.
 significance:
-  en: "Supports the initiation of young boys into Vedic studies and preservation of Sanatana Dharma."
-  kn: "ವಟುಗಳಿಗೆ ಉಪನಯನ ಸಂಸ್ಕಾರ ಮತ್ತು ಗಾಯತ್ರೀ ಉಪದೇಶ ನೀಡುವ ವೈದಿಕ ಸಂಸ್ಕೃತಿಯ ಮಹತ್ವದ ಸೇವೆ."
+  en: Supports the initiation of young boys into Vedic studies and preservation of Sanatana Dharma.
+  kn: ವಟುಗಳಿಗೆ ಉಪನಯನ ಸಂಸ್ಕಾರ ಮತ್ತು ಗಾಯತ್ರೀ ಉಪದೇಶ ನೀಡುವ ವೈದಿಕ ಸಂಸ್ಕೃತಿಯ ಮಹತ್ವದ ಸೇವೆ.
+enabled: true
 ---
 
 # Upanayanadi Havanagalige Kanike

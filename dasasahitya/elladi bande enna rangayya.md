@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
 ankita-kn: ರಂಗ ವಿಠಲ
 kruti: Sri Sripadarajaru
 ankita: Ranga vittala
+enabled: true
 ---
 
 # ಎಲ್ಲಾಡಿ ಬಂದೆ ಎನ್ನ ರಂಗಯ್ಯ ನೀ ಎಲ್ಲಾಡಿ ಬಂದೆ ಮುದ್ದು ಕೃಷ್ಣಯ್ಯ

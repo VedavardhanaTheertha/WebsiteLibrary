@@ -1,25 +1,26 @@
 ---
 id: flowers-as-offering
 title:
-  en: "Flowers as Offering"
-  kn: "ಸಮರ್ಪಣೆಯಾಗಿ ಹೂವುಗಳು"
+  en: Flowers as Offering
+  kn: ಸಮರ್ಪಣೆಯಾಗಿ ಹೂವುಗಳು
 summary:
-  en: "Why freshness, fragrance, beauty, and intention meet in a floral offering."
-  kn: "ತಾಜಾತನ, ಸುಗಂಧ, ಸೌಂದರ್ಯ ಮತ್ತು ಭಾವನೆಗಳು ಪುಷ್ಪಾರ್ಚನೆಯಲ್ಲಿ ಏಕೆ ಒಂದಾಗುತ್ತವೆ."
+  en: Why freshness, fragrance, beauty, and intention meet in a floral offering.
+  kn: ತಾಜಾತನ, ಸುಗಂಧ, ಸೌಂದರ್ಯ ಮತ್ತು ಭಾವನೆಗಳು ಪುಷ್ಪಾರ್ಚನೆಯಲ್ಲಿ ಏಕೆ ಒಂದಾಗುತ್ತವೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/flowers-as-offering.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/flowers-as-offering.avif
 tags:
   - code: flowers
-    en: "flowers"
-    kn: "ಹೂವುಗಳು"
+    en: flowers
+    kn: ಹೂವುಗಳು
   - code: offering
-    en: "offering"
-    kn: "ಸಮರ್ಪಣೆ"
+    en: offering
+    kn: ಸಮರ್ಪಣೆ
   - code: pooja
-    en: "pooja"
-    kn: "ಪೂಜೆ"
+    en: pooja
+    kn: ಪೂಜೆ
+enabled: false
 ---
 
 ## English

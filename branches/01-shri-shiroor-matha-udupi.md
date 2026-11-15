@@ -28,39 +28,39 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576101"
-phone: "+91 8203551440"
-email: "support@shiroormatha.org"
+phone: +91 8203551440
+email: support@shiroormatha.org
 timings:
   en: "Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 8:00 PM (Special festival timings apply)"
   kn: "ಬೆಳಿಗ್ಗೆ: ೬:೦೦ – ೧೨:೦೦ | ಸಂಜೆ: ೪:೦೦ – ೮:೦೦ (ಹಬ್ಬ-ಉತ್ಸವಗಳಲ್ಲಿ ವಿಶೇಷ ಸಮಯ)"
 darshan_timings:
   morning:
-    en: "6:00 AM – 12:00 PM"
-    kn: "ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦"
+    en: 6:00 AM – 12:00 PM
+    kn: ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦
   evening:
-    en: "4:00 PM – 8:00 PM"
-    kn: "ಸಂಜೆ ೪:೦೦ – ೮:೦೦"
+    en: 4:00 PM – 8:00 PM
+    kn: ಸಂಜೆ ೪:೦೦ – ೮:೦೦
   special:
-    en: "Extended hours during Paryaya and major festivals"
-    kn: "ಪರ್ಯಾಯ ಹಾಗೂ ಪ್ರಮುಖ ಹಬ್ಬಗಳ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ವಿಸ್ತೃತ ದರ್ಶನ"
+    en: Extended hours during Paryaya and major festivals
+    kn: ಪರ್ಯಾಯ ಹಾಗೂ ಪ್ರಮುಖ ಹಬ್ಬಗಳ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ವಿಸ್ತೃತ ದರ್ಶನ
 deity:
-  en: "Lord Sri Vittala Devaru (Anna Vittala), Lord Sri Krishna, Lord Mukhyaprana"
-  kn: "ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ), ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Lord Sri Vittala Devaru (Anna Vittala), Lord Sri Krishna, Lord Mukhyaprana
+  kn: ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ), ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 established_by:
-  en: "Jagadguru Sri Madhwacharyaru & Sri Vamana Teertharu (Current complex built by Sri Lakshmi Manohara Teertharu)"
+  en: Jagadguru Sri Madhwacharyaru & Sri Vamana Teertharu (Current complex built by Sri Lakshmi Manohara Teertharu)
   kn: "ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು (ಪ್ರಸ್ತುತ ಮಠದ ನಿರ್ಮಾಣ: ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು)"
 history_era:
   en: "13th Century CE (Current Car Street premises: 18th Century CE)"
   kn: "೧೩ ನೆಯ ಶತಮಾನ (ಪ್ರಸ್ತುತ ರಥಬೀದಿ ಕಟ್ಟಡ: ೧೮ ನೆಯ ಶತಮಾನ)"
-map_link: "https://maps.google.com/?q=Shri+Shiroor+Matha+Car+Street+Udupi+576101"
-embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9233.347524341423!2d74.75549457330835!3d13.341291260751618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcbb68aa25f743%3A0x59d1deca3a507a9f!2sShri%20Shiroor%20Matha!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin"
+map_link: https://maps.google.com/?q=Shri+Shiroor+Matha+Car+Street+Udupi+576101
+embed_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9233.347524341423!2d74.75549457330835!3d13.341291260751618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcbb68aa25f743%3A0x59d1deca3a507a9f!2sShri%20Shiroor%20Matha!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin
 coordinates:
   latitude: 13.341291
   longitude: 74.755495
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
 images:
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
 tags:
   - main-matha
   - udupi
@@ -69,11 +69,11 @@ tags:
   - headquarters
   - paryaya
 description:
-  en: "The administrative headquarters and principal town seat of Shri Shiroor Matha, located on the sacred Car Street of Udupi adjacent to Sri Krishna Matha. Houses the divine icon of Pattada Devaru Sri Vittala Devaru (Anna Vittala)."
-  kn: "ಉಡುಪಿಯ ರಥಬೀದಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಸನಿಹದಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಧಾನ ಆಡಳಿತ ಕೇಂದ್ರ ಹಾಗೂ ನಗರ ಪೀಠ. ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಅನುಗ್ರಹಿತ ಸಂಸ್ಥಾನದ ಪಟ್ಟದ ದೇವರಾದ ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ) ಇಲ್ಲಿ ವಿರಾಜಮಾನರಾಗಿದ್ದಾರೆ."
+  en: The administrative headquarters and principal town seat of Shri Shiroor Matha, located on the sacred Car Street of Udupi adjacent to Sri Krishna Matha. Houses the divine icon of Pattada Devaru Sri Vittala Devaru (Anna Vittala).
+  kn: ಉಡುಪಿಯ ರಥಬೀದಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಸನಿಹದಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಧಾನ ಆಡಳಿತ ಕೇಂದ್ರ ಹಾಗೂ ನಗರ ಪೀಠ. ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಅನುಗ್ರಹಿತ ಸಂಸ್ಥಾನದ ಪಟ್ಟದ ದೇವರಾದ ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ) ಇಲ್ಲಿ ವಿರಾಜಮಾನರಾಗಿದ್ದಾರೆ.
 details:
-  en: "Serving as the epicentre of Shiroor Matha's spiritual, administrative, and cultural activities, this branch coordinates the historic biennial Udupi Paryaya, daily Annadaana, Veda pathashalas, and religious discourses."
-  kn: "ಶ್ರೀ ಶೀರೂರು ಮಠದ ಆಧ್ಯಾತ್ಮಿಕ, ಸಾಂಸ್ಕೃತಿಕ ಹಾಗೂ ಆಡಳಿತಾತ್ಮಕ ಚಟುವಟಿಕೆಗಳ ಕೇಂದ್ರಬಿಂದುವಾಗಿದ್ದು, ಐತಿಹಾಸಿಕ ದ್ವೈವಾರ್ಷಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವಗಳು, ನಿತ್ಯ ಅನ್ನದಾನ, ವೇದ ಪಾಠ ಹಾಗೂ ಧಾರ್ಮಿಕ ಪ್ರವಚನಗಳನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ."
+  en: Serving as the epicentre of Shiroor Matha's spiritual, administrative, and cultural activities, this branch coordinates the historic biennial Udupi Paryaya, daily Annadaana, Veda pathashalas, and religious discourses.
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಆಧ್ಯಾತ್ಮಿಕ, ಸಾಂಸ್ಕೃತಿಕ ಹಾಗೂ ಆಡಳಿತಾತ್ಮಕ ಚಟುವಟಿಕೆಗಳ ಕೇಂದ್ರಬಿಂದುವಾಗಿದ್ದು, ಐತಿಹಾಸಿಕ ದ್ವೈವಾರ್ಷಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವಗಳು, ನಿತ್ಯ ಅನ್ನದಾನ, ವೇದ ಪಾಠ ಹಾಗೂ ಧಾರ್ಮಿಕ ಪ್ರವಚನಗಳನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ.
 categories:
   - code: main-matha
     en: Main Matha
@@ -81,6 +81,7 @@ categories:
   - code: headquarters
     en: Headquarters
     kn: ಪ್ರಧಾನ ಕಾರ್ಯಾಲಯ
+enabled: true
 ---
 
 # Shri Shiroor Matha (Udupi)

@@ -1,25 +1,26 @@
 ---
 id: chanting-for-steadiness
 title:
-  en: "Chanting for Steadiness"
-  kn: "ಸ್ಥಿರತೆಗಾಗಿ ಪಠಣ"
+  en: Chanting for Steadiness
+  kn: ಸ್ಥಿರತೆಗಾಗಿ ಪಠಣ
 summary:
-  en: "Using familiar, properly learned recitation to support attention and composure."
-  kn: "ಚೆನ್ನಾಗಿ ಕಲಿತ ಪರಿಚಿತ ಪಠಣದಿಂದ ಗಮನ ಮತ್ತು ಮನೋಸ್ಥೈರ್ಯಕ್ಕೆ ಬೆಂಬಲ ನೀಡುವುದು."
+  en: Using familiar, properly learned recitation to support attention and composure.
+  kn: ಚೆನ್ನಾಗಿ ಕಲಿತ ಪರಿಚಿತ ಪಠಣದಿಂದ ಗಮನ ಮತ್ತು ಮನೋಸ್ಥೈರ್ಯಕ್ಕೆ ಬೆಂಬಲ ನೀಡುವುದು.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/chanting-for-steadiness.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/chanting-for-steadiness.avif
 tags:
   - code: chanting
-    en: "chanting"
-    kn: "ಜಪ"
+    en: chanting
+    kn: ಜಪ
   - code: attention
-    en: "attention"
-    kn: "ಗಮನ"
+    en: attention
+    kn: ಗಮನ
   - code: composure
-    en: "composure"
-    kn: "ಮನೋಸ್ಥೈರ್ಯ"
+    en: composure
+    kn: ಮನೋಸ್ಥೈರ್ಯ
+enabled: false
 ---
 
 ## English

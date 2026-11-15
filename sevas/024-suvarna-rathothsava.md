@@ -1,50 +1,51 @@
 ---
-id: "seva-024-suvarna-rathothsava"
+id: seva-024-suvarna-rathothsava
 code: 24
 entity_id: 3
 event_id: 4
 title:
-  en: "Suvarna Rathothsava"
-  kn: "ಸುವರ್ಣ ರಥೋತ್ಸವ"
+  en: Suvarna Rathothsava
+  kn: ಸುವರ್ಣ ರಥೋತ್ಸವ
 name:
-  en: "Suvarna Rathothsava"
-  kn: "ಸುವರ್ಣ ರಥೋತ್ಸವ"
+  en: Suvarna Rathothsava
+  kn: ಸುವರ್ಣ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 30000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/024-suvarna-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/024-suvarna-rathothsava.avif
 formatted_amount:
-  en: "₹30,000"
-  kn: "₹೩೦,೦೦೦"
-currency: "INR"
+  en: ₹30,000
+  kn: ₹೩೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=24"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=24
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "The glorious Suvarna Rathotsava (Golden Chariot) procession illuminating Udupi Car Street."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣರ ಉತ್ಸವಮೂರ್ತಿಗಳನ್ನು ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕುಳ್ಳಿರಿಸಿ ರಥಬೀದಿಯಲ್ಲಿ ಸಂಭ್ರಮದಿಂದ ಮೆರವಣಿಗೆ ಮಾಡುವ ಸೇವೆ."
+  en: The glorious Suvarna Rathotsava (Golden Chariot) procession illuminating Udupi Car Street.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣರ ಉತ್ಸವಮೂರ್ತಿಗಳನ್ನು ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕುಳ್ಳಿರಿಸಿ ರಥಬೀದಿಯಲ್ಲಿ ಸಂಭ್ರಮದಿಂದ ಮೆರವಣಿಗೆ ಮಾಡುವ ಸೇವೆ.
 significance:
-  en: "Bestowing regal tribute to Lord Krishna and bringing divine effulgence to the devotee's life."
-  kn: "ಸುಂದರ ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ಮೆರವಣಿಗೆ ಮಾಡಿ, ಸಕಲ ಪಾಪಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವ ಸೇವೆ."
+  en: Bestowing regal tribute to Lord Krishna and bringing divine effulgence to the devotee's life.
+  kn: ಸುಂದರ ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ಮೆರವಣಿಗೆ ಮಾಡಿ, ಸಕಲ ಪಾಪಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Suvarna Rathothsava

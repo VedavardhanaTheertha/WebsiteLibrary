@@ -1,50 +1,51 @@
 ---
-id: "seva-051-shayanothsavaekanthaseva"
+id: seva-051-shayanothsavaekanthaseva
 code: 51
 entity_id: 3
 event_id: 4
 title:
-  en: "Shayanothsava(EkanthaSeva)"
-  kn: "ಶಯನೋತ್ಸವ (ಏಕಾಂತ ಸೇವೆ)"
+  en: Shayanothsava(EkanthaSeva)
+  kn: ಶಯನೋತ್ಸವ (ಏಕಾಂತ ಸೇವೆ)
 name:
-  en: "Shayanothsava(EkanthaSeva)"
-  kn: "ಶಯನೋತ್ಸವ (ಏಕಾಂತ ಸೇವೆ)"
+  en: Shayanothsava(EkanthaSeva)
+  kn: ಶಯನೋತ್ಸವ (ಏಕಾಂತ ಸೇವೆ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/051-shayanothsavaekanthaseva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/051-shayanothsavaekanthaseva.avif
 formatted_amount:
-  en: "₹300"
-  kn: "₹೩೦೦"
-currency: "INR"
+  en: ₹300
+  kn: ₹೩೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=51"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=51
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Shayanotsava (Ekantha Seva) gently putting the deity to rest with lullabies at day's conclusion."
-  kn: "ದಿನದ ಕೊನೆಯಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನನ್ನು ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮಲಗಿಸಿ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಶಾಂತ ಶಯನೋತ್ಸವ ಸೇವೆ."
+  en: Shayanotsava (Ekantha Seva) gently putting the deity to rest with lullabies at day's conclusion.
+  kn: ದಿನದ ಕೊನೆಯಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನನ್ನು ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮಲಗಿಸಿ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಶಾಂತ ಶಯನೋತ್ಸವ ಸೇವೆ.
 significance:
-  en: "The peaceful culmination of daily worship, blessing the devotee with restful sleep and protection."
-  kn: "ದಿನದ ಕೊನೆಯಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ಮಲಗಿಸಿ ಜೋಗುಳ ಹಾಡುವ ಅತ್ಯಂತ ಭಾವಪೂರ್ಣ ಸೇವೆ."
+  en: The peaceful culmination of daily worship, blessing the devotee with restful sleep and protection.
+  kn: ದಿನದ ಕೊನೆಯಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ಮಲಗಿಸಿ ಜೋಗುಳ ಹಾಡುವ ಅತ್ಯಂತ ಭಾವಪೂರ್ಣ ಸೇವೆ.
+enabled: true
 ---
 
 # Shayanothsava(EkanthaSeva)

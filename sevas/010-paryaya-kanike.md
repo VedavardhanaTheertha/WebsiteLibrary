@@ -1,50 +1,51 @@
 ---
-id: "seva-010-paryaya-kanike"
+id: seva-010-paryaya-kanike
 code: 10
 entity_id: 3
 event_id: 4
 title:
-  en: "Paryaya Kanike"
-  kn: "ಪರ್ಯಾಯ ಕಾಣಿಕೆ"
+  en: Paryaya Kanike
+  kn: ಪರ್ಯಾಯ ಕಾಣಿಕೆ
 name:
-  en: "Paryaya Kanike"
-  kn: "ಪರ್ಯಾಯ ಕಾಣಿಕೆ"
+  en: Paryaya Kanike
+  kn: ಪರ್ಯಾಯ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 5000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/010-paryaya-kanike.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/010-paryaya-kanike.avif
 formatted_amount:
-  en: "₹5,000"
-  kn: "₹೫,೦೦೦"
-currency: "INR"
+  en: ₹5,000
+  kn: ₹೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=10"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=10
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Special Paryaya Kanike dedicated to the grandeur and conduct of the Shiroor Matha biennial Paryaya Mahotsava."
-  kn: "ಶ್ರೀ ಶಿರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ."
+  en: Special Paryaya Kanike dedicated to the grandeur and conduct of the Shiroor Matha biennial Paryaya Mahotsava.
+  kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ.
 significance:
-  en: "Contributing to the glorious bi-annual worship of Lord Sri Krishna during Shiroor Matha's Paryaya tenure."
-  kn: "ಶಿರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ."
+  en: Contributing to the glorious bi-annual worship of Lord Sri Krishna during Shiroor Matha's Paryaya tenure.
+  kn: ಶಿರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ.
+enabled: true
 ---
 
 # Paryaya Kanike

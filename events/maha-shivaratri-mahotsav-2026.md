@@ -47,6 +47,7 @@ categories:
   - code: cultural
     en: Cultural
     kn: ಸಾಂಸ್ಕೃತಿಕ
+enabled: false
 ---
 
 # Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏
@@ -84,4 +85,3 @@ You and your family are cordially invited to the holy Maha Shivaratri Mahotsav t
 ![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif)
 
 ![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-2.avif)
-

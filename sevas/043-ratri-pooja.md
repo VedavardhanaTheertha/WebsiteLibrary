@@ -1,50 +1,51 @@
 ---
-id: "seva-043-ratri-pooja"
+id: seva-043-ratri-pooja
 code: 43
 entity_id: 3
 event_id: 4
 title:
-  en: "Ratri Pooja"
-  kn: "ರಾತ್ರಿ ಪೂಜೆ"
+  en: Ratri Pooja
+  kn: ರಾತ್ರಿ ಪೂಜೆ
 name:
-  en: "Ratri Pooja"
-  kn: "ರಾತ್ರಿ ಪೂಜೆ"
+  en: Ratri Pooja
+  kn: ರಾತ್ರಿ ಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/043-ratri-pooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/043-ratri-pooja.avif
 formatted_amount:
-  en: "₹1,200"
-  kn: "₹೧,೨೦೦"
-currency: "INR"
+  en: ₹1,200
+  kn: ₹೧,೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=43"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=43
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Night worship (Ratri Pooja) featuring peaceful twilight rituals, chamara service, and aarthi."
-  kn: "ರಾತ್ರಿಯ ವೇಳೆ ಮಂತ್ರೋಚ್ಚಾರಣೆ ಮತ್ತು ಚಾಮರ ಸೇವೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಪವಿತ್ರ ರಾತ್ರಿ ಪೂಜೆ."
+  en: Night worship (Ratri Pooja) featuring peaceful twilight rituals, chamara service, and aarthi.
+  kn: ರಾತ್ರಿಯ ವೇಳೆ ಮಂತ್ರೋಚ್ಚಾರಣೆ ಮತ್ತು ಚಾಮರ ಸೇವೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಪವಿತ್ರ ರಾತ್ರಿ ಪೂಜೆ.
 significance:
-  en: "Calms the senses, purifies the mind at day's close, and bestows peaceful rest and protection."
-  kn: "ದಿನದ ಅಂತ್ಯದಲ್ಲಿ ಕೃಷ್ಣನಿಗೆ ನಮನ ಸಲ್ಲಿಸಿ, ಮಾನಸಿಕ ನೆಮ್ಮದಿ ಮತ್ತು ದೈವಿಕ ರಕ್ಷಣೆ ಪಡೆಯುವುದು."
+  en: Calms the senses, purifies the mind at day's close, and bestows peaceful rest and protection.
+  kn: ದಿನದ ಅಂತ್ಯದಲ್ಲಿ ಕೃಷ್ಣನಿಗೆ ನಮನ ಸಲ್ಲಿಸಿ, ಮಾನಸಿಕ ನೆಮ್ಮದಿ ಮತ್ತು ದೈವಿಕ ರಕ್ಷಣೆ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Ratri Pooja

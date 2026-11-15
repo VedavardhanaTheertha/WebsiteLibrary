@@ -46,6 +46,7 @@ categories:
   - code: pooja
     en: Pooja
     kn: ಧಾನ್ಯ ಮುಹೂರ್ತ
+enabled: false
 ---
 
 # Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha
@@ -83,4 +84,3 @@ The auspicious fourth preliminary muhurtha of Paryaya (Dhanya Muhurtha) performe
 ![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-1.avif)
 
 ![Shiroor Paryaya Pre-Paryaya Dhanya Muhurtha - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/dhanya-muhurtha-2.avif)
-

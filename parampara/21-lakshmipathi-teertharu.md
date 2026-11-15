@@ -4,11 +4,11 @@ position: 21
 name: Sri Lakshmipathi Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು)
 name-en: Sri Lakshmipathi Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು
-timePeriod: '1704–1720 CE (ಶಾ.ಶಕ ೧೬೪೨)'
-timePeriod-en: '1704–1720 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೭೦೪–೧೭೨೦ (ಶಾ.ಶಕ ೧೬೪೨)'
-shaka: '1642'
-shaka-kn: '೧೬೪೨'
+timePeriod: 1704–1720 CE (ಶಾ.ಶಕ ೧೬೪೨)
+timePeriod-en: 1704–1720 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೭೦೪–೧೭೨೦ (ಶಾ.ಶಕ ೧೬೪೨)
+shaka: "1642"
+shaka-kn: ೧೬೪೨
 samvatsara-en: Sharvari
 samvatsara-kn: ಶಾರ್ವರಿ
 aradhana-en: Bhadrapada Shukla Dashami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmipathi Teertharu is the twenty-first pontiff of Sri Shiroor Matha, famous for discovering the sacred idol of Sri Venugopala Krishna following a divine dream and establishing the renowned Papooje Matha near Hiriadka. He guided the peetha for 16 years and entered Vrindavana at Papooje Matha in 1720 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದೈವಿಕ ಸ್ವಪ್ನದ ಆದೇಶದಂತೆ ಹುತ್ತವನ್ನು ಅಗೆದು ಶ್ರೀ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ದಿವ್ಯ ವಿಗ್ರಹವನ್ನು ಸಾಕ್ಷಾತ್ಕರಿಸಿ ಪಾಪೂಜೆ ಮಠವನ್ನು ಸ್ಥಾಪಿಸಿದ ಮಹಿಮರು. ೧೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ಪಾಪೂಜೆ ಮಠದಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-summary-en: |-
-  Sri Lakshmipathi Teertharu is the twenty-first pontiff of Sri Shiroor Matha, famous for discovering the sacred idol of Sri Venugopala Krishna following a divine dream and establishing the renowned Papooje Matha near Hiriadka. He guided the peetha for 16 years and entered Vrindavana at Papooje Matha in 1720 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದೈವಿಕ ಸ್ವಪ್ನದ ಆದೇಶದಂತೆ ಹುತ್ತವನ್ನು ಅಗೆದು ಶ್ರೀ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ದಿವ್ಯ ವಿಗ್ರಹವನ್ನು ಸಾಕ್ಷಾತ್ಕರಿಸಿ ಪಾಪೂಜೆ ಮಠವನ್ನು ಸ್ಥಾಪಿಸಿದ ಮಹಿಮರು. ೧೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ಪಾಪೂಜೆ ಮಠದಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmipathi Teertharu is the twenty-first pontiff of Sri Shiroor Matha, famous for discovering the sacred idol of Sri Venugopala Krishna following a divine dream and establishing the renowned Papooje Matha near Hiriadka. He guided the peetha for 16 years and entered Vrindavana at Papooje Matha in 1720 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದೈವಿಕ ಸ್ವಪ್ನದ ಆದೇಶದಂತೆ ಹುತ್ತವನ್ನು ಅಗೆದು ಶ್ರೀ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ದಿವ್ಯ ವಿಗ್ರಹವನ್ನು ಸಾಕ್ಷಾತ್ಕರಿಸಿ ಪಾಪೂಜೆ ಮಠವನ್ನು ಸ್ಥಾಪಿಸಿದ ಮಹಿಮರು. ೧೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ಪಾಪೂಜೆ ಮಠದಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmipathi Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು)

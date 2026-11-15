@@ -1,50 +1,51 @@
 ---
-id: "seva-040-madhyahna-mahapooja"
+id: seva-040-madhyahna-mahapooja
 code: 40
 entity_id: 3
 event_id: 4
 title:
-  en: "Madhyahna Mahapooja"
-  kn: "ಮಧ್ಯಾಹ್ನ ಮಹಾಪೂಜೆ"
+  en: Madhyahna Mahapooja
+  kn: ಮಧ್ಯಾಹ್ನ ಮಹಾಪೂಜೆ
 name:
-  en: "Madhyahna Mahapooja"
-  kn: "ಮಧ್ಯಾಹ್ನ ಮಹಾಪೂಜೆ"
+  en: Madhyahna Mahapooja
+  kn: ಮಧ್ಯಾಹ್ನ ಮಹಾಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 2500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/040-madhyahna-mahapooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/040-madhyahna-mahapooja.avif
 formatted_amount:
-  en: "₹2,500"
-  kn: "₹೨,೫೦೦"
-currency: "INR"
+  en: ₹2,500
+  kn: ₹೨,೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=40"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=40
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Midday Mahapooja, the central and most majestic of the 14 daily worship rituals established by Sri Madhwacharya."
-  kn: "ಉಡುಪಿಯ ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಮಧ್ಯಾಹ್ನ ನೆರವೇರುವ ಪ್ರಧಾನ ಷೋಡಶೋಪಚಾರ ಮಹಾಪೂಜೆಯ ಸೇವೆ."
+  en: Midday Mahapooja, the central and most majestic of the 14 daily worship rituals established by Sri Madhwacharya.
+  kn: ಉಡುಪಿಯ ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಮಧ್ಯಾಹ್ನ ನೆರವೇರುವ ಪ್ರಧಾನ ಷೋಡಶೋಪಚಾರ ಮಹಾಪೂಜೆಯ ಸೇವೆ.
 significance:
-  en: "The centerpiece of daily devotion where the Lord receives royal offerings, music, and aarthi."
-  kn: "ದಿನದ ಪ್ರಮುಖ ಪೂಜೆಯಾಗಿದ್ದು, ಷೋಡಶೋಪಚಾರಗಳಿಂದ ಕೃಷ್ಣನನ್ನು ತೃಪ್ತಿಪಡಿಸಿ ಮಹಾಪ್ರಸಾದ ಪಡೆಯುವ ಸೇವೆ."
+  en: The centerpiece of daily devotion where the Lord receives royal offerings, music, and aarthi.
+  kn: ದಿನದ ಪ್ರಮುಖ ಪೂಜೆಯಾಗಿದ್ದು, ಷೋಡಶೋಪಚಾರಗಳಿಂದ ಕೃಷ್ಣನನ್ನು ತೃಪ್ತಿಪಡಿಸಿ ಮಹಾಪ್ರಸಾದ ಪಡೆಯುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Madhyahna Mahapooja

@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪ್ರಾಣೇಶ ವಿಠಲ ದಾಸರು
 ankita-kn: ಪ್ರಾಣೇಶ ವಿಠಲ
 kruti: Sri Pranesha Vittala Dasaru
 ankita: Pranesha Vittala
+enabled: true
 ---
 
 # ಬಂದಾ ಗೋವಿಂದಾ ಮುಕುಂದಾ

@@ -1,49 +1,50 @@
 ---
-id: "seva-079-hoovina-poojeexcluding-flowers"
+id: seva-079-hoovina-poojeexcluding-flowers
 code: 79
 entity_id: 3
 event_id: 4
 title:
-  en: "Hoovina Pooje(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Hoovina Pooje(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 name:
-  en: "Hoovina Pooje(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Hoovina Pooje(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 category:
-  code: "bhageerathi-sannidhi"
-  en: "Bhageerathi Sannidhi Sevas"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)"
+  code: bhageerathi-sannidhi
+  en: Bhageerathi Sannidhi Sevas
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)
 sannidhi:
-  en: "Bhageerathi Sannidhi (Madhwa Sarovara)"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)"
+  en: Bhageerathi Sannidhi (Madhwa Sarovara)
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)
 deity:
-  en: "Goddess Bhageerathi"
-  kn: "ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ"
+  en: Goddess Bhageerathi
+  kn: ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=79"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=79
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhageerathi-sannidhi
 description:
-  en: "Pushpa Pooja to Goddess Bhageerathi (Ganga Devi) at Madhwa Sarovara."
-  kn: "ಮಧ್ವ ಸರೋವರದ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿಯ ಸನ್ನಿಧಿಗೆ ಪುಷ್ಪಾರ್ಚನೆ ಮಾಡುವ ಸೇವೆ."
+  en: Pushpa Pooja to Goddess Bhageerathi (Ganga Devi) at Madhwa Sarovara.
+  kn: ಮಧ್ವ ಸರೋವರದ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿಯ ಸನ್ನಿಧಿಗೆ ಪುಷ್ಪಾರ್ಚನೆ ಮಾಡುವ ಸೇವೆ.
 significance:
-  en: "Goddess Bhageerathi cleanses sins; floral worship honors the divine feminine purifier."
-  kn: "ಮಧ್ವ ಸರೋವರದಲ್ಲಿ ನೆಲೆಸಿರುವ ಗಂಗಾದೇವಿಗೆ ಹೂವಿನ ಪೂಜೆ ಮಾಡಿ ಪಾಪಗಳನ್ನು ತೊಳೆದುಕೊಳ್ಳುವುದು."
+  en: Goddess Bhageerathi cleanses sins; floral worship honors the divine feminine purifier.
+  kn: ಮಧ್ವ ಸರೋವರದಲ್ಲಿ ನೆಲೆಸಿರುವ ಗಂಗಾದೇವಿಗೆ ಹೂವಿನ ಪೂಜೆ ಮಾಡಿ ಪಾಪಗಳನ್ನು ತೊಳೆದುಕೊಳ್ಳುವುದು.
+enabled: true
 ---
 
 # Hoovina Pooje(Excluding Flowers)

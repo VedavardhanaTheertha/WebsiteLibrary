@@ -4,11 +4,11 @@ position: 1
 name: Sri Vamana Teertharu (ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು)
 name-en: Sri Vamana Teertharu
 name-kn: ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು
-timePeriod: '1249–1327 CE (ಶಾ.ಶಕ ೧೨೪೯)'
-timePeriod-en: '1249–1327 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೨೪೯–೧೩೨೭ (ಶಾ.ಶಕ ೧೨೪೯)'
-shaka: '1249'
-shaka-kn: '೧೨೪೯'
+timePeriod: 1249–1327 CE (ಶಾ.ಶಕ ೧೨೪೯)
+timePeriod-en: 1249–1327 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೨೪೯–೧೩೨೭ (ಶಾ.ಶಕ ೧೨೪೯)
+shaka: "1249"
+shaka-kn: ೧೨೪೯
 samvatsara-en: Prabhava
 samvatsara-kn: ಪ್ರಭವ
 aradhana-en: Vaishakha Shukla Dvadashi
@@ -19,12 +19,11 @@ summary: |-
   Sri Vamana Teertharu is the first pontiff (Moola Yati) of Sri Shiroor Matha, directly initiated into sanyasa by Jagadguru Sri Madhwacharya with the consecrated idol of Sri Vittala Devaru. He propagated Dvaita Vedanta and Sri Krishna worship for a decade, practiced profound yogic penance near Kurukshetra, and entered Haripada at Badari Kshetra in 1327 CE.
 
   ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳು (ಮೂಲ ಯತಿಗಳು). ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಪಡೆದು, ದ್ವೈತ ಸಿದ್ಧಾಂತ ಪ್ರಚಾರ ಮತ್ತು ಯೋಗ-ತಪಸ್ಸನ್ನಾಚರಿಸಿ ಕ್ರಿ.ಶ. ೧೩೨೭ ರಲ್ಲಿ ಬದರೀಕ್ಷೇತ್ರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Vamana Teertharu is the first pontiff (Moola Yati) of Sri Shiroor Matha, directly initiated into sanyasa by Jagadguru Sri Madhwacharya with the consecrated idol of Sri Vittala Devaru. He propagated Dvaita Vedanta and Sri Krishna worship for a decade, practiced profound yogic penance near Kurukshetra, and entered Haripada at Badari Kshetra in 1327 CE.
-summary-kn: |-
-  ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳು (ಮೂಲ ಯತಿಗಳು). ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಪಡೆದು, ದ್ವೈತ ಸಿದ್ಧಾಂತ ಪ್ರಚಾರ ಮತ್ತು ಯೋಗ-ತಪಸ್ಸನ್ನಾಚರಿಸಿ ಕ್ರಿ.ಶ. ೧೩೨೭ ರಲ್ಲಿ ಬದರೀಕ್ಷೇತ್ರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vamana Teertharu is the first pontiff (Moola Yati) of Sri Shiroor Matha, directly initiated into sanyasa by Jagadguru Sri Madhwacharya with the consecrated idol of Sri Vittala Devaru. He propagated Dvaita Vedanta and Sri Krishna worship for a decade, practiced profound yogic penance near Kurukshetra, and entered Haripada at Badari Kshetra in 1327 CE.
+summary-kn: ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳು (ಮೂಲ ಯತಿಗಳು). ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಪಡೆದು, ದ್ವೈತ ಸಿದ್ಧಾಂತ ಪ್ರಚಾರ ಮತ್ತು ಯೋಗ-ತಪಸ್ಸನ್ನಾಚರಿಸಿ ಕ್ರಿ.ಶ. ೧೩೨೭ ರಲ್ಲಿ ಬದರೀಕ್ಷೇತ್ರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vamana Teertharu (ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು)

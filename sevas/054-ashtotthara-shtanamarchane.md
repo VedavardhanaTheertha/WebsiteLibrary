@@ -1,50 +1,51 @@
 ---
-id: "seva-054-ashtotthara-shtanamarchane"
+id: seva-054-ashtotthara-shtanamarchane
 code: 54
 entity_id: 3
 event_id: 4
 title:
-  en: "Ashtotthara Shtanamarchane"
-  kn: "ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾರ್ಚನೆ"
+  en: Ashtotthara Shtanamarchane
+  kn: ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾರ್ಚನೆ
 name:
-  en: "Ashtotthara Shtanamarchane"
-  kn: "ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾರ್ಚನೆ"
+  en: Ashtotthara Shtanamarchane
+  kn: ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾರ್ಚನೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/054-ashtotthara-shtanamarchane.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/054-ashtotthara-shtanamarchane.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=54"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=54
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Ashtottara Shatanamarchana with 108 auspicious names of Lord Sri Krishna."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನ ೧೦೮ ದಿವ್ಯ ನಾಮಗಳಿಂದ ತುಳಸೀ ದಳಗಳನ್ನು ಸಮರ್ಪಿಸುವ ನಿತ್ಯ ಅರ್ಚನೆ."
+  en: Ashtottara Shatanamarchana with 108 auspicious names of Lord Sri Krishna.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನ ೧೦೮ ದಿವ್ಯ ನಾಮಗಳಿಂದ ತುಳಸೀ ದಳಗಳನ್ನು ಸಮರ್ಪಿಸುವ ನಿತ್ಯ ಅರ್ಚನೆ.
 significance:
-  en: "Quick and powerful invocation of Lord Krishna's protection for daily challenges."
-  kn: "೧೦೮ ನಾಮಗಳಿಂದ ಕೃಷ್ಣನಿಗೆ ತುಳಸೀ ಅರ್ಪಿಸಿ ನಿತ್ಯ ಜೀವನದಲ್ಲಿ ಜಯ ಮತ್ತು ಯಶಸ್ಸು ಪಡೆಯುವುದು."
+  en: Quick and powerful invocation of Lord Krishna's protection for daily challenges.
+  kn: ೧೦೮ ನಾಮಗಳಿಂದ ಕೃಷ್ಣನಿಗೆ ತುಳಸೀ ಅರ್ಪಿಸಿ ನಿತ್ಯ ಜೀವನದಲ್ಲಿ ಜಯ ಮತ್ತು ಯಶಸ್ಸು ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Ashtotthara Shtanamarchane

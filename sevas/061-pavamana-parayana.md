@@ -1,50 +1,51 @@
 ---
-id: "seva-061-pavamana-parayana"
+id: seva-061-pavamana-parayana
 code: 61
 entity_id: 3
 event_id: 4
 title:
-  en: "Pavamana Parayana"
-  kn: "ಪವಮಾನ ಪಾರಾಯಣ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Pavamana Parayana
+  kn: ಪವಮಾನ ಪಾರಾಯಣ (ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Pavamana Parayana"
-  kn: "ಪವಮಾನ ಪಾರಾಯಣ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Pavamana Parayana
+  kn: ಪವಮಾನ ಪಾರಾಯಣ (ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/061-pavamana-parayana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/061-pavamana-parayana.avif
 formatted_amount:
-  en: "₹1,000"
-  kn: "₹೧,೦೦೦"
-currency: "INR"
+  en: ₹1,000
+  kn: ₹೧,೦೦೦
+currency: INR
 highlight: 0
 is_popular: true
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=61"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=61
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Popular Pavamana Parayana recitation of sacred Pavamana Sukta at Sri Mukhyaprana Sannidhi."
-  kn: "ವೈದಿಕ ಪವಮಾನ ಸೂಕ್ತವನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರ ಪ್ರೀತ್ಯರ್ಥವಾಗಿ ಶ್ರದ್ಧಾಭಕ್ತಿಗಳಿಂದ ಪಾರಾಯಣ ಮಾಡುವ ಜನಪ್ರಿಯ ಸೇವೆ."
+  en: Popular Pavamana Parayana recitation of sacred Pavamana Sukta at Sri Mukhyaprana Sannidhi.
+  kn: ವೈದಿಕ ಪವಮಾನ ಸೂಕ್ತವನ್ನು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರ ಪ್ರೀತ್ಯರ್ಥವಾಗಿ ಶ್ರದ್ಧಾಭಕ್ತಿಗಳಿಂದ ಪಾರಾಯಣ ಮಾಡುವ ಜನಪ್ರಿಯ ಸೇವೆ.
 significance:
-  en: "Pavamana Sukta is the ultimate Vedic purifier for longevity, health, and overcoming obstacles."
-  kn: "ಪವಮಾನ ಪಾರಾಯಣದಿಂದ ಆಯುಸ್ಸು, ಆರೋಗ್ಯ, ಪಾಪಕ್ಷಯ ಮತ್ತು ಸಕಲ ಕಷ್ಟಗಳಿಂದ ಮುಕ್ತಿ ದೊರೆಯುತ್ತದೆ."
+  en: Pavamana Sukta is the ultimate Vedic purifier for longevity, health, and overcoming obstacles.
+  kn: ಪವಮಾನ ಪಾರಾಯಣದಿಂದ ಆಯುಸ್ಸು, ಆರೋಗ್ಯ, ಪಾಪಕ್ಷಯ ಮತ್ತು ಸಕಲ ಕಷ್ಟಗಳಿಂದ ಮುಕ್ತಿ ದೊರೆಯುತ್ತದೆ.
+enabled: true
 ---
 
 # Pavamana Parayana

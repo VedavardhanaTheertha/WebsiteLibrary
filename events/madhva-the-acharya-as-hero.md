@@ -43,6 +43,7 @@ categories:
   - code: cultural
     en: Cultural
     kn: ಸಾಂಸ್ಕೃತಿಕ
+enabled: false
 ---
 
 # Madhva - The Acharya as Hero (Dance Performance)
@@ -78,4 +79,3 @@ A thematic Bharatanatyam dance production "Madhva - The Acharya as Hero" depicti
 ### Gallery Images
 
 ![Madhva - The Acharya as Hero (Dance Performance) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/madhva-acharya-as-hero.avif)
-

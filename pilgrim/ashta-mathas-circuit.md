@@ -1,25 +1,26 @@
 ---
 id: ashta-mathas-circuit
 title:
-  en: "Ashta Mathas Circuit"
-  kn: "ಅಷ್ಟಮಠಗಳ ಪರಿಕ್ರಮಣ ಮಾರ್ಗ"
+  en: Ashta Mathas Circuit
+  kn: ಅಷ್ಟಮಠಗಳ ಪರಿಕ್ರಮಣ ಮಾರ್ಗ
 summary:
-  en: "An introductory route for understanding the eight mathas of Udupi."
-  kn: "ಉಡುಪಿಯ ಎಂಟು ಮಠಗಳನ್ನು ಅರಿಯಲು ಪ್ರಾಥಮಿಕ ಮಾರ್ಗ."
+  en: An introductory route for understanding the eight mathas of Udupi.
+  kn: ಉಡುಪಿಯ ಎಂಟು ಮಠಗಳನ್ನು ಅರಿಯಲು ಪ್ರಾಥಮಿಕ ಮಾರ್ಗ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/ashta-mathas-circuit.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/ashta-mathas-circuit.avif
 tags:
   - code: ashta-mathas
-    en: "Ashta Mathas"
-    kn: "ಅಷ್ಟಮಠಗಳು"
+    en: Ashta Mathas
+    kn: ಅಷ್ಟಮಠಗಳು
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: walking-guide
-    en: "walking guide"
-    kn: "ನಡಿಗೆ ಮಾರ್ಗದರ್ಶಿ"
+    en: walking guide
+    kn: ನಡಿಗೆ ಮಾರ್ಗದರ್ಶಿ
+enabled: false
 ---
 
 ## English

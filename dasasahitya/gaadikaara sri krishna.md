@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಗಾಡಿಕಾರ ಶ್ರೀಕೃಷ್ಣ ರನ್ನ ಬಿಡದಿರೋ ಎನ್ನ

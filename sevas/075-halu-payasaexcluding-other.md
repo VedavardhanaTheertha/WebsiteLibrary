@@ -1,50 +1,51 @@
 ---
-id: "seva-075-halu-payasaexcluding-other"
+id: seva-075-halu-payasaexcluding-other
 code: 75
 entity_id: 3
 event_id: 4
 title:
-  en: "Halu Payasa(Excluding Other)"
-  kn: "ಹಾಲು ಪಾಯಸ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Halu Payasa(Excluding Other)
+  kn: ಹಾಲು ಪಾಯಸ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Halu Payasa(Excluding Other)"
-  kn: "ಹಾಲು ಪಾಯಸ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Halu Payasa(Excluding Other)
+  kn: ಹಾಲು ಪಾಯಸ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/075-halu-payasaexcluding-other.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/075-halu-payasaexcluding-other.avif
 formatted_amount:
-  en: "₹300"
-  kn: "₹೩೦೦"
-currency: "INR"
+  en: ₹300
+  kn: ₹೩೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=75"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=75
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Halu Payasa sweet milk pudding offered as sacred Naivedya to Bhojana Shala Sri Mukhyaprana."
-  kn: "ರುಚಿಕರವಾದ ಹಾಲು ಪಾಯಸವನ್ನು ನೈವೇದ್ಯವಾಗಿ ಸಿದ್ಧಪಡಿಸಿ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಅರ್ಪಿಸುವ ಸೇವೆ."
+  en: Halu Payasa sweet milk pudding offered as sacred Naivedya to Bhojana Shala Sri Mukhyaprana.
+  kn: ರುಚಿಕರವಾದ ಹಾಲು ಪಾಯಸವನ್ನು ನೈವೇದ್ಯವಾಗಿ ಸಿದ್ಧಪಡಿಸಿ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಅರ್ಪಿಸುವ ಸೇವೆ.
 significance:
-  en: "Bringing sweetness, family unity, and nourishment to life."
-  kn: "ಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಪಾಯಸ ನೈವೇದ್ಯ ಮಾಡಿ, ಕುಟುಂಬದಲ್ಲಿ ಮಾಧುರ್ಯ ಮತ್ತು ನೆಮ್ಮದಿ ಪಡೆಯುವುದು."
+  en: Bringing sweetness, family unity, and nourishment to life.
+  kn: ಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಪಾಯಸ ನೈವೇದ್ಯ ಮಾಡಿ, ಕುಟುಂಬದಲ್ಲಿ ಮಾಧುರ್ಯ ಮತ್ತು ನೆಮ್ಮದಿ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Halu Payasa(Excluding Other)

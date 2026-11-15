@@ -1,25 +1,26 @@
 ---
 id: deepa-and-sacred-light
 title:
-  en: "Deepa and Sacred Light"
-  kn: "ದೀಪ ಮತ್ತು ಪವಿತ್ರ ಬೆಳಕು"
+  en: Deepa and Sacred Light
+  kn: ದೀಪ ಮತ್ತು ಪವಿತ್ರ ಬೆಳಕು
 summary:
-  en: "A temporary introduction to the lamp as a symbol of knowledge and presence."
-  kn: "ಜ್ಞಾನ ಮತ್ತು ಸಾನ್ನಿಧ್ಯದ ಸಂಕೇತವಾಗಿ ದೀಪದ ತಾತ್ಕಾಲಿಕ ಪರಿಚಯ."
+  en: A temporary introduction to the lamp as a symbol of knowledge and presence.
+  kn: ಜ್ಞಾನ ಮತ್ತು ಸಾನ್ನಿಧ್ಯದ ಸಂಕೇತವಾಗಿ ದೀಪದ ತಾತ್ಕಾಲಿಕ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/deepa-and-sacred-light.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/deepa-and-sacred-light.avif
 tags:
   - code: deepa
-    en: "deepa"
-    kn: "ದೀಪ"
+    en: deepa
+    kn: ದೀಪ
   - code: light
-    en: "light"
-    kn: "ಬೆಳಕು"
+    en: light
+    kn: ಬೆಳಕು
   - code: worship
-    en: "worship"
-    kn: "ಪೂಜೆ"
+    en: worship
+    kn: ಪೂಜೆ
+enabled: false
 ---
 
 ## English

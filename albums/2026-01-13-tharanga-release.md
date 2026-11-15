@@ -1,7 +1,7 @@
 ---
 id: 2026-01-13-tharanga-release
 date: "2026-01-13"
-cover: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-l.webp"
+cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-l.webp
 title:
   en: Tharanga release
   kn: Tharanga release
@@ -16,6 +16,7 @@ tags:
     - ಪರ್ಯಾಯ
     - Tharanga release
 items:
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-l.webp"
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36ad7b87/9142905b-l.webp
+enabled: true
 ---

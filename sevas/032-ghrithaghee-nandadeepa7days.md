@@ -1,50 +1,51 @@
 ---
-id: "seva-032-ghrithaghee-nandadeepa7days"
+id: seva-032-ghrithaghee-nandadeepa7days
 code: 32
 entity_id: 3
 event_id: 4
 title:
-  en: "Ghritha(Ghee) Nandadeepa(7Days)"
-  kn: "ತುಪ್ಪದ ನಂದಾದೀಪ ಸೇವೆ (೭ ದಿನಗಳು)"
+  en: Ghritha(Ghee) Nandadeepa(7Days)
+  kn: ತುಪ್ಪದ ನಂದಾದೀಪ ಸೇವೆ (೭ ದಿನಗಳು)
 name:
-  en: "Ghritha(Ghee) Nandadeepa(7Days)"
-  kn: "ತುಪ್ಪದ ನಂದಾದೀಪ ಸೇವೆ (೭ ದಿನಗಳು)"
+  en: Ghritha(Ghee) Nandadeepa(7Days)
+  kn: ತುಪ್ಪದ ನಂದಾದೀಪ ಸೇವೆ (೭ ದಿನಗಳು)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 15000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/032-ghrithaghee-nandadeepa7days.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/032-ghrithaghee-nandadeepa7days.avif
 formatted_amount:
-  en: "₹15,000"
-  kn: "₹೧೫,೦೦೦"
-currency: "INR"
+  en: ₹15,000
+  kn: ₹೧೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=32"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=32
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Consecrated Ghritha (Pure Ghee) Nandadeepa burning perpetually for 7 days in the sanctum sanctorum."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಏಳು ದಿನಗಳ ಕಾಲ ನಿರಂತರವಾಗಿ ಬೆಳಗುವ ಶುದ್ಧ ಹಸುವಿನ ತುಪ್ಪದ ನಂದಾದೀಪ ಸಮರ್ಪಣೆ."
+  en: Consecrated Ghritha (Pure Ghee) Nandadeepa burning perpetually for 7 days in the sanctum sanctorum.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಏಳು ದಿನಗಳ ಕಾಲ ನಿರಂತರವಾಗಿ ಬೆಳಗುವ ಶುದ್ಧ ಹಸುವಿನ ತುಪ್ಪದ ನಂದಾದೀಪ ಸಮರ್ಪಣೆ.
 significance:
-  en: "Dissipating spiritual darkness and lighting the eternal flame of wisdom and peace in the family."
-  kn: "ಜ್ಞಾನಜ್ಯೋತಿಯಾದ ನಂದಾದೀಪವನ್ನು ೭ ದಿನಗಳ ಕಾಲ ಬೆಳಗಿಸುವುದರಿಂದ ಅಜ್ಞಾನ ಕಳೆದು ಜೀವನದಲ್ಲಿ ಬೆಳಕು ಮೂಡುತ್ತದೆ."
+  en: Dissipating spiritual darkness and lighting the eternal flame of wisdom and peace in the family.
+  kn: ಜ್ಞಾನಜ್ಯೋತಿಯಾದ ನಂದಾದೀಪವನ್ನು ೭ ದಿನಗಳ ಕಾಲ ಬೆಳಗಿಸುವುದರಿಂದ ಅಜ್ಞಾನ ಕಳೆದು ಜೀವನದಲ್ಲಿ ಬೆಳಕು ಮೂಡುತ್ತದೆ.
+enabled: true
 ---
 
 # Ghritha(Ghee) Nandadeepa(7Days)

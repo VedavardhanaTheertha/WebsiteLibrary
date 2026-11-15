@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಇಂದಿರೇಶ ದಾಸರು
 ankita-kn: ಇಂದಿರೇಶ
 kruti: Sri Indiresha Dasaru
 ankita: Indiresha
+enabled: true
 ---
 
 # ಏಳು ಬೆಳಗಾಯಿತು ಬಾಲಕೃಷ್ಣ

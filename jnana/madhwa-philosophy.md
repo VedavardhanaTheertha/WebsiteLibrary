@@ -1,24 +1,25 @@
 ---
 id: madhwa-philosophy
 title:
-  en: "Madhwa Philosophy"
-  kn: "ಮಾಧ್ವ ತತ್ತ್ವಶಾಸ್ತ್ರ"
+  en: Madhwa Philosophy
+  kn: ಮಾಧ್ವ ತತ್ತ್ವಶಾಸ್ತ್ರ
 summary:
-  en: "A beginner's map of key ideas in the Dvaita tradition."
-  kn: "ದ್ವೈತ ಪರಂಪರೆಯ ಪ್ರಮುಖ ವಿಚಾರಗಳಿಗೆ ಆರಂಭಿಕ ನಕ್ಷೆ."
+  en: A beginner's map of key ideas in the Dvaita tradition.
+  kn: ದ್ವೈತ ಪರಂಪರೆಯ ಪ್ರಮುಖ ವಿಚಾರಗಳಿಗೆ ಆರಂಭಿಕ ನಕ್ಷೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: madhwa
-    en: "Madhwa"
-    kn: "ಮಾಧ್ವ"
+    en: Madhwa
+    kn: ಮಾಧ್ವ
   - code: dvaita
-    en: "Dvaita"
-    kn: "ದ್ವೈತ"
+    en: Dvaita
+    kn: ದ್ವೈತ
   - code: philosophy
-    en: "philosophy"
-    kn: "ತತ್ತ್ವಶಾಸ್ತ್ರ"
+    en: philosophy
+    kn: ತತ್ತ್ವಶಾಸ್ತ್ರ
+enabled: false
 ---
 
 ## English

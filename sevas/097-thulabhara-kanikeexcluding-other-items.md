@@ -1,49 +1,50 @@
 ---
-id: "seva-097-thulabhara-kanikeexcluding-other-items"
+id: seva-097-thulabhara-kanikeexcluding-other-items
 code: 97
 entity_id: 3
 event_id: 4
 title:
-  en: "Thulabhara Kanike(Excluding Other Items)"
-  kn: "ತುಲಾಭಾರ ಕಾಣಿಕೆ (ವಸ್ತುಗಳು ಹೊರತುಪಡಿಸಿ)"
+  en: Thulabhara Kanike(Excluding Other Items)
+  kn: ತುಲಾಭಾರ ಕಾಣಿಕೆ (ವಸ್ತುಗಳು ಹೊರತುಪಡಿಸಿ)
 name:
-  en: "Thulabhara Kanike(Excluding Other Items)"
-  kn: "ತುಲಾಭಾರ ಕಾಣಿಕೆ (ವಸ್ತುಗಳು ಹೊರತುಪಡಿಸಿ)"
+  en: Thulabhara Kanike(Excluding Other Items)
+  kn: ತುಲಾಭಾರ ಕಾಣಿಕೆ (ವಸ್ತುಗಳು ಹೊರತುಪಡಿಸಿ)
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1000
 formatted_amount:
-  en: "₹1,000"
-  kn: "₹೧,೦೦೦"
-currency: "INR"
+  en: ₹1,000
+  kn: ₹೧,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=97"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=97
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Thulabhara Kanike offering one's own weight in goods (jaggery, sugar, coins, rice) to Lord Sri Krishna."
-  kn: "ಭಕ್ತರು ತಮ್ಮ ತೂಕಕ್ಕೆ ಸಮನಾಗಿ ಬೆಲ್ಲ, ಸಕ್ಕರೆ, ತೆಂಗಿನಕಾಯಿ, ಅಕ್ಕಿ ಅಥವಾ ನಾಣ್ಯಗಳನ್ನು ಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸುವ ತುಲಾಭಾರ ಸೇವೆ."
+  en: Thulabhara Kanike offering one's own weight in goods (jaggery, sugar, coins, rice) to Lord Sri Krishna.
+  kn: ಭಕ್ತರು ತಮ್ಮ ತೂಕಕ್ಕೆ ಸಮನಾಗಿ ಬೆಲ್ಲ, ಸಕ್ಕರೆ, ತೆಂಗಿನಕಾಯಿ, ಅಕ್ಕಿ ಅಥವಾ ನಾಣ್ಯಗಳನ್ನು ಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸುವ ತುಲಾಭಾರ ಸೇವೆ.
 significance:
-  en: "Historic tradition of complete self-surrender to Lord Krishna, curing severe health conditions and fulfilling vows."
-  kn: "ತನ್ನನ್ನೇ ಭಗವಂತನಿಗೆ ಅರ್ಪಿಸಿಕೊಳ್ಳುವ ಸಂಕೇತವಾಗಿ ತೂಕಕ್ಕೆ ತಕ್ಕಂತೆ ದ್ರವ್ಯಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಪುಣ್ಯದಾಯಕ ಹರಕೆ ಸೇವೆ."
+  en: Historic tradition of complete self-surrender to Lord Krishna, curing severe health conditions and fulfilling vows.
+  kn: ತನ್ನನ್ನೇ ಭಗವಂತನಿಗೆ ಅರ್ಪಿಸಿಕೊಳ್ಳುವ ಸಂಕೇತವಾಗಿ ತೂಕಕ್ಕೆ ತಕ್ಕಂತೆ ದ್ರವ್ಯಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಪುಣ್ಯದಾಯಕ ಹರಕೆ ಸೇವೆ.
+enabled: true
 ---
 
 # Thulabhara Kanike(Excluding Other Items)

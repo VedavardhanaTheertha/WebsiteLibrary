@@ -4,7 +4,7 @@ fields:
   editorial.donation:
     en:
       scan_intro: Scan the QR code to open the official donation page.
-      material_prompt: 'Select what you would like to offer:'
+      material_prompt: "Select what you would like to offer:"
       material_options:
         - id: rice
           label: Rice
@@ -38,7 +38,7 @@ fields:
           icon: nut
     kn:
       scan_intro: ಅಧಿಕೃತ ದೇಣಿಗೆ ಪುಟ ತೆರೆಯಲು QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ.
-      material_prompt: 'ನೀವು ದಾನ ಮಾಡಲು ಬಯಸುವ ಸಾಮಗ್ರಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ:'
+      material_prompt: "ನೀವು ದಾನ ಮಾಡಲು ಬಯಸುವ ಸಾಮಗ್ರಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
       material_options:
         - id: rice
           label: ಅಕ್ಕಿ
@@ -70,4 +70,5 @@ fields:
           desc: ಪೂಜೆ ಮತ್ತು ನೈವೇದ್ಯಕ್ಕಾಗಿ
           unit: ₹40 ಪ್ರತಿ
           icon: nut
+enabled: true
 ---

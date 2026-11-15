@@ -4,11 +4,11 @@ position: 25
 name: Sri Lakshmipriya Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು)
 name-en: Sri Lakshmipriya Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು
-timePeriod: '1819–1829 CE (ಶಾ.ಶಕ ೧೭೫೧)'
-timePeriod-en: '1819–1829 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೮೧೯–೧೮೨೯ (ಶಾ.ಶಕ ೧೭೫೧)'
-shaka: '1751'
-shaka-kn: '೧೭೫೧'
+timePeriod: 1819–1829 CE (ಶಾ.ಶಕ ೧೭೫೧)
+timePeriod-en: 1819–1829 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೮೧೯–೧೮೨೯ (ಶಾ.ಶಕ ೧೭೫೧)
+shaka: "1751"
+shaka-kn: ೧೭೫೧
 samvatsara-en: Virodhi
 samvatsara-kn: ವಿರೋಧಿ
 aradhana-en: Jyeshtha Shukla Trayodashi
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmipriya Teertharu is the twenty-fifth pontiff of Sri Shiroor Matha, celebrated for undertaking extensive pilgrimages across Bharata to propagate the tenets of Dvaita Vedanta. He guided the samsthana for a decade and attained Paramadhama at Udupi in 1829 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ತತ್ತ್ವ ಪ್ರಚಾರಕ್ಕಾಗಿ ಭಾರತದಾದ್ಯಂತ ಅಶೇಷ ತೀರ್ಥಯಾತ್ರೆಯನ್ನು ಕೈಗೊಂಡು, ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೨೯ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Lakshmipriya Teertharu is the twenty-fifth pontiff of Sri Shiroor Matha, celebrated for undertaking extensive pilgrimages across Bharata to propagate the tenets of Dvaita Vedanta. He guided the samsthana for a decade and attained Paramadhama at Udupi in 1829 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ತತ್ತ್ವ ಪ್ರಚಾರಕ್ಕಾಗಿ ಭಾರತದಾದ್ಯಂತ ಅಶೇಷ ತೀರ್ಥಯಾತ್ರೆಯನ್ನು ಕೈಗೊಂಡು, ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೨೯ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmipriya Teertharu is the twenty-fifth pontiff of Sri Shiroor Matha, celebrated for undertaking extensive pilgrimages across Bharata to propagate the tenets of Dvaita Vedanta. He guided the samsthana for a decade and attained Paramadhama at Udupi in 1829 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ತತ್ತ್ವ ಪ್ರಚಾರಕ್ಕಾಗಿ ಭಾರತದಾದ್ಯಂತ ಅಶೇಷ ತೀರ್ಥಯಾತ್ರೆಯನ್ನು ಕೈಗೊಂಡು, ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೨೯ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmipriya Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಪ್ರಿಯ ತೀರ್ಥರು)

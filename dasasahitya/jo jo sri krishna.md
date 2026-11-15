@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara dasaru
 ankita: Purandara vittala
+enabled: true
 ---
 
 # ಜೋ ಜೋ ಶ್ರೀ ಕೃಷ್ಣ ಪರಮಾನಂದ

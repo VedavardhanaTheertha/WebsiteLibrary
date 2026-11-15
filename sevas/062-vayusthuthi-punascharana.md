@@ -1,50 +1,51 @@
 ---
-id: "seva-062-vayusthuthi-punascharana"
+id: seva-062-vayusthuthi-punascharana
 code: 62
 entity_id: 3
 event_id: 4
 title:
-  en: "Vayusthuthi Punascharana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆ"
+  en: Vayusthuthi Punascharana
+  kn: ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆ
 name:
-  en: "Vayusthuthi Punascharana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆ"
+  en: Vayusthuthi Punascharana
+  kn: ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆ
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/062-vayusthuthi-punascharana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/062-vayusthuthi-punascharana.avif
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=62"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=62
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Vayusthuthi Punascharana chanting Sri Hari Vayusthuthi with dedicated Japa repetitions."
-  kn: "ಶ್ರೀ ತ್ರಿವಿಕ್ರಮ ಪಂಡಿತಾಚಾರ್ಯ ವಿರಚಿತ ಶ್ರೀ ಹರಿವಾಯುಸ್ತುತಿಯನ್ನು ಪುನಶ್ಚರಣಾ ವಿಧಿಯೊಂದಿಗೆ ಪಠಿಸುವ ಮಹಾಸೇವೆ."
+  en: Vayusthuthi Punascharana chanting Sri Hari Vayusthuthi with dedicated Japa repetitions.
+  kn: ಶ್ರೀ ತ್ರಿವಿಕ್ರಮ ಪಂಡಿತಾಚಾರ್ಯ ವಿರಚಿತ ಶ್ರೀ ಹರಿವಾಯುಸ್ತುತಿಯನ್ನು ಪುನಶ್ಚರಣಾ ವಿಧಿಯೊಂದಿಗೆ ಪಠಿಸುವ ಮಹಾಸೇವೆ.
 significance:
-  en: "Revered in Madhwa tradition as the supreme armor against all physical and spiritual calamities."
-  kn: "ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆಯಿಂದ ದುಸ್ಸಾಧ್ಯವಾದ ಕಾರ್ಯಗಳೂ ಸುಲಭವಾಗಿ ಈಡೇರುತ್ತವೆ."
+  en: Revered in Madhwa tradition as the supreme armor against all physical and spiritual calamities.
+  kn: ವಾಯುಸ್ತುತಿ ಪುನಶ್ಚರಣೆಯಿಂದ ದುಸ್ಸಾಧ್ಯವಾದ ಕಾರ್ಯಗಳೂ ಸುಲಭವಾಗಿ ಈಡೇರುತ್ತವೆ.
+enabled: true
 ---
 
 # Vayusthuthi Punascharana

@@ -4,11 +4,11 @@ position: 4
 name: Sri Vedagamya Teertharu (ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು)
 name-en: Sri Vedagamya Teertharu
 name-kn: ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು
-timePeriod: '1365–1387 CE (ಶಾ.ಶಕ ೧೩೦೯)'
-timePeriod-en: '1365–1387 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೩೬೫–೧೩೮೭ (ಶಾ.ಶಕ ೧೩೦೯)'
-shaka: '1309'
-shaka-kn: '೧೩೦೯'
+timePeriod: 1365–1387 CE (ಶಾ.ಶಕ ೧೩೦೯)
+timePeriod-en: 1365–1387 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೩೬೫–೧೩೮೭ (ಶಾ.ಶಕ ೧೩೦೯)
+shaka: "1309"
+shaka-kn: ೧೩೦೯
 samvatsara-en: Prabhava
 samvatsara-kn: ಪ್ರಭವ
 aradhana-en: Jyeshtha Krishna Dashami
@@ -19,12 +19,11 @@ summary: |-
   Sri Vedagamya Teertharu is the fourth pontiff of Sri Shiroor Matha, renowned for mastering the four Vedas, six Vedangas, and ten Principal Upanishads entirely by heart. He governed the dharma peetha for 22 years and attained Paramapada at the southern holy pilgrimage site of Rameshwara in 1387 CE.
 
   ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುರ್ವೇದಗಳು, ಷಡಂಗಗಳು ಮತ್ತು ದಶೋಪನಿಷತ್ತುಗಳನ್ನು ಕಂಠಪಾಠವಾಗಿ ಅರಿತಿದ್ದ ವೇದಮೂರ್ತಿಗಳು. ೨೨ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೩೮೭ ರಲ್ಲಿ ರಾಮೇಶ್ವರ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Vedagamya Teertharu is the fourth pontiff of Sri Shiroor Matha, renowned for mastering the four Vedas, six Vedangas, and ten Principal Upanishads entirely by heart. He governed the dharma peetha for 22 years and attained Paramapada at the southern holy pilgrimage site of Rameshwara in 1387 CE.
-summary-kn: |-
-  ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುರ್ವೇದಗಳು, ಷಡಂಗಗಳು ಮತ್ತು ದಶೋಪನಿಷತ್ತುಗಳನ್ನು ಕಂಠಪಾಠವಾಗಿ ಅರಿತಿದ್ದ ವೇದಮೂರ್ತಿಗಳು. ೨೨ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೩೮೭ ರಲ್ಲಿ ರಾಮೇಶ್ವರ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vedagamya Teertharu is the fourth pontiff of Sri Shiroor Matha, renowned for mastering the four Vedas, six Vedangas, and ten Principal Upanishads entirely by heart. He governed the dharma peetha for 22 years and attained Paramapada at the southern holy pilgrimage site of Rameshwara in 1387 CE.
+summary-kn: ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುರ್ವೇದಗಳು, ಷಡಂಗಗಳು ಮತ್ತು ದಶೋಪನಿಷತ್ತುಗಳನ್ನು ಕಂಠಪಾಠವಾಗಿ ಅರಿತಿದ್ದ ವೇದಮೂರ್ತಿಗಳು. ೨೨ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ ಕ್ರಿ.ಶ. ೧೩೮೭ ರಲ್ಲಿ ರಾಮೇಶ್ವರ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vedagamya Teertharu (ಶ್ರೀ ವೇದಗಮ್ಯ ತೀರ್ಥರು)

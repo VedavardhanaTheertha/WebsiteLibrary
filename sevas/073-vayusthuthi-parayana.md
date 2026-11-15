@@ -1,50 +1,51 @@
 ---
-id: "seva-073-vayusthuthi-parayana"
+id: seva-073-vayusthuthi-parayana
 code: 73
 entity_id: 3
 event_id: 4
 title:
-  en: "Vayusthuthi Parayana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Vayusthuthi Parayana
+  kn: ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Vayusthuthi Parayana"
-  kn: "ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Vayusthuthi Parayana
+  kn: ವಾಯುಸ್ತುತಿ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 150
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/073-vayusthuthi-parayana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/073-vayusthuthi-parayana.avif
 formatted_amount:
-  en: "₹150"
-  kn: "₹೧೫೦"
-currency: "INR"
+  en: ₹150
+  kn: ₹೧೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=73"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=73
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Vayusthuthi Parayana offered at Bhojana Shala Mukhyaprana sanctum."
-  kn: "ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ಭಕ್ತಿಪೂರ್ವಕ ವಾಯುಸ್ತುತಿ ಪಠಣ."
+  en: Vayusthuthi Parayana offered at Bhojana Shala Mukhyaprana sanctum.
+  kn: ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ಭಕ್ತಿಪೂರ್ವಕ ವಾಯುಸ್ತುತಿ ಪಠಣ.
 significance:
-  en: "Bestows divine courage and wards off obstacles in providing for one's family."
-  kn: "ಕುಟುಂಬದ ಪಾಲನೆ-ಪೋಷಣೆಯಲ್ಲಿ ಎದುರಾಗುವ ಸಂಕಷ್ಟಗಳನ್ನು ಪರಿಹರಿಸುವ ಸೇವೆ."
+  en: Bestows divine courage and wards off obstacles in providing for one's family.
+  kn: ಕುಟುಂಬದ ಪಾಲನೆ-ಪೋಷಣೆಯಲ್ಲಿ ಎದುರಾಗುವ ಸಂಕಷ್ಟಗಳನ್ನು ಪರಿಹರಿಸುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Vayusthuthi Parayana

@@ -1,50 +1,51 @@
 ---
-id: "seva-001-kanike"
+id: seva-001-kanike
 code: 1
 entity_id: 3
 event_id: 4
 title:
-  en: "Kanike"
-  kn: "ಕಾಣಿಕೆ"
+  en: Kanike
+  kn: ಕಾಣಿಕೆ
 name:
-  en: "Kanike"
-  kn: "ಕಾಣಿಕೆ"
+  en: Kanike
+  kn: ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/001-kanike.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/001-kanike.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 1
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=1"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=1
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Voluntary devotional offering (Kanike) to Lord Sri Krishna, Lord Mukhyaprana, and Shri Shiroor Matha Samsthana."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ."
+  en: Voluntary devotional offering (Kanike) to Lord Sri Krishna, Lord Mukhyaprana, and Shri Shiroor Matha Samsthana.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ.
 significance:
-  en: "Expressing pure surrender and gratitude to the Lord without condition, sanctifying one's earnings."
-  kn: "ಭಗವಂತನಿಗೆ ತನು-ಮನ-ಧನಗಳಿಂದ ಶರಣಾಗಿ, ಸಂಪಾದನೆಯನ್ನು ಸತ್ಪಾತ್ರದಲ್ಲಿ ಸಮರ್ಪಿಸಿ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸುವ ಪುಣ್ಯಕಾರ್ಯ."
+  en: Expressing pure surrender and gratitude to the Lord without condition, sanctifying one's earnings.
+  kn: ಭಗವಂತನಿಗೆ ತನು-ಮನ-ಧನಗಳಿಂದ ಶರಣಾಗಿ, ಸಂಪಾದನೆಯನ್ನು ಸತ್ಪಾತ್ರದಲ್ಲಿ ಸಮರ್ಪಿಸಿ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸುವ ಪುಣ್ಯಕಾರ್ಯ.
+enabled: true
 ---
 
 # Kanike

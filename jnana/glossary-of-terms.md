@@ -1,24 +1,25 @@
 ---
 id: glossary-of-terms
 title:
-  en: "Glossary of Terms"
-  kn: "ಪರಿಭಾಷೆಗಳ ಪದಕೋಶ"
+  en: Glossary of Terms
+  kn: ಪರಿಭಾಷೆಗಳ ಪದಕೋಶ
 summary:
-  en: "Plain-language notes for commonly encountered Sanskrit and Kannada terms."
-  kn: "ಸಾಮಾನ್ಯವಾಗಿ ಎದುರಾಗುವ ಸಂಸ್ಕೃತ ಮತ್ತು ಕನ್ನಡ ಪದಗಳಿಗೆ ಸರಳ ಭಾಷೆಯ ಟಿಪ್ಪಣಿಗಳು."
+  en: Plain-language notes for commonly encountered Sanskrit and Kannada terms.
+  kn: ಸಾಮಾನ್ಯವಾಗಿ ಎದುರಾಗುವ ಸಂಸ್ಕೃತ ಮತ್ತು ಕನ್ನಡ ಪದಗಳಿಗೆ ಸರಳ ಭಾಷೆಯ ಟಿಪ್ಪಣಿಗಳು.
 status:
-  en: "Growing reference"
-  kn: "ಬೆಳೆಯುತ್ತಿರುವ ಉಲ್ಲೇಖ"
+  en: Growing reference
+  kn: ಬೆಳೆಯುತ್ತಿರುವ ಉಲ್ಲೇಖ
 tags:
   - code: glossary
-    en: "glossary"
-    kn: "ಪದಕೋಶ"
+    en: glossary
+    kn: ಪದಕೋಶ
   - code: sanskrit
-    en: "Sanskrit"
-    kn: "ಸಂಸ್ಕೃತ"
+    en: Sanskrit
+    kn: ಸಂಸ್ಕೃತ
   - code: kannada
-    en: "Kannada"
-    kn: "ಕನ್ನಡ"
+    en: Kannada
+    kn: ಕನ್ನಡ
+enabled: false
 ---
 
 ## English

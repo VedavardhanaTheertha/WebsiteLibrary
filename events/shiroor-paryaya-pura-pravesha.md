@@ -50,6 +50,7 @@ categories:
   - code: special
     en: Special
     kn: ಪುರಪ್ರವೇಶ
+enabled: false
 ---
 
 # Shiroor Paryaya Pura Pravesha✨
@@ -95,4 +96,3 @@ Ahead of his maiden Paryaya, His Holiness Shri Shri Vedavardhana Tirtha Swamiji 
 ![Shiroor Paryaya Pura Pravesha✨ - Image 5](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-4.avif)
 
 ![Shiroor Paryaya Pura Pravesha✨ - Image 6](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/pura-pravesha-2.avif)
-

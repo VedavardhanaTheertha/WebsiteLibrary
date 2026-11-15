@@ -1,24 +1,25 @@
 ---
 id: festival-vidhi
 title:
-  en: "Festival Vidhi"
-  kn: "ಹಬ್ಬದ ವಿಧಿ"
+  en: Festival Vidhi
+  kn: ಹಬ್ಬದ ವಿಧಿ
 summary:
-  en: "A starting guide to preparing for and observing sacred festivals."
-  kn: "ಪವಿತ್ರ ಹಬ್ಬಗಳಿಗೆ ಸಿದ್ಧತೆ ನಡೆಸಿ ಆಚರಿಸುವುದಕ್ಕೆ ಆರಂಭಿಕ ಮಾರ್ಗದರ್ಶಿ."
+  en: A starting guide to preparing for and observing sacred festivals.
+  kn: ಪವಿತ್ರ ಹಬ್ಬಗಳಿಗೆ ಸಿದ್ಧತೆ ನಡೆಸಿ ಆಚರಿಸುವುದಕ್ಕೆ ಆರಂಭಿಕ ಮಾರ್ಗದರ್ಶಿ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: festival
-    en: "festival"
-    kn: "ಹಬ್ಬ"
+    en: festival
+    kn: ಹಬ್ಬ
   - code: worship
-    en: "worship"
-    kn: "ಪೂಜೆ"
+    en: worship
+    kn: ಪೂಜೆ
   - code: calendar
-    en: "calendar"
-    kn: "ಪಂಚಾಂಗ"
+    en: calendar
+    kn: ಪಂಚಾಂಗ
+enabled: false
 ---
 
 ## English

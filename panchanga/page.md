@@ -70,4 +70,5 @@ fields:
   pages.local_copy.panchanga_festival_2_note:
     en: Special puja and pravachana
     kn: ವಿಶೇಷ ಪೂಜೆ ಮತ್ತು ಪ್ರವಚನ
+enabled: false
 ---

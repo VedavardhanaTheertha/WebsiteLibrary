@@ -1,50 +1,51 @@
 ---
-id: "seva-045-chamara-seva"
+id: seva-045-chamara-seva
 code: 45
 entity_id: 3
 event_id: 4
 title:
-  en: "Chamara Seva"
-  kn: "ಚಾಮರ ಸೇವೆ"
+  en: Chamara Seva
+  kn: ಚಾಮರ ಸೇವೆ
 name:
-  en: "Chamara Seva"
-  kn: "ಚಾಮರ ಸೇವೆ"
+  en: Chamara Seva
+  kn: ಚಾಮರ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 750
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/045-chamara-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/045-chamara-seva.avif
 formatted_amount:
-  en: "₹750"
-  kn: "₹೭೫೦"
-currency: "INR"
+  en: ₹750
+  kn: ₹೭೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=45"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=45
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Chamara Seva gently fanning the Lord with white ceremonial whisks as a mark of royal reverence."
-  kn: "ರಾಜೋಪಚಾರದ ಸಂಕೇತವಾಗಿ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಶ್ವೇತ ಚಾಮರವನ್ನು ಬೀಸಿ ವಿನಯಪೂರ್ವಕವಾಗಿ ಮಾಡುವ ಸೇವೆ."
+  en: Chamara Seva gently fanning the Lord with white ceremonial whisks as a mark of royal reverence.
+  kn: ರಾಜೋಪಚಾರದ ಸಂಕೇತವಾಗಿ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಶ್ವೇತ ಚಾಮರವನ್ನು ಬೀಸಿ ವಿನಯಪೂರ್ವಕವಾಗಿ ಮಾಡುವ ಸೇವೆ.
 significance:
-  en: "Symbolizes selfless humility and royal service to the Supreme King of the universe."
-  kn: "ಭಗವಂತನಿಗೆ ವಿನಮ್ರ ರಾಜೋಪಚಾರ ಸಲ್ಲಿಸಿ, ಅಹಂಕಾರವನ್ನು ಕಳೆದುಕೊಂಡು ದಾಸ್ಯಭಾವವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು."
+  en: Symbolizes selfless humility and royal service to the Supreme King of the universe.
+  kn: ಭಗವಂತನಿಗೆ ವಿನಮ್ರ ರಾಜೋಪಚಾರ ಸಲ್ಲಿಸಿ, ಅಹಂಕಾರವನ್ನು ಕಳೆದುಕೊಂಡು ದಾಸ್ಯಭಾವವನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು.
+enabled: true
 ---
 
 # Chamara Seva

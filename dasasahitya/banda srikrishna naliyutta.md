@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಬಂದಾ ಶ್ರೀ ಕೃಷ್ಣ ನಲಿಯುತ್ತ

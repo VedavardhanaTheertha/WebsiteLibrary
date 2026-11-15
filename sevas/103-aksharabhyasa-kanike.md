@@ -1,49 +1,50 @@
 ---
-id: "seva-103-aksharabhyasa-kanike"
+id: seva-103-aksharabhyasa-kanike
 code: 103
 entity_id: 3
 event_id: 4
 title:
-  en: "Aksharabhyasa Kanike"
-  kn: "ಅಕ್ಷರಾಭ್ಯಾಸ ಕಾಣಿಕೆ"
+  en: Aksharabhyasa Kanike
+  kn: ಅಕ್ಷರಾಭ್ಯಾಸ ಕಾಣಿಕೆ
 name:
-  en: "Aksharabhyasa Kanike"
-  kn: "ಅಕ್ಷರಾಭ್ಯಾಸ ಕಾಣಿಕೆ"
+  en: Aksharabhyasa Kanike
+  kn: ಅಕ್ಷರಾಭ್ಯಾಸ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
 formatted_amount:
-  en: "₹300"
-  kn: "₹೩೦೦"
-currency: "INR"
+  en: ₹300
+  kn: ₹೩೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=103"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=103
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Aksharabhyasa Kanike for initiating young children into the alphabet and education before Lord Krishna."
-  kn: "ಮಕ್ಕಳಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಅಕ್ಷರಮಾಲೆಯ ಪ್ರಥಮ ಬರವಣಿಗೆಯನ್ನು (ವಿದ್ಯಾರಂಭ) ಮಾಡಿಸುವ ಸೇವೆ."
+  en: Aksharabhyasa Kanike for initiating young children into the alphabet and education before Lord Krishna.
+  kn: ಮಕ್ಕಳಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಅಕ್ಷರಮಾಲೆಯ ಪ್ರಥಮ ಬರವಣಿಗೆಯನ್ನು (ವಿದ್ಯಾರಂಭ) ಮಾಡಿಸುವ ಸೇವೆ.
 significance:
-  en: "Invokes Goddess Saraswati and Lord Hayagriva for sharp memory, intellect, and academic excellence."
-  kn: "ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಮಗುವಿನ ಬೆರಳಿನಿಂದ ಅಕ್ಷರ ಬರೆಸಿ ವಿದ್ಯಾಭ್ಯಾಸ ಆರಂಭಿಸುವುದು ಉಜ್ವಲ ಭವಿಷ್ಯಕ್ಕೆ ನಾಂದಿ."
+  en: Invokes Goddess Saraswati and Lord Hayagriva for sharp memory, intellect, and academic excellence.
+  kn: ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಮಗುವಿನ ಬೆರಳಿನಿಂದ ಅಕ್ಷರ ಬರೆಸಿ ವಿದ್ಯಾಭ್ಯಾಸ ಆರಂಭಿಸುವುದು ಉಜ್ವಲ ಭವಿಷ್ಯಕ್ಕೆ ನಾಂದಿ.
+enabled: true
 ---
 
 # Aksharabhyasa Kanike

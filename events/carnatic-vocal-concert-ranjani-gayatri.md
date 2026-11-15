@@ -52,6 +52,7 @@ categories:
   - code: devotional
     en: Devotional
     kn: ಭಕ್ತಿಗೀತೆ
+enabled: false
 ---
 
 # Carnatic Vocal Duet by Ranjani & Gayatri
@@ -87,4 +88,3 @@ Celebrated Carnatic vocal recital by the acclaimed sisters Vidushi Ranjani and V
 ### Gallery Images
 
 ![Carnatic Vocal Duet by Ranjani & Gayatri - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-vocal-ranjani-gayatri.avif)
-

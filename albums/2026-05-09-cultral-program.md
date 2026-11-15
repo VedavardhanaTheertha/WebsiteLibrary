@@ -1,7 +1,7 @@
 ---
 id: 2026-05-09-cultral-program
 date: "2026-05-09"
-cover: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-l.webp"
+cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-l.webp
 title:
   en: Cultral Program
   kn: Cultral Program
@@ -16,12 +16,13 @@ tags:
     - ಪರ್ಯಾಯ
     - Cultral Program
 items:
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-l.webp"
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4aba3737-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4aba3737-l.webp"
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4fcb5304-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4fcb5304-l.webp"
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/25cbb4a5-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/25cbb4a5-l.webp"
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/3f0539fa-l.webp
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4aba3737-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4aba3737-l.webp
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4fcb5304-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/4fcb5304-l.webp
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/25cbb4a5-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7b1065c7/25cbb4a5-l.webp
+enabled: true
 ---

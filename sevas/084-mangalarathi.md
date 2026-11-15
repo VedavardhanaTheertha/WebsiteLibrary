@@ -1,49 +1,50 @@
 ---
-id: "seva-084-mangalarathi"
+id: seva-084-mangalarathi
 code: 84
 entity_id: 3
 event_id: 4
 title:
-  en: "Mangalarathi"
-  kn: "ಮಂಗಳಾರತಿ (ನವಗ್ರಹ ಸನ್ನಿಧಿ)"
+  en: Mangalarathi
+  kn: ಮಂಗಳಾರತಿ (ನವಗ್ರಹ ಸನ್ನಿಧಿ)
 name:
-  en: "Mangalarathi"
-  kn: "ಮಂಗಳಾರತಿ (ನವಗ್ರಹ ಸನ್ನಿಧಿ)"
+  en: Mangalarathi
+  kn: ಮಂಗಳಾರತಿ (ನವಗ್ರಹ ಸನ್ನಿಧಿ)
 category:
-  code: "navagraha-sannidhi"
-  en: "Navagraha Sannidhi Details"
-  kn: "ನವಗ್ರಹ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: navagraha-sannidhi
+  en: Navagraha Sannidhi Details
+  kn: ನವಗ್ರಹ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Navagraha Sannidhi"
-  kn: "ನವಗ್ರಹ ಸನ್ನಿಧಿ"
+  en: Navagraha Sannidhi
+  kn: ನವಗ್ರಹ ಸನ್ನಿಧಿ
 deity:
-  en: "Navagraha Devatas"
-  kn: "ನವಗ್ರಹ ದೇವತೆಗಳು"
+  en: Navagraha Devatas
+  kn: ನವಗ್ರಹ ದೇವತೆಗಳು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 50
 formatted_amount:
-  en: "₹50"
-  kn: "₹೫೦"
-currency: "INR"
+  en: ₹50
+  kn: ₹೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=84"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=84
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - navagraha-sannidhi
 description:
-  en: "Mangalarathi offered to all nine celestial planets at the Navagraha Sannidhi."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನವಗ್ರಹ ಸನ್ನಿಧಿಯಲ್ಲಿ ಸಕಲ ನವಗ್ರಹ ದೇವತೆಗಳಿಗೆ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಸೇವೆ."
+  en: Mangalarathi offered to all nine celestial planets at the Navagraha Sannidhi.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನವಗ್ರಹ ಸನ್ನಿಧಿಯಲ್ಲಿ ಸಕಲ ನವಗ್ರಹ ದೇವತೆಗಳಿಗೆ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಸೇವೆ.
 significance:
-  en: "Pacifies adverse planetary transits and harmonizes cosmic influences for peace and prosperity."
-  kn: "ನವಗ್ರಹ ದೋಷಗಳ ಶಾಂತಿಗೆ ಮತ್ತು ಗ್ರಹಬಲ ವೃದ್ಧಿಗೆ ನವಗ್ರಹ ಮಂಗಳಾರತಿ ಅತ್ಯಂತ ಫಲಪ್ರದ."
+  en: Pacifies adverse planetary transits and harmonizes cosmic influences for peace and prosperity.
+  kn: ನವಗ್ರಹ ದೋಷಗಳ ಶಾಂತಿಗೆ ಮತ್ತು ಗ್ರಹಬಲ ವೃದ್ಧಿಗೆ ನವಗ್ರಹ ಮಂಗಳಾರತಿ ಅತ್ಯಂತ ಫಲಪ್ರದ.
+enabled: true
 ---
 
 # Mangalarathi

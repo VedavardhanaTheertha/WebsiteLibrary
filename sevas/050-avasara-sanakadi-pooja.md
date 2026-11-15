@@ -1,50 +1,51 @@
 ---
-id: "seva-050-avasara-sanakadi-pooja"
+id: seva-050-avasara-sanakadi-pooja
 code: 50
 entity_id: 3
 event_id: 4
 title:
-  en: "Avasara Sanakadi Pooja"
-  kn: "ಅವಸರ ಸನಕಾದಿ ಪೂಜೆ"
+  en: Avasara Sanakadi Pooja
+  kn: ಅವಸರ ಸನಕಾದಿ ಪೂಜೆ
 name:
-  en: "Avasara Sanakadi Pooja"
-  kn: "ಅವಸರ ಸನಕಾದಿ ಪೂಜೆ"
+  en: Avasara Sanakadi Pooja
+  kn: ಅವಸರ ಸನಕಾದಿ ಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/050-avasara-sanakadi-pooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/050-avasara-sanakadi-pooja.avif
 formatted_amount:
-  en: "₹300"
-  kn: "₹೩೦೦"
-currency: "INR"
+  en: ₹300
+  kn: ₹೩೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=50"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=50
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Early morning Avasara Sanakadi Pooja invoking the divine sage presence of Sanaka and his brothers."
-  kn: "ಉಷಃಕಾಲದಲ್ಲಿ ಸನಕ, ಸನಂದನ ಮುಂತಾದ ಋಷಿಗಳ ಉಪಸ್ಥಿತಿಯ ಭಾವನೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಮುಂಜಾನೆಯ ಅವಸರ ಪೂಜೆ."
+  en: Early morning Avasara Sanakadi Pooja invoking the divine sage presence of Sanaka and his brothers.
+  kn: ಉಷಃಕಾಲದಲ್ಲಿ ಸನಕ, ಸನಂದನ ಮುಂತಾದ ಋಷಿಗಳ ಉಪಸ್ಥಿತಿಯ ಭಾವನೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಮುಂಜಾನೆಯ ಅವಸರ ಪೂಜೆ.
 significance:
-  en: "Starts the day with sublime meditation and deep spiritual connection."
-  kn: "ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ಋಷಿಮುನಿಗಳ ಭಾವನೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಈ ಪೂಜೆಯು ಆತ್ಮಶುದ್ಧಿ ತರುತ್ತದೆ."
+  en: Starts the day with sublime meditation and deep spiritual connection.
+  kn: ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ಋಷಿಮುನಿಗಳ ಭಾವನೆಯೊಂದಿಗೆ ನೆರವೇರುವ ಈ ಪೂಜೆಯು ಆತ್ಮಶುದ್ಧಿ ತರುತ್ತದೆ.
+enabled: true
 ---
 
 # Avasara Sanakadi Pooja

@@ -1,24 +1,25 @@
 ---
 id: anu-vyakhyana
 title:
-  en: "Anu Vyakhyana"
-  kn: "ಅನುವ್ಯಾಖ್ಯಾನ"
+  en: Anu Vyakhyana
+  kn: ಅನುವ್ಯಾಖ್ಯಾನ
 summary:
-  en: "An orientation to the great metrical exposition of Vedanta."
-  kn: "ವೇದಾಂತದ ಮಹತ್ವದ ಪದ್ಯರೂಪದ ವಿವರಣಾ ಗ್ರಂಥದ ಪರಿಚಯ."
+  en: An orientation to the great metrical exposition of Vedanta.
+  kn: ವೇದಾಂತದ ಮಹತ್ವದ ಪದ್ಯರೂಪದ ವಿವರಣಾ ಗ್ರಂಥದ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: vedanta
-    en: "Vedanta"
-    kn: "ವೇದಾಂತ"
+    en: Vedanta
+    kn: ವೇದಾಂತ
   - code: exposition
-    en: "exposition"
-    kn: "ವ್ಯಾಖ್ಯಾನ"
+    en: exposition
+    kn: ವ್ಯಾಖ್ಯಾನ
   - code: study
-    en: "study"
-    kn: "ಅಧ್ಯಯನ"
+    en: study
+    kn: ಅಧ್ಯಯನ
+enabled: false
 ---
 
 ## English

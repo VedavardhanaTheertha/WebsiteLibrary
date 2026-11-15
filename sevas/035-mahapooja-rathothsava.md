@@ -1,50 +1,51 @@
 ---
-id: "seva-035-mahapooja-rathothsava"
+id: seva-035-mahapooja-rathothsava
 code: 35
 entity_id: 3
 event_id: 4
 title:
-  en: "Mahapooja Rathothsava"
-  kn: "ಮಹಾಪೂಜಾ ರಥೋತ್ಸವ"
+  en: Mahapooja Rathothsava
+  kn: ಮಹಾಪೂಜಾ ರಥೋತ್ಸವ
 name:
-  en: "Mahapooja Rathothsava"
-  kn: "ಮಹಾಪೂಜಾ ರಥೋತ್ಸವ"
+  en: Mahapooja Rathothsava
+  kn: ಮಹಾಪೂಜಾ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 10000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/035-mahapooja-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/035-mahapooja-rathothsava.avif
 formatted_amount:
-  en: "₹10,000"
-  kn: "₹೧೦,೦೦೦"
-currency: "INR"
+  en: ₹10,000
+  kn: ₹೧೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=35"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=35
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Grand chariot procession held in conjunction with the magnificent midday Mahapooja."
-  kn: "ಮಧ್ಯಾಹ್ನದ ಮಹಾಪೂಜೆಯ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ರಥೋತ್ಸವವನ್ನು ನಡೆಸಿ ಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸುವ ಸೇವೆ."
+  en: Grand chariot procession held in conjunction with the magnificent midday Mahapooja.
+  kn: ಮಧ್ಯಾಹ್ನದ ಮಹಾಪೂಜೆಯ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷ ರಥೋತ್ಸವವನ್ನು ನಡೆಸಿ ಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸುವ ಸೇವೆ.
 significance:
-  en: "Combines the divine pinnacle of midday shodashopachara worship with chariot circumambulation."
-  kn: "ಮಧ್ಯಾಹ್ನದ ಮಹಾಪೂಜೆಯ ನಂತರ ರಥೋತ್ಸವ ನಡೆಸಿ, ಅನ್ನ-ತೃಪ್ತಿ ಮತ್ತು ಭಗವಂತನ ಸಾನ್ನಿಧ್ಯ ಪಡೆಯುವ ಸೇವೆ."
+  en: Combines the divine pinnacle of midday shodashopachara worship with chariot circumambulation.
+  kn: ಮಧ್ಯಾಹ್ನದ ಮಹಾಪೂಜೆಯ ನಂತರ ರಥೋತ್ಸವ ನಡೆಸಿ, ಅನ್ನ-ತೃಪ್ತಿ ಮತ್ತು ಭಗವಂತನ ಸಾನ್ನಿಧ್ಯ ಪಡೆಯುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Mahapooja Rathothsava

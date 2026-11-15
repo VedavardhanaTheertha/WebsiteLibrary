@@ -1,17 +1,18 @@
 ---
-kind: "page-reference"
+kind: page-reference
 title:
-  en: "Volunteer"
-  kn: "ಸ್ವಯಂಸೇವಕ"
+  en: Volunteer
+  kn: ಸ್ವಯಂಸೇವಕ
 description:
-  en: "Join the volunteer family of Shri Shiroor Matha during Paryaya 2026–2028. Offer your time and skills to the Divine."
-  kn: "೨೦೨೬–೨೦೨೮ರ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸ್ವಯಂಸೇವಕ ಕುಟುಂಬವನ್ನು ಸೇರಿ. ನಿಮ್ಮ ಸಮಯ ಮತ್ತು ಕೌಶಲ್ಯಗಳನ್ನು ಭಗವಂತನ ಸೇವೆಗೆ ಅರ್ಪಿಸಿ."
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festival-rathotsava-seva.avif"
+  en: Join the volunteer family of Shri Shiroor Matha during Paryaya 2026–2028. Offer your time and skills to the Divine.
+  kn: ೨೦೨೬–೨೦೨೮ರ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸ್ವಯಂಸೇವಕ ಕುಟುಂಬವನ್ನು ಸೇರಿ. ನಿಮ್ಮ ಸಮಯ ಮತ್ತು ಕೌಶಲ್ಯಗಳನ್ನು ಭಗವಂತನ ಸೇವೆಗೆ ಅರ್ಪಿಸಿ.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festival-rathotsava-seva.avif
 page_type:
-  en: "Volunteer information"
-  kn: "ಸ್ವಯಂಸೇವೆಯ ಮಾಹಿತಿ"
-url: "/volunteer"
+  en: Volunteer information
+  kn: ಸ್ವಯಂಸೇವೆಯ ಮಾಹಿತಿ
+url: /volunteer
 footnote:
   en: ""
   kn: ""
+enabled: true
 ---

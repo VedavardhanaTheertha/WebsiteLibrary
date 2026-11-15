@@ -1,50 +1,51 @@
 ---
-id: "seva-027-rajatha-rathothsava"
+id: seva-027-rajatha-rathothsava
 code: 27
 entity_id: 3
 event_id: 4
 title:
-  en: "Rajatha Rathothsava"
-  kn: "ರಜತ ರಥೋತ್ಸವ"
+  en: Rajatha Rathothsava
+  kn: ರಜತ ರಥೋತ್ಸವ
 name:
-  en: "Rajatha Rathothsava"
-  kn: "ರಜತ ರಥೋತ್ಸವ"
+  en: Rajatha Rathothsava
+  kn: ರಜತ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 22000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/027-rajatha-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/027-rajatha-rathothsava.avif
 formatted_amount:
-  en: "₹22,000"
-  kn: "₹೨೨,೦೦೦"
-currency: "INR"
+  en: ₹22,000
+  kn: ₹೨೨,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=27"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=27
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Rajatha Rathotsava (Silver Chariot) procession, a classic nightly festival of divine splendor."
-  kn: "ಬೆಳ್ಳಿಯ ನಕ್ಷತ್ರಖಚಿತ ರಜತ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ಉತ್ಸವವನ್ನು ಭಕ್ತಿಯಿಂದ ನಡೆಸುವ ಸೇವೆ."
+  en: Rajatha Rathotsava (Silver Chariot) procession, a classic nightly festival of divine splendor.
+  kn: ಬೆಳ್ಳಿಯ ನಕ್ಷತ್ರಖಚಿತ ರಜತ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ಉತ್ಸವವನ್ನು ಭಕ್ತಿಯಿಂದ ನಡೆಸುವ ಸೇವೆ.
 significance:
-  en: "The silver chariot reflects cooling moonlight grace, granting mental serenity and joy."
-  kn: "ಮನಸ್ಸಿನ ಶಾಂತಿ, ಸಂತೋಷ ಮತ್ತು ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಕರುಣಿಸುವ ಬೆಳ್ಳಿಯ ರಥೋತ್ಸವ ಸೇವೆ."
+  en: The silver chariot reflects cooling moonlight grace, granting mental serenity and joy.
+  kn: ಮನಸ್ಸಿನ ಶಾಂತಿ, ಸಂತೋಷ ಮತ್ತು ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಕರುಣಿಸುವ ಬೆಳ್ಳಿಯ ರಥೋತ್ಸವ ಸೇವೆ.
+enabled: true
 ---
 
 # Rajatha Rathothsava

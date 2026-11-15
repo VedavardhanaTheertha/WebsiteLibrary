@@ -1,50 +1,51 @@
 ---
-id: "seva-028-suvarna-pallakki-utsava"
+id: seva-028-suvarna-pallakki-utsava
 code: 28
 entity_id: 3
 event_id: 4
 title:
-  en: "Suvarna Pallakki Utsava"
-  kn: "ಸುವರ್ಣ ಪಲ್ಲಕ್ಕಿ ಉತ್ಸವ"
+  en: Suvarna Pallakki Utsava
+  kn: ಸುವರ್ಣ ಪಲ್ಲಕ್ಕಿ ಉತ್ಸವ
 name:
-  en: "Suvarna Pallakki Utsava"
-  kn: "ಸುವರ್ಣ ಪಲ್ಲಕ್ಕಿ ಉತ್ಸವ"
+  en: Suvarna Pallakki Utsava
+  kn: ಸುವರ್ಣ ಪಲ್ಲಕ್ಕಿ ಉತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 20000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/028-suvarna-pallakki-utsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/028-suvarna-pallakki-utsava.avif
 formatted_amount:
-  en: "₹20,000"
-  kn: "₹೨೦,೦೦೦"
-currency: "INR"
+  en: ₹20,000
+  kn: ₹೨೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=28"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=28
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Suvarna Pallakki Utsava carrying the Utsava Murthy of Lord Krishna in an exquisite golden palanquin."
-  kn: "ಚಿನ್ನದ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣ ದೇವರ ಮೆರವಣಿಗೆಯನ್ನು ಮಧ್ವ ಸರೋವರದ ತೀರದಲ್ಲಿ ನಡೆಸುವ ಸೇವೆ."
+  en: Suvarna Pallakki Utsava carrying the Utsava Murthy of Lord Krishna in an exquisite golden palanquin.
+  kn: ಚಿನ್ನದ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣ ದೇವರ ಮೆರವಣಿಗೆಯನ್ನು ಮಧ್ವ ಸರೋವರದ ತೀರದಲ್ಲಿ ನಡೆಸುವ ಸೇವೆ.
 significance:
-  en: "Symbolizing royal service and tenderness towards the young Lord Krishna."
-  kn: "ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರೀತಿಯಿಂದ ಚಿನ್ನದ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಹೊತ್ತು ಸಾಗುವ ಭಕ್ತಿಪರವಶತೆಯ ಸೇವೆ."
+  en: Symbolizing royal service and tenderness towards the young Lord Krishna.
+  kn: ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರೀತಿಯಿಂದ ಚಿನ್ನದ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಹೊತ್ತು ಸಾಗುವ ಭಕ್ತಿಪರವಶತೆಯ ಸೇವೆ.
+enabled: true
 ---
 
 # Suvarna Pallakki Utsava

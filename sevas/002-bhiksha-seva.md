@@ -1,50 +1,51 @@
 ---
-id: "seva-002-bhiksha-seva"
+id: seva-002-bhiksha-seva
 code: 2
 entity_id: 3
 event_id: 4
 title:
-  en: "Bhiksha Seva"
-  kn: "ಭಿಕ್ಷಾ ಸೇವೆ"
+  en: Bhiksha Seva
+  kn: ಭಿಕ್ಷಾ ಸೇವೆ
 name:
-  en: "Bhiksha Seva"
-  kn: "ಭಿಕ್ಷಾ ಸೇವೆ"
+  en: Bhiksha Seva
+  kn: ಭಿಕ್ಷಾ ಸೇವೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 5000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/002-bhiksha-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/002-bhiksha-seva.avif
 formatted_amount:
-  en: "₹5,000"
-  kn: "₹೫,೦೦೦"
-currency: "INR"
+  en: ₹5,000
+  kn: ₹೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=2"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=2
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Sacred Bhiksha Seva offered for the worship and monastic traditions of Sri Swamiji and the Matha Samsthana."
-  kn: "ಪೂಜ್ಯ ಶ್ರೀಗಳವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ನಡೆಯುವ ಭಿಕ್ಷಾ ಸೇವೆ ಮತ್ತು ಸಂಸ್ಥಾನ ಪೂಜೆಗೆ ಸಮರ್ಪಿಸುವ ಪವಿತ್ರ ಸೇವೆ."
+  en: Sacred Bhiksha Seva offered for the worship and monastic traditions of Sri Swamiji and the Matha Samsthana.
+  kn: ಪೂಜ್ಯ ಶ್ರೀಗಳವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ನಡೆಯುವ ಭಿಕ್ಷಾ ಸೇವೆ ಮತ್ತು ಸಂಸ್ಥಾನ ಪೂಜೆಗೆ ಸಮರ್ಪಿಸುವ ಪವಿತ್ರ ಸೇವೆ.
 significance:
-  en: "Supporting the continuous ascetic discipline and daily Samsthana pooja conducted by Sri Swamiji."
-  kn: "ಯತಿವರೇಣ್ಯರ ನಿತ್ಯಾನುಷ್ಠಾನ, ಸಂಸ್ಥಾನ ಪೂಜೆ ಮತ್ತು ಜ್ಞಾನಸತ್ರಗಳಿಗೆ ಬೆಂಬಲ ನೀಡುವ ಶ್ರೇಷ್ಠ ಗುರುಸೇವೆ."
+  en: Supporting the continuous ascetic discipline and daily Samsthana pooja conducted by Sri Swamiji.
+  kn: ಯತಿವರೇಣ್ಯರ ನಿತ್ಯಾನುಷ್ಠಾನ, ಸಂಸ್ಥಾನ ಪೂಜೆ ಮತ್ತು ಜ್ಞಾನಸತ್ರಗಳಿಗೆ ಬೆಂಬಲ ನೀಡುವ ಶ್ರೇಷ್ಠ ಗುರುಸೇವೆ.
+enabled: true
 ---
 
 # Bhiksha Seva

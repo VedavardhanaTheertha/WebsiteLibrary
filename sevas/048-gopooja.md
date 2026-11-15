@@ -1,50 +1,51 @@
 ---
-id: "seva-048-gopooja"
+id: seva-048-gopooja
 code: 48
 entity_id: 3
 event_id: 4
 title:
-  en: "Gopooja"
-  kn: "ಗೋ ಪೂಜೆ"
+  en: Gopooja
+  kn: ಗೋ ಪೂಜೆ
 name:
-  en: "Gopooja"
-  kn: "ಗೋ ಪೂಜೆ"
+  en: Gopooja
+  kn: ಗೋ ಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 400
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/048-gopooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/048-gopooja.avif
 formatted_amount:
-  en: "₹400"
-  kn: "₹೪೦೦"
-currency: "INR"
+  en: ₹400
+  kn: ₹೪೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=48"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=48
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Gopooja ritual honoring the sacred cow as the living abode of all thirty-three crore devatas."
-  kn: "ಮಠದ ಸನ್ನಿಧಿಯಲ್ಲಿರುವ ಕಾಮಧೇನು ಸ್ವರೂಪಿಣಿ ಹಸುವಿಗೆ ಅರಿಶಿನ-ಕುಂಕುಮ, ಹೂಮಾಲೆ ಹಾಕಿ ಮಾಡುವ ಗೋಪೂಜೆ."
+  en: Gopooja ritual honoring the sacred cow as the living abode of all thirty-three crore devatas.
+  kn: ಮಠದ ಸನ್ನಿಧಿಯಲ್ಲಿರುವ ಕಾಮಧೇನು ಸ್ವರೂಪಿಣಿ ಹಸುವಿಗೆ ಅರಿಶಿನ-ಕುಂಕುಮ, ಹೂಮಾಲೆ ಹಾಕಿ ಮಾಡುವ ಗೋಪೂಜೆ.
 significance:
-  en: "Removes Vaastu defects, financial strains, and brings auspiciousness to the home."
-  kn: "ಗೋಮಾತೆಯ ಪೂಜೆಯಿಂದ ವಾಸ್ತುದೋಷ ಮತ್ತು ದಾರಿದ್ರ್ಯ ದೂರವಾಗಿ, ಮನೆಯಲ್ಲಿ ಲಕ್ಷ್ಮಿ ಸ್ಥಿರವಾಗಿ ನೆಲೆಸುತ್ತಾಳೆ."
+  en: Removes Vaastu defects, financial strains, and brings auspiciousness to the home.
+  kn: ಗೋಮಾತೆಯ ಪೂಜೆಯಿಂದ ವಾಸ್ತುದೋಷ ಮತ್ತು ದಾರಿದ್ರ್ಯ ದೂರವಾಗಿ, ಮನೆಯಲ್ಲಿ ಲಕ್ಷ್ಮಿ ಸ್ಥಿರವಾಗಿ ನೆಲೆಸುತ್ತಾಳೆ.
+enabled: true
 ---
 
 # Gopooja

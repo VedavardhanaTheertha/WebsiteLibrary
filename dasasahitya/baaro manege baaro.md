@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಿಜಯ ದಾಸರು
 ankita-kn: ವಿಜಯ ವಿಠಲ
 kruti: Sri Vijaya Dasaru
 ankita: Vijayavittala
+enabled: true
 ---
 
 # ಬಾರೋ ಮನೆಗೆ ಬಾರೋ ವೆಂಕಟರಮಣ

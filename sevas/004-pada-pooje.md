@@ -1,50 +1,51 @@
 ---
-id: "seva-004-pada-pooje"
+id: seva-004-pada-pooje
 code: 4
 entity_id: 3
 event_id: 4
 title:
-  en: "Pada Pooje"
-  kn: "ಪಾದ ಪೂಜೆ"
+  en: Pada Pooje
+  kn: ಪಾದ ಪೂಜೆ
 name:
-  en: "Pada Pooje"
-  kn: "ಪಾದ ಪೂಜೆ"
+  en: Pada Pooje
+  kn: ಪಾದ ಪೂಜೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/004-pada-pooje.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/004-pada-pooje.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=4"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=4
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Devout ceremonial Pada Pooja offered at the sacred lotus feet of H.H. Sri Vedavardhana Teertha Swamiji."
-  kn: "ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥ ಶ್ರೀಪಾದಂಗಳವರ ಪವಿತ್ರ ಕರಕಮಲಗಳಿಗೆ ಸಲ್ಲಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಪಾದಪೂಜೆ."
+  en: Devout ceremonial Pada Pooja offered at the sacred lotus feet of H.H. Sri Vedavardhana Teertha Swamiji.
+  kn: ಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥ ಶ್ರೀಪಾದಂಗಳವರ ಪವಿತ್ರ ಕರಕಮಲಗಳಿಗೆ ಸಲ್ಲಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಪಾದಪೂಜೆ.
 significance:
-  en: "Seeking the highest grace and spiritual blessings of the Guru lineage for family welfare and peace."
-  kn: "ಗುರುಗಳ ಪಾದಕಮಲಗಳನ್ನು ಪೂಜಿಸಿ, ಗುರುಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ ಜೀವನದಲ್ಲಿ ಶಾಂತಿ, ನೆಮ್ಮದಿ, ಐಶ್ವರ್ಯ ಮತ್ತು ಸದ್ಗತಿ ಪಡೆಯುವುದು."
+  en: Seeking the highest grace and spiritual blessings of the Guru lineage for family welfare and peace.
+  kn: ಗುರುಗಳ ಪಾದಕಮಲಗಳನ್ನು ಪೂಜಿಸಿ, ಗುರುಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ ಜೀವನದಲ್ಲಿ ಶಾಂತಿ, ನೆಮ್ಮದಿ, ಐಶ್ವರ್ಯ ಮತ್ತು ಸದ್ಗತಿ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Pada Pooje

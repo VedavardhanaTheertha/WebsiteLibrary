@@ -1,50 +1,51 @@
 ---
-id: "seva-057-annadana-nidhi"
+id: seva-057-annadana-nidhi
 code: 57
 entity_id: 3
 event_id: 4
 title:
-  en: "Annadana Nidhi"
-  kn: "ಅನ್ನದಾನ ನಿಧಿ"
+  en: Annadana Nidhi
+  kn: ಅನ್ನದಾನ ನಿಧಿ
 name:
-  en: "Annadana Nidhi"
-  kn: "ಅನ್ನದಾನ ನಿಧಿ"
+  en: Annadana Nidhi
+  kn: ಅನ್ನದಾನ ನಿಧಿ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/057-annadana-nidhi.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/057-annadana-nidhi.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=57"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=57
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Contribution to the Annadana Nidhi corpus sustaining continuous food offerings for all time."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನಿರಂತರ ಅನ್ನದಾನ ಪರಂಪರೆಯನ್ನು ಶಾಶ್ವತವಾಗಿ ನಡೆಸಲು ಸ್ಥಾಪಿಸಲಾದ ಶಾಶ್ವತ ನಿಧಿ."
+  en: Contribution to the Annadana Nidhi corpus sustaining continuous food offerings for all time.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನಿರಂತರ ಅನ್ನದಾನ ಪರಂಪರೆಯನ್ನು ಶಾಶ್ವತವಾಗಿ ನಡೆಸಲು ಸ್ಥಾಪಿಸಲಾದ ಶಾಶ್ವತ ನಿಧಿ.
 significance:
-  en: "Endowments create enduring merit that nourishes generations of devotees."
-  kn: "ಅನ್ನದಾನವು ನಿರಂತರವಾಗಿ ನಡೆಯಲು ಶಾಶ್ವತ ನಿಧಿಗೆ ನೆರವಾಗುವುದು ಅಕ್ಷಯ ಪುಣ್ಯ ತರುತ್ತದೆ."
+  en: Endowments create enduring merit that nourishes generations of devotees.
+  kn: ಅನ್ನದಾನವು ನಿರಂತರವಾಗಿ ನಡೆಯಲು ಶಾಶ್ವತ ನಿಧಿಗೆ ನೆರವಾಗುವುದು ಅಕ್ಷಯ ಪುಣ್ಯ ತರುತ್ತದೆ.
+enabled: true
 ---
 
 # Annadana Nidhi

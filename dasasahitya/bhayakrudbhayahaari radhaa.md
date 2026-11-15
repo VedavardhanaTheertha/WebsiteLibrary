@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಶ್ರೀದವಿಠಲ ದಾಸರು
 ankita-kn: ಶ್ರೀದವಿಠಲ
 kruti: Sri Shreeda Vithala Dasaru
 ankita: Shreeda Vithala
+enabled: true
 ---
 
 # ಭಯಕೃದ್ಭಯಹಾರಿ ರಾಧಾ ನಯನ ಮನೋಹಾರಿ

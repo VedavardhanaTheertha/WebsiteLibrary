@@ -1,25 +1,26 @@
 ---
 id: day-in-the-sanctum
 title:
-  en: "A Day in the Sanctum"
-  kn: "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಒಂದು ದಿನ"
+  en: A Day in the Sanctum
+  kn: ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಒಂದು ದಿನ
 summary:
-  en: "From early preparation and abhisheka to the closing arati."
-  kn: "ಮುಂಜಾನೆಯ ಸಿದ್ಧತೆ ಮತ್ತು ಅಭಿಷೇಕದಿಂದ ಅಂತಿಮ ಆರತಿಯವರೆಗೆ."
+  en: From early preparation and abhisheka to the closing arati.
+  kn: ಮುಂಜಾನೆಯ ಸಿದ್ಧತೆ ಮತ್ತು ಅಭಿಷೇಕದಿಂದ ಅಂತಿಮ ಆರತಿಯವರೆಗೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/day-in-the-sanctum.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/day-in-the-sanctum.avif
 tags:
   - code: worship
-    en: "worship"
-    kn: "ಪೂಜೆ"
+    en: worship
+    kn: ಪೂಜೆ
   - code: daily-schedule
-    en: "daily schedule"
-    kn: "ದೈನಂದಿನ ವೇಳಾಪಟ್ಟಿ"
+    en: daily schedule
+    kn: ದೈನಂದಿನ ವೇಳಾಪಟ್ಟಿ
   - code: sanctum
-    en: "sanctum"
-    kn: "ಗರ್ಭಗುಡಿ"
+    en: sanctum
+    kn: ಗರ್ಭಗುಡಿ
+enabled: false
 ---
 
 ## English

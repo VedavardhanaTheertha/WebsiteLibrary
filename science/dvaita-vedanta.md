@@ -1,25 +1,26 @@
 ---
 id: dvaita-vedanta
 title:
-  en: "Dvaita Vedanta"
-  kn: "ದ್ವೈತ ವೇದಾಂತ"
+  en: Dvaita Vedanta
+  kn: ದ್ವೈತ ವೇದಾಂತ
 summary:
-  en: "The philosophy of realism and the enduring distinction among realities."
-  kn: "ವಾಸ್ತವವಾದ ಮತ್ತು ಸತ್ಯಗಳ ನಡುವಿನ ಶಾಶ್ವತ ಭೇದದ ತತ್ತ್ವಶಾಸ್ತ್ರ."
+  en: The philosophy of realism and the enduring distinction among realities.
+  kn: ವಾಸ್ತವವಾದ ಮತ್ತು ಸತ್ಯಗಳ ನಡುವಿನ ಶಾಶ್ವತ ಭೇದದ ತತ್ತ್ವಶಾಸ್ತ್ರ.
 status:
-  en: "Introductory guide"
-  kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dvaita-vedanta.avif"
+  en: Introductory guide
+  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dvaita-vedanta.avif
 tags:
   - code: dvaita
-    en: "Dvaita"
-    kn: "ದ್ವೈತ"
+    en: Dvaita
+    kn: ದ್ವೈತ
   - code: vedanta
-    en: "Vedanta"
-    kn: "ವೇದಾಂತ"
+    en: Vedanta
+    kn: ವೇದಾಂತ
   - code: philosophy
-    en: "philosophy"
-    kn: "ತತ್ತ್ವಶಾಸ್ತ್ರ"
+    en: philosophy
+    kn: ತತ್ತ್ವಶಾಸ್ತ್ರ
+enabled: false
 ---
 
 ## English

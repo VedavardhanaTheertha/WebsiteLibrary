@@ -4,11 +4,11 @@ position: 23
 name: Sri Lakshmiramana Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು)
 name-en: Sri Lakshmiramana Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು
-timePeriod: '1735–1781 CE (ಶಾ.ಶಕ ೧೭೦೩)'
-timePeriod-en: '1735–1781 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೭೩೫–೧೭೮೧ (ಶಾ.ಶಕ ೧೭೦೩)'
-shaka: '1703'
-shaka-kn: '೧೭೦೩'
+timePeriod: 1735–1781 CE (ಶಾ.ಶಕ ೧೭೦೩)
+timePeriod-en: 1735–1781 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೭೩೫–೧೭೮೧ (ಶಾ.ಶಕ ೧೭೦೩)
+shaka: "1703"
+shaka-kn: ೧೭೦೩
 samvatsara-en: Plavanga
 samvatsara-kn: ಪ್ಲವಂಗ
 aradhana-en: Margashirsha Shukla Poornima
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmiramana Teertharu is the twenty-third pontiff of Sri Shiroor Matha, celebrated for playing with a hooded cobra as an infant, his brilliant debating skill, and his mastery of elaborate alankaras for Lord Krishna. He established the modern Shiroor Moola Matha complex, built the eastern Olaga Mantapa in Udupi, ruled for 46 years, and reached Haripada at Shiroor in 1781 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಮೂರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬಾಲ್ಯದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲೇ ಹೆಡೆಬಿಚ್ಚಿದ ಸರ್ಪದೊಂದಿಗೆ ಆಡಿದವರು, ವಾಗ್ಮಿಗಳು ಹಾಗೂ ಕೃಷ್ಣನ ಅಪೂರ್ವ ಅಲಂಕಾರ ಪ್ರಿಯರು. ಶೀರೂರು ಮೂಲಮಠ ಮತ್ತು ಉಡುಪಿಯ ಓಲಗ ಮಂಟಪವನ್ನು ನಿರ್ಮಿಸಿ, ೪೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೮೧ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshmiramana Teertharu is the twenty-third pontiff of Sri Shiroor Matha, celebrated for playing with a hooded cobra as an infant, his brilliant debating skill, and his mastery of elaborate alankaras for Lord Krishna. He established the modern Shiroor Moola Matha complex, built the eastern Olaga Mantapa in Udupi, ruled for 46 years, and reached Haripada at Shiroor in 1781 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಮೂರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬಾಲ್ಯದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲೇ ಹೆಡೆಬಿಚ್ಚಿದ ಸರ್ಪದೊಂದಿಗೆ ಆಡಿದವರು, ವಾಗ್ಮಿಗಳು ಹಾಗೂ ಕೃಷ್ಣನ ಅಪೂರ್ವ ಅಲಂಕಾರ ಪ್ರಿಯರು. ಶೀರೂರು ಮೂಲಮಠ ಮತ್ತು ಉಡುಪಿಯ ಓಲಗ ಮಂಟಪವನ್ನು ನಿರ್ಮಿಸಿ, ೪೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೮೧ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmiramana Teertharu is the twenty-third pontiff of Sri Shiroor Matha, celebrated for playing with a hooded cobra as an infant, his brilliant debating skill, and his mastery of elaborate alankaras for Lord Krishna. He established the modern Shiroor Moola Matha complex, built the eastern Olaga Mantapa in Udupi, ruled for 46 years, and reached Haripada at Shiroor in 1781 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಮೂರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬಾಲ್ಯದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲೇ ಹೆಡೆಬಿಚ್ಚಿದ ಸರ್ಪದೊಂದಿಗೆ ಆಡಿದವರು, ವಾಗ್ಮಿಗಳು ಹಾಗೂ ಕೃಷ್ಣನ ಅಪೂರ್ವ ಅಲಂಕಾರ ಪ್ರಿಯರು. ಶೀರೂರು ಮೂಲಮಠ ಮತ್ತು ಉಡುಪಿಯ ಓಲಗ ಮಂಟಪವನ್ನು ನಿರ್ಮಿಸಿ, ೪೬ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೮೧ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmiramana Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು)

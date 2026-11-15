@@ -1,17 +1,28 @@
 ---
-kind: "page-reference"
+kind: page-reference
 title:
-  en: "Sadhana Stories and Chronicles"
-  kn: "ಸಾಧನೆಯ ಕಥೆಗಳು ಮತ್ತು ವೃತ್ತಾಂತಗಳು"
+  en: Sadhana Stories and Chronicles
+  kn: ಸಾಧನೆಯ ಕಥೆಗಳು ಮತ್ತು ವೃತ್ತಾಂತಗಳು
 description:
-  en: "Accounts of disciplined practice, devotion, service, and moments remembered by the community."
-  kn: "ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮರಣೀಯ ಕ್ಷಣಗಳ ವೃತ್ತಾಂತಗಳು."
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
+  en: Accounts of disciplined practice, devotion, service, and moments remembered by the community.
+  kn: ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮರಣೀಯ ಕ್ಷಣಗಳ ವೃತ್ತಾಂತಗಳು.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif
 page_type:
-  en: "Knowledge section index"
-  kn: "ಜ್ಞಾನ ವಿಭಾಗದ ಪಟ್ಟಿ"
-url: "/library/stories"
+  en: Knowledge section index
+  kn: ಜ್ಞಾನ ವಿಭಾಗದ ಪಟ್ಟಿ
+url: /library/stories
 footnote:
   en: ""
   kn: ""
+fields:
+  library_sections.stories:
+    en:
+      eyebrow: Living Tradition
+      title: Sadhana Stories and Chronicles
+      description: Accounts of disciplined practice, devotion, service, and moments remembered by the community.
+    kn:
+      eyebrow: ಜೀವಂತ ಪರಂಪರೆ
+      title: ಸಾಧನಾ ಕಥೆಗಳು ಮತ್ತು ಚರಿತ್ರೆಗಳು
+      description: ಶಿಸ್ತುಬದ್ಧ ಸಾಧನೆ, ಭಕ್ತಿ, ಸೇವೆ ಮತ್ತು ಸಮುದಾಯವು ಸ್ಮರಿಸುವ ಕ್ಷಣಗಳ ಕಥನಗಳು.
+enabled: false
 ---

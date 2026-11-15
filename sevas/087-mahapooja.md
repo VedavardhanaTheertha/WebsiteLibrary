@@ -1,49 +1,50 @@
 ---
-id: "seva-087-mahapooja"
+id: seva-087-mahapooja
 code: 87
 entity_id: 3
 event_id: 4
 title:
-  en: "Mahapooja"
-  kn: "ಮಹಾಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Mahapooja
+  kn: ಮಹಾಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 name:
-  en: "Mahapooja"
-  kn: "ಮಹಾಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Mahapooja
+  kn: ಮಹಾಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=87"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=87
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Mahapooja to Lord Sri Subrahmanya with traditional Vedic procedures."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ನೆರವೇರಿಸುವ ಪೂರ್ಣ ಪ್ರಮಾಣದ ಮಹಾಪೂಜೆ."
+  en: Mahapooja to Lord Sri Subrahmanya with traditional Vedic procedures.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ನೆರವೇರಿಸುವ ಪೂರ್ಣ ಪ್ರಮಾಣದ ಮಹಾಪೂಜೆ.
 significance:
-  en: "Bestows protection against enemy plots, negative court issues, and lingering illnesses."
-  kn: "ಶತ್ರುಭಯ ನಿವಾರಣೆ ಮತ್ತು ಆರೋಗ್ಯ ಸಿದ್ಧಿಗಾಗಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿಯ ಮಹಾಪೂಜೆ."
+  en: Bestows protection against enemy plots, negative court issues, and lingering illnesses.
+  kn: ಶತ್ರುಭಯ ನಿವಾರಣೆ ಮತ್ತು ಆರೋಗ್ಯ ಸಿದ್ಧಿಗಾಗಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿಯ ಮಹಾಪೂಜೆ.
+enabled: true
 ---
 
 # Mahapooja

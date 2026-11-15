@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾಸುದೇವ ವಿಠ್ಠಲ ದಾಸರು
 ankita-kn: ವಾಸುದೇವ ವಿಠ್ಠಲ
 kruti: Sri Vasudeva Vittala Dasaru
 ankita: Vasudeva Vittala
+enabled: true
 ---
 
 # ಬಂದ ಕೃಷ್ಣ ಚಂದದಿಂದ

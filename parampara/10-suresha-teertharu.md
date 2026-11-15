@@ -4,11 +4,11 @@ position: 10
 name: Sri Suresha Teertharu (ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು)
 name-en: Sri Suresha Teertharu
 name-kn: ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು
-timePeriod: '1484–1507 CE (ಶಾ.ಶಕ ೧೪೨೯)'
-timePeriod-en: '1484–1507 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೪೮೪–೧೫೦೭ (ಶಾ.ಶಕ ೧೪೨೯)'
-shaka: '1429'
-shaka-kn: '೧೪೨೯'
+timePeriod: 1484–1507 CE (ಶಾ.ಶಕ ೧೪೨೯)
+timePeriod-en: 1484–1507 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೪೮೪–೧೫೦೭ (ಶಾ.ಶಕ ೧೪೨೯)
+shaka: "1429"
+shaka-kn: ೧೪೨೯
 samvatsara-en: Prabhava
 samvatsara-kn: ಪ್ರಭವ
 aradhana-en: Ashadha Shukla Tritiya
@@ -19,12 +19,11 @@ summary: |-
   Sri Suresha Teertharu is the tenth pontiff of Sri Shiroor Matha, celebrated as a distinguished scholar who delivered the complete teaching of Sri Nyaya Sudha three times, celebrating three Sudha Mangalas. He guided the samsthana for 23 years and attained Paramadhama on the banks of the Tungabhadra river in 1507 CE.
 
   ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ' ಗ್ರಂಥವನ್ನು ಮೂರು ಬಾರಿ ಸಂಪೂರ್ಣ ಪಾಠ ಹೇಳಿ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೦೭ ರಲ್ಲಿ ತುಂಗಭದ್ರಾ ತೀರದಲ್ಲಿ ಪರಂಧಾಮ ಸೇರಿದರು.
-summary-en: |-
-  Sri Suresha Teertharu is the tenth pontiff of Sri Shiroor Matha, celebrated as a distinguished scholar who delivered the complete teaching of Sri Nyaya Sudha three times, celebrating three Sudha Mangalas. He guided the samsthana for 23 years and attained Paramadhama on the banks of the Tungabhadra river in 1507 CE.
-summary-kn: |-
-  ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ' ಗ್ರಂಥವನ್ನು ಮೂರು ಬಾರಿ ಸಂಪೂರ್ಣ ಪಾಠ ಹೇಳಿ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೦೭ ರಲ್ಲಿ ತುಂಗಭದ್ರಾ ತೀರದಲ್ಲಿ ಪರಂಧಾಮ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Suresha Teertharu is the tenth pontiff of Sri Shiroor Matha, celebrated as a distinguished scholar who delivered the complete teaching of Sri Nyaya Sudha three times, celebrating three Sudha Mangalas. He guided the samsthana for 23 years and attained Paramadhama on the banks of the Tungabhadra river in 1507 CE.
+summary-kn: ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ' ಗ್ರಂಥವನ್ನು ಮೂರು ಬಾರಿ ಸಂಪೂರ್ಣ ಪಾಠ ಹೇಳಿ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೦೭ ರಲ್ಲಿ ತುಂಗಭದ್ರಾ ತೀರದಲ್ಲಿ ಪರಂಧಾಮ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Suresha Teertharu (ಶ್ರೀ ಸುರೇಶ ತೀರ್ಥರು)

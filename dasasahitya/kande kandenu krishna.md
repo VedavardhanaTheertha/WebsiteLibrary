@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಕಂಡೆ ಕಂಡೆನು ಕೃಷ್ಣ ನಿನ್ನಯ ದಿವ್ಯ ಮಂಗಳ ಮೂರ್ತಿಯ

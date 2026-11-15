@@ -1,49 +1,50 @@
 ---
-id: "seva-000-volunteer-sign-up"
+id: seva-000-volunteer-sign-up
 code: 0
 entity_id: 0
 event_id: 0
 title:
-  en: "Volunteer Sign-up"
-  kn: "ಸ್ವಯಂಸೇವಕ ನೋಂದಣಿ"
+  en: Volunteer Sign-up
+  kn: ಸ್ವಯಂಸೇವಕ ನೋಂದಣಿ
 name:
-  en: "Volunteer Sign-up"
-  kn: "ಸ್ವಯಂಸೇವಕ ನೋಂದಣಿ"
+  en: Volunteer Sign-up
+  kn: ಸ್ವಯಂಸೇವಕ ನೋಂದಣಿ
 category:
-  code: "community-seva"
-  en: "Community Seva"
-  kn: "ಸಮುದಾಯ ಸೇವೆ"
+  code: community-seva
+  en: Community Seva
+  kn: ಸಮುದಾಯ ಸೇವೆ
 sannidhi:
-  en: "Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Shiroor Matha
+  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Service to Shri Hari, Vayu and Gurugalu"
-  kn: "ಶ್ರೀ ಹರಿ ವಾಯು ಗುರುಗಳ ಸೇವೆ"
+  en: Service to Shri Hari, Vayu and Gurugalu
+  kn: ಶ್ರೀ ಹರಿ ವಾಯು ಗುರುಗಳ ಸೇವೆ
 location:
-  en: "Shri Shiroor Matha, Udupi and remote opportunities"
-  kn: "ಶ್ರೀ ಶಿರೂರು ಮಠ, ಉಡುಪಿ ಹಾಗೂ ದೂರಸ್ಥ ಸೇವಾ ಅವಕಾಶಗಳು"
+  en: Shri Shiroor Matha, Udupi and remote opportunities
+  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ, ಉಡುಪಿ ಹಾಗೂ ದೂರಸ್ಥ ಸೇವಾ ಅವಕಾಶಗಳು
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/000-volunteer-sign-up.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/000-volunteer-sign-up.avif
 formatted_amount:
-  en: "Offer your time and skills"
-  kn: "ನಿಮ್ಮ ಸಮಯ ಮತ್ತು ಕೌಶಲ್ಯವನ್ನು ಸಮರ್ಪಿಸಿ"
-currency: "INR"
+  en: Offer your time and skills
+  kn: ನಿಮ್ಮ ಸಮಯ ಮತ್ತು ಕೌಶಲ್ಯವನ್ನು ಸಮರ್ಪಿಸಿ
+currency: INR
 highlight: 1
 is_popular: true
-booking_url: "https://volunteer.shiroormatha.org/"
+booking_url: https://volunteer.shiroormatha.org/
 contact:
   phone: ""
-  email: "support@shiroormatha.org"
+  email: support@shiroormatha.org
 tags:
   - volunteer
   - community seva
   - paryaya
 description:
-  en: "Join Shri Shiroor Matha's seva family by offering your time, skills, and dedicated service."
-  kn: "ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ."
+  en: Join Shri Shiroor Matha's seva family by offering your time, skills, and dedicated service.
+  kn: ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ.
 significance:
-  en: "Volunteering carries forward the Matha's tradition through sacred service to devotees and the community."
-  kn: "ಭಕ್ತರು ಮತ್ತು ಸಮುದಾಯಕ್ಕೆ ಪವಿತ್ರ ಸೇವೆ ಸಲ್ಲಿಸುವ ಮೂಲಕ ಮಠದ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುವ ಅವಕಾಶ."
+  en: Volunteering carries forward the Matha's tradition through sacred service to devotees and the community.
+  kn: ಭಕ್ತರು ಮತ್ತು ಸಮುದಾಯಕ್ಕೆ ಪವಿತ್ರ ಸೇವೆ ಸಲ್ಲಿಸುವ ಮೂಲಕ ಮಠದ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುವ ಅವಕಾಶ.
+enabled: true
 ---
 
 # Volunteer Sign-up

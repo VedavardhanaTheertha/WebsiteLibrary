@@ -7,21 +7,19 @@ subtitle:
   en: Original Seat & Tapobhoomi · Shiroor, Udupi District
   kn: ಮೂಲ ಪೀಠ ಹಾಗೂ ತಪೋಭೂಮಿ · ಶಿರೂರು, ಉಡುಪಿ ಜಿಲ್ಲೆ
 era:
-  en: "Treta Yuga (Sage Jabali Hermitage); Dvaita consecration 13th Century CE"
-  kn: "ತ್ರೇತಾಯುಗ (ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳ ಆಶ್ರಮ); ದ್ವೈತ ಪ್ರತಿಷ್ಠಾಪನೆ ೧೩ನೆಯ ಶತಮಾನ"
+  en: Treta Yuga (Sage Jabali Hermitage); Dvaita consecration 13th Century CE
+  kn: ತ್ರೇತಾಯುಗ (ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳ ಆಶ್ರಮ); ದ್ವೈತ ಪ್ರತಿಷ್ಠಾಪನೆ ೧೩ನೆಯ ಶತಮಾನ
 deity:
-  en: "Lord Sri Mukhyaprana Devaru, Lord Sri Vittala Devaru"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು, ಶ್ರೀ ವಿಠಲ ದೇವರು"
+  en: Lord Sri Mukhyaprana Devaru, Lord Sri Vittala Devaru
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು, ಶ್ರೀ ವಿಠಲ ದೇವರು
 established_by:
-  en: "Sage Jabali (Consecration by Sri Madhwacharyaru & Sri Vamana Teertharu)"
-  kn: "ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳು (ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರ ಅನುಗ್ರಹ)"
+  en: Sage Jabali (Consecration by Sri Madhwacharyaru & Sri Vamana Teertharu)
+  kn: ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳು (ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರ ಅನುಗ್ರಹ)
 summary:
-  en: >-
-    The sacred primordial seat and serene spiritual hermitage of Shri Shiroor Matha
-    nestled on the banks of the sacred Suvarna river.
-  kn: >-
-    ಸುವರ್ಣ ನದಿಯ ಪವಿತ್ರ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪಾವನ ಮೂಲ ಪೀಠ ಹಾಗೂ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ.
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif"
+  en: The sacred primordial seat and serene spiritual hermitage of Shri Shiroor Matha nestled on the banks of the sacred Suvarna river.
+  kn: ಸುವರ್ಣ ನದಿಯ ಪವಿತ್ರ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪಾವನ ಮೂಲ ಪೀಠ ಹಾಗೂ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif
+enabled: true
 ---
 
 # Shri Shiroor Moola Matha (Shiroor)

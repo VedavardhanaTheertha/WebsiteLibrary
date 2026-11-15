@@ -1,25 +1,26 @@
 ---
 id: meaning-of-paryaya
 title:
-  en: "The Meaning of Paryaya"
-  kn: "ಪರ್ಯಾಯದ ಅರ್ಥ"
+  en: The Meaning of Paryaya
+  kn: ಪರ್ಯಾಯದ ಅರ್ಥ
 summary:
-  en: "Why the rotating responsibility for worship matters to Udupi's living tradition."
-  kn: "ಪೂಜೆಯ ಆವರ್ತಕ ಜವಾಬ್ದಾರಿ ಉಡುಪಿಯ ಜೀವಂತ ಪರಂಪರೆಗೆ ಏಕೆ ಮುಖ್ಯವಾಗಿದೆ."
+  en: Why the rotating responsibility for worship matters to Udupi's living tradition.
+  kn: ಪೂಜೆಯ ಆವರ್ತಕ ಜವಾಬ್ದಾರಿ ಉಡುಪಿಯ ಜೀವಂತ ಪರಂಪರೆಗೆ ಏಕೆ ಮುಖ್ಯವಾಗಿದೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/meaning-of-paryaya.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/meaning-of-paryaya.avif
 tags:
   - code: paryaya
-    en: "Paryaya"
-    kn: "ಪರ್ಯಾಯ"
+    en: Paryaya
+    kn: ಪರ್ಯಾಯ
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: tradition
-    en: "tradition"
-    kn: "ಪರಂಪರೆ"
+    en: tradition
+    kn: ಪರಂಪರೆ
+enabled: false
 ---
 
 ## English

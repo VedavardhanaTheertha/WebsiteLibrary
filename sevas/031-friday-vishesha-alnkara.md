@@ -1,50 +1,51 @@
 ---
-id: "seva-031-friday-vishesha-alnkara"
+id: seva-031-friday-vishesha-alnkara
 code: 31
 entity_id: 3
 event_id: 4
 title:
-  en: "Friday Vishesha Alnkara"
-  kn: "ಶುಕ್ರವಾರದ ವಿಶೇಷ ಅಲಂಕಾರ ಸೇವೆ"
+  en: Friday Vishesha Alnkara
+  kn: ಶುಕ್ರವಾರದ ವಿಶೇಷ ಅಲಂಕಾರ ಸೇವೆ
 name:
-  en: "Friday Vishesha Alnkara"
-  kn: "ಶುಕ್ರವಾರದ ವಿಶೇಷ ಅಲಂಕಾರ ಸೇವೆ"
+  en: Friday Vishesha Alnkara
+  kn: ಶುಕ್ರವಾರದ ವಿಶೇಷ ಅಲಂಕಾರ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 15000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/031-friday-vishesha-alnkara.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/031-friday-vishesha-alnkara.avif
 formatted_amount:
-  en: "₹15,000"
-  kn: "₹೧೫,೦೦೦"
-currency: "INR"
+  en: ₹15,000
+  kn: ₹೧೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: true
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=31"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=31
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Popular Friday Vishesha Alankara adorning Lord Krishna in distinct divine manifestations."
-  kn: "ಪ್ರತಿ ಶುಕ್ರವಾರ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಮಹಾಲಕ್ಷ್ಮಿ ಅಥವಾ ವಿಶೇಷ ದಿವ್ಯ ರೂಪದ ವಿಶಿಷ್ಟ ಅಲಂಕಾರವನ್ನು ಸಮರ್ಪಿಸುವ ಜನಪ್ರಿಯ ಸೇವೆ."
+  en: Popular Friday Vishesha Alankara adorning Lord Krishna in distinct divine manifestations.
+  kn: ಪ್ರತಿ ಶುಕ್ರವಾರ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಮಹಾಲಕ್ಷ್ಮಿ ಅಥವಾ ವಿಶೇಷ ದಿವ್ಯ ರೂಪದ ವಿಶಿಷ್ಟ ಅಲಂಕಾರವನ್ನು ಸಮರ್ಪಿಸುವ ಜನಪ್ರಿಯ ಸೇವೆ.
 significance:
-  en: "Friday is auspicious for Mahalakshmi; worshipping Krishna on Friday attracts prosperity and abundance."
-  kn: "ಶುಕ್ರವಾರದಂದು ಕೃಷ್ಣನನ್ನು ವಿಶೇಷವಾಗಿ ಅಲಂಕರಿಸಿ ಪೂಜಿಸುವುದರಿಂದ ಲಕ್ಷ್ಮೀದೇವಿಯ ಕೃಪೆ ಸದಾ ನೆಲೆಸುತ್ತದೆ."
+  en: Friday is auspicious for Mahalakshmi; worshipping Krishna on Friday attracts prosperity and abundance.
+  kn: ಶುಕ್ರವಾರದಂದು ಕೃಷ್ಣನನ್ನು ವಿಶೇಷವಾಗಿ ಅಲಂಕರಿಸಿ ಪೂಜಿಸುವುದರಿಂದ ಲಕ್ಷ್ಮೀದೇವಿಯ ಕೃಪೆ ಸದಾ ನೆಲೆಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Friday Vishesha Alnkara

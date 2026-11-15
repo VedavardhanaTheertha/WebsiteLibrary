@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪ್ರಸನ್ನ ವೇಂಕಟ ದಾಸರು
 ankita-kn: ಪ್ರಸನ್ನ ವೇಂಕಟ
 kruti: Sri Prasanna Venkata Dasaru
 ankita: Prasanna Venkata
+enabled: true
 ---
 
 # ಎಂದು ಕಾಂಬೆನೋ ಎನ್ನ ಸಲಹುವ ತಂದೆ ಉಡುಪಿನ ಜಾಣನ

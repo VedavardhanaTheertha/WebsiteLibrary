@@ -1,50 +1,51 @@
 ---
-id: "seva-019-bhagavatha-pravachana-sapthaha"
+id: seva-019-bhagavatha-pravachana-sapthaha
 code: 19
 entity_id: 3
 event_id: 4
 title:
-  en: "Bhagavatha Pravachana Sapthaha"
-  kn: "ಭಾಗವತ ಪ್ರವಚನ ಸಪ್ತಾಹ"
+  en: Bhagavatha Pravachana Sapthaha
+  kn: ಭಾಗವತ ಪ್ರವಚನ ಸಪ್ತಾಹ
 name:
-  en: "Bhagavatha Pravachana Sapthaha"
-  kn: "ಭಾಗವತ ಪ್ರವಚನ ಸಪ್ತಾಹ"
+  en: Bhagavatha Pravachana Sapthaha
+  kn: ಭಾಗವತ ಪ್ರವಚನ ಸಪ್ತಾಹ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 70000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/019-bhagavatha-pravachana-sapthaha.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/019-bhagavatha-pravachana-sapthaha.avif
 formatted_amount:
-  en: "₹70,000"
-  kn: "₹೭೦,೦೦೦"
-currency: "INR"
+  en: ₹70,000
+  kn: ₹೭೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=19"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=19
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Seven-day Srimad Bhagavata Purana discourse series (Saptaha) sponsored for the enlightenment of devotees."
-  kn: "ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣದ ಏಳು ದಿನಗಳ ಸಪ್ತಾಹ ಪ್ರವಚನ ಮತ್ತು ವಿದ್ವತ್ ಗೋಷ್ಠಿಯ ಪವಿತ್ರ ಪ್ರಾಯೋಜಕತ್ವ."
+  en: Seven-day Srimad Bhagavata Purana discourse series (Saptaha) sponsored for the enlightenment of devotees.
+  kn: ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣದ ಏಳು ದಿನಗಳ ಸಪ್ತಾಹ ಪ್ರವಚನ ಮತ್ತು ವಿದ್ವತ್ ಗೋಷ್ಠಿಯ ಪವಿತ್ರ ಪ್ರಾಯೋಜಕತ್ವ.
 significance:
-  en: "Listening to and propagating Lord Krishna's divine leelas dispels ignorance and purifies the mind."
-  kn: "ಭಾಗವತದ ಶ್ರವಣ-ಕಥನದಿಂದ ಮನಸ್ಸು ಪರಿಶುದ್ಧಗೊಂಡು ಮುಕ್ತಿ ಮಾರ್ಗ ಸುಗಮವಾಗುತ್ತದೆ."
+  en: Listening to and propagating Lord Krishna's divine leelas dispels ignorance and purifies the mind.
+  kn: ಭಾಗವತದ ಶ್ರವಣ-ಕಥನದಿಂದ ಮನಸ್ಸು ಪರಿಶುದ್ಧಗೊಂಡು ಮುಕ್ತಿ ಮಾರ್ಗ ಸುಗಮವಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # Bhagavatha Pravachana Sapthaha

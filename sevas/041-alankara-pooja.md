@@ -1,50 +1,51 @@
 ---
-id: "seva-041-alankara-pooja"
+id: seva-041-alankara-pooja
 code: 41
 entity_id: 3
 event_id: 4
 title:
-  en: "Alankara Pooja"
-  kn: "ಅಲಂಕಾರ ಪೂಜೆ"
+  en: Alankara Pooja
+  kn: ಅಲಂಕಾರ ಪೂಜೆ
 name:
-  en: "Alankara Pooja"
-  kn: "ಅಲಂಕಾರ ಪೂಜೆ"
+  en: Alankara Pooja
+  kn: ಅಲಂಕಾರ ಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/041-alankara-pooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/041-alankara-pooja.avif
 formatted_amount:
-  en: "₹1,500"
-  kn: "₹೧,೫೦೦"
-currency: "INR"
+  en: ₹1,500
+  kn: ₹೧,೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=41"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=41
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Alankara Pooja celebrating the mesmerizing ornamentation and beauty of child Krishna."
-  kn: "ಬಾಲಕೃಷ್ಣನಿಗೆ ವಿಶೇಷ ಆಭರಣಗಳು, ಕಿರೀಟ ಮತ್ತು ವಸ್ತ್ರಗಳಿಂದ ಅಲಂಕರಿಸಿ ನೆರವೇರಿಸುವ ಪೂಜೆ."
+  en: Alankara Pooja celebrating the mesmerizing ornamentation and beauty of child Krishna.
+  kn: ಬಾಲಕೃಷ್ಣನಿಗೆ ವಿಶೇಷ ಆಭರಣಗಳು, ಕಿರೀಟ ಮತ್ತು ವಸ್ತ್ರಗಳಿಂದ ಅಲಂಕರಿಸಿ ನೆರವೇರಿಸುವ ಪೂಜೆ.
 significance:
-  en: "Beholding the decorated form of Krishna removes mental grief and fills the heart with joy."
-  kn: "ಮೋಹನ ಮುರಲೀಧರನ ದಿವ್ಯ ಅಲಂಕೃತ ರೂಪವನ್ನು ಕಂಡು ಆನಂದತುಂದಿಲರಾಗುವ ಸೇವೆ."
+  en: Beholding the decorated form of Krishna removes mental grief and fills the heart with joy.
+  kn: ಮೋಹನ ಮುರಲೀಧರನ ದಿವ್ಯ ಅಲಂಕೃತ ರೂಪವನ್ನು ಕಂಡು ಆನಂದತುಂದಿಲರಾಗುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Alankara Pooja

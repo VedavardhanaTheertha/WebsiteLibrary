@@ -1,50 +1,51 @@
 ---
-id: "seva-011-akhanda-satoptsava-with-annadana"
+id: seva-011-akhanda-satoptsava-with-annadana
 code: 11
 entity_id: 3
 event_id: 4
 title:
-  en: "Akhanda Satoptsava With Annadana"
-  kn: "ಅಖಂಡ ಸಪ್ತೋತ್ಸವ ಅನ್ನದಾನ ಸಹಿತ"
+  en: Akhanda Satoptsava With Annadana
+  kn: ಅಖಂಡ ಸಪ್ತೋತ್ಸವ ಅನ್ನದಾನ ಸಹಿತ
 name:
-  en: "Akhanda Satoptsava With Annadana"
-  kn: "ಅಖಂಡ ಸಪ್ತೋತ್ಸವ ಅನ್ನದಾನ ಸಹಿತ"
+  en: Akhanda Satoptsava With Annadana
+  kn: ಅಖಂಡ ಸಪ್ತೋತ್ಸವ ಅನ್ನದಾನ ಸಹಿತ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/011-akhanda-satoptsava-with-annadana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/011-akhanda-satoptsava-with-annadana.avif
 formatted_amount:
-  en: "₹5,00,000"
-  kn: "₹೫,೦೦,೦೦೦"
-currency: "INR"
+  en: ₹5,00,000
+  kn: ₹೫,೦೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=11"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=11
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Grand seven-day Akhanda Saptotsava chariot festivals accompanied by extensive continuous Annadana."
-  kn: "ಏಳು ದಿನಗಳ ಕಾಲ ನಿರಂತರ ಸಪ್ತೋತ್ಸವ ರಥೋತ್ಸವಗಳು ಮತ್ತು ಮಹಾ ಅನ್ನದಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪ್ರಾಯೋಜಿಸುವ ಮಹಾಸೇವೆ."
+  en: Grand seven-day Akhanda Saptotsava chariot festivals accompanied by extensive continuous Annadana.
+  kn: ಏಳು ದಿನಗಳ ಕಾಲ ನಿರಂತರ ಸಪ್ತೋತ್ಸವ ರಥೋತ್ಸವಗಳು ಮತ್ತು ಮಹಾ ಅನ್ನದಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪ್ರಾಯೋಜಿಸುವ ಮಹಾಸೇವೆ.
 significance:
-  en: "The pinnacle of festival sponsorship, invoking the grace of Lord Krishna for entire generations."
-  kn: "ಏಳು ದಿನಗಳ ಕಾಲ ರಥೋತ್ಸವ ಮತ್ತು ಸಹಸ್ರಾರು ಜನರಿಗೆ ಮಹಾ ಅನ್ನದಾನ ನಡೆಸಿ ವಂಶಪಾರಂಪರ್ಯವಾಗಿ ಮಹಾಪುಣ್ಯ ಗಳಿಸುವ ಸೇವೆ."
+  en: The pinnacle of festival sponsorship, invoking the grace of Lord Krishna for entire generations.
+  kn: ಏಳು ದಿನಗಳ ಕಾಲ ರಥೋತ್ಸವ ಮತ್ತು ಸಹಸ್ರಾರು ಜನರಿಗೆ ಮಹಾ ಅನ್ನದಾನ ನಡೆಸಿ ವಂಶಪಾರಂಪರ್ಯವಾಗಿ ಮಹಾಪುಣ್ಯ ಗಳಿಸುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Akhanda Satoptsava With Annadana

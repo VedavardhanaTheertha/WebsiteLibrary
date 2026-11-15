@@ -10,18 +10,16 @@ era:
   en: "13th Century CE (Current Car Street premises: 18th Century CE)"
   kn: "೧೩ನೆಯ ಶತಮಾನ (ಪ್ರಸ್ತುತ ರಥಬೀದಿ ಕಟ್ಟಡ: ೧೮ನೆಯ ಶತಮಾನ)"
 deity:
-  en: "Lord Sri Vittala Devaru (Anna Vittala), Lord Sri Krishna, Lord Mukhyaprana"
-  kn: "ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ), ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Lord Sri Vittala Devaru (Anna Vittala), Lord Sri Krishna, Lord Mukhyaprana
+  kn: ಶ್ರೀ ವಿಠಲ ದೇವರು (ಅಣ್ಣ ವಿಠಲ), ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 established_by:
-  en: "Jagadguru Sri Madhwacharyaru & Sri Vamana Teertharu"
-  kn: "ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು"
+  en: Jagadguru Sri Madhwacharyaru & Sri Vamana Teertharu
+  kn: ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರು
 summary:
-  en: >-
-    The sacred town headquarters of Shri Shiroor Matha situated on Car Street in Udupi,
-    housing the venerable sanctum of Lord Sri Vittala Devaru.
-  kn: >-
-    ಉಡುಪಿಯ ರಥಬೀದಿಯಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಪ್ರಧಾನ ಕಾರ್ಯಾಲಯ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರ ದಿವ್ಯ ಸನ್ನಿಧಾನ.
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif"
+  en: The sacred town headquarters of Shri Shiroor Matha situated on Car Street in Udupi, housing the venerable sanctum of Lord Sri Vittala Devaru.
+  kn: ಉಡುಪಿಯ ರಥಬೀದಿಯಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಪ್ರಧಾನ ಕಾರ್ಯಾಲಯ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರ ದಿವ್ಯ ಸನ್ನಿಧಾನ.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif
+enabled: true
 ---
 
 # Shri Shiroor Matha (Car Street, Udupi)

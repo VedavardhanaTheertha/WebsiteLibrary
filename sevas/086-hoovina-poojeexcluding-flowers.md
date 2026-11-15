@@ -1,49 +1,50 @@
 ---
-id: "seva-086-hoovina-poojeexcluding-flowers"
+id: seva-086-hoovina-poojeexcluding-flowers
 code: 86
 entity_id: 3
 event_id: 4
 title:
-  en: "Hoovina Pooje(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Hoovina Pooje(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 name:
-  en: "Hoovina Pooje(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Hoovina Pooje(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
 formatted_amount:
-  en: "₹300"
-  kn: "₹೩೦೦"
-currency: "INR"
+  en: ₹300
+  kn: ₹೩೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=86"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=86
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Pushpa Pooja offering auspicious flowers to Lord Sri Subrahmanya."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಕೆಂಪು ಪುಷ್ಪಗಳು ಹಾಗೂ ಸುಗಂಧ ಹೂವುಗಳಿಂದ ವಿಶೇಷ ಪುಷ್ಪಾರ್ಚನೆ ಮಾಡುವ ಸೇವೆ."
+  en: Pushpa Pooja offering auspicious flowers to Lord Sri Subrahmanya.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಕೆಂಪು ಪುಷ್ಪಗಳು ಹಾಗೂ ಸುಗಂಧ ಹೂವುಗಳಿಂದ ವಿಶೇಷ ಪುಷ್ಪಾರ್ಚನೆ ಮಾಡುವ ಸೇವೆ.
 significance:
-  en: "Subrahmanya bestows courage, marital harmony, and freedom from fear."
-  kn: "ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿಗೆ ಹೂವಿನ ಪೂಜೆ ಸಲ್ಲಿಸಿ, ಶೌರ್ಯ, ವಿವೇಕ ಮತ್ತು ಕೌಟುಂಬಿಕ ಸುಖವನ್ನು ಪಡೆಯುವುದು."
+  en: Subrahmanya bestows courage, marital harmony, and freedom from fear.
+  kn: ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿಗೆ ಹೂವಿನ ಪೂಜೆ ಸಲ್ಲಿಸಿ, ಶೌರ್ಯ, ವಿವೇಕ ಮತ್ತು ಕೌಟುಂಬಿಕ ಸುಖವನ್ನು ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Hoovina Pooje(Excluding Flowers)

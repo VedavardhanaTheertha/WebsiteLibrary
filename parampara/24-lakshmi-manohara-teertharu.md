@@ -4,11 +4,11 @@ position: 24
 name: Sri Lakshmi Manohara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು)
 name-en: Sri Lakshmi Manohara Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು
-timePeriod: '1781–1819 CE (ಶಾ.ಶಕ ೧೭೪೧)'
-timePeriod-en: '1781–1819 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೭೮೧–೧೮೧೯ (ಶಾ.ಶಕ ೧೭೪೧)'
-shaka: '1741'
-shaka-kn: '೧೭೪೧'
+timePeriod: 1781–1819 CE (ಶಾ.ಶಕ ೧೭೪೧)
+timePeriod-en: 1781–1819 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೭೮೧–೧೮೧೯ (ಶಾ.ಶಕ ೧೭೪೧)
+shaka: "1741"
+shaka-kn: ೧೭೪೧
 samvatsara-en: Pramathi
 samvatsara-kn: ಪ್ರಮಾಥಿ
 aradhana-en: Magha Krishna Panchami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmi Manohara Teertharu is the twenty-fourth pontiff of Sri Shiroor Matha, celebrated for reconstructing the present Shiroor Matha building on Car Street in Udupi and driving transformative community development across Shiroor village. He governed the peetha for 38 years and entered Vrindavana at Shiroor in 1819 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಉಡುಪಿಯ ರಥಬೀದಿಯ ಈಗಿನ ಭವ್ಯ ಶೀರೂರು ಮಠವನ್ನು ನೂತನವಾಗಿ ನಿರ್ಮಿಸಿ, ಶೀರೂರು ಗ್ರಾಮದ ಅಭಿವೃದ್ಧಿ ಕೈಗೊಂಡವರು. ೩೮ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೧೯ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-summary-en: |-
-  Sri Lakshmi Manohara Teertharu is the twenty-fourth pontiff of Sri Shiroor Matha, celebrated for reconstructing the present Shiroor Matha building on Car Street in Udupi and driving transformative community development across Shiroor village. He governed the peetha for 38 years and entered Vrindavana at Shiroor in 1819 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಉಡುಪಿಯ ರಥಬೀದಿಯ ಈಗಿನ ಭವ್ಯ ಶೀರೂರು ಮಠವನ್ನು ನೂತನವಾಗಿ ನಿರ್ಮಿಸಿ, ಶೀರೂರು ಗ್ರಾಮದ ಅಭಿವೃದ್ಧಿ ಕೈಗೊಂಡವರು. ೩೮ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೧೯ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmi Manohara Teertharu is the twenty-fourth pontiff of Sri Shiroor Matha, celebrated for reconstructing the present Shiroor Matha building on Car Street in Udupi and driving transformative community development across Shiroor village. He governed the peetha for 38 years and entered Vrindavana at Shiroor in 1819 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಉಡುಪಿಯ ರಥಬೀದಿಯ ಈಗಿನ ಭವ್ಯ ಶೀರೂರು ಮಠವನ್ನು ನೂತನವಾಗಿ ನಿರ್ಮಿಸಿ, ಶೀರೂರು ಗ್ರಾಮದ ಅಭಿವೃದ್ಧಿ ಕೈಗೊಂಡವರು. ೩೮ ವರ್ಷ ಪೀಠವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೧೯ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmi Manohara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು)

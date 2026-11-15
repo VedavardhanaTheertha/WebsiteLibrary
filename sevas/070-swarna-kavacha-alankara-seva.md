@@ -1,50 +1,51 @@
 ---
-id: "seva-070-swarna-kavacha-alankara-seva"
+id: seva-070-swarna-kavacha-alankara-seva
 code: 70
 entity_id: 3
 event_id: 4
 title:
-  en: "Swarna Kavacha Alankara Seva"
-  kn: "ಸ್ವರ್ಣ ಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Swarna Kavacha Alankara Seva
+  kn: ಸ್ವರ್ಣ ಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Swarna Kavacha Alankara Seva"
-  kn: "ಸ್ವರ್ಣ ಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Swarna Kavacha Alankara Seva
+  kn: ಸ್ವರ್ಣ ಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/070-swarna-kavacha-alankara-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/070-swarna-kavacha-alankara-seva.avif
 formatted_amount:
-  en: "₹1,000"
-  kn: "₹೧,೦೦೦"
-currency: "INR"
+  en: ₹1,000
+  kn: ₹೧,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=70"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=70
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Swarna Kavacha Alankara adorning Bhojana Shala Sri Mukhyaprana with shimmering golden armor."
-  kn: "ಭೋಜನ ಶಾಲೆಯಲ್ಲಿರುವ ಅನ್ನಪ್ರದಾತ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಬಂಗಾರದ ಕವಚವನ್ನು ತೊಡಿಸಿ ಮಾಡುವ ಅಲಂಕಾರ ಸೇವೆ."
+  en: Swarna Kavacha Alankara adorning Bhojana Shala Sri Mukhyaprana with shimmering golden armor.
+  kn: ಭೋಜನ ಶಾಲೆಯಲ್ಲಿರುವ ಅನ್ನಪ್ರದಾತ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಬಂಗಾರದ ಕವಚವನ್ನು ತೊಡಿಸಿ ಮಾಡುವ ಅಲಂಕಾರ ಸೇವೆ.
 significance:
-  en: "Bhojana Shala Mukhyaprana ensures abundance of food; this seva prevents hunger and brings prosperity."
-  kn: "ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಚಿನ್ನದ ಕವಚ ಸಮರ್ಪಿಸುವುದರಿಂದ ಮನೆಯಲ್ಲಿ ಎಂದೂ ಧಾನ್ಯ-ಧನದ ಕೊರತೆಯಾಗುವುದಿಲ್ಲ."
+  en: Bhojana Shala Mukhyaprana ensures abundance of food; this seva prevents hunger and brings prosperity.
+  kn: ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಚಿನ್ನದ ಕವಚ ಸಮರ್ಪಿಸುವುದರಿಂದ ಮನೆಯಲ್ಲಿ ಎಂದೂ ಧಾನ್ಯ-ಧನದ ಕೊರತೆಯಾಗುವುದಿಲ್ಲ.
+enabled: true
 ---
 
 # Swarna Kavacha Alankara Seva

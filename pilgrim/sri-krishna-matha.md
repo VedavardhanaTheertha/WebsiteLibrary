@@ -1,25 +1,26 @@
 ---
 id: sri-krishna-matha
 title:
-  en: "Sri Krishna Matha"
-  kn: "ಶ್ರೀಕೃಷ್ಣ ಮಠ"
+  en: Sri Krishna Matha
+  kn: ಶ್ರೀಕೃಷ್ಣ ಮಠ
 summary:
-  en: "A first-time visitor's orientation to the main temple in Udupi."
-  kn: "ಉಡುಪಿಯ ಮುಖ್ಯ ದೇವಾಲಯಕ್ಕೆ ಮೊದಲ ಬಾರಿಗೆ ಭೇಟಿ ನೀಡುವವರ ಪರಿಚಯ."
+  en: A first-time visitor's orientation to the main temple in Udupi.
+  kn: ಉಡುಪಿಯ ಮುಖ್ಯ ದೇವಾಲಯಕ್ಕೆ ಮೊದಲ ಬಾರಿಗೆ ಭೇಟಿ ನೀಡುವವರ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sri-krishna-matha.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sri-krishna-matha.avif
 tags:
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: temple
-    en: "temple"
-    kn: "ದೇವಾಲಯ"
+    en: temple
+    kn: ದೇವಾಲಯ
   - code: darshan
-    en: "darshan"
-    kn: "ದರ್ಶನ"
+    en: darshan
+    kn: ದರ್ಶನ
+enabled: false
 ---
 
 ## English

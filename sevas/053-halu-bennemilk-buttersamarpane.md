@@ -1,50 +1,51 @@
 ---
-id: "seva-053-halu-bennemilk-buttersamarpane"
+id: seva-053-halu-bennemilk-buttersamarpane
 code: 53
 entity_id: 3
 event_id: 4
 title:
-  en: "Halu Benne(Milk & Butter)Samarpane"
-  kn: "ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ"
+  en: Halu Benne(Milk & Butter)Samarpane
+  kn: ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ
 name:
-  en: "Halu Benne(Milk & Butter)Samarpane"
-  kn: "ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ"
+  en: Halu Benne(Milk & Butter)Samarpane
+  kn: ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 250
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/053-halu-bennemilk-buttersamarpane.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/053-halu-bennemilk-buttersamarpane.avif
 formatted_amount:
-  en: "₹250"
-  kn: "₹೨೫೦"
-currency: "INR"
+  en: ₹250
+  kn: ₹೨೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=53"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=53
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Offering fresh churned butter and sweet milk (Halu Benne) to butter-loving Bala Krishna."
-  kn: "ಬಾಲಕೃಷ್ಣನಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯವಾದ ತಾಜಾ ಹಾಲು ಮತ್ತು ನವನೀತವನ್ನು (ಬೆಣ್ಣೆ) ನೈವೇದ್ಯವಾಗಿ ಸಮರ್ಪಿಸುವ ಸೇವೆ."
+  en: Offering fresh churned butter and sweet milk (Halu Benne) to butter-loving Bala Krishna.
+  kn: ಬಾಲಕೃಷ್ಣನಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯವಾದ ತಾಜಾ ಹಾಲು ಮತ್ತು ನವನೀತವನ್ನು (ಬೆಣ್ಣೆ) ನೈವೇದ್ಯವಾಗಿ ಸಮರ್ಪಿಸುವ ಸೇವೆ.
 significance:
-  en: "Pleases child Krishna instantly, bestowing sweet speech, pure devotion, and maternal joy."
-  kn: "ಬೆಣ್ಣೆಗಳ್ಳ ಕೃಷ್ಣನಿಗೆ ನವನೀತ ಸಮರ್ಪಿಸಿ, ಮನೆಯಲ್ಲಿ ಸಂಪತ್ತು ಮತ್ತು ಮುಗ್ಧ ಪ್ರೀತಿ ನೆಲೆಸುವಂತೆ ಪ್ರಾರ್ಥಿಸುವುದು."
+  en: Pleases child Krishna instantly, bestowing sweet speech, pure devotion, and maternal joy.
+  kn: ಬೆಣ್ಣೆಗಳ್ಳ ಕೃಷ್ಣನಿಗೆ ನವನೀತ ಸಮರ್ಪಿಸಿ, ಮನೆಯಲ್ಲಿ ಸಂಪತ್ತು ಮತ್ತು ಮುಗ್ಧ ಪ್ರೀತಿ ನೆಲೆಸುವಂತೆ ಪ್ರಾರ್ಥಿಸುವುದು.
+enabled: true
 ---
 
 # Halu Benne(Milk & Butter)Samarpane

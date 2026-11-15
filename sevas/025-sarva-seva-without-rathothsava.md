@@ -1,50 +1,51 @@
 ---
-id: "seva-025-sarva-seva-without-rathothsava"
+id: seva-025-sarva-seva-without-rathothsava
 code: 25
 entity_id: 3
 event_id: 4
 title:
-  en: "Sarva Seva Without Rathothsava"
-  kn: "ರಥೋತ್ಸವ ರಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva Without Rathothsava
+  kn: ರಥೋತ್ಸವ ರಹಿತ ಸರ್ವ ಸೇವೆ
 name:
-  en: "Sarva Seva Without Rathothsava"
-  kn: "ರಥೋತ್ಸವ ರಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva Without Rathothsava
+  kn: ರಥೋತ್ಸವ ರಹಿತ ಸರ್ವ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 25000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/025-sarva-seva-without-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/025-sarva-seva-without-rathothsava.avif
 formatted_amount:
-  en: "₹25,000"
-  kn: "₹೨೫,೦೦೦"
-currency: "INR"
+  en: ₹25,000
+  kn: ₹೨೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=25"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=25
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Comprehensive Sarva Seva comprising all sanctum rituals, abhishekha, and offerings excluding chariot."
-  kn: "ರಥೋತ್ಸವವನ್ನು ಹೊರತುಪಡಿಸಿ, ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ದಿನದ ಎಲ್ಲಾ ಆಭರಣ, ಪೂಜೆ, ಅಭಿಷೇಕ ಮತ್ತು ನೈವೇದ್ಯಗಳನ್ನು ಸಲ್ಲಿಸುವ ಸರ್ವ ಸೇವೆ."
+  en: Comprehensive Sarva Seva comprising all sanctum rituals, abhishekha, and offerings excluding chariot.
+  kn: ರಥೋತ್ಸವವನ್ನು ಹೊರತುಪಡಿಸಿ, ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ದಿನದ ಎಲ್ಲಾ ಆಭರಣ, ಪೂಜೆ, ಅಭಿಷೇಕ ಮತ್ತು ನೈವೇದ್ಯಗಳನ್ನು ಸಲ್ಲಿಸುವ ಸರ್ವ ಸೇವೆ.
 significance:
-  en: "Deep personal devotion focused on inner sanctum rituals and personal archana."
-  kn: "ಗರ್ಭಗುಡಿಯ ಒಳಗೆ ನಡೆಯುವ ಎಲ್ಲಾ ಅಭಿಷೇಕ, ಪೂಜೆ, ನೈವೇದ್ಯ ಮತ್ತು ಮಂಗಳಾರತಿಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಸೇವೆ."
+  en: Deep personal devotion focused on inner sanctum rituals and personal archana.
+  kn: ಗರ್ಭಗುಡಿಯ ಒಳಗೆ ನಡೆಯುವ ಎಲ್ಲಾ ಅಭಿಷೇಕ, ಪೂಜೆ, ನೈವೇದ್ಯ ಮತ್ತು ಮಂಗಳಾರತಿಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Sarva Seva Without Rathothsava

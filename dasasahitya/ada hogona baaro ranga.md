@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಶ್ರೀಪಾದರಾಜರು
 ankita-kn: ರಂಗ ವಿಠಲ
 kruti: Sri Sripadarajaru
 ankita: Ranga vittala
+enabled: true
 ---
 
 # ಆಡ ಹೋಗೋಣ ಬಾರೋ ರಂಗ

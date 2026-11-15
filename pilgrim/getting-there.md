@@ -1,28 +1,29 @@
 ---
 id: getting-there
 title:
-  en: "Getting There"
-  kn: "ಅಲ್ಲಿಗೆ ತಲುಪುವುದು"
+  en: Getting There
+  kn: ಅಲ್ಲಿಗೆ ತಲುಪುವುದು
 summary:
-  en: "Temporary planning notes for reaching Udupi by road, rail, and air."
-  kn: "ರಸ್ತೆ, ರೈಲು ಮತ್ತು ವಿಮಾನದ ಮೂಲಕ ಉಡುಪಿಗೆ ತಲುಪಲು ತಾತ್ಕಾಲಿಕ ಯೋಜನಾ ಟಿಪ್ಪಣಿಗಳು."
+  en: Temporary planning notes for reaching Udupi by road, rail, and air.
+  kn: ರಸ್ತೆ, ರೈಲು ಮತ್ತು ವಿಮಾನದ ಮೂಲಕ ಉಡುಪಿಗೆ ತಲುಪಲು ತಾತ್ಕಾಲಿಕ ಯೋಜನಾ ಟಿಪ್ಪಣಿಗಳು.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/getting-there.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/getting-there.avif
 tags:
   - code: travel
-    en: "travel"
-    kn: "ಪ್ರಯಾಣ"
+    en: travel
+    kn: ಪ್ರಯಾಣ
   - code: road
-    en: "road"
-    kn: "ರಸ್ತೆ"
+    en: road
+    kn: ರಸ್ತೆ
   - code: rail
-    en: "rail"
-    kn: "ರೈಲು"
+    en: rail
+    kn: ರೈಲು
   - code: air
-    en: "air"
-    kn: "ವಿಮಾನ"
+    en: air
+    kn: ವಿಮಾನ
+enabled: false
 ---
 
 ## English

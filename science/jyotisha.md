@@ -1,25 +1,26 @@
 ---
 id: jyotisha
 title:
-  en: "Jyotisha"
-  kn: "ಜ್ಯೋತಿಷ"
+  en: Jyotisha
+  kn: ಜ್ಯೋತಿಷ
 summary:
-  en: "An introduction to the classical discipline concerned with calendars and celestial timing."
-  kn: "ಪಂಚಾಂಗ ಮತ್ತು ಆಕಾಶಕಾಯಗಳ ಕಾಲನಿರ್ಣಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಶಾಸ್ತ್ರೀಯ ಶಿಸ್ತಿನ ಪರಿಚಯ."
+  en: An introduction to the classical discipline concerned with calendars and celestial timing.
+  kn: ಪಂಚಾಂಗ ಮತ್ತು ಆಕಾಶಕಾಯಗಳ ಕಾಲನಿರ್ಣಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಶಾಸ್ತ್ರೀಯ ಶಿಸ್ತಿನ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/jyotisha.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/jyotisha.avif
 tags:
   - code: jyotisha
-    en: "Jyotisha"
-    kn: "ಜ್ಯೋತಿಷ"
+    en: Jyotisha
+    kn: ಜ್ಯೋತಿಷ
   - code: calendar
-    en: "calendar"
-    kn: "ಪಂಚಾಂಗ"
+    en: calendar
+    kn: ಪಂಚಾಂಗ
   - code: astronomy
-    en: "astronomy"
-    kn: "ಖಗೋಳಶಾಸ್ತ್ರ"
+    en: astronomy
+    kn: ಖಗೋಳಶಾಸ್ತ್ರ
+enabled: false
 ---
 
 ## English

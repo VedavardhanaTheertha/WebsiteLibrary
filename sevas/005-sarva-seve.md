@@ -1,50 +1,51 @@
 ---
-id: "seva-005-sarva-seve"
+id: seva-005-sarva-seve
 code: 5
 entity_id: 3
 event_id: 4
 title:
-  en: "Sarva Seve"
-  kn: "ಸರ್ವ ಸೇವೆ (ಮಠದಲ್ಲಿ)"
+  en: Sarva Seve
+  kn: ಸರ್ವ ಸೇವೆ (ಮಠದಲ್ಲಿ)
 name:
-  en: "Sarva Seve"
-  kn: "ಸರ್ವ ಸೇವೆ (ಮಠದಲ್ಲಿ)"
+  en: Sarva Seve
+  kn: ಸರ್ವ ಸೇವೆ (ಮಠದಲ್ಲಿ)
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/005-sarva-seve.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/005-sarva-seve.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=5"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=5
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Comprehensive Sarva Seva offered to Lord Sri Vittala and the sacred Guru Parampara at Shri Shiroor Matha."
-  kn: "ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನದ ಮೂಲ ವಿಠ್ಠಲ ದೇವರಿಗೆ ಹಾಗೂ ಗುರುಪರಂಪರೆಗೆ ಸಮರ್ಪಿಸುವ ಸಮಗ್ರ ಸರ್ವ ಸೇವೆ."
+  en: Comprehensive Sarva Seva offered to Lord Sri Vittala and the sacred Guru Parampara at Shri Shiroor Matha.
+  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನದ ಮೂಲ ವಿಠ್ಠಲ ದೇವರಿಗೆ ಹಾಗೂ ಗುರುಪರಂಪರೆಗೆ ಸಮರ್ಪಿಸುವ ಸಮಗ್ರ ಸರ್ವ ಸೇವೆ.
 significance:
-  en: "Encompassing all principal daily rituals and archana for family prosperity and spiritual merit."
-  kn: "ದಿನದ ಎಲ್ಲಾ ಪ್ರಮುಖ ಪೂಜೆ, ನೈವೇದ್ಯ ಮತ್ತು ಅಲಂಕಾರ ಸೇವೆಗಳನ್ನು ಒಟ್ಟಾಗಿ ಸಮರ್ಪಿಸುವ ಸರ್ವತೋಮುಖ ಸೇವೆ."
+  en: Encompassing all principal daily rituals and archana for family prosperity and spiritual merit.
+  kn: ದಿನದ ಎಲ್ಲಾ ಪ್ರಮುಖ ಪೂಜೆ, ನೈವೇದ್ಯ ಮತ್ತು ಅಲಂಕಾರ ಸೇವೆಗಳನ್ನು ಒಟ್ಟಾಗಿ ಸಮರ್ಪಿಸುವ ಸರ್ವತೋಮುಖ ಸೇವೆ.
+enabled: true
 ---
 
 # Sarva Seve

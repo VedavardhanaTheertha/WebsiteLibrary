@@ -1,49 +1,50 @@
 ---
-id: "seva-100-annaprashana-kanike"
+id: seva-100-annaprashana-kanike
 code: 100
 entity_id: 3
 event_id: 4
 title:
-  en: "Annaprashana Kanike"
-  kn: "ಅನ್ನಪ್ರಾಶನ ಕಾಣಿಕೆ"
+  en: Annaprashana Kanike
+  kn: ಅನ್ನಪ್ರಾಶನ ಕಾಣಿಕೆ
 name:
-  en: "Annaprashana Kanike"
-  kn: "ಅನ್ನಪ್ರಾಶನ ಕಾಣಿಕೆ"
+  en: Annaprashana Kanike
+  kn: ಅನ್ನಪ್ರಾಶನ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=100"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=100
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Annaprashana Kanike for offering the child their first sanctified morsel of Mahaprasada."
-  kn: "ಮಗುವಿಗೆ ಪ್ರಪ್ರಥಮ ಬಾರಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಪವಿತ್ರ ಮಹಾಪ್ರಸಾದವನ್ನು ಉಣಿಸುವ ಅನ್ನಪ್ರಾಶನ ಸಂಸ್ಕಾರ ಸೇವೆ."
+  en: Annaprashana Kanike for offering the child their first sanctified morsel of Mahaprasada.
+  kn: ಮಗುವಿಗೆ ಪ್ರಪ್ರಥಮ ಬಾರಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಪವಿತ್ರ ಮಹಾಪ್ರಸಾದವನ್ನು ಉಣಿಸುವ ಅನ್ನಪ್ರಾಶನ ಸಂಸ್ಕಾರ ಸೇವೆ.
 significance:
-  en: "Blesses the child with robust digestion, speech, health, and lifelong affinity for sattvic food."
-  kn: "ಶ್ರೀಕೃಷ್ಣನ ಪವಿತ್ರ ಪ್ರಸಾದವನ್ನು ಮಗುವಿಗೆ ಮೊದಲ ಬಾರಿ ತಿನ್ನಿಸುವುದರಿಂದ ಸಕಾಲದಲ್ಲಿ ಆರೋಗ್ಯ, ತೇಜಸ್ಸು ಮತ್ತು ಬುದ್ಧಿ ಲಭಿಸುತ್ತದೆ."
+  en: Blesses the child with robust digestion, speech, health, and lifelong affinity for sattvic food.
+  kn: ಶ್ರೀಕೃಷ್ಣನ ಪವಿತ್ರ ಪ್ರಸಾದವನ್ನು ಮಗುವಿಗೆ ಮೊದಲ ಬಾರಿ ತಿನ್ನಿಸುವುದರಿಂದ ಸಕಾಲದಲ್ಲಿ ಆರೋಗ್ಯ, ತೇಜಸ್ಸು ಮತ್ತು ಬುದ್ಧಿ ಲಭಿಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Annaprashana Kanike

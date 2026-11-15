@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
+enabled: true
 ---
 
 # ಅಮ್ಮ ನಿಮ್ಮ ಮನೆಗಳಲ್ಲಿ ನಮ್ಮ ರಂಗನ ಕಂಡಿರೇನಮ್ಮ

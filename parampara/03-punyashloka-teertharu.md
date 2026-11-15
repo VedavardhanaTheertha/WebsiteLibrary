@@ -4,11 +4,11 @@ position: 3
 name: Sri Punyashloka Teertharu (ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು)
 name-en: Sri Punyashloka Teertharu
 name-kn: ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು
-timePeriod: '1347–1365 CE (ಶಾ.ಶಕ ೧೨೮೭)'
-timePeriod-en: '1347–1365 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೩೪೭–೧೩೬೫ (ಶಾ.ಶಕ ೧೨೮೭)'
-shaka: '1287'
-shaka-kn: '೧೨೮೭'
+timePeriod: 1347–1365 CE (ಶಾ.ಶಕ ೧೨೮೭)
+timePeriod-en: 1347–1365 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೩೪೭–೧೩೬೫ (ಶಾ.ಶಕ ೧೨೮೭)
+shaka: "1287"
+shaka-kn: ೧೨೮೭
 samvatsara-en: Vishvavasu
 samvatsara-kn: ವಿಶ್ವಾವಸು
 aradhana-en: Kartika Shukla Panchami
@@ -19,12 +19,11 @@ summary: |-
   Sri Punyashloka Teertharu is the third pontiff of Sri Shiroor Matha, celebrated as a master across the four shastric disciplines. Blessed with divine visions by Lord Mukhyaprana who revealed past and future events to him in prophetic dreams, he governed the peetha for 18 years and attained Paramadhama at Vrindavana (Mathura) in 1365 CE.
 
   ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ತೃತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುಶ್ಶಾಸ್ತ್ರ ಪಂಡಿತರಾದ ಇವರಿಗೆ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಸ್ವಪ್ನದಲ್ಲಿ ಒಲಿದು ಭೂತ-ಭವಿಷ್ಯತ್ ವೃತ್ತಾಂತಗಳನ್ನು ಬೋಧಿಸುತ್ತಿದ್ದರು. ೧೮ ವರ್ಷಗಳ ಕಾಲ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೩೬೫ ರಲ್ಲಿ ವೃಂದಾವನ ಕ್ಷೇತ್ರದಲ್ಲಿ (ಮಥುರಾ) ಪರಂಧಾಮ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Punyashloka Teertharu is the third pontiff of Sri Shiroor Matha, celebrated as a master across the four shastric disciplines. Blessed with divine visions by Lord Mukhyaprana who revealed past and future events to him in prophetic dreams, he governed the peetha for 18 years and attained Paramadhama at Vrindavana (Mathura) in 1365 CE.
-summary-kn: |-
-  ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ತೃತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುಶ್ಶಾಸ್ತ್ರ ಪಂಡಿತರಾದ ಇವರಿಗೆ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಸ್ವಪ್ನದಲ್ಲಿ ಒಲಿದು ಭೂತ-ಭವಿಷ್ಯತ್ ವೃತ್ತಾಂತಗಳನ್ನು ಬೋಧಿಸುತ್ತಿದ್ದರು. ೧೮ ವರ್ಷಗಳ ಕಾಲ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೩೬೫ ರಲ್ಲಿ ವೃಂದಾವನ ಕ್ಷೇತ್ರದಲ್ಲಿ (ಮಥುರಾ) ಪರಂಧಾಮ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Punyashloka Teertharu is the third pontiff of Sri Shiroor Matha, celebrated as a master across the four shastric disciplines. Blessed with divine visions by Lord Mukhyaprana who revealed past and future events to him in prophetic dreams, he governed the peetha for 18 years and attained Paramadhama at Vrindavana (Mathura) in 1365 CE.
+summary-kn: ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ತೃತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಚತುಶ್ಶಾಸ್ತ್ರ ಪಂಡಿತರಾದ ಇವರಿಗೆ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಸ್ವಪ್ನದಲ್ಲಿ ಒಲಿದು ಭೂತ-ಭವಿಷ್ಯತ್ ವೃತ್ತಾಂತಗಳನ್ನು ಬೋಧಿಸುತ್ತಿದ್ದರು. ೧೮ ವರ್ಷಗಳ ಕಾಲ ಪೀಠದಲ್ಲಿದ್ದು ಕ್ರಿ.ಶ. ೧೩೬೫ ರಲ್ಲಿ ವೃಂದಾವನ ಕ್ಷೇತ್ರದಲ್ಲಿ (ಮಥುರಾ) ಪರಂಧಾಮ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Punyashloka Teertharu (ಶ್ರೀ ಪುಣ್ಯಶ್ಲೋಕ ತೀರ್ಥರು)

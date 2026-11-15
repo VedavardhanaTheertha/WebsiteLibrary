@@ -1,50 +1,51 @@
 ---
-id: "seva-022-laksha-thulasi-archana"
+id: seva-022-laksha-thulasi-archana
 code: 22
 entity_id: 3
 event_id: 4
 title:
-  en: "Laksha Thulasi Archana"
-  kn: "ಲಕ್ಷ ತುಳಸೀ ಅರ್ಚನೆ"
+  en: Laksha Thulasi Archana
+  kn: ಲಕ್ಷ ತುಳಸೀ ಅರ್ಚನೆ
 name:
-  en: "Laksha Thulasi Archana"
-  kn: "ಲಕ್ಷ ತುಳಸೀ ಅರ್ಚನೆ"
+  en: Laksha Thulasi Archana
+  kn: ಲಕ್ಷ ತುಳಸೀ ಅರ್ಚನೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 50000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/022-laksha-thulasi-archana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/022-laksha-thulasi-archana.avif
 formatted_amount:
-  en: "₹50,000"
-  kn: "₹೫೦,೦೦೦"
-currency: "INR"
+  en: ₹50,000
+  kn: ₹೫೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=22"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=22
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Grand Laksha Tulasi Archana offering one hundred thousand sacred Tulasi leaves with Vedic chants."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯವಾದ ಒಂದು ಲಕ್ಷ ತುಳಸೀ ದಳಗಳಿಂದ ವಿಷ್ಣುಸಹಸ್ರನಾಮ ಮಂತ್ರಗಳೊಂದಿಗೆ ಮಾಡುವ ಮಹಾ ಅರ್ಚನೆ."
+  en: Grand Laksha Tulasi Archana offering one hundred thousand sacred Tulasi leaves with Vedic chants.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅತ್ಯಂತ ಪ್ರಿಯವಾದ ಒಂದು ಲಕ್ಷ ತುಳಸೀ ದಳಗಳಿಂದ ವಿಷ್ಣುಸಹಸ್ರನಾಮ ಮಂತ್ರಗಳೊಂದಿಗೆ ಮಾಡುವ ಮಹಾ ಅರ್ಚನೆ.
 significance:
-  en: "Tulasi is the beloved consort of Narayana; one leaf offered equals mountains of gold in merit."
-  kn: "ಶ್ರೀಕೃಷ್ಣನಿಗೆ ತುಳಸೀ ಅರ್ಚನೆ ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ. ಲಕ್ಷ ತುಳಸಿಯಿಂದ ಪೂಜಿಸಿದರೆ ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳೂ ಈಡೇರುತ್ತವೆ."
+  en: Tulasi is the beloved consort of Narayana; one leaf offered equals mountains of gold in merit.
+  kn: ಶ್ರೀಕೃಷ್ಣನಿಗೆ ತುಳಸೀ ಅರ್ಚನೆ ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ. ಲಕ್ಷ ತುಳಸಿಯಿಂದ ಪೂಜಿಸಿದರೆ ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳೂ ಈಡೇರುತ್ತವೆ.
+enabled: true
 ---
 
 # Laksha Thulasi Archana

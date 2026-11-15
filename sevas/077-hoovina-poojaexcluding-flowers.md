@@ -1,50 +1,51 @@
 ---
-id: "seva-077-hoovina-poojaexcluding-flowers"
+id: seva-077-hoovina-poojaexcluding-flowers
 code: 77
 entity_id: 3
 event_id: 4
 title:
-  en: "Hoovina Pooja(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Hoovina Pooja(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Hoovina Pooja(Excluding Flowers)"
-  kn: "ಹೂವಿನ ಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Hoovina Pooja(Excluding Flowers)
+  kn: ಹೂವಿನ ಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/077-hoovina-poojaexcluding-flowers.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/077-hoovina-poojaexcluding-flowers.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=77"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=77
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Pushpa Pooja offering beautiful fresh flowers to Bhojana Shala Sri Mukhyaprana."
-  kn: "ಸುಗಂಧ ಪುಷ್ಪಗಳಿಂದ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರನ್ನು ಶೃಂಗರಿಸಿ ಮಾಡುವ ಪೂಜೆ."
+  en: Pushpa Pooja offering beautiful fresh flowers to Bhojana Shala Sri Mukhyaprana.
+  kn: ಸುಗಂಧ ಪುಷ್ಪಗಳಿಂದ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರನ್ನು ಶೃಂಗರಿಸಿ ಮಾಡುವ ಪೂಜೆ.
 significance:
-  en: "Creates peaceful spiritual vibrations and happiness in the home."
-  kn: "ಪುಷ್ಪಾರ್ಚನೆಯಿಂದ ಭಗವಂತನನ್ನು ಸಂತುಷ್ಟಗೊಳಿಸಿ ಮನಃಶಾಂತಿ ಪಡೆಯುವ ಸೇವೆ."
+  en: Creates peaceful spiritual vibrations and happiness in the home.
+  kn: ಪುಷ್ಪಾರ್ಚನೆಯಿಂದ ಭಗವಂತನನ್ನು ಸಂತುಷ್ಟಗೊಳಿಸಿ ಮನಃಶಾಂತಿ ಪಡೆಯುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Hoovina Pooja(Excluding Flowers)

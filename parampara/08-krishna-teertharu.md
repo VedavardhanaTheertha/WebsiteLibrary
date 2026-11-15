@@ -4,11 +4,11 @@ position: 8
 name: Sri Krishna Teertharu (ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು)
 name-en: Sri Krishna Teertharu
 name-kn: ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು
-timePeriod: '1451–1467 CE (ಶಾ.ಶಕ ೧೩೮೯)'
-timePeriod-en: '1451–1467 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೪೫೧–೧೪೬೭ (ಶಾ.ಶಕ ೧೩೮೯)'
-shaka: '1389'
-shaka-kn: '೧೩೮೯'
+timePeriod: 1451–1467 CE (ಶಾ.ಶಕ ೧೩೮೯)
+timePeriod-en: 1451–1467 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೪೫೧–೧೪೬೭ (ಶಾ.ಶಕ ೧೩೮೯)
+shaka: "1389"
+shaka-kn: ೧೩೮೯
 samvatsara-en: Sarvajitu
 samvatsara-kn: ಸರ್ವಜಿತ್ತು
 aradhana-en: Phalguna Shukla Chaturthi
@@ -19,12 +19,11 @@ summary: |-
   Sri Krishna Teertharu is the eighth pontiff of Sri Shiroor Matha, celebrated as an exalted ascetic and musical maestro. When he sang devotional compositions before Lord Sri Balakrishna in Udupi, the divine tinkling of dancing anklets and toe-rings was miraculously heard from within the sanctum sanctorum. He governed for 16 years and attained Vaikuntha at Tirupati in 1467 CE.
 
   ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಎಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಮಹಾತಪಸ್ವಿಗಳೂ ಸಂಗೀತ ತಜ್ಞರೂ ಆದ ಇವರು ಭಜನೆ ಹಾಡುವಾಗ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯೊಳಗೆ ಗೆಜ್ಜೆ-ಕಾಲುಂಗುರಗಳ ಧ್ವನಿ ಅನುರಣಿಸುತ್ತಿತ್ತು. ೧೬ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೬೭ ರಲ್ಲಿ ತಿರುಪತಿಯಲ್ಲಿ ವೈಕುಂಠವಾಸಿಗಳಾದರು.
-summary-en: |-
-  Sri Krishna Teertharu is the eighth pontiff of Sri Shiroor Matha, celebrated as an exalted ascetic and musical maestro. When he sang devotional compositions before Lord Sri Balakrishna in Udupi, the divine tinkling of dancing anklets and toe-rings was miraculously heard from within the sanctum sanctorum. He governed for 16 years and attained Vaikuntha at Tirupati in 1467 CE.
-summary-kn: |-
-  ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಎಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಮಹಾತಪಸ್ವಿಗಳೂ ಸಂಗೀತ ತಜ್ಞರೂ ಆದ ಇವರು ಭಜನೆ ಹಾಡುವಾಗ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯೊಳಗೆ ಗೆಜ್ಜೆ-ಕಾಲುಂಗುರಗಳ ಧ್ವನಿ ಅನುರಣಿಸುತ್ತಿತ್ತು. ೧೬ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೬೭ ರಲ್ಲಿ ತಿರುಪತಿಯಲ್ಲಿ ವೈಕುಂಠವಾಸಿಗಳಾದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Krishna Teertharu is the eighth pontiff of Sri Shiroor Matha, celebrated as an exalted ascetic and musical maestro. When he sang devotional compositions before Lord Sri Balakrishna in Udupi, the divine tinkling of dancing anklets and toe-rings was miraculously heard from within the sanctum sanctorum. He governed for 16 years and attained Vaikuntha at Tirupati in 1467 CE.
+summary-kn: ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಎಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಮಹಾತಪಸ್ವಿಗಳೂ ಸಂಗೀತ ತಜ್ಞರೂ ಆದ ಇವರು ಭಜನೆ ಹಾಡುವಾಗ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯೊಳಗೆ ಗೆಜ್ಜೆ-ಕಾಲುಂಗುರಗಳ ಧ್ವನಿ ಅನುರಣಿಸುತ್ತಿತ್ತು. ೧೬ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೬೭ ರಲ್ಲಿ ತಿರುಪತಿಯಲ್ಲಿ ವೈಕುಂಠವಾಸಿಗಳಾದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Krishna Teertharu (ಶ್ರೀ ಕೃಷ್ಣ ತೀರ್ಥರು)

@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
+enabled: true
 ---
 
 # ಆಡ ಪೋದಲ್ಲೆ ಮಕ್ಕಳು ಎನ್ನ ಆಡಿಕೊಂಬುವರು ನೋಡಮ್ಮ

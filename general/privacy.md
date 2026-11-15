@@ -10,8 +10,8 @@ fields:
     en: Privacy Policy
     kn: ಗೌಪ್ಯತಾ ನೀತಿ
   pages.local_copy.privacy_intro:
-    en: 'Shri Shiroor Matha ("we", "us", "our") is committed to protecting the privacy of its devotees and visitors. This policy outlines how we collect and handle your data.'
-    kn: 'ಶ್ರೀ ಶಿರೂರು ಮಠವು ("ನಾವು", "ನಮ್ಮ") ಭಕ್ತರು ಮತ್ತು ಸಂದರ್ಶಕರ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಬದ್ಧವಾಗಿದೆ. ನಾವು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ ಮತ್ತು ನಿರ್ವಹಿಸುತ್ತೇವೆ ಎಂಬುದನ್ನು ಈ ನೀತಿಯು ವಿವರಿಸುತ್ತದೆ.'
+    en: Shri Shiroor Matha ("we", "us", "our") is committed to protecting the privacy of its devotees and visitors. This policy outlines how we collect and handle your data.
+    kn: ಶ್ರೀ ಶಿರೂರು ಮಠವು ("ನಾವು", "ನಮ್ಮ") ಭಕ್ತರು ಮತ್ತು ಸಂದರ್ಶಕರ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಬದ್ಧವಾಗಿದೆ. ನಾವು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ ಮತ್ತು ನಿರ್ವಹಿಸುತ್ತೇವೆ ಎಂಬುದನ್ನು ಈ ನೀತಿಯು ವಿವರಿಸುತ್ತದೆ.
   pages.local_copy.privacy_heading_1:
     en: 2.1 Information We Collect
     kn: 2.1 ನಾವು ಸಂಗ್ರಹಿಸುವ ಮಾಹಿತಿ
@@ -60,4 +60,5 @@ fields:
   pages.local_copy.privacy_localization:
     en: In compliance with RBI guidelines, all end-to-end transaction data is stored exclusively on servers located within India.
     kn: ಆರ್‌ಬಿಐ ಮಾರ್ಗಸೂಚಿಗಳಿಗೆ ಅನುಗುಣವಾಗಿ, ಎಲ್ಲಾ ವ್ಯವಹಾರದ ಮಾಹಿತಿಯನ್ನು ಭಾರತದಲ್ಲಿರುವ ಸರ್ವರ್‌ಗಳಲ್ಲಿ ಮಾತ್ರ ಪ್ರತ್ಯೇಕವಾಗಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.
+enabled: true
 ---

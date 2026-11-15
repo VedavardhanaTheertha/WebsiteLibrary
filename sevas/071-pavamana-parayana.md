@@ -1,50 +1,51 @@
 ---
-id: "seva-071-pavamana-parayana"
+id: seva-071-pavamana-parayana
 code: 71
 entity_id: 3
 event_id: 4
 title:
-  en: "Pavamana Parayana"
-  kn: "ಪವಮಾನ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Pavamana Parayana
+  kn: ಪವಮಾನ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Pavamana Parayana"
-  kn: "ಪವಮಾನ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Pavamana Parayana
+  kn: ಪವಮಾನ ಪಾರಾಯಣ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/071-pavamana-parayana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/071-pavamana-parayana.avif
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=71"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=71
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Pavamana Parayana at Bhojana Shala Mukhyaprana Sannidhi for health and nourishment."
-  kn: "ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿಯಲ್ಲಿ ಪವಮಾನ ಸೂಕ್ತವನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಪಠಿಸುವ ಸೇವೆ."
+  en: Pavamana Parayana at Bhojana Shala Mukhyaprana Sannidhi for health and nourishment.
+  kn: ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿಯಲ್ಲಿ ಪವಮಾನ ಸೂಕ್ತವನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಪಠಿಸುವ ಸೇವೆ.
 significance:
-  en: "Purifies food and health, ensuring long life and disease-free wellbeing for the family."
-  kn: "ಆರೋಗ್ಯ, ಆಯುಷ್ಯ ಮತ್ತು ಅನ್ನ-ಸಮೃದ್ಧಿಯನ್ನು ಕರುಣಿಸುವ ಪವಿತ್ರ ಪವಮಾನ ಪಾರಾಯಣ."
+  en: Purifies food and health, ensuring long life and disease-free wellbeing for the family.
+  kn: ಆರೋಗ್ಯ, ಆಯುಷ್ಯ ಮತ್ತು ಅನ್ನ-ಸಮೃದ್ಧಿಯನ್ನು ಕರುಣಿಸುವ ಪವಿತ್ರ ಪವಮಾನ ಪಾರಾಯಣ.
+enabled: true
 ---
 
 # Pavamana Parayana

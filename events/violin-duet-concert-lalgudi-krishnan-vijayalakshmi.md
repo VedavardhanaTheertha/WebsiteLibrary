@@ -52,6 +52,7 @@ categories:
   - code: instrumental
     en: Instrumental
     kn: ವಾದ್ಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # Carnatic Violin Duet Concert
@@ -87,4 +88,3 @@ Sublime classical Carnatic violin duet by maestro Lalgudi G.J.R. Krishnan and Sm
 ### Gallery Images
 
 ![Carnatic Violin Duet Concert - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/violin-duet-lalgudi-krishnan.avif)
-

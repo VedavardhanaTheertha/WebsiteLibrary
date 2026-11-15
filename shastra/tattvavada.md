@@ -1,24 +1,25 @@
 ---
 id: tattvavada
 title:
-  en: "Tattvavada"
-  kn: "ತತ್ತ್ವವಾದ"
+  en: Tattvavada
+  kn: ತತ್ತ್ವವಾದ
 summary:
-  en: "A concise introduction to the principles of Dvaita realism."
-  kn: "ದ್ವೈತ ವಾಸ್ತವವಾದದ ತತ್ವಗಳ ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯ."
+  en: A concise introduction to the principles of Dvaita realism.
+  kn: ದ್ವೈತ ವಾಸ್ತವವಾದದ ತತ್ವಗಳ ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: dvaita
-    en: "Dvaita"
-    kn: "ದ್ವೈತ"
+    en: Dvaita
+    kn: ದ್ವೈತ
   - code: philosophy
-    en: "philosophy"
-    kn: "ತತ್ತ್ವಶಾಸ್ತ್ರ"
+    en: philosophy
+    kn: ತತ್ತ್ವಶಾಸ್ತ್ರ
   - code: realism
-    en: "realism"
-    kn: "ವಾಸ್ತವವಾದ"
+    en: realism
+    kn: ವಾಸ್ತವವಾದ
+enabled: false
 ---
 
 ## English

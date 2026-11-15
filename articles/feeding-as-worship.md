@@ -1,25 +1,26 @@
 ---
 id: feeding-as-worship
 title:
-  en: "Feeding as Worship"
-  kn: "ಆಹಾರ ನೀಡುವುದೇ ಆರಾಧನೆ"
+  en: Feeding as Worship
+  kn: ಆಹಾರ ನೀಡುವುದೇ ಆರಾಧನೆ
 summary:
-  en: "The spirit of Annadana and service to every guest."
-  kn: "ಅನ್ನದಾನ ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬ ಅತಿಥಿಯ ಸೇವೆಯ ಹಿಂದಿರುವ ಭಾವನೆ."
+  en: The spirit of Annadana and service to every guest.
+  kn: ಅನ್ನದಾನ ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬ ಅತಿಥಿಯ ಸೇವೆಯ ಹಿಂದಿರುವ ಭಾವನೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/feeding-as-worship.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/feeding-as-worship.avif
 tags:
   - code: annadana
-    en: "Annadana"
-    kn: "ಅನ್ನದಾನ"
+    en: Annadana
+    kn: ಅನ್ನದಾನ
   - code: hospitality
-    en: "hospitality"
-    kn: "ಆತಿಥ್ಯ"
+    en: hospitality
+    kn: ಆತಿಥ್ಯ
   - code: seva
-    en: "seva"
-    kn: "ಸೇವೆ"
+    en: seva
+    kn: ಸೇವೆ
+enabled: false
 ---
 
 ## English

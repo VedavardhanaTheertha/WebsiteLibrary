@@ -1,50 +1,51 @@
 ---
-id: "seva-023-brahma-rathosthsava"
+id: seva-023-brahma-rathosthsava
 code: 23
 entity_id: 3
 event_id: 4
 title:
-  en: "Brahma Rathosthsava"
-  kn: "ಬ್ರಹ್ಮ ರಥೋತ್ಸವ"
+  en: Brahma Rathosthsava
+  kn: ಬ್ರಹ್ಮ ರಥೋತ್ಸವ
 name:
-  en: "Brahma Rathosthsava"
-  kn: "ಬ್ರಹ್ಮ ರಥೋತ್ಸವ"
+  en: Brahma Rathosthsava
+  kn: ಬ್ರಹ್ಮ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 35000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/023-brahma-rathosthsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/023-brahma-rathosthsava.avif
 formatted_amount:
-  en: "₹35,000"
-  kn: "₹೩೫,೦೦೦"
-currency: "INR"
+  en: ₹35,000
+  kn: ₹೩೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=23"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=23
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "The revered Brahma Rathotsava festival leading the majestic wooden chariot on Car Street."
-  kn: "ರಥಬೀದಿಯಲ್ಲಿ ಬೃಹತ್ ಬ್ರಹ್ಮರಥವನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸಲ್ಲಿಸುವ ಪರಂಪರಾಗತ ರಥಸೇವೆ."
+  en: The revered Brahma Rathotsava festival leading the majestic wooden chariot on Car Street.
+  kn: ರಥಬೀದಿಯಲ್ಲಿ ಬೃಹತ್ ಬ್ರಹ್ಮರಥವನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸಲ್ಲಿಸುವ ಪರಂಪರಾಗತ ರಥಸೇವೆ.
 significance:
-  en: "Brahma Ratha represents the cosmic chariot; participating bestows supreme peace and longevity."
-  kn: "ರಥಬೀದಿಯಲ್ಲಿ ಬ್ರಹ್ಮರಥವನ್ನು ಭಕ್ತಿಯಿಂದ ಎಳೆಯುವ ಮೂಲಕ ಭಗವಂತನ ಸಾನ್ನಿಧ್ಯದ ಸಾಕ್ಷಾತ್ಕಾರ ಪಡೆಯುವುದು."
+  en: Brahma Ratha represents the cosmic chariot; participating bestows supreme peace and longevity.
+  kn: ರಥಬೀದಿಯಲ್ಲಿ ಬ್ರಹ್ಮರಥವನ್ನು ಭಕ್ತಿಯಿಂದ ಎಳೆಯುವ ಮೂಲಕ ಭಗವಂತನ ಸಾನ್ನಿಧ್ಯದ ಸಾಕ್ಷಾತ್ಕಾರ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Brahma Rathosthsava

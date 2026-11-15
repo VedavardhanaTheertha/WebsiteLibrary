@@ -1,49 +1,50 @@
 ---
-id: "seva-091-mangalarathi"
+id: seva-091-mangalarathi
 code: 91
 entity_id: 3
 event_id: 4
 title:
-  en: "Mangalarathi"
-  kn: "ಮಂಗಳಾರತಿ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Mangalarathi
+  kn: ಮಂಗಳಾರತಿ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 name:
-  en: "Mangalarathi"
-  kn: "ಮಂಗಳಾರತಿ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Mangalarathi
+  kn: ಮಂಗಳಾರತಿ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 50
 formatted_amount:
-  en: "₹50"
-  kn: "₹೫೦"
-currency: "INR"
+  en: ₹50
+  kn: ₹೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=91"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=91
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Mangalarathi offering luminous aarthi to Lord Sri Subrahmanya."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಭಕ್ತಿಪೂರ್ವಕ ಸೇವೆ."
+  en: Mangalarathi offering luminous aarthi to Lord Sri Subrahmanya.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಮಂಗಳಾರತಿ ಬೆಳಗುವ ಭಕ್ತಿಪೂರ್ವಕ ಸೇವೆ.
 significance:
-  en: "Swift protection and peace of mind from Lord Shanmukha."
-  kn: "ಸುಬ್ರಹ್ಮಣ್ಯನಿಗೆ ಮಂಗಳಾರತಿ ಎತ್ತಿ ಜಯ ಮತ್ತು ಆರೋಗ್ಯವನ್ನು ಪ್ರಾರ್ಥಿಸುವುದು."
+  en: Swift protection and peace of mind from Lord Shanmukha.
+  kn: ಸುಬ್ರಹ್ಮಣ್ಯನಿಗೆ ಮಂಗಳಾರತಿ ಎತ್ತಿ ಜಯ ಮತ್ತು ಆರೋಗ್ಯವನ್ನು ಪ್ರಾರ್ಥಿಸುವುದು.
+enabled: true
 ---
 
 # Mangalarathi

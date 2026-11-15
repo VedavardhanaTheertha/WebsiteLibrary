@@ -10,4 +10,5 @@ fields:
   footer_tagline:
     en: carrying forward an 800+ year legacy of devotion, Annadaana, and Vedic scholarship.
     kn: 800+ ವರ್ಷಗಳ ಭಕ್ತಿ, ಅನ್ನದಾನ ಮತ್ತು ವೈದಿಕ ವಿದ್ಯೆಯ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರೆಸುತ್ತಿದೆ.
+enabled: true
 ---

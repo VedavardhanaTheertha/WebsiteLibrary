@@ -61,4 +61,5 @@ fields:
           itemIds:
             - vedic-recitation
             - haridasa-sahitya
+enabled: false
 ---

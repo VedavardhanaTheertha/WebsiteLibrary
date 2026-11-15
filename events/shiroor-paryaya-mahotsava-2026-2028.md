@@ -47,6 +47,7 @@ categories:
   - code: festival
     en: Festival
     kn: ಮಹೋತ್ಸವ
+enabled: false
 ---
 
 # Shiroor Paryaya Mahotsava 2026-28
@@ -82,4 +83,3 @@ The historic ascension of His Holiness Shri Shri Vedavardhana Tirtha Swamiji to 
 ### Gallery Images
 
 ![Shiroor Paryaya Mahotsava 2026-28 - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/paryaya-mahotsava-2026.avif)
-

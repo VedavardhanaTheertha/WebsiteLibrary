@@ -1,50 +1,51 @@
 ---
-id: "seva-058-vajra-kavacha-alankara-seva"
+id: seva-058-vajra-kavacha-alankara-seva
 code: 58
 entity_id: 3
 event_id: 4
 title:
-  en: "Vajra Kavacha Alankara Seva"
-  kn: "ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ವಿಶೇಷ)"
+  en: Vajra Kavacha Alankara Seva
+  kn: ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ವಿಶೇಷ)
 name:
-  en: "Vajra Kavacha Alankara Seva"
-  kn: "ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ವಿಶೇಷ)"
+  en: Vajra Kavacha Alankara Seva
+  kn: ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ (ವಿಶೇಷ)
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 5000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/058-vajra-kavacha-alankara-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/058-vajra-kavacha-alankara-seva.avif
 formatted_amount:
-  en: "₹5,000"
-  kn: "₹೫,೦೦೦"
-currency: "INR"
+  en: ₹5,000
+  kn: ₹೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=58"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=58
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Special Vajra Kavacha Alankara contribution honoring the ceremonial vestments of the Lord."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರ ದಿವ್ಯ ಕವಚ ಅಲಂಕಾರಕ್ಕಾಗಿ ಭಕ್ತರು ಸಮರ್ಪಿಸುವ ವಿಶೇಷ ಸೇವೆ."
+  en: Special Vajra Kavacha Alankara contribution honoring the ceremonial vestments of the Lord.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರ ದಿವ್ಯ ಕವಚ ಅಲಂಕಾರಕ್ಕಾಗಿ ಭಕ್ತರು ಸಮರ್ಪಿಸುವ ವಿಶೇಷ ಸೇವೆ.
 significance:
-  en: "Brings protection from spiritual adversaries and enhances family brilliance."
-  kn: "ಭಗವಂತನ ದಿವ್ಯ ಕವಚದ ಅಲಂಕಾರಕ್ಕೆ ಕೈಜೋಡಿಸಿ, ಸರ್ವರೀತಿಯ ಕಷ್ಟಗಳಿಂದ ರಕ್ಷಣೆ ಪಡೆಯುವುದು."
+  en: Brings protection from spiritual adversaries and enhances family brilliance.
+  kn: ಭಗವಂತನ ದಿವ್ಯ ಕವಚದ ಅಲಂಕಾರಕ್ಕೆ ಕೈಜೋಡಿಸಿ, ಸರ್ವರೀತಿಯ ಕಷ್ಟಗಳಿಂದ ರಕ್ಷಣೆ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Vajra Kavacha Alankara Seva

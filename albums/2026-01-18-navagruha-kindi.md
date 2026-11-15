@@ -1,7 +1,7 @@
 ---
 id: 2026-01-18-navagruha-kindi
 date: "2026-01-18"
-cover: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-l.webp"
+cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-l.webp
 title:
   en: Navagruha Kindi
   kn: Navagruha Kindi
@@ -16,6 +16,7 @@ tags:
     - ಪರ್ಯಾಯ
     - Navagruha Kindi
 items:
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-l.webp"
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c43e0127/696236a2-l.webp
+enabled: true
 ---

@@ -1,50 +1,51 @@
 ---
-id: "seva-068-hasthodaka-to-vrundavanas"
+id: seva-068-hasthodaka-to-vrundavanas
 code: 68
 entity_id: 3
 event_id: 4
 title:
-  en: "Hasthodaka To Vrundavanas"
-  kn: "ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ"
+  en: Hasthodaka To Vrundavanas
+  kn: ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ
 name:
-  en: "Hasthodaka To Vrundavanas"
-  kn: "ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ"
+  en: Hasthodaka To Vrundavanas
+  kn: ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/068-hasthodaka-to-vrundavanas.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/068-hasthodaka-to-vrundavanas.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=68"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=68
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Hasthodaka offered to the sacred Vrindavanas situated within the Krishna Matha complex."
-  kn: "ಕೃಷ್ಣ ಮಠದಲ್ಲಿರುವ ಮಹನೀಯ ಯತಿವರೇಣ್ಯರ ಪವಿತ್ರ ವೃಂದಾವನಗಳಿಗೆ ಸಮರ್ಪಿಸುವ ಹಸ್ತೋದಕ."
+  en: Hasthodaka offered to the sacred Vrindavanas situated within the Krishna Matha complex.
+  kn: ಕೃಷ್ಣ ಮಠದಲ್ಲಿರುವ ಮಹನೀಯ ಯತಿವರೇಣ್ಯರ ಪವಿತ್ರ ವೃಂದಾವನಗಳಿಗೆ ಸಮರ್ಪಿಸುವ ಹಸ್ತೋದಕ.
 significance:
-  en: "Invokes the living grace of enlightened Gurus who attained Samadhi in Udupi."
-  kn: "ಪೂಜ್ಯ ಗುರುಗಳ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ ಅವರ ನಿರಂತರ ಆಶೀರ್ವಾದ ಪಡೆಯುವುದು."
+  en: Invokes the living grace of enlightened Gurus who attained Samadhi in Udupi.
+  kn: ಪೂಜ್ಯ ಗುರುಗಳ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ ಅವರ ನಿರಂತರ ಆಶೀರ್ವಾದ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Hasthodaka To Vrundavanas

@@ -1,17 +1,27 @@
 ---
-kind: "page-reference"
+kind: page-reference
 title:
-  en: "Guru Paramparā"
-  kn: "ಗುರು ಪರಂಪರೆ"
+  en: Guru Paramparā
+  kn: ಗುರು ಪರಂಪರೆ
 description:
-  en: "The unbroken lineage of gurus from Madhvāchārya to the present Swamiji of Shiroor Matha."
-  kn: "ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಇಂದಿನ ಸ್ವಾಮೀಜಿಯವರೆಗಿನ ಅವಿಚ್ಛಿನ್ನ ಗುರುಪರಂಪರೆ."
+  en: The unbroken lineage of gurus from Madhvāchārya to the present Swamiji of Shiroor Matha.
+  kn: ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಇಂದಿನ ಸ್ವಾಮೀಜಿಯವರೆಗಿನ ಅವಿಚ್ಛಿನ್ನ ಗುರುಪರಂಪರೆ.
 image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara-speech.avif"
 page_type:
-  en: "Guru Lineage index"
-  kn: "ಗುರು ಪರಂಪರೆಯ ಪಟ್ಟಿ"
-url: "/history/parampara"
+  en: Guru Lineage index
+  kn: ಗುರು ಪರಂಪರೆಯ ಪಟ್ಟಿ
+url: /history/parampara
 footnote:
   en: ""
   kn: ""
+fields:
+  pages.parampara.title:
+    en: Guru Parampara
+    kn: ಗುರು ಪರಂಪರೆ
+  pages.parampara.intro:
+    en: >-
+      An unbroken lineage of spiritual teachers carrying the tradition from Sri Madhwacharyaru to the present
+      day.
+    kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಇಂದಿನವರೆಗೆ ಸಂಪ್ರದಾಯವನ್ನು ಮುನ್ನಡೆಸಿದ ಆಧ್ಯಾತ್ಮಿಕ ಗುರುಗಳ ಅಖಂಡ ಪರಂಪರೆ.
+enabled: true
 ---

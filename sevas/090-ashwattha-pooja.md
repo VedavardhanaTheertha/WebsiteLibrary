@@ -1,49 +1,50 @@
 ---
-id: "seva-090-ashwattha-pooja"
+id: seva-090-ashwattha-pooja
 code: 90
 entity_id: 3
 event_id: 4
 title:
-  en: "Ashwattha Pooja"
-  kn: "ಅಶ್ವತ್ಥ ಪೂಜೆ"
+  en: Ashwattha Pooja
+  kn: ಅಶ್ವತ್ಥ ಪೂಜೆ
 name:
-  en: "Ashwattha Pooja"
-  kn: "ಅಶ್ವತ್ಥ ಪೂಜೆ"
+  en: Ashwattha Pooja
+  kn: ಅಶ್ವತ್ಥ ಪೂಜೆ
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
 formatted_amount:
-  en: "₹100"
-  kn: "₹೧೦೦"
-currency: "INR"
+  en: ₹100
+  kn: ₹೧೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=90"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=90
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Ashwattha Pooja honoring the sacred Peepal tree and installed Naga stones."
-  kn: "ಮಠದ ಆವರಣದಲ್ಲಿರುವ ಪವಿತ್ರ ಅಶ್ವತ್ಥ ವೃಕ್ಷ ಮತ್ತು ನಾಗಶಿಲೆಗಳಿಗೆ ಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿ ಪೂಜೆ ಸಲ್ಲಿಸುವ ಸೇವೆ."
+  en: Ashwattha Pooja honoring the sacred Peepal tree and installed Naga stones.
+  kn: ಮಠದ ಆವರಣದಲ್ಲಿರುವ ಪವಿತ್ರ ಅಶ್ವತ್ಥ ವೃಕ್ಷ ಮತ್ತು ನಾಗಶಿಲೆಗಳಿಗೆ ಪ್ರದಕ್ಷಿಣೆ ಮಾಡಿ ಪೂಜೆ ಸಲ್ಲಿಸುವ ಸೇವೆ.
 significance:
-  en: "Ashwattha represents the Trimurtis; circumambulation brings longevity and spiritual merit."
-  kn: "ಮೂಲತೋ ಬ್ರಹ್ಮರೂಪಾಯ ಮಧ್ಯತೋ ವಿಷ್ಣುರೂಪಿಣೇ - ಅಶ್ವತ್ಥ ಪ್ರದಕ್ಷಿಣೆಯಿಂದ ಸಕಲ ಪಾಪಗಳು ನಾಶವಾಗುತ್ತವೆ."
+  en: Ashwattha represents the Trimurtis; circumambulation brings longevity and spiritual merit.
+  kn: ಮೂಲತೋ ಬ್ರಹ್ಮರೂಪಾಯ ಮಧ್ಯತೋ ವಿಷ್ಣುರೂಪಿಣೇ - ಅಶ್ವತ್ಥ ಪ್ರದಕ್ಷಿಣೆಯಿಂದ ಸಕಲ ಪಾಪಗಳು ನಾಶವಾಗುತ್ತವೆ.
+enabled: true
 ---
 
 # Ashwattha Pooja

@@ -1,24 +1,25 @@
 ---
 id: nitya-karma
 title:
-  en: "Nitya Karma"
-  kn: "ನಿತ್ಯಕರ್ಮ"
+  en: Nitya Karma
+  kn: ನಿತ್ಯಕರ್ಮ
 summary:
-  en: "An introductory overview of daily observances."
-  kn: "ದೈನಂದಿನ ಆಚರಣೆಗಳ ಪ್ರಾಥಮಿಕ ಅವಲೋಕನ."
+  en: An introductory overview of daily observances.
+  kn: ದೈನಂದಿನ ಆಚರಣೆಗಳ ಪ್ರಾಥಮಿಕ ಅವಲೋಕನ.
 status:
-  en: "General orientation"
-  kn: "ಸಾಮಾನ್ಯ ಪರಿಚಯ"
+  en: General orientation
+  kn: ಸಾಮಾನ್ಯ ಪರಿಚಯ
 tags:
   - code: daily-practice
-    en: "daily practice"
-    kn: "ದೈನಂದಿನ ಆಚರಣೆ"
+    en: daily practice
+    kn: ದೈನಂದಿನ ಆಚರಣೆ
   - code: observance
-    en: "observance"
-    kn: "ಅನುಷ್ಠಾನ"
+    en: observance
+    kn: ಅನುಷ್ಠಾನ
   - code: dharma
-    en: "dharma"
-    kn: "ಧರ್ಮ"
+    en: dharma
+    kn: ಧರ್ಮ
+enabled: false
 ---
 
 ## English

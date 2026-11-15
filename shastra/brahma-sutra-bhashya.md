@@ -1,24 +1,25 @@
 ---
 id: brahma-sutra-bhashya
 title:
-  en: "Brahma Sutra Bhashya"
-  kn: "ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯ"
+  en: Brahma Sutra Bhashya
+  kn: ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯ
 summary:
-  en: "An introduction to Madhwa's commentary on the Brahma Sutras."
-  kn: "ಬ್ರಹ್ಮಸೂತ್ರಗಳ ಮೇಲಿನ ಮಧ್ವರ ಭಾಷ್ಯದ ಪರಿಚಯ."
+  en: An introduction to Madhwa's commentary on the Brahma Sutras.
+  kn: ಬ್ರಹ್ಮಸೂತ್ರಗಳ ಮೇಲಿನ ಮಧ್ವರ ಭಾಷ್ಯದ ಪರಿಚಯ.
 status:
-  en: "Introductory guide"
-  kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
+  en: Introductory guide
+  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
 tags:
   - code: vedanta
-    en: "Vedanta"
-    kn: "ವೇದಾಂತ"
+    en: Vedanta
+    kn: ವೇದಾಂತ
   - code: brahma-sutra
-    en: "Brahma Sutra"
-    kn: "ಬ್ರಹ್ಮಸೂತ್ರ"
+    en: Brahma Sutra
+    kn: ಬ್ರಹ್ಮಸೂತ್ರ
   - code: bhashya
-    en: "bhashya"
-    kn: "ಭಾಷ್ಯ"
+    en: bhashya
+    kn: ಭಾಷ್ಯ
+enabled: false
 ---
 
 ## English

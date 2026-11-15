@@ -1,25 +1,26 @@
 ---
 id: learning-at-the-feet-of-a-teacher
 title:
-  en: "Learning at the Feet of a Teacher"
-  kn: "ಗುರುವಿನ ಪಾದಸನ್ನಿಧಿಯಲ್ಲಿ ಕಲಿಕೆ"
+  en: Learning at the Feet of a Teacher
+  kn: ಗುರುವಿನ ಪಾದಸನ್ನಿಧಿಯಲ್ಲಿ ಕಲಿಕೆ
 summary:
-  en: "A temporary reflection on humility, listening, and steady study."
-  kn: "ವಿನಯ, ಆಲಿಸುವಿಕೆ ಮತ್ತು ಸ್ಥಿರ ಅಧ್ಯಯನದ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಚಿಂತನೆ."
+  en: A temporary reflection on humility, listening, and steady study.
+  kn: ವಿನಯ, ಆಲಿಸುವಿಕೆ ಮತ್ತು ಸ್ಥಿರ ಅಧ್ಯಯನದ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಚಿಂತನೆ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/learning-at-the-feet-of-a-teacher.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/learning-at-the-feet-of-a-teacher.avif
 tags:
   - code: guru
-    en: "guru"
-    kn: "ಗುರು"
+    en: guru
+    kn: ಗುರು
   - code: learning
-    en: "learning"
-    kn: "ಕಲಿಕೆ"
+    en: learning
+    kn: ಕಲಿಕೆ
   - code: humility
-    en: "humility"
-    kn: "ವಿನಯ"
+    en: humility
+    kn: ವಿನಯ
+enabled: false
 ---
 
 ## English

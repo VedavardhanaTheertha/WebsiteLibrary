@@ -1,49 +1,50 @@
 ---
-id: "seva-089-panchamrutha-naga-thanu-kanike"
+id: seva-089-panchamrutha-naga-thanu-kanike
 code: 89
 entity_id: 3
 event_id: 4
 title:
-  en: "Panchamrutha Naga Thanu Kanike"
-  kn: "ಪಂಚಾಮೃತ ನಾಗ ತನು ಕಾಣಿಕೆ"
+  en: Panchamrutha Naga Thanu Kanike
+  kn: ಪಂಚಾಮೃತ ನಾಗ ತನು ಕಾಣಿಕೆ
 name:
-  en: "Panchamrutha Naga Thanu Kanike"
-  kn: "ಪಂಚಾಮೃತ ನಾಗ ತನು ಕಾಣಿಕೆ"
+  en: Panchamrutha Naga Thanu Kanike
+  kn: ಪಂಚಾಮೃತ ನಾಗ ತನು ಕಾಣಿಕೆ
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
 formatted_amount:
-  en: "₹100"
-  kn: "₹೧೦೦"
-currency: "INR"
+  en: ₹100
+  kn: ₹೧೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=89"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=89
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Panchamrutha Naga Thanu Kanike offered to Lord Subrahmanya and the serpent deities."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಹಾಗೂ ನಾಗರಾಜ ದೇವರಿಗೆ ಪಂಚಾಮೃತ ಸ್ನಾನ ಮತ್ತು ತನು ಸಮರ್ಪಿಸುವ ಪವಿತ್ರ ಕಾಣಿಕೆ."
+  en: Panchamrutha Naga Thanu Kanike offered to Lord Subrahmanya and the serpent deities.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಹಾಗೂ ನಾಗರಾಜ ದೇವರಿಗೆ ಪಂಚಾಮೃತ ಸ್ನಾನ ಮತ್ತು ತನು ಸಮರ್ಪಿಸುವ ಪವಿತ್ರ ಕಾಣಿಕೆ.
 significance:
-  en: "Specific traditional remedy for fertility, skin wellness, and blessings of righteous progeny."
-  kn: "ನಾಗ ತನು ತೃಪ್ತಿಯಿಂದ ಸಂತಾನ ಭಾಗ್ಯ, ಚರ್ಮರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಕುಲವೃದ್ಧಿ."
+  en: Specific traditional remedy for fertility, skin wellness, and blessings of righteous progeny.
+  kn: ನಾಗ ತನು ತೃಪ್ತಿಯಿಂದ ಸಂತಾನ ಭಾಗ್ಯ, ಚರ್ಮರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಕುಲವೃದ್ಧಿ.
+enabled: true
 ---
 
 # Panchamrutha Naga Thanu Kanike

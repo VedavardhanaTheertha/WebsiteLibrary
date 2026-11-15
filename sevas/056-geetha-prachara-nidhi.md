@@ -1,50 +1,51 @@
 ---
-id: "seva-056-geetha-prachara-nidhi"
+id: seva-056-geetha-prachara-nidhi
 code: 56
 entity_id: 3
 event_id: 4
 title:
-  en: "Geetha Prachara Nidhi"
-  kn: "ಗೀತಾ ಪ್ರಚಾರ ನಿಧಿ"
+  en: Geetha Prachara Nidhi
+  kn: ಗೀತಾ ಪ್ರಚಾರ ನಿಧಿ
 name:
-  en: "Geetha Prachara Nidhi"
-  kn: "ಗೀತಾ ಪ್ರಚಾರ ನಿಧಿ"
+  en: Geetha Prachara Nidhi
+  kn: ಗೀತಾ ಪ್ರಚಾರ ನಿಧಿ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/056-geetha-prachara-nidhi.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/056-geetha-prachara-nidhi.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=56"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=56
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Contribution to the Geetha Prachara Nidhi dedicated to publishing, teaching, and spreading the Bhagavad Gita."
-  kn: "ಭಗವದ್ಗೀತೆಯ ಸಾರ್ವಕಾಲಿಕ ಸಂದೇಶವನ್ನು ವಿಶ್ವದೆಲ್ಲೆಡೆ ಪ್ರಸಾರ ಮಾಡಲು ಸ್ಥಾಪಿಸಲಾದ ಪವಿತ್ರ ನಿಧಿಗೆ ನೀಡುವ ಕಾಣಿಕೆ."
+  en: Contribution to the Geetha Prachara Nidhi dedicated to publishing, teaching, and spreading the Bhagavad Gita.
+  kn: ಭಗವದ್ಗೀತೆಯ ಸಾರ್ವಕಾಲಿಕ ಸಂದೇಶವನ್ನು ವಿಶ್ವದೆಲ್ಲೆಡೆ ಪ್ರಸಾರ ಮಾಡಲು ಸ್ಥಾಪಿಸಲಾದ ಪವಿತ್ರ ನಿಧಿಗೆ ನೀಡುವ ಕಾಣಿಕೆ.
 significance:
-  en: "Spreading the word of Lord Krishna is declared in the Gita as the highest service to Him."
-  kn: "ಭಗವದ್ಗೀತೆಯ ಜ್ಞಾನವನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿಸುವ ಜ್ಞಾನದಾನದ ಮಹಾಪುಣ್ಯ."
+  en: Spreading the word of Lord Krishna is declared in the Gita as the highest service to Him.
+  kn: ಭಗವದ್ಗೀತೆಯ ಜ್ಞಾನವನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿಸುವ ಜ್ಞಾನದಾನದ ಮಹಾಪುಣ್ಯ.
+enabled: true
 ---
 
 # Geetha Prachara Nidhi

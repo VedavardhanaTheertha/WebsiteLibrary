@@ -1,50 +1,51 @@
 ---
-id: "seva-066-panchamruthabhisheka"
+id: seva-066-panchamruthabhisheka
 code: 66
 entity_id: 3
 event_id: 4
 title:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/066-panchamruthabhisheka.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/066-panchamruthabhisheka.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=66"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=66
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Panchamrutha Abhisheka with five auspicious liquids performed at Sri Mukhyaprana Sannidhi."
-  kn: "ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನು, ಸಕ್ಕರೆಯಿಂದ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಮಾಡುವ ಪವಿತ್ರ ಅಭಿಷೇಕ."
+  en: Panchamrutha Abhisheka with five auspicious liquids performed at Sri Mukhyaprana Sannidhi.
+  kn: ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನು, ಸಕ್ಕರೆಯಿಂದ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಮಾಡುವ ಪವಿತ್ರ ಅಭಿಷೇಕ.
 significance:
-  en: "Panchamrutha abhisheka calms hot planetary influences and bestows robust health and endurance."
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕದಿಂದ ಮುಖ್ಯಪ್ರಾಣರ ವಿಶೇಷ ಪ್ರೀತಿ ದೊರೆತು ಆರೋಗ್ಯ ಭಾಗ್ಯ ಸಿದ್ಧಿಸುತ್ತದೆ."
+  en: Panchamrutha abhisheka calms hot planetary influences and bestows robust health and endurance.
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕದಿಂದ ಮುಖ್ಯಪ್ರಾಣರ ವಿಶೇಷ ಪ್ರೀತಿ ದೊರೆತು ಆರೋಗ್ಯ ಭಾಗ್ಯ ಸಿದ್ಧಿಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Panchamruthabhisheka

@@ -10,8 +10,8 @@ fields:
     en: Terms and Conditions
     kn: ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು
   pages.local_copy.terms_intro:
-    en: 'Welcome to the official website of Shri Shiroor Matha, Udupi ("Matha"). By accessing or using our website (shiroormatha.org), you agree to comply with and be bound by the following terms and conditions.'
-    kn: 'ಉಡುಪಿಯ ಶ್ರೀ ಶಿರೂರು ಮಠದ ("ಮಠ") ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಸುಸ್ವಾಗತ. ನಮ್ಮ ವೆಬ್‌ಸೈಟ್ (shiroormatha.org) ಅನ್ನು ಪ್ರವೇಶಿಸುವ ಅಥವಾ ಬಳಸುವ ಮೂಲಕ, ನೀವು ಈ ಕೆಳಗಿನ ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳಿಗೆ ಬದ್ಧರಾಗಿರಲು ಒಪ್ಪುತ್ತೀರಿ.'
+    en: Welcome to the official website of Shri Shiroor Matha, Udupi ("Matha"). By accessing or using our website (shiroormatha.org), you agree to comply with and be bound by the following terms and conditions.
+    kn: ಉಡುಪಿಯ ಶ್ರೀ ಶಿರೂರು ಮಠದ ("ಮಠ") ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಸುಸ್ವಾಗತ. ನಮ್ಮ ವೆಬ್‌ಸೈಟ್ (shiroormatha.org) ಅನ್ನು ಪ್ರವೇಶಿಸುವ ಅಥವಾ ಬಳಸುವ ಮೂಲಕ, ನೀವು ಈ ಕೆಳಗಿನ ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳಿಗೆ ಬದ್ಧರಾಗಿರಲು ಒಪ್ಪುತ್ತೀರಿ.
   pages.local_copy.terms_heading_1:
     en: 1.1 Use of the Website
     kn: 1.1 ವೆಬ್‌ಸೈಟ್‌ನ ಬಳಕೆ
@@ -57,4 +57,5 @@ fields:
   pages.local_copy.terms_law:
     en: These terms are governed by the laws of India. Any disputes arising shall be subject to the exclusive jurisdiction of the courts in Udupi, Karnataka.
     kn: ಈ ನಿಯಮಗಳು ಭಾರತದ ಕಾನೂನುಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ. ಉದ್ಭವಿಸುವ ಯಾವುದೇ ವಿವಾದಗಳು ಕರ್ನಾಟಕದ ಉಡುಪಿಯ ನ್ಯಾಯಾಲಯಗಳ ಪ್ರತ್ಯೇಕ ವ್ಯಾಪ್ತಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ.
+enabled: true
 ---

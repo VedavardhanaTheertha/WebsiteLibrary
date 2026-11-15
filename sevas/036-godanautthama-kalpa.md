@@ -1,50 +1,51 @@
 ---
-id: "seva-036-godanautthama-kalpa"
+id: seva-036-godanautthama-kalpa
 code: 36
 entity_id: 3
 event_id: 4
 title:
-  en: "Godana(Utthama Kalpa)"
-  kn: "ಗೋದಾನ (ಉತ್ತಮ ಕಲ್ಪ)"
+  en: Godana(Utthama Kalpa)
+  kn: ಗೋದಾನ (ಉತ್ತಮ ಕಲ್ಪ)
 name:
-  en: "Godana(Utthama Kalpa)"
-  kn: "ಗೋದಾನ (ಉತ್ತಮ ಕಲ್ಪ)"
+  en: Godana(Utthama Kalpa)
+  kn: ಗೋದಾನ (ಉತ್ತಮ ಕಲ್ಪ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 8000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/036-godanautthama-kalpa.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/036-godanautthama-kalpa.avif
 formatted_amount:
-  en: "₹8,000"
-  kn: "₹೮,೦೦೦"
-currency: "INR"
+  en: ₹8,000
+  kn: ₹೮,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=36"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=36
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Utthama Kalpa Godana — canonical gifting of an auspicious indigenous milch cow to the Matha."
-  kn: "ಶಾಸ್ತ್ರೋಕ್ತ ರೀತಿಯಲ್ಲಿ ಉತ್ತಮ ತಳಿಯ ದೇಸಿ ಹಸುವನ್ನು ಮಠದ ಗೋಶಾಲೆಗೆ ಸಮರ್ಪಿಸುವ ಶ್ರೇಷ್ಠ ಗೋಸೇವೆ."
+  en: Utthama Kalpa Godana — canonical gifting of an auspicious indigenous milch cow to the Matha.
+  kn: ಶಾಸ್ತ್ರೋಕ್ತ ರೀತಿಯಲ್ಲಿ ಉತ್ತಮ ತಳಿಯ ದೇಸಿ ಹಸುವನ್ನು ಮಠದ ಗೋಶಾಲೆಗೆ ಸಮರ್ಪಿಸುವ ಶ್ರೇಷ್ಠ ಗೋಸೇವೆ.
 significance:
-  en: "Fulfills vital spiritual obligations and cleanses difficult ancestral and karmic hurdles."
-  kn: "ಉತ್ತಮ ಕಲ್ಪದ ಗೋದಾನವು ಶಾಸ್ತ್ರಗಳಲ್ಲಿ ಅತ್ಯುನ್ನತ ಪುಣ್ಯವೆಂದು ಕೊಂಡಾಡಲ್ಪಟ್ಟಿದೆ."
+  en: Fulfills vital spiritual obligations and cleanses difficult ancestral and karmic hurdles.
+  kn: ಉತ್ತಮ ಕಲ್ಪದ ಗೋದಾನವು ಶಾಸ್ತ್ರಗಳಲ್ಲಿ ಅತ್ಯುನ್ನತ ಪುಣ್ಯವೆಂದು ಕೊಂಡಾಡಲ್ಪಟ್ಟಿದೆ.
+enabled: true
 ---
 
 # Godana(Utthama Kalpa)

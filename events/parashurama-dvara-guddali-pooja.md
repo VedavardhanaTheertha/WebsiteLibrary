@@ -45,6 +45,7 @@ categories:
   - code: special
     en: Special
     kn: ವಿಶೇಷ ಸಮಾರಂಭ
+enabled: false
 ---
 
 # Parashurama Dvara Groundbreaking Ceremony (Guddali Pooja)
@@ -80,4 +81,3 @@ Groundbreaking foundation ceremony (Guddali Pooja) for the grand welcome arch "P
 ### Gallery Images
 
 ![Parashurama Dvara Groundbreaking Ceremony (Guddali Pooja) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/parashurama-dvara-guddali-pooja.avif)
-

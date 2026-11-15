@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ವಾದಿರಾಜರು
 ankita-kn: ಹಯವದನ
 kruti: Sri Vadirajaru
 ankita: Hayavadana
+enabled: true
 ---
 
 # ಬಾರಯ್ಯ ಕೃಷ್ಣ ಬಾರೈ ಬಾಹದಿದ್ದಡೆ ಕಾರುಣ್ಯನಿಧಿಯೆಂಬ ಕಥೆಯ

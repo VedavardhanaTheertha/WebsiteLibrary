@@ -31,39 +31,39 @@ country:
   en: India
   kn: ಭಾರತ
 pincode: "576124"
-phone: "+91 9900025432"
-email: "support@shiroormatha.org"
+phone: +91 9900025432
+email: support@shiroormatha.org
 timings:
   en: "Morning: 6:00 AM – 12:00 PM | Evening: 4:00 PM – 7:30 PM"
   kn: "ಬೆಳಿಗ್ಗೆ: ೬:೦೦ – ೧೨:೦೦ | ಸಂಜೆ: ೪:೦೦ – ೭:೩೦"
 darshan_timings:
   morning:
-    en: "6:00 AM – 12:00 PM"
-    kn: "ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦"
+    en: 6:00 AM – 12:00 PM
+    kn: ಬೆಳಿಗ್ಗೆ ೬:೦೦ – ೧೨:೦೦
   evening:
-    en: "4:00 PM – 7:30 PM"
-    kn: "ಸಂಜೆ ೪:೦೦ – ೭:೩೦"
+    en: 4:00 PM – 7:30 PM
+    kn: ಸಂಜೆ ೪:೦೦ – ೭:೩೦
   special:
-    en: "Special poojas and Annadaana on Aradhana days and Saturdays"
-    kn: "ಆರಾಧನಾ ದಿನಗಳು ಹಾಗೂ ಶನಿವಾರಗಳಂದು ವಿಶೇಷ ಪೂಜೆ ಮತ್ತು ಅನ್ನದಾನ"
+    en: Special poojas and Annadaana on Aradhana days and Saturdays
+    kn: ಆರಾಧನಾ ದಿನಗಳು ಹಾಗೂ ಶನಿವಾರಗಳಂದು ವಿಶೇಷ ಪೂಜೆ ಮತ್ತು ಅನ್ನದಾನ
 deity:
-  en: "Lord Sri Mukhyaprana Devaru, Lord Sri Vittala Devaru, Sacred Vrindavanas of Lineage Pontiffs"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು, ಶ್ರೀ ವಿಠಲ ದೇವರು, ಪೂರ್ವಾಚಾರ್ಯರ ಪವಿತ್ರ ವೃಂದಾವನಗಳು"
+  en: Lord Sri Mukhyaprana Devaru, Lord Sri Vittala Devaru, Sacred Vrindavanas of Lineage Pontiffs
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು, ಶ್ರೀ ವಿಠಲ ದೇವರು, ಪೂರ್ವಾಚಾರ್ಯರ ಪವಿತ್ರ ವೃಂದಾವನಗಳು
 established_by:
-  en: "Sage Jabali (Tapas Kshetra), Jagadguru Sri Madhwacharyaru, and Sri Lakshmiramana Teertharu (23rd Pontiff)"
-  kn: "ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳು, ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು (೨೩ ನೆಯ ಯತಿಗಳು)"
+  en: Sage Jabali (Tapas Kshetra), Jagadguru Sri Madhwacharyaru, and Sri Lakshmiramana Teertharu (23rd Pontiff)
+  kn: ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳು, ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು (೨೩ ನೆಯ ಯತಿಗಳು)
 history_era:
-  en: "Treta Yuga (Jabali Ashrama) / 18th Century CE (Current Moola Matha Establishment)"
-  kn: "ತ್ರೇತಾಯುಗ (ಜಾಬಾಲಿ ಆಶ್ರಮ) / ೧೮ ನೆಯ ಶತಮಾನ (ಪ್ರಸ್ತುತ ಮೂಲಮಠ ಸ್ಥಾಪನೆ)"
-map_link: "https://maps.google.com/?q=Shiroor+Moola+Matha+Shirooru+576124"
-embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15538.56!2d74.87!3d13.38!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sShiroor+Moola+Matha!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin"
+  en: Treta Yuga (Jabali Ashrama) / 18th Century CE (Current Moola Matha Establishment)
+  kn: ತ್ರೇತಾಯುಗ (ಜಾಬಾಲಿ ಆಶ್ರಮ) / ೧೮ ನೆಯ ಶತಮಾನ (ಪ್ರಸ್ತುತ ಮೂಲಮಠ ಸ್ಥಾಪನೆ)
+map_link: https://maps.google.com/?q=Shiroor+Moola+Matha+Shirooru+576124
+embed_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15538.56!2d74.87!3d13.38!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sShiroor+Moola+Matha!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin
 coordinates:
   latitude: 13.3833
   longitude: 74.8712
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
 images:
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
 tags:
   - moola-matha
   - shirooru
@@ -72,11 +72,11 @@ tags:
   - heritage
   - jabali-ashrama
 description:
-  en: "The foundational heritage seat (Moola Samsthana) of Shri Shiroor Matha situated in Shiroor village along the Suvarna river. Features the ancient Jabali Muni hermitage, Sri Mukhyaprana temple, and sacred Vrindavanas of pontiffs."
-  kn: "ಸುವರ್ಣಾ ನದಿಯ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಮೂಲ ಸಂಸ್ಥಾನ. ಜಾಬಾಲಿ ಮುನಿಗಳ ತಪೋಭೂಮಿ, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಪ್ರಾಚೀನ ಸನ್ನಿಧಿ ಹಾಗೂ ಪರಂಪರೆಯ ಮಹಾಯತಿಗಳ ಪಾವನ ವೃಂದಾವನಗಳಿಂದ ಕಂಗೊಳಿಸುವ ಪುಣ್ಯ ಕ್ಷೇತ್ರ."
+  en: The foundational heritage seat (Moola Samsthana) of Shri Shiroor Matha situated in Shiroor village along the Suvarna river. Features the ancient Jabali Muni hermitage, Sri Mukhyaprana temple, and sacred Vrindavanas of pontiffs.
+  kn: ಸುವರ್ಣಾ ನದಿಯ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಮೂಲ ಸಂಸ್ಥಾನ. ಜಾಬಾಲಿ ಮುನಿಗಳ ತಪೋಭೂಮಿ, ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಪ್ರಾಚೀನ ಸನ್ನಿಧಿ ಹಾಗೂ ಪರಂಪರೆಯ ಮಹಾಯತಿಗಳ ಪಾವನ ವೃಂದಾವನಗಳಿಂದ ಕಂಗೊಳಿಸುವ ಪುಣ್ಯ ಕ್ಷೇತ್ರ.
 details:
-  en: "A serene rural pilgrimage sanctuary where Sri Madhwacharyaru installed Sri Vittala Devaru facing Sri Mukhyaprana. Houses the holy Vrindavanas of Sri Lakshmiramana Teertharu, Sri Lakshmi Manohara Teertharu, and Sri Lakshmivara Teertharu."
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಎದುರಾಗಿ ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಸ್ಥಾಪಿಸಿದ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ. ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು, ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು ಹಾಗೂ ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರ ದಿವ್ಯ ವೃಂದಾವನಗಳ ನೆಲೆವೀಡು."
+  en: A serene rural pilgrimage sanctuary where Sri Madhwacharyaru installed Sri Vittala Devaru facing Sri Mukhyaprana. Houses the holy Vrindavanas of Sri Lakshmiramana Teertharu, Sri Lakshmi Manohara Teertharu, and Sri Lakshmivara Teertharu.
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಎದುರಾಗಿ ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಸ್ಥಾಪಿಸಿದ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ. ಶ್ರೀ ಲಕ್ಷ್ಮೀರಮಣ ತೀರ್ಥರು, ಶ್ರೀ ಲಕ್ಷ್ಮೀಮನೋಹರ ತೀರ್ಥರು ಹಾಗೂ ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರ ದಿವ್ಯ ವೃಂದಾವನಗಳ ನೆಲೆವೀಡು.
 categories:
   - code: moola-matha
     en: Moola Matha
@@ -84,6 +84,7 @@ categories:
   - code: heritage
     en: Heritage Seat
     kn: ಪರಂಪರಾ ಕ್ಷೇತ್ರ
+enabled: true
 ---
 
 # Shri Shiroor Moola Matha

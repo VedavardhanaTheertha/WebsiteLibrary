@@ -1,49 +1,50 @@
 ---
-id: "seva-107-1-day-veda-parayana-seva"
+id: seva-107-1-day-veda-parayana-seva
 code: 107
 entity_id: 3
 event_id: 4
 title:
-  en: "1 Day Veda Parayana Seva"
-  kn: "ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ"
+  en: 1 Day Veda Parayana Seva
+  kn: ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ
 name:
-  en: "1 Day Veda Parayana Seva"
-  kn: "ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ"
+  en: 1 Day Veda Parayana Seva
+  kn: ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ
 category:
-  code: "special-sevas"
-  en: "Special Sevas"
-  kn: "ವಿಶೇಷ ಸೇವೆಗಳು"
+  code: special-sevas
+  en: Special Sevas
+  kn: ವಿಶೇಷ ಸೇವೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Parampara Samsthana"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಸಂಸ್ಥಾನ ಪರಂಪರೆ"
+  en: Lord Sri Krishna & Parampara Samsthana
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಸಂಸ್ಥಾನ ಪರಂಪರೆ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100000
 formatted_amount:
-  en: "₹1,00,000"
-  kn: "₹೧,೦೦,೦೦೦"
-currency: "INR"
+  en: ₹1,00,000
+  kn: ₹೧,೦೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=107"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=107
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - special-sevas
 description:
-  en: "Full one-day Veda Parayana Seva conducted by accomplished Vedic scholars at Sri Krishna Matha."
-  kn: "ಋಗ್ವೇದ, ಯಜುರ್ವೇದ ಅಥವಾ ಸಾಮವೇದಗಳ ಪೂರ್ಣ ದಿನದ ದಿವ್ಯ ಪಾರಾಯಣವನ್ನು ವಿದ್ವಾಂಸರಿಂದ ನಡೆಸುವ ಮಹಾಸೇವೆ."
+  en: Full one-day Veda Parayana Seva conducted by accomplished Vedic scholars at Sri Krishna Matha.
+  kn: ಋಗ್ವೇದ, ಯಜುರ್ವೇದ ಅಥವಾ ಸಾಮವೇದಗಳ ಪೂರ್ಣ ದಿನದ ದಿವ್ಯ ಪಾರಾಯಣವನ್ನು ವಿದ್ವಾಂಸರಿಂದ ನಡೆಸುವ ಮಹಾಸೇವೆ.
 significance:
-  en: "The vibrations of Vedic chanting cleanse the environment, bring world peace, and generate infinite merit."
-  kn: "ವೇದಘೋಷದಿಂದ ಸಮಸ್ತ ವಿಶ್ವಕ್ಕೆ ಕಲ್ಯಾಣವಾಗುತ್ತದೆ; ವೇದ ಪಾರಾಯಣ ಮಾಡಿಸುವುದರಿಂದ ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳೂ ಸಿದ್ಧಿಸುತ್ತವೆ."
+  en: The vibrations of Vedic chanting cleanse the environment, bring world peace, and generate infinite merit.
+  kn: ವೇದಘೋಷದಿಂದ ಸಮಸ್ತ ವಿಶ್ವಕ್ಕೆ ಕಲ್ಯಾಣವಾಗುತ್ತದೆ; ವೇದ ಪಾರಾಯಣ ಮಾಡಿಸುವುದರಿಂದ ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳೂ ಸಿದ್ಧಿಸುತ್ತವೆ.
+enabled: true
 ---
 
 # 1 Day Veda Parayana Seva

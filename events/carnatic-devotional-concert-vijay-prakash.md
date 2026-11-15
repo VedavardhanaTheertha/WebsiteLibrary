@@ -46,6 +46,7 @@ categories:
   - code: classical
     en: Classical
     kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # Carnatic & Devotional Concert by Vijay Prakash
@@ -81,4 +82,3 @@ Soulful evening of classical Carnatic compositions, Haridasa devaranamas, and de
 ### Gallery Images
 
 ![Carnatic & Devotional Concert by Vijay Prakash - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-devotional-vijay-prakash.avif)
-

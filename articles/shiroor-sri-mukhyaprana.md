@@ -2,30 +2,31 @@
 id: shiroor-sri-mukhyaprana
 title:
   en: "Sarvabheeshta Pradayaka: Sri Mukhyaprana of Shiroor Matha"
-  kn: "ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಕ ಶೀರೂರು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ"
+  kn: ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಕ ಶೀರೂರು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ
 summary:
-  en: "The sacred history, Treta Yuga origins with Sage Jabali, Suvarna River miracles, and living traditions of Sri Mukhyaprana Devaru at Shiroor Moola Matha."
-  kn: "ತ್ರೇತಾಯುಗದ ಜಾಬಾಲಿ ಮುನಿಗಳ ತಪೋಭೂಮಿ, ಸುವರ್ಣಾ ನದಿಯ ಪವಿತ್ರ ಸನ್ನಿಧಿ ಹಾಗೂ ಶೀರೂರು ಮೂಲ ಮಠದ ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಕ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಮಹಿಮೆ ಮತ್ತು ಇತಿಹಾಸ."
+  en: The sacred history, Treta Yuga origins with Sage Jabali, Suvarna River miracles, and living traditions of Sri Mukhyaprana Devaru at Shiroor Moola Matha.
+  kn: ತ್ರೇತಾಯುಗದ ಜಾಬಾಲಿ ಮುನಿಗಳ ತಪೋಭೂಮಿ, ಸುವರ್ಣಾ ನದಿಯ ಪವಿತ್ರ ಸನ್ನಿಧಿ ಹಾಗೂ ಶೀರೂರು ಮೂಲ ಮಠದ ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಕ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಮಹಿಮೆ ಮತ್ತು ಇತಿಹಾಸ.
 status:
-  en: "Reviewed article"
-  kn: "ಪರಿಶೀಲಿತ ಲೇಖನ"
+  en: Reviewed article
+  kn: ಪರಿಶೀಲಿತ ಲೇಖನ
 image: ""
 tags:
   - code: mukhyaprana
-    en: "Mukhyaprana"
-    kn: "ಮುಖ್ಯಪ್ರಾಣ"
+    en: Mukhyaprana
+    kn: ಮುಖ್ಯಪ್ರಾಣ
   - code: shiroor-matha
-    en: "Shiroor Matha"
-    kn: "ಶೀರೂರು ಮಠ"
+    en: Shiroor Matha
+    kn: ಶೀರೂರು ಮಠ
   - code: moola-matha
-    en: "Moola Matha"
-    kn: "ಮೂಲ ಮಠ"
+    en: Moola Matha
+    kn: ಮೂಲ ಮಠ
   - code: jabali-muni
-    en: "Sage Jabali"
-    kn: "ಜಾಬಾಲಿ ಮುನಿ"
+    en: Sage Jabali
+    kn: ಜಾಬಾಲಿ ಮುನಿ
   - code: suvarna-river
-    en: "Suvarna River"
-    kn: "ಸುವರ್ಣಾ ನದಿ"
+    en: Suvarna River
+    kn: ಸುವರ್ಣಾ ನದಿ
+enabled: false
 ---
 
 ## English
@@ -114,4 +115,3 @@ Devotees regularly sponsor dedicated Nanda Deepa lamps on birthdays and auspicio
 - **ನಂದಾದೀಪ ಸೇವೆ**
 
 ಭಕ್ತ ಜನರು ತಮ್ಮ ಗ್ರಹಚಾರದ ದೋಷ ನಿವೃತ್ತಿಗಾಗಿ ಮತ್ತು ಜನ್ಮದಿನದಂತಹ ಶುಭ ಸಂದರ್ಭಗಳಲ್ಲಿ ನಿತ್ಯ ನಂದಾದೀಪವನ್ನು ಬೆಳಗಿಸುತ್ತಾರೆ. ಶ್ರೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸಲ್ಲಿಸುವ ಹರಕೆ ಸೇವೆಗಳಿಂದ ಭಕ್ತರು ತಮ್ಮ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಸಿದ್ಧಿಮಾಡಿಕೊಂಡು, **"ಅಸಾಧ್ಯಂ ಸಾಧಯ ಸ್ವಾಮಿನ್"** ಎನ್ನುವಂತೆ ಧನ್ಯರಾಗುತ್ತಾರೆ. ಇದಕ್ಕೆ ಪೂರಕವಾಗಿ ನೂರಾರು ನಿದರ್ಶನಗಳು ಲಭ್ಯವಿವೆ.
-

@@ -4,11 +4,11 @@ position: 11
 name: Sri Vedabhushana Teertharu (ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು)
 name-en: Sri Vedabhushana Teertharu
 name-kn: ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು
-timePeriod: '1507–1523 CE (ಶಾ.ಶಕ ೧೪೪೫)'
-timePeriod-en: '1507–1523 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೫೦೭–೧೫೨೩ (ಶಾ.ಶಕ ೧೪೪೫)'
-shaka: '1445'
-shaka-kn: '೧೪೪೫'
+timePeriod: 1507–1523 CE (ಶಾ.ಶಕ ೧೪೪೫)
+timePeriod-en: 1507–1523 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೫೦೭–೧೫೨೩ (ಶಾ.ಶಕ ೧೪೪೫)
+shaka: "1445"
+shaka-kn: ೧೪೪೫
 samvatsara-en: Swabhanu
 samvatsara-kn: ಸ್ವಭಾನು
 aradhana-en: Jyeshtha Krishna Shashthi
@@ -19,12 +19,11 @@ summary: |-
   Sri Vedabhushana Teertharu is the eleventh pontiff of Sri Shiroor Matha, celebrated as a scholar of profound erudition who decorated the dharma peetha for 16 years. After appointing his illustrious successor Sri Srinivasa Teertharu, he attained Paramapada at the holy Varaha shrine of Srimushnam in 1523 CE.
 
   ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪಂಡಿತ ಪ್ರಕಾಂಡ ವಿದ್ವಾಂಸರಾದ ಇವರು ೧೬ ವರ್ಷಗಳ ಕಾಲ ಪೀಠವನ್ನಲಂಕರಿಸಿ, ಶಿಷ್ಯರಾದ ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರಿಗೆ ಪೀಠ ಹಸ್ತಾಂತರಿಸಿ ಕ್ರಿ.ಶ. ೧೫೨೩ ರಲ್ಲಿ ಶ್ರೀ ಮುಷ್ಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Vedabhushana Teertharu is the eleventh pontiff of Sri Shiroor Matha, celebrated as a scholar of profound erudition who decorated the dharma peetha for 16 years. After appointing his illustrious successor Sri Srinivasa Teertharu, he attained Paramapada at the holy Varaha shrine of Srimushnam in 1523 CE.
-summary-kn: |-
-  ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪಂಡಿತ ಪ್ರಕಾಂಡ ವಿದ್ವಾಂಸರಾದ ಇವರು ೧೬ ವರ್ಷಗಳ ಕಾಲ ಪೀಠವನ್ನಲಂಕರಿಸಿ, ಶಿಷ್ಯರಾದ ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರಿಗೆ ಪೀಠ ಹಸ್ತಾಂತರಿಸಿ ಕ್ರಿ.ಶ. ೧೫೨೩ ರಲ್ಲಿ ಶ್ರೀ ಮುಷ್ಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vedabhushana Teertharu is the eleventh pontiff of Sri Shiroor Matha, celebrated as a scholar of profound erudition who decorated the dharma peetha for 16 years. After appointing his illustrious successor Sri Srinivasa Teertharu, he attained Paramapada at the holy Varaha shrine of Srimushnam in 1523 CE.
+summary-kn: ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೊಂದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪಂಡಿತ ಪ್ರಕಾಂಡ ವಿದ್ವಾಂಸರಾದ ಇವರು ೧೬ ವರ್ಷಗಳ ಕಾಲ ಪೀಠವನ್ನಲಂಕರಿಸಿ, ಶಿಷ್ಯರಾದ ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರಿಗೆ ಪೀಠ ಹಸ್ತಾಂತರಿಸಿ ಕ್ರಿ.ಶ. ೧೫೨೩ ರಲ್ಲಿ ಶ್ರೀ ಮುಷ್ಣ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಮಪದ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vedabhushana Teertharu (ಶ್ರೀ ವೇದಭೂಷಣ ತೀರ್ಥರು)

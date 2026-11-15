@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಪುರಂದರ ದಾಸರು
 ankita-kn: ಪುರಂದರ ವಿಠಲ
 kruti: Sri Purandara Dasaru
 ankita: Purandara vittala
+enabled: true
 ---
 
 # ಅಳುವುದ್ಯಾತಕೋ ರಂಗಯ್ಯ ಅತ್ತರಂಜಿಪ ಗುಮ್ಮ

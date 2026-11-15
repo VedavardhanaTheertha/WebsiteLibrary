@@ -1,49 +1,50 @@
 ---
-id: "seva-099-namakarana-kanike"
+id: seva-099-namakarana-kanike
 code: 99
 entity_id: 3
 event_id: 4
 title:
-  en: "Namakarana Kanike"
-  kn: "ನಾಮಕರಣ ಕಾಣಿಕೆ"
+  en: Namakarana Kanike
+  kn: ನಾಮಕರಣ ಕಾಣಿಕೆ
 name:
-  en: "Namakarana Kanike"
-  kn: "ನಾಮಕರಣ ಕಾಣಿಕೆ"
+  en: Namakarana Kanike
+  kn: ನಾಮಕರಣ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 750
 formatted_amount:
-  en: "₹750"
-  kn: "₹೭೫೦"
-currency: "INR"
+  en: ₹750
+  kn: ₹೭೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=99"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=99
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Namakarana Kanike for conducting the auspicious naming ceremony of a newborn at Sri Krishna Matha."
-  kn: "ನವಜಾತ ಶಿಶುವಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ನಾಮಕರಣ ಸಂಸ್ಕಾರವನ್ನು ನೆರವೇರಿಸುವ ಸೇವೆ."
+  en: Namakarana Kanike for conducting the auspicious naming ceremony of a newborn at Sri Krishna Matha.
+  kn: ನವಜಾತ ಶಿಶುವಿಗೆ ಶ್ರೀ ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ನಾಮಕರಣ ಸಂಸ್ಕಾರವನ್ನು ನೆರವೇರಿಸುವ ಸೇವೆ.
 significance:
-  en: "Bestows divine grace and an auspicious spiritual foundation on the child's life journey."
-  kn: "ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಮಗುವಿಗೆ ಹೆಸರಿಟ್ಟು ಗುರುಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪಡೆಯುವ ಮಂಗಳಕರ ಸಂಸ್ಕಾರ."
+  en: Bestows divine grace and an auspicious spiritual foundation on the child's life journey.
+  kn: ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಮಗುವಿಗೆ ಹೆಸರಿಟ್ಟು ಗುರುಹಿರಿಯರ ಆಶೀರ್ವಾದ ಪಡೆಯುವ ಮಂಗಳಕರ ಸಂಸ್ಕಾರ.
+enabled: true
 ---
 
 # Namakarana Kanike

@@ -1,25 +1,26 @@
 ---
 id: festivals-of-udupi
 title:
-  en: "Festivals of Udupi"
-  kn: "ಉಡುಪಿಯ ಹಬ್ಬಗಳು"
+  en: Festivals of Udupi
+  kn: ಉಡುಪಿಯ ಹಬ್ಬಗಳು
 summary:
-  en: "An introduction to the sacred calendar and its community celebrations."
-  kn: "ಪವಿತ್ರ ಪಂಚಾಂಗ ಮತ್ತು ಅದರ ಸಾಮುದಾಯಿಕ ಆಚರಣೆಗಳ ಪರಿಚಯ."
+  en: An introduction to the sacred calendar and its community celebrations.
+  kn: ಪವಿತ್ರ ಪಂಚಾಂಗ ಮತ್ತು ಅದರ ಸಾಮುದಾಯಿಕ ಆಚರಣೆಗಳ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festivals-of-udupi.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festivals-of-udupi.avif
 tags:
   - code: festival
-    en: "festival"
-    kn: "ಹಬ್ಬ"
+    en: festival
+    kn: ಹಬ್ಬ
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: calendar
-    en: "calendar"
-    kn: "ಪಂಚಾಂಗ"
+    en: calendar
+    kn: ಪಂಚಾಂಗ
+enabled: false
 ---
 
 ## English

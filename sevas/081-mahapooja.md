@@ -1,49 +1,50 @@
 ---
-id: "seva-081-mahapooja"
+id: seva-081-mahapooja
 code: 81
 entity_id: 3
 event_id: 4
 title:
-  en: "Mahapooja"
-  kn: "ಮಹಾಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Mahapooja
+  kn: ಮಹಾಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 name:
-  en: "Mahapooja"
-  kn: "ಮಹಾಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Mahapooja
+  kn: ಮಹಾಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 category:
-  code: "bhageerathi-sannidhi"
-  en: "Bhageerathi Sannidhi Sevas"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)"
+  code: bhageerathi-sannidhi
+  en: Bhageerathi Sannidhi Sevas
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)
 sannidhi:
-  en: "Bhageerathi Sannidhi (Madhwa Sarovara)"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)"
+  en: Bhageerathi Sannidhi (Madhwa Sarovara)
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)
 deity:
-  en: "Goddess Bhageerathi"
-  kn: "ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ"
+  en: Goddess Bhageerathi
+  kn: ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
 formatted_amount:
-  en: "₹100"
-  kn: "₹೧೦೦"
-currency: "INR"
+  en: ₹100
+  kn: ₹೧೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=81"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=81
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhageerathi-sannidhi
 description:
-  en: "Mahapooja to Goddess Bhageerathi with complete Vedic rituals."
-  kn: "ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿಗೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ನೆರವೇರುವ ಮಹಾಪೂಜೆ."
+  en: Mahapooja to Goddess Bhageerathi with complete Vedic rituals.
+  kn: ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿಗೆ ಷೋಡಶೋಪಚಾರಗಳಿಂದ ನೆರವೇರುವ ಮಹಾಪೂಜೆ.
 significance:
-  en: "Bestows purity of thoughts, washes away mental afflictions, and invokes divine grace."
-  kn: "ಗಂಗಾದೇವಿಯ ಮಹಾಪೂಜೆಯಿಂದ ಶುದ್ಧ ಬುದ್ಧಿ ಮತ್ತು ಪಾಪವಿಮೋಚನೆ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ."
+  en: Bestows purity of thoughts, washes away mental afflictions, and invokes divine grace.
+  kn: ಗಂಗಾದೇವಿಯ ಮಹಾಪೂಜೆಯಿಂದ ಶುದ್ಧ ಬುದ್ಧಿ ಮತ್ತು ಪಾಪವಿಮೋಚನೆ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # Mahapooja

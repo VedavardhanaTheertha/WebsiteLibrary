@@ -1,49 +1,50 @@
 ---
-id: "seva-080-rangapooja"
+id: seva-080-rangapooja
 code: 80
 entity_id: 3
 event_id: 4
 title:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 name:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ)
 category:
-  code: "bhageerathi-sannidhi"
-  en: "Bhageerathi Sannidhi Sevas"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)"
+  code: bhageerathi-sannidhi
+  en: Bhageerathi Sannidhi Sevas
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ ಸೇವೆಗಳು (ಮಧ್ವ ಸರೋವರ)
 sannidhi:
-  en: "Bhageerathi Sannidhi (Madhwa Sarovara)"
-  kn: "ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)"
+  en: Bhageerathi Sannidhi (Madhwa Sarovara)
+  kn: ಭಾಗೀರಥಿ ಸನ್ನಿಧಿ (ಮಧ್ವ ಸರೋವರ)
 deity:
-  en: "Goddess Bhageerathi"
-  kn: "ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ"
+  en: Goddess Bhageerathi
+  kn: ಶ್ರೀ ಭಾಗೀರಥಿ ದೇವಿ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
 formatted_amount:
-  en: "₹100"
-  kn: "₹೧೦೦"
-currency: "INR"
+  en: ₹100
+  kn: ₹೧೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=80"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=80
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhageerathi-sannidhi
 description:
-  en: "Rangapooja lighting sacred rows of lamps before Goddess Bhageerathi at Madhwa Sarovara."
-  kn: "ಮಧ್ವ ಸರೋವರದ ಭಾಗೀರಥಿ ಸನ್ನಿಧಿಯಲ್ಲಿ ದೀಪಗಳ ಅಲಂಕಾರದೊಂದಿಗೆ ರಂಗಪೂಜೆ ನೆರವೇರಿಸುವ ಸೇವೆ."
+  en: Rangapooja lighting sacred rows of lamps before Goddess Bhageerathi at Madhwa Sarovara.
+  kn: ಮಧ್ವ ಸರೋವರದ ಭಾಗೀರಥಿ ಸನ್ನಿಧಿಯಲ್ಲಿ ದೀಪಗಳ ಅಲಂಕಾರದೊಂದಿಗೆ ರಂಗಪೂಜೆ ನೆರವೇರಿಸುವ ಸೇವೆ.
 significance:
-  en: "Reflects divine light on the holy waters, purifying the mind and body of the devotee."
-  kn: "ಸರೋವರದ ತೀರದಲ್ಲಿ ದೀಪಾಲಂಕೃತ ರಂಗಪೂಜೆ ನೆರವೇರಿಸಿ ಪವಿತ್ರ ತೇಜಸ್ಸನ್ನು ಪಡೆಯುವುದು."
+  en: Reflects divine light on the holy waters, purifying the mind and body of the devotee.
+  kn: ಸರೋವರದ ತೀರದಲ್ಲಿ ದೀಪಾಲಂಕೃತ ರಂಗಪೂಜೆ ನೆರವೇರಿಸಿ ಪವಿತ್ರ ತೇಜಸ್ಸನ್ನು ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Rangapooja

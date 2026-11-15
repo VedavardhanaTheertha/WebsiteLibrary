@@ -1,50 +1,51 @@
 ---
-id: "seva-033-garuda-rathothsava"
+id: seva-033-garuda-rathothsava
 code: 33
 entity_id: 3
 event_id: 4
 title:
-  en: "Garuda Rathothsava"
-  kn: "ಗರುಡ ರಥೋತ್ಸವ"
+  en: Garuda Rathothsava
+  kn: ಗರುಡ ರಥೋತ್ಸವ
 name:
-  en: "Garuda Rathothsava"
-  kn: "ಗರುಡ ರಥೋತ್ಸವ"
+  en: Garuda Rathothsava
+  kn: ಗರುಡ ರಥೋತ್ಸವ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 15000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/033-garuda-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/033-garuda-rathothsava.avif
 formatted_amount:
-  en: "₹15,000"
-  kn: "₹೧೫,೦೦೦"
-currency: "INR"
+  en: ₹15,000
+  kn: ₹೧೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: true
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=33"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=33
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Garuda Rathotsava chariot festival honoring Lord Krishna mounted on His supreme vehicle, Garuda."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನ ವಾಹನವಾದ ಗರುಡ ದೇವರನ್ನು ಹೊಂದಿರುವ ರಥದಲ್ಲಿ ರಥಬೀದಿಯಲ್ಲಿ ಸಂಚರಿಸುವ ಜನಪ್ರಿಯ ರಥಸೇವೆ."
+  en: Garuda Rathotsava chariot festival honoring Lord Krishna mounted on His supreme vehicle, Garuda.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನ ವಾಹನವಾದ ಗರುಡ ದೇವರನ್ನು ಹೊಂದಿರುವ ರಥದಲ್ಲಿ ರಥಬೀದಿಯಲ್ಲಿ ಸಂಚರಿಸುವ ಜನಪ್ರಿಯ ರಥಸೇವೆ.
 significance:
-  en: "Destroys poison, malice, and fear of snakes or enemies, bestowing speed, health, and victory."
-  kn: "ಗರುಡ ರಥೋತ್ಸವದಿಂದ ಶತ್ರುಭಯ, ಸರ್ಪದೋಷ ಮತ್ತು ವಿಷಭಯಗಳು ದೂರವಾಗಿ ವಿಜಯ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ."
+  en: Destroys poison, malice, and fear of snakes or enemies, bestowing speed, health, and victory.
+  kn: ಗರುಡ ರಥೋತ್ಸವದಿಂದ ಶತ್ರುಭಯ, ಸರ್ಪದೋಷ ಮತ್ತು ವಿಷಭಯಗಳು ದೂರವಾಗಿ ವಿಜಯ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # Garuda Rathothsava

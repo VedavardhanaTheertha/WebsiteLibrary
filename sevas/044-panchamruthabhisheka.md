@@ -1,39 +1,39 @@
 ---
-id: "seva-044-panchamruthabhisheka"
+id: seva-044-panchamruthabhisheka
 code: 44
 entity_id: 3
 event_id: 4
 title:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ
 name:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 750
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/044-panchamruthabhisheka.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/044-panchamruthabhisheka.avif
 formatted_amount:
-  en: "₹750"
-  kn: "₹೭೫೦"
-currency: "INR"
+  en: ₹750
+  kn: ₹೭೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=44"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=44
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
@@ -41,10 +41,11 @@ tags:
   - krishna-sannidhi
 description:
   en: "Sacred ritual bathing (abhisheka) with five divine nectars: milk, curd, ghee, honey, and sugar."
-  kn: "ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನುತುಪ್ಪ ಮತ್ತು ಸಕ್ಕರೆಯಿಂದ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ನೆರವೇರುವ ಪವಿತ್ರ ಪಂಚಾಮೃತ ಸ್ನಾನ."
+  kn: ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನುತುಪ್ಪ ಮತ್ತು ಸಕ್ಕರೆಯಿಂದ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ನೆರವೇರುವ ಪವಿತ್ರ ಪಂಚಾಮೃತ ಸ್ನಾನ.
 significance:
-  en: "Panchamrutha abhisheka sacred ritual bathing purifies bodily health, removes afflictions, and bestows vitality and spiritual purity."
-  kn: "ದೇಹ ಮತ್ತು ಮನಸ್ಸಿನ ಶುದ್ಧಿಗೆ, ರೋಗ ನಿವಾರಣೆಗೆ ಹಾಗೂ ದೀರ್ಘಾಯುಷ್ಯಕ್ಕೆ ಪಂಚಾಮೃತಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ."
+  en: Panchamrutha abhisheka sacred ritual bathing purifies bodily health, removes afflictions, and bestows vitality and spiritual purity.
+  kn: ದೇಹ ಮತ್ತು ಮನಸ್ಸಿನ ಶುದ್ಧಿಗೆ, ರೋಗ ನಿವಾರಣೆಗೆ ಹಾಗೂ ದೀರ್ಘಾಯುಷ್ಯಕ್ಕೆ ಪಂಚಾಮೃತಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ.
+enabled: true
 ---
 
 # Panchamruthabhisheka

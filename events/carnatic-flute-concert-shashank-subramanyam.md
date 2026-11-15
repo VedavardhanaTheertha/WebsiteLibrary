@@ -46,6 +46,7 @@ categories:
   - code: classical
     en: Classical
     kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # Carnatic Flute Concert by Shashank Subramanyam
@@ -81,4 +82,3 @@ Mesmerizing bamboo flute recital by Grammy-nominated maestro Pandit Shashank Sub
 ### Gallery Images
 
 ![Carnatic Flute Concert by Shashank Subramanyam - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-flute-shashank-subramanyam.avif)
-

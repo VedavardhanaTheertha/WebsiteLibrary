@@ -4,11 +4,11 @@ position: 0
 name: Sri Madhwacharyaru (ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು)
 name-en: Sri Madhwacharyaru
 name-kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು
-timePeriod: '1199–1277 CE (ಶಾ.ಶಕ ೧೧೯೯)'
-timePeriod-en: '1199–1277 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೧೯೯–೧೨೭೭ (ಶಾ.ಶಕ ೧೧೯೯)'
-shaka: '1199'
-shaka-kn: '೧೧೯೯'
+timePeriod: 1199–1277 CE (ಶಾ.ಶಕ ೧೧೯೯)
+timePeriod-en: 1199–1277 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೧೯೯–೧೨೭೭ (ಶಾ.ಶಕ ೧೧೯೯)
+shaka: "1199"
+shaka-kn: ೧೧೯೯
 samvatsara-en: Pingala
 samvatsara-kn: ಪಿಂಗಳ
 aradhana-en: Magha Shukla Navami (Sri Madhwa Navami)
@@ -19,12 +19,11 @@ summary: |-
   Sri Madhwacharyaru is the revered founder of the Dvaita (Tatvavada) philosophy and the root authority of the Shiroor Matha lineage. As the third avatar of Lord Vayu, he consecrated Lord Sri Balakrishna in Udupi, established the Ashta Mathas, and initiated Sri Vamana Teertharu into sanyasa, bestowing the sacred idol of Sri Vittala Devaru (Anna Vittala).
 
   ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಾಯುದೇವರ ತೃತೀಯಾವತಾರ ಹಾಗೂ ದ್ವೈತ (ತತ್ತ್ವವಾದ) ಸಿದ್ಧಾಂತದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು. ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀ ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಅಷ್ಟಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿ, ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ನೀಡಿ ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರನ್ನು ಅನುಗ್ರಹಿಸಿ ಶೀರೂರು ಮಠದ ಮೂಲ ಗುರುಗಳಾದರು.
-summary-en: |-
-  Sri Madhwacharyaru is the revered founder of the Dvaita (Tatvavada) philosophy and the root authority of the Shiroor Matha lineage. As the third avatar of Lord Vayu, he consecrated Lord Sri Balakrishna in Udupi, established the Ashta Mathas, and initiated Sri Vamana Teertharu into sanyasa, bestowing the sacred idol of Sri Vittala Devaru (Anna Vittala).
-summary-kn: |-
-  ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಾಯುದೇವರ ತೃತೀಯಾವತಾರ ಹಾಗೂ ದ್ವೈತ (ತತ್ತ್ವವಾದ) ಸಿದ್ಧಾಂತದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು. ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀ ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಅಷ್ಟಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿ, ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ನೀಡಿ ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರನ್ನು ಅನುಗ್ರಹಿಸಿ ಶೀರೂರು ಮಠದ ಮೂಲ ಗುರುಗಳಾದರು.
-thumbnailImage: 'https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/m.avif'
-fullImage: 'https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/m.avif'
+summary-en: Sri Madhwacharyaru is the revered founder of the Dvaita (Tatvavada) philosophy and the root authority of the Shiroor Matha lineage. As the third avatar of Lord Vayu, he consecrated Lord Sri Balakrishna in Udupi, established the Ashta Mathas, and initiated Sri Vamana Teertharu into sanyasa, bestowing the sacred idol of Sri Vittala Devaru (Anna Vittala).
+summary-kn: ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಾಯುದೇವರ ತೃತೀಯಾವತಾರ ಹಾಗೂ ದ್ವೈತ (ತತ್ತ್ವವಾದ) ಸಿದ್ಧಾಂತದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು. ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀ ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಅಷ್ಟಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿ, ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ನೀಡಿ ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರನ್ನು ಅನುಗ್ರಹಿಸಿ ಶೀರೂರು ಮಠದ ಮೂಲ ಗುರುಗಳಾದರು.
+thumbnailImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/m.avif
+fullImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/m.avif
+enabled: true
 ---
 
 # Sri Madhwacharyaru (ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು)

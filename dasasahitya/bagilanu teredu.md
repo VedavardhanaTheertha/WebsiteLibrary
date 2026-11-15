@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಕನಕದಾಸರು
 ankita-kn: ಕಾಗಿನೆಲೆಯಾದಿ ಕೇಶವ
 kruti: Sri Kanaka Dasaru
 ankita: Neleyadi Keshava
+enabled: true
 ---
 
 # ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡು ಹರಿಯೇ

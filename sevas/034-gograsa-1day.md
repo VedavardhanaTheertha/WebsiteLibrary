@@ -1,50 +1,51 @@
 ---
-id: "seva-034-gograsa-1day"
+id: seva-034-gograsa-1day
 code: 34
 entity_id: 3
 event_id: 4
 title:
-  en: "Gograsa (1Day)"
-  kn: "ಗೋಗ್ರಾಸ ಸೇವೆ (೧ ದಿನ)"
+  en: Gograsa (1Day)
+  kn: ಗೋಗ್ರಾಸ ಸೇವೆ (೧ ದಿನ)
 name:
-  en: "Gograsa (1Day)"
-  kn: "ಗೋಗ್ರಾಸ ಸೇವೆ (೧ ದಿನ)"
+  en: Gograsa (1Day)
+  kn: ಗೋಗ್ರಾಸ ಸೇವೆ (೧ ದಿನ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 10000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/034-gograsa-1day.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/034-gograsa-1day.avif
 formatted_amount:
-  en: "₹10,000"
-  kn: "₹೧೦,೦೦೦"
-currency: "INR"
+  en: ₹10,000
+  kn: ₹೧೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=34"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=34
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Supplying full one-day fodder, fresh green grass, and nutrition for the sacred cows of Krishna Matha."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನೂರಾರು ಗೋವುಗಳಿಗೆ ಒಂದು ದಿನದ ಸಂಪೂರ್ಣ ಪೌಷ್ಟಿಕ ಮೇವು ಮತ್ತು ಆಹಾರವನ್ನು ಒದಗಿಸುವ ಸೇವೆ."
+  en: Supplying full one-day fodder, fresh green grass, and nutrition for the sacred cows of Krishna Matha.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನೂರಾರು ಗೋವುಗಳಿಗೆ ಒಂದು ದಿನದ ಸಂಪೂರ್ಣ ಪೌಷ್ಟಿಕ ಮೇವು ಮತ್ತು ಆಹಾರವನ್ನು ಒದಗಿಸುವ ಸೇವೆ.
 significance:
-  en: "Feeding sacred cows pleases Lord Gopala Krishna instantly and brings prosperity and health."
-  kn: "ಗೋವುಗಳಿಗೆ ಪ್ರೀತಿಯಿಂದ ಆಹಾರ ನೀಡುವುದರಿಂದ ಗೋಪಾಲಕೃಷ್ಣನು ಪ್ರಸನ್ನನಾಗಿ ಆಯುರಾರೋಗ್ಯ ಭಾಗ್ಯ ಕರುಣಿಸುತ್ತಾನೆ."
+  en: Feeding sacred cows pleases Lord Gopala Krishna instantly and brings prosperity and health.
+  kn: ಗೋವುಗಳಿಗೆ ಪ್ರೀತಿಯಿಂದ ಆಹಾರ ನೀಡುವುದರಿಂದ ಗೋಪಾಲಕೃಷ್ಣನು ಪ್ರಸನ್ನನಾಗಿ ಆಯುರಾರೋಗ್ಯ ಭಾಗ್ಯ ಕರುಣಿಸುತ್ತಾನೆ.
+enabled: true
 ---
 
 # Gograsa (1Day)

@@ -1,50 +1,51 @@
 ---
-id: "seva-049-ksheerabhisheka"
+id: seva-049-ksheerabhisheka
 code: 49
 entity_id: 3
 event_id: 4
 title:
-  en: "Ksheerabhisheka"
-  kn: "ಕ್ಷೀರಾಭಿಷೇಕ"
+  en: Ksheerabhisheka
+  kn: ಕ್ಷೀರಾಭಿಷೇಕ
 name:
-  en: "Ksheerabhisheka"
-  kn: "ಕ್ಷೀರಾಭಿಷೇಕ"
+  en: Ksheerabhisheka
+  kn: ಕ್ಷೀರಾಭಿಷೇಕ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 350
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/049-ksheerabhisheka.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/049-ksheerabhisheka.avif
 formatted_amount:
-  en: "₹350"
-  kn: "₹೩೫೦"
-currency: "INR"
+  en: ₹350
+  kn: ₹೩೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=49"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=49
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Ksheerabhisheka (sacred milk bath) of the divine Shaligrama and deity of Lord Krishna with pure cow's milk."
-  kn: "ಶುದ್ಧ ದೇಸಿ ಹಸುವಿನ ಹಾಲಿನಿಂದ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ನಡೆಯುವ ಮಧುರ ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ."
+  en: Ksheerabhisheka (sacred milk bath) of the divine Shaligrama and deity of Lord Krishna with pure cow's milk.
+  kn: ಶುದ್ಧ ದೇಸಿ ಹಸುವಿನ ಹಾಲಿನಿಂದ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ನಡೆಯುವ ಮಧುರ ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ.
 significance:
-  en: "Sacred milk bath (abhisheka) of the deity invokes calmness, peace of mind, radiant health, and cooling of worldly tensions."
-  kn: "ಶಾಂತಿ, ಸುಖ, ಆರೋಗ್ಯ ಹಾಗೂ ಸರ್ವ ಸಂಕಷ್ಟ ನಿವಾರಣೆಗೆ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಮಾಡುವ ಕ್ಷೀರಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ."
+  en: Sacred milk bath (abhisheka) of the deity invokes calmness, peace of mind, radiant health, and cooling of worldly tensions.
+  kn: ಶಾಂತಿ, ಸುಖ, ಆರೋಗ್ಯ ಹಾಗೂ ಸರ್ವ ಸಂಕಷ್ಟ ನಿವಾರಣೆಗೆ ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಮಾಡುವ ಕ್ಷೀರಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ.
+enabled: true
 ---
 
 # Ksheerabhisheka

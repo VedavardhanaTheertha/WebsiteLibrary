@@ -1,49 +1,50 @@
 ---
-id: "seva-085-pavamana-kalashabhisheka"
+id: seva-085-pavamana-kalashabhisheka
 code: 85
 entity_id: 3
 event_id: 4
 title:
-  en: "Pavamana Kalashabhisheka"
-  kn: "ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Pavamana Kalashabhisheka
+  kn: ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 name:
-  en: "Pavamana Kalashabhisheka"
-  kn: "ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)"
+  en: Pavamana Kalashabhisheka
+  kn: ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ (ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ)
 category:
-  code: "subrahmanya-sannidhi"
-  en: "Lord Shree Subrahmanya Sanndhi Sevas"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: subrahmanya-sannidhi
+  en: Lord Shree Subrahmanya Sanndhi Sevas
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Subrahmanya Sannidhi"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ"
+  en: Lord Shree Subrahmanya Sannidhi
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Subrahmanya"
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು"
+  en: Lord Sri Subrahmanya
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=85"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=85
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - subrahmanya-sannidhi
 description:
-  en: "Pavamana Kalashabhisheka with sacred pot waters and Pavamana Sukta at Sri Subrahmanya Sannidhi."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಪವಮಾನ ಸೂಕ್ತ ಮಂತ್ರಗಳಿಂದ ಕಲಶೋದಕ ಅಭಿಷೇಕ ನೆರವೇರಿಸುವ ಮಹಾಸೇವೆ."
+  en: Pavamana Kalashabhisheka with sacred pot waters and Pavamana Sukta at Sri Subrahmanya Sannidhi.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಪವಮಾನ ಸೂಕ್ತ ಮಂತ್ರಗಳಿಂದ ಕಲಶೋದಕ ಅಭಿಷೇಕ ನೆರವೇರಿಸುವ ಮಹಾಸೇವೆ.
 significance:
-  en: "Pavamana kalashabhisheka sacred ritual bathing is the supreme remedy for Sarpa Dosha, Naga Dosha, skin ailments, and childlessness."
-  kn: "ಸರ್ಪದೋಷ, ನಾಗದೋಷ ಪರಿಹಾರ ಹಾಗೂ ಸಂತಾನ ಸಿದ್ಧಿಗಾಗಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ."
+  en: Pavamana kalashabhisheka sacred ritual bathing is the supreme remedy for Sarpa Dosha, Naga Dosha, skin ailments, and childlessness.
+  kn: ಸರ್ಪದೋಷ, ನಾಗದೋಷ ಪರಿಹಾರ ಹಾಗೂ ಸಂತಾನ ಸಿದ್ಧಿಗಾಗಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಪವಮಾನ ಕಲಶಾಭಿಷೇಕ ಶ್ರೇಷ್ಠ.
+enabled: true
 ---
 
 # Pavamana Kalashabhisheka

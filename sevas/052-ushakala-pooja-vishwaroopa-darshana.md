@@ -1,50 +1,51 @@
 ---
-id: "seva-052-ushakala-pooja-vishwaroopa-darshana"
+id: seva-052-ushakala-pooja-vishwaroopa-darshana
 code: 52
 entity_id: 3
 event_id: 4
 title:
-  en: "Ushakala Pooja (Vishwaroopa Darshana)"
-  kn: "ಉಷಃಕಾಲ ಪೂಜೆ (ವಿಶ್ವರೂಪ ದರ್ಶನ)"
+  en: Ushakala Pooja (Vishwaroopa Darshana)
+  kn: ಉಷಃಕಾಲ ಪೂಜೆ (ವಿಶ್ವರೂಪ ದರ್ಶನ)
 name:
-  en: "Ushakala Pooja (Vishwaroopa Darshana)"
-  kn: "ಉಷಃಕಾಲ ಪೂಜೆ (ವಿಶ್ವರೂಪ ದರ್ಶನ)"
+  en: Ushakala Pooja (Vishwaroopa Darshana)
+  kn: ಉಷಃಕಾಲ ಪೂಜೆ (ವಿಶ್ವರೂಪ ದರ್ಶನ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 250
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/052-ushakala-pooja-vishwaroopa-darshana.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/052-ushakala-pooja-vishwaroopa-darshana.avif
 formatted_amount:
-  en: "₹250"
-  kn: "₹೨೫೦"
-currency: "INR"
+  en: ₹250
+  kn: ₹೨೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=52"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=52
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Ushakala Pooja & Vishwaroopa Darshana, the first darshan of Lord Krishna in the morning lamp light."
-  kn: "ಮುಂಜಾನೆ ಸೂರ್ಯೋದಯಕ್ಕೂ ಮುನ್ನ ನಂದಾದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ಪ್ರಥಮ ವಿಶ್ವರೂಪ ದರ್ಶನ ಮತ್ತು ಪೂಜೆ."
+  en: Ushakala Pooja & Vishwaroopa Darshana, the first darshan of Lord Krishna in the morning lamp light.
+  kn: ಮುಂಜಾನೆ ಸೂರ್ಯೋದಯಕ್ಕೂ ಮುನ್ನ ನಂದಾದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣನ ಪ್ರಥಮ ವಿಶ್ವರೂಪ ದರ್ಶನ ಮತ್ತು ಪೂಜೆ.
 significance:
-  en: "Viewing Lord Krishna during Vishwaroopa Darshana cleanses heavy sins and grants a blessed day."
-  kn: "ನಂದಾದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಮುಂಜಾನೆ ಕೃಷ್ಣನ ಮೊದಲ ದರ್ಶನ ಪಡೆಯುವುದು ಜನ್ಮಜನ್ಮಾಂತರದ ಪುಣ್ಯ."
+  en: Viewing Lord Krishna during Vishwaroopa Darshana cleanses heavy sins and grants a blessed day.
+  kn: ನಂದಾದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಮುಂಜಾನೆ ಕೃಷ್ಣನ ಮೊದಲ ದರ್ಶನ ಪಡೆಯುವುದು ಜನ್ಮಜನ್ಮಾಂತರದ ಪುಣ್ಯ.
+enabled: true
 ---
 
 # Ushakala Pooja (Vishwaroopa Darshana)

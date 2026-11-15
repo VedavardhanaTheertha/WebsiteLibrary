@@ -6,6 +6,7 @@ kruti-kn: ಶ್ರೀ ಕನಕದಾಸರು
 ankita-kn: ಕಾಗಿನೆಲೆ ಆದಿಕೇಶವ
 kruti: Sri Kanaka Dasaru
 ankita: Neleyadi Keshava
+enabled: true
 ---
 
 # ಬಾರೋ ಕೃಷ್ಣಯ್ಯ ನಿನ್ನ ಭಕ್ತರ ಮನೆಗೀಗ ಕೃಷ್ಣಯ್ಯ

@@ -4,11 +4,11 @@ position: 29
 name: Sri Lakshmivara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು)
 name-en: Sri Lakshmivara Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು
-timePeriod: '1971–2018 CE (ಶಾ.ಶಕ ೧೯೪೦)'
-timePeriod-en: '1971–2018 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೯೭೧–೨೦೧೮ (ಶಾ.ಶಕ ೧೯೪೦)'
-shaka: '1940'
-shaka-kn: '೧೯೪೦'
+timePeriod: 1971–2018 CE (ಶಾ.ಶಕ ೧೯೪೦)
+timePeriod-en: 1971–2018 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೯೭೧–೨೦೧೮ (ಶಾ.ಶಕ ೧೯೪೦)
+shaka: "1940"
+shaka-kn: ೧೯೪೦
 samvatsara-en: Vilambi
 samvatsara-kn: ವಿಳಂಬಿ
 aradhana-en: Ashadha Shukla Saptami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmivara Teertharu is the twenty-ninth pontiff of Sri Shiroor Matha, affectionately remembered as 'Janasamanya Swamiji' for his boundless compassion, extensive civic charity, and artistic devotion. He built the Mukha Mantapa Gopura of Sri Krishna Matha, offered the golden Swarna Geetharatha after 300 continuous alankara sevas, and attained Vishnu Pada at Shiroor in 2018.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ 'ಜನಸಾಮಾನ್ಯರ ಸ್ವಾಮೀಜಿ' ಎನಿಸಿದವರು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಮುಖಮಂಟಪ ಗೋಪುರ ನಿರ್ಮಿಸಿ, ಶ್ರೀಕೃಷ್ಣನಿಗೆ ೩೦೦ ದಿನಗಳ ನಿರಂತರ ಅಲಂಕಾರ ಸೇವೆ ಸಮರ್ಪಿಸಿ ಸ್ವರ್ಣಗೀತರಥವನ್ನು ಅರ್ಪಿಸಿದ ಮಹಾಮಹಿಮರು. ಕ್ರಿ.ಶ. ೨೦೧೮ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshmivara Teertharu is the twenty-ninth pontiff of Sri Shiroor Matha, affectionately remembered as 'Janasamanya Swamiji' for his boundless compassion, extensive civic charity, and artistic devotion. He built the Mukha Mantapa Gopura of Sri Krishna Matha, offered the golden Swarna Geetharatha after 300 continuous alankara sevas, and attained Vishnu Pada at Shiroor in 2018.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ 'ಜನಸಾಮಾನ್ಯರ ಸ್ವಾಮೀಜಿ' ಎನಿಸಿದವರು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಮುಖಮಂಟಪ ಗೋಪುರ ನಿರ್ಮಿಸಿ, ಶ್ರೀಕೃಷ್ಣನಿಗೆ ೩೦೦ ದಿನಗಳ ನಿರಂತರ ಅಲಂಕಾರ ಸೇವೆ ಸಮರ್ಪಿಸಿ ಸ್ವರ್ಣಗೀತರಥವನ್ನು ಅರ್ಪಿಸಿದ ಮಹಾಮಹಿಮರು. ಕ್ರಿ.ಶ. ೨೦೧೮ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmivara Teertharu is the twenty-ninth pontiff of Sri Shiroor Matha, affectionately remembered as 'Janasamanya Swamiji' for his boundless compassion, extensive civic charity, and artistic devotion. He built the Mukha Mantapa Gopura of Sri Krishna Matha, offered the golden Swarna Geetharatha after 300 continuous alankara sevas, and attained Vishnu Pada at Shiroor in 2018.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ 'ಜನಸಾಮಾನ್ಯರ ಸ್ವಾಮೀಜಿ' ಎನಿಸಿದವರು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಮುಖಮಂಟಪ ಗೋಪುರ ನಿರ್ಮಿಸಿ, ಶ್ರೀಕೃಷ್ಣನಿಗೆ ೩೦೦ ದಿನಗಳ ನಿರಂತರ ಅಲಂಕಾರ ಸೇವೆ ಸಮರ್ಪಿಸಿ ಸ್ವರ್ಣಗೀತರಥವನ್ನು ಅರ್ಪಿಸಿದ ಮಹಾಮಹಿಮರು. ಕ್ರಿ.ಶ. ೨೦೧೮ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmivara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು)

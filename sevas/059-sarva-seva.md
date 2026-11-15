@@ -1,50 +1,51 @@
 ---
-id: "seva-059-sarva-seva"
+id: seva-059-sarva-seva
 code: 59
 entity_id: 3
 event_id: 4
 title:
-  en: "Sarva Seva"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಸರ್ವ ಸೇವೆ
 name:
-  en: "Sarva Seva"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣರಿಗೆ ಸರ್ವ ಸೇವೆ
 category:
-  code: "mukhyaprana-sannidhi"
-  en: "Lord Shree Mukhyaprana Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: mukhyaprana-sannidhi
+  en: Lord Shree Mukhyaprana Sannidhi Sevas
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Mukhyaprana Sannidhi"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Mukhyaprana Sannidhi
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Mukhyaprana (Hanumantha Devaru)"
-  kn: "ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)"
+  en: Lord Sri Mukhyaprana (Hanumantha Devaru)
+  kn: ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು (ಹನುಮಂತ ದೇವರು)
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 2000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/059-sarva-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/059-sarva-seva.avif
 formatted_amount:
-  en: "₹2,000"
-  kn: "₹೨,೦೦೦"
-currency: "INR"
+  en: ₹2,000
+  kn: ₹೨,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=59"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=59
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - mukhyaprana-sannidhi
 description:
-  en: "Complete Sarva Seva dedicated to Lord Sri Mukhyaprana installed facing Lord Krishna."
-  kn: "ಕೃಷ್ಣ ಮಠದ ಗರ್ಭಗುಡಿಯ ಎದುರಿಗಿರುವ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ (ಹನುಮಂತ) ಸಮರ್ಪಿಸುವ ಸಮಗ್ರ ಸರ್ವ ಪೂಜೆ."
+  en: Complete Sarva Seva dedicated to Lord Sri Mukhyaprana installed facing Lord Krishna.
+  kn: ಕೃಷ್ಣ ಮಠದ ಗರ್ಭಗುಡಿಯ ಎದುರಿಗಿರುವ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ (ಹನುಮಂತ) ಸಮರ್ಪಿಸುವ ಸಮಗ್ರ ಸರ್ವ ಪೂಜೆ.
 significance:
-  en: "Lord Mukhyaprana removes fears, destroys malefic influences, and grants unmatched strength."
-  kn: "ಮುಖ್ಯಪ್ರಾಣರ ಕೃಪೆಯಿಂದ ಸಕಲ ಭಯಗಳು, ಶತ್ರುಬಾಧೆಗಳು ಮತ್ತು ರೋಗಗಳು ನಾಶವಾಗಿ ಧೈರ್ಯ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ."
+  en: Lord Mukhyaprana removes fears, destroys malefic influences, and grants unmatched strength.
+  kn: ಮುಖ್ಯಪ್ರಾಣರ ಕೃಪೆಯಿಂದ ಸಕಲ ಭಯಗಳು, ಶತ್ರುಬಾಧೆಗಳು ಮತ್ತು ರೋಗಗಳು ನಾಶವಾಗಿ ಧೈರ್ಯ ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # Sarva Seva

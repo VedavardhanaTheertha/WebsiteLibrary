@@ -1,50 +1,51 @@
 ---
-id: "seva-055-hasthodaka-for-sri-madhwacharya"
+id: seva-055-hasthodaka-for-sri-madhwacharya
 code: 55
 entity_id: 3
 event_id: 4
 title:
-  en: "Hasthodaka For Sri Madhwacharya"
-  kn: "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಗೆ ಹಸ್ತೋದಕ"
+  en: Hasthodaka For Sri Madhwacharya
+  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಗೆ ಹಸ್ತೋದಕ
 name:
-  en: "Hasthodaka For Sri Madhwacharya"
-  kn: "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಗೆ ಹಸ್ತೋದಕ"
+  en: Hasthodaka For Sri Madhwacharya
+  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಗೆ ಹಸ್ತೋದಕ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/055-hasthodaka-for-sri-madhwacharya.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/055-hasthodaka-for-sri-madhwacharya.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=55"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=55
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Hasthodaka offered with reverence to Jagadguru Sri Madhwacharya at his sanctum in Krishna Matha."
-  kn: "ದ್ವೈತ ಸಿದ್ಧಾಂತ ಪ್ರತಿಷ್ಠಾಪಕರಾದ ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಸನ್ನಿಧಿಗೆ ಸಮರ್ಪಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಹಸ್ತೋದಕ."
+  en: Hasthodaka offered with reverence to Jagadguru Sri Madhwacharya at his sanctum in Krishna Matha.
+  kn: ದ್ವೈತ ಸಿದ್ಧಾಂತ ಪ್ರತಿಷ್ಠಾಪಕರಾದ ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಸನ್ನಿಧಿಗೆ ಸಮರ್ಪಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಹಸ್ತೋದಕ.
 significance:
-  en: "Honors the Tatvavada founder, granting philosophical clarity, memory, and firm devotion."
-  kn: "ಆಚಾರ್ಯ ಮಧ್ವರ ಚರಣಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ, ಸದ್ವಿದ್ಯೆ, ಸದ್ಬುದ್ಧಿ ಮತ್ತು ದೃಢಭಕ್ತಿಯನ್ನು ಬೇಡುವುದು."
+  en: Honors the Tatvavada founder, granting philosophical clarity, memory, and firm devotion.
+  kn: ಆಚಾರ್ಯ ಮಧ್ವರ ಚರಣಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ, ಸದ್ವಿದ್ಯೆ, ಸದ್ಬುದ್ಧಿ ಮತ್ತು ದೃಢಭಕ್ತಿಯನ್ನು ಬೇಡುವುದು.
+enabled: true
 ---
 
 # Hasthodaka For Sri Madhwacharya

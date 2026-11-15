@@ -1,25 +1,26 @@
 ---
 id: circumambulation
 title:
-  en: "Circumambulation"
-  kn: "ಪ್ರದಕ್ಷಿಣೆ"
+  en: Circumambulation
+  kn: ಪ್ರದಕ್ಷಿಣೆ
 summary:
-  en: "The meaning of moving reverently around a sacred center."
-  kn: "ಪವಿತ್ರ ಕೇಂದ್ರದ ಸುತ್ತ ಭಕ್ತಿಯಿಂದ ಚಲಿಸುವುದರ ಅರ್ಥ."
+  en: The meaning of moving reverently around a sacred center.
+  kn: ಪವಿತ್ರ ಕೇಂದ್ರದ ಸುತ್ತ ಭಕ್ತಿಯಿಂದ ಚಲಿಸುವುದರ ಅರ್ಥ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/circumambulation.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/circumambulation.avif
 tags:
   - code: pradakshina
-    en: "pradakshina"
-    kn: "ಪ್ರದಕ್ಷಿಣೆ"
+    en: pradakshina
+    kn: ಪ್ರದಕ್ಷಿಣೆ
   - code: temple
-    en: "temple"
-    kn: "ದೇವಾಲಯ"
+    en: temple
+    kn: ದೇವಾಲಯ
   - code: ritual
-    en: "ritual"
-    kn: "ವಿಧಿ"
+    en: ritual
+    kn: ವಿಧಿ
+enabled: false
 ---
 
 ## English

@@ -4,11 +4,11 @@ position: 12
 name: Sri Srinivasa Teertharu (ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು)
 name-en: Sri Srinivasa Teertharu
 name-kn: ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು
-timePeriod: '1523–1547 CE (ಶಾ.ಶಕ ೧೪೬೯)'
-timePeriod-en: '1523–1547 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೫೨೩–೧೫೪೭ (ಶಾ.ಶಕ ೧೪೬೯)'
-shaka: '1469'
-shaka-kn: '೧೪೬೯'
+timePeriod: 1523–1547 CE (ಶಾ.ಶಕ ೧೪೬೯)
+timePeriod-en: 1523–1547 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೫೨೩–೧೫೪೭ (ಶಾ.ಶಕ ೧೪೬೯)
+shaka: "1469"
+shaka-kn: ೧೪೬೯
 samvatsara-en: Plavanga
 samvatsara-kn: ಪ್ಲವಂಗ
 aradhana-en: Kartika Shukla Panchami
@@ -19,12 +19,11 @@ summary: |-
   Sri Srinivasa Teertharu is the twelfth pontiff of Sri Shiroor Matha, renowned in Dvaita history for teaching the monumental Sri Nyaya Sudha twelve distinct times and celebrating twelve grand Sudha Mangalas. He guided the samsthana for 24 years and attained Vishnu Pada on the banks of the Kaveri river in 1547 CE.
 
   ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ವೇದಾಂತದ ಮೇರು ಗ್ರಂಥ 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ'ವನ್ನು ಹನ್ನೆರಡು ಬಾರಿ ಪಾಠ ಹೇಳಿ ೧೨ ಸುಧಾಮಂಗಲಗಳನ್ನು ನೆರವೇರಿಸಿದ ಅದ್ವಿತೀಯ ವಿದ್ವಾಂಸರು. ೨೪ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೪೭ ರಲ್ಲಿ ಕಾವೇರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Srinivasa Teertharu is the twelfth pontiff of Sri Shiroor Matha, renowned in Dvaita history for teaching the monumental Sri Nyaya Sudha twelve distinct times and celebrating twelve grand Sudha Mangalas. He guided the samsthana for 24 years and attained Vishnu Pada on the banks of the Kaveri river in 1547 CE.
-summary-kn: |-
-  ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ವೇದಾಂತದ ಮೇರು ಗ್ರಂಥ 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ'ವನ್ನು ಹನ್ನೆರಡು ಬಾರಿ ಪಾಠ ಹೇಳಿ ೧೨ ಸುಧಾಮಂಗಲಗಳನ್ನು ನೆರವೇರಿಸಿದ ಅದ್ವಿತೀಯ ವಿದ್ವಾಂಸರು. ೨೪ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೪೭ ರಲ್ಲಿ ಕಾವೇರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Srinivasa Teertharu is the twelfth pontiff of Sri Shiroor Matha, renowned in Dvaita history for teaching the monumental Sri Nyaya Sudha twelve distinct times and celebrating twelve grand Sudha Mangalas. He guided the samsthana for 24 years and attained Vishnu Pada on the banks of the Kaveri river in 1547 CE.
+summary-kn: ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹನ್ನೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವೈತ ವೇದಾಂತದ ಮೇರು ಗ್ರಂಥ 'ಶ್ರೀಮನ್ಯಾಯಸುಧಾ'ವನ್ನು ಹನ್ನೆರಡು ಬಾರಿ ಪಾಠ ಹೇಳಿ ೧೨ ಸುಧಾಮಂಗಲಗಳನ್ನು ನೆರವೇರಿಸಿದ ಅದ್ವಿತೀಯ ವಿದ್ವಾಂಸರು. ೨೪ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೪೭ ರಲ್ಲಿ ಕಾವೇರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Srinivasa Teertharu (ಶ್ರೀ ಶ್ರೀನಿವಾಸ ತೀರ್ಥರು)

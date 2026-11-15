@@ -4,11 +4,11 @@ position: 6
 name: Sri Vedavedya Teertharu (ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು)
 name-en: Sri Vedavedya Teertharu
 name-kn: ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು
-timePeriod: '1404–1427 CE (ಶಾ.ಶಕ ೧೩೪೯)'
-timePeriod-en: '1404–1427 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೪೦೪–೧೪೨೭ (ಶಾ.ಶಕ ೧೩೪೯)'
-shaka: '1349'
-shaka-kn: '೧೩೪೯'
+timePeriod: 1404–1427 CE (ಶಾ.ಶಕ ೧೩೪೯)
+timePeriod-en: 1404–1427 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೪೦೪–೧೪೨೭ (ಶಾ.ಶಕ ೧೩೪೯)
+shaka: "1349"
+shaka-kn: ೧೩೪೯
 samvatsara-en: Plavanga
 samvatsara-kn: ಪ್ಲವಂಗ
 aradhana-en: Shravana Shukla Shashthi
@@ -19,12 +19,11 @@ summary: |-
   Sri Vedavedya Teertharu is the sixth pontiff of Sri Shiroor Matha, known for his deep scholarship and spiritual resolution. When afflicted with severe abdominal dropsy (Mahodara roga), he completely cured himself through devout recitation of Sri Madhwacharya's Brahma Sutra Bhashya, guided the matha for 23 years, and reached Vishnu Pada on the Godavari river in 1427 CE.
 
   ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಆರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತಮಗೆ ಒದಗಿದ ಮಾರಕ ಮಹೋದರ ರೋಗವನ್ನು ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯದ ನಿರಂತರ ಪಾರಾಯಣದಿಂದ ಪರಿಹರಿಸಿಕೊಂಡ ಮಹಾ ವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೨೭ ರಲ್ಲಿ ಗೋದಾವರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Vedavedya Teertharu is the sixth pontiff of Sri Shiroor Matha, known for his deep scholarship and spiritual resolution. When afflicted with severe abdominal dropsy (Mahodara roga), he completely cured himself through devout recitation of Sri Madhwacharya's Brahma Sutra Bhashya, guided the matha for 23 years, and reached Vishnu Pada on the Godavari river in 1427 CE.
-summary-kn: |-
-  ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಆರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತಮಗೆ ಒದಗಿದ ಮಾರಕ ಮಹೋದರ ರೋಗವನ್ನು ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯದ ನಿರಂತರ ಪಾರಾಯಣದಿಂದ ಪರಿಹರಿಸಿಕೊಂಡ ಮಹಾ ವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೨೭ ರಲ್ಲಿ ಗೋದಾವರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vedavedya Teertharu is the sixth pontiff of Sri Shiroor Matha, known for his deep scholarship and spiritual resolution. When afflicted with severe abdominal dropsy (Mahodara roga), he completely cured himself through devout recitation of Sri Madhwacharya's Brahma Sutra Bhashya, guided the matha for 23 years, and reached Vishnu Pada on the Godavari river in 1427 CE.
+summary-kn: ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಆರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ತಮಗೆ ಒದಗಿದ ಮಾರಕ ಮಹೋದರ ರೋಗವನ್ನು ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯದ ನಿರಂತರ ಪಾರಾಯಣದಿಂದ ಪರಿಹರಿಸಿಕೊಂಡ ಮಹಾ ವಿದ್ವಾಂಸರು. ೨೩ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೪೨೭ ರಲ್ಲಿ ಗೋದಾವರಿ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vedavedya Teertharu (ಶ್ರೀ ವೇದವೇದ್ಯ ತೀರ್ಥರು)

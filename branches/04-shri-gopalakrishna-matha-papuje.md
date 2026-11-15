@@ -35,38 +35,38 @@ country:
   kn: ಭಾರತ
 pincode: "576113"
 phone: ""
-email: "support@shiroormatha.org"
+email: support@shiroormatha.org
 timings:
   en: "Morning: 6:30 AM – 12:00 PM | Evening: 4:30 PM – 7:30 PM"
   kn: "ಬೆಳಿಗ್ಗೆ: ೬:೩೦ – ೧೨:೦೦ | ಸಂಜೆ: ೪:೩೦ – ೭:೩೦"
 darshan_timings:
   morning:
-    en: "6:30 AM – 12:00 PM"
-    kn: "ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೨:೦೦"
+    en: 6:30 AM – 12:00 PM
+    kn: ಬೆಳಿಗ್ಗೆ ೬:೩೦ – ೧೨:೦೦
   evening:
-    en: "4:30 PM – 7:30 PM"
-    kn: "ಸಂಜೆ ೪:೩೦ – ೭:೩೦"
+    en: 4:30 PM – 7:30 PM
+    kn: ಸಂಜೆ ೪:೩೦ – ೭:೩೦
   special:
-    en: "Special aradhana mahotsava of Sri Lakshmipathi Teertharu on Bhadrapada Shukla Dashami and Gokulashtami"
-    kn: "ಭಾದ್ರಪದ ಶುಕ್ಲ ದಶಮಿಯಂದು ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ಆರಾಧನಾ ಮಹೋತ್ಸವ ಹಾಗೂ ಗೋಕುಲಾಷ್ಟಮಿಯಂದು ವಿಶೇಷ ಪೂಜೆಗಳು"
+    en: Special aradhana mahotsava of Sri Lakshmipathi Teertharu on Bhadrapada Shukla Dashami and Gokulashtami
+    kn: ಭಾದ್ರಪದ ಶುಕ್ಲ ದಶಮಿಯಂದು ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ಆರಾಧನಾ ಮಹೋತ್ಸವ ಹಾಗೂ ಗೋಕುಲಾಷ್ಟಮಿಯಂದು ವಿಶೇಷ ಪೂಜೆಗಳು
 deity:
-  en: "Lord Sri Venugopala Krishna, Sacred Vrindavana of 21st Pontiff Sri Lakshmipathi Teertharu"
-  kn: "ಶ್ರೀ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ೨೧ ನೆಯ ಪೀಠಾಧಿಪತಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ದಿವ್ಯ ವೃಂದಾವನ"
+  en: Lord Sri Venugopala Krishna, Sacred Vrindavana of 21st Pontiff Sri Lakshmipathi Teertharu
+  kn: ಶ್ರೀ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ೨೧ ನೆಯ ಪೀಠಾಧಿಪತಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ದಿವ್ಯ ವೃಂದಾವನ
 established_by:
-  en: "Sri Lakshmipathi Teertharu (21st Pontiff, 1704–1720 CE; Rebuilt by 27th Pontiff Sri Lakshmisamudra Teertharu)"
+  en: Sri Lakshmipathi Teertharu (21st Pontiff, 1704–1720 CE; Rebuilt by 27th Pontiff Sri Lakshmisamudra Teertharu)
   kn: "೨೧ ನೆಯ ಯತಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು (೧೭೦೪–೧೭೨೦; ಪುನರ್ನಿರ್ಮಾಣ: ೨೭ ನೆಯ ಯತಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು)"
 history_era:
-  en: "Early 18th Century CE (1704–1720 CE)"
-  kn: "೧೮ ನೆಯ ಶತಮಾನದ ಆದಿಭಾಗ (ಕ್ರಿ.ಶ. ೧೭೦೪–೧೭೨೦)"
-map_link: "https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Papuje+Bommarabettu+Hiriyadka+576113"
-embed_map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15537.0!2d74.85!3d13.33!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sPapuje+Matha+Hiriyadka!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin"
+  en: Early 18th Century CE (1704–1720 CE)
+  kn: ೧೮ ನೆಯ ಶತಮಾನದ ಆದಿಭಾಗ (ಕ್ರಿ.ಶ. ೧೭೦೪–೧೭೨೦)
+map_link: https://maps.google.com/?q=Shri+Gopalakrishna+Matha+Papuje+Bommarabettu+Hiriyadka+576113
+embed_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15537.0!2d74.85!3d13.33!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbcae!2sPapuje+Matha+Hiriyadka!5e0!3m2!1sen!2sin!4v1754244047463!5m2!1sen!2sin
 coordinates:
   latitude: 13.3345
   longitude: 74.8521
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
 images:
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif"
-  - "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif"
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
+  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
 tags:
   - branch-matha
   - papuje
@@ -76,11 +76,11 @@ tags:
   - lakshmipathi-teertharu
   - vrindavana
 description:
-  en: "A renowned and sacred branch matha of Shri Shiroor Matha situated in Papuje near Hiriyadka. Founded by the 21st pontiff Sri Lakshmipathi Teertharu following a miraculous dream unearthing of Lord Venugopala Krishna."
-  kn: "ಹಿರಿಯಡ್ಕ ಸಮೀಪದ ಬೊಮ್ಮರಬೆಟ್ಟು ಗ್ರಾಮದ ಪಾಪೂಜೆಯಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಶಾಖಾ ಮಠ. ೨೧ ನೆಯ ಪೀಠಾಧಿಪತಿಗಳಾದ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ಸ್ವಪ್ನ ನಿರ್ದೇಶನದಂತೆ ಹುತ್ತದಲ್ಲಿದ್ದ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ಮೂರ್ತಿಯನ್ನು ಹೊರತೆಗೆದು ಸ್ಥಾಪಿಸಿದ ದಿವ್ಯ ಕ್ಷೇತ್ರ."
+  en: A renowned and sacred branch matha of Shri Shiroor Matha situated in Papuje near Hiriyadka. Founded by the 21st pontiff Sri Lakshmipathi Teertharu following a miraculous dream unearthing of Lord Venugopala Krishna.
+  kn: ಹಿರಿಯಡ್ಕ ಸಮೀಪದ ಬೊಮ್ಮರಬೆಟ್ಟು ಗ್ರಾಮದ ಪಾಪೂಜೆಯಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಶಾಖಾ ಮಠ. ೨೧ ನೆಯ ಪೀಠಾಧಿಪತಿಗಳಾದ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ಸ್ವಪ್ನ ನಿರ್ದೇಶನದಂತೆ ಹುತ್ತದಲ್ಲಿದ್ದ ವೇಣುಗೋಪಾಲ ಕೃಷ್ಣನ ಮೂರ್ತಿಯನ್ನು ಹೊರತೆಗೆದು ಸ್ಥಾಪಿಸಿದ ದಿವ್ಯ ಕ್ಷೇತ್ರ.
 details:
-  en: "A vibrant spiritual haven and Vrindavana kshetra where Sri Lakshmipathi Teertharu entered Vrindavana in 1720 CE. Features a magnificent stone-carved dining hall and temple campus rebuilt by Sri Lakshmisamudra Teertharu."
-  kn: "ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು ವೃಂದಾವನಸ್ಥರಾದ ಪಾವನ ಕ್ಷೇತ್ರ. ೨೭ ನೆಯ ಯತಿಗಳಾದ ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರಿಂದ ನೂತನ ಶಿಲಾಮಯ ಭೋಜನ ಶಾಲೆ ಹಾಗೂ ಮಠ ಸಂಕೀರ್ಣದೊಂದಿಗೆ ಭವ್ಯವಾಗಿ ಪುನರ್ನಿರ್ಮಿತಗೊಂಡ ತಾಣ."
+  en: A vibrant spiritual haven and Vrindavana kshetra where Sri Lakshmipathi Teertharu entered Vrindavana in 1720 CE. Features a magnificent stone-carved dining hall and temple campus rebuilt by Sri Lakshmisamudra Teertharu.
+  kn: ಕ್ರಿ.ಶ. ೧೭೨೦ ರಲ್ಲಿ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರು ವೃಂದಾವನಸ್ಥರಾದ ಪಾವನ ಕ್ಷೇತ್ರ. ೨೭ ನೆಯ ಯತಿಗಳಾದ ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರಿಂದ ನೂತನ ಶಿಲಾಮಯ ಭೋಜನ ಶಾಲೆ ಹಾಗೂ ಮಠ ಸಂಕೀರ್ಣದೊಂದಿಗೆ ಭವ್ಯವಾಗಿ ಪುನರ್ನಿರ್ಮಿತಗೊಂಡ ತಾಣ.
 categories:
   - code: branch-matha
     en: Branch Matha
@@ -88,6 +88,7 @@ categories:
   - code: vrindavana-kshetra
     en: Vrindavana Kshetra
     kn: ವೃಂದಾವನ ಕ್ಷೇತ್ರ
+enabled: true
 ---
 
 # Shri Gopalakrishna Matha (Papuje)

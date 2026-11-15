@@ -1,50 +1,51 @@
 ---
-id: "seva-030-vajrakavacha-alankara-seva"
+id: seva-030-vajrakavacha-alankara-seva
 code: 30
 entity_id: 3
 event_id: 4
 title:
-  en: "VajraKavacha Alankara Seva"
-  kn: "ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ"
+  en: VajraKavacha Alankara Seva
+  kn: ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ
 name:
-  en: "VajraKavacha Alankara Seva"
-  kn: "ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ"
+  en: VajraKavacha Alankara Seva
+  kn: ವಜ್ರಕವಚ ಅಲಂಕಾರ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 15000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/030-vajrakavacha-alankara-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/030-vajrakavacha-alankara-seva.avif
 formatted_amount:
-  en: "₹15,000"
-  kn: "₹೧೫,೦೦೦"
-currency: "INR"
+  en: ₹15,000
+  kn: ₹೧೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=30"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=30
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Adorning Lord Sri Krishna with the resplendent Diamond Armor (Vajrakavacha) during Vishesha Pooja."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಹೊಳೆಯುವ ವಜ್ರಕವಚವನ್ನು ತೊಡಿಸಿ ದಿವ್ಯ ರೂಪವನ್ನು ಕಣ್ತುಂಬಿಕೊಳ್ಳುವ ಅಪರೂಪದ ಸೇವೆ."
+  en: Adorning Lord Sri Krishna with the resplendent Diamond Armor (Vajrakavacha) during Vishesha Pooja.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಹೊಳೆಯುವ ವಜ್ರಕವಚವನ್ನು ತೊಡಿಸಿ ದಿವ್ಯ ರೂಪವನ್ನು ಕಣ್ತುಂಬಿಕೊಳ್ಳುವ ಅಪರೂಪದ ಸೇವೆ.
 significance:
-  en: "Witnessing Lord Krishna in diamond armor removes all fears and strengthens faith and protection."
-  kn: "ವಜ್ರಕವಚಧಾರಿ ಕೃಷ್ಣನ ದರ್ಶನದಿಂದ ಸರ್ವ ಭಯಗಳು ದೂರವಾಗಿ, ದೈವಿಕ ರಕ್ಷಣೆ ಮತ್ತು ತೇಜಸ್ಸು ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ."
+  en: Witnessing Lord Krishna in diamond armor removes all fears and strengthens faith and protection.
+  kn: ವಜ್ರಕವಚಧಾರಿ ಕೃಷ್ಣನ ದರ್ಶನದಿಂದ ಸರ್ವ ಭಯಗಳು ದೂರವಾಗಿ, ದೈವಿಕ ರಕ್ಷಣೆ ಮತ್ತು ತೇಜಸ್ಸು ಪ್ರಾಪ್ತಿಯಾಗುತ್ತದೆ.
+enabled: true
 ---
 
 # VajraKavacha Alankara Seva

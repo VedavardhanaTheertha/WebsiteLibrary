@@ -1,50 +1,51 @@
 ---
-id: "seva-018-vishesha-hoovina-alankara"
+id: seva-018-vishesha-hoovina-alankara
 code: 18
 entity_id: 3
 event_id: 4
 title:
-  en: "Vishesha Hoovina Alankara"
-  kn: "ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ"
+  en: Vishesha Hoovina Alankara
+  kn: ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ
 name:
-  en: "Vishesha Hoovina Alankara"
-  kn: "ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ"
+  en: Vishesha Hoovina Alankara
+  kn: ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 75000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/018-vishesha-hoovina-alankara.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/018-vishesha-hoovina-alankara.avif
 formatted_amount:
-  en: "₹75,000"
-  kn: "₹೭೫,೦೦೦"
-currency: "INR"
+  en: ₹75,000
+  kn: ₹೭೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=18"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=18
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Spectacular whole-sanctum floral decoration adorning Lord Sri Krishna and His sanctum with fragrant flowers."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನ ಗರ್ಭಗುಡಿ ಹಾಗೂ ಮಂಟಪವನ್ನು ಅಪರೂಪದ ಸುಗಂಧ ಭರಿತ ಪುಷ್ಪಗಳಿಂದ ಅದ್ಧೂರಿಯಾಗಿ ಶೃಂಗರಿಸುವ ಸೇವೆ."
+  en: Spectacular whole-sanctum floral decoration adorning Lord Sri Krishna and His sanctum with fragrant flowers.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನ ಗರ್ಭಗುಡಿ ಹಾಗೂ ಮಂಟಪವನ್ನು ಅಪರೂಪದ ಸುಗಂಧ ಭರಿತ ಪುಷ್ಪಗಳಿಂದ ಅದ್ಧೂರಿಯಾಗಿ ಶೃಂಗರಿಸುವ ಸೇವೆ.
 significance:
-  en: "Surrendering nature's finest blossoms to Lord Krishna, creating divine visual and spiritual bliss."
-  kn: "ಸುಗಂಧಭರಿತ ವರ್ಣರಂಜಿತ ಹೂವುಗಳಿಂದ ಶ್ರೀಕೃಷ್ಣನನ್ನು ಅಲಂಕರಿಸಿ, ನೇತ್ರಾನಂದ ಮತ್ತು ಭಕ್ತಿಭಾವವನ್ನು ಹೆಚ್ಚಿಸುವುದು."
+  en: Surrendering nature's finest blossoms to Lord Krishna, creating divine visual and spiritual bliss.
+  kn: ಸುಗಂಧಭರಿತ ವರ್ಣರಂಜಿತ ಹೂವುಗಳಿಂದ ಶ್ರೀಕೃಷ್ಣನನ್ನು ಅಲಂಕರಿಸಿ, ನೇತ್ರಾನಂದ ಮತ್ತು ಭಕ್ತಿಭಾವವನ್ನು ಹೆಚ್ಚಿಸುವುದು.
+enabled: true
 ---
 
 # Vishesha Hoovina Alankara

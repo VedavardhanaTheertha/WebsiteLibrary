@@ -1,49 +1,50 @@
 ---
-id: "seva-096-ashlesha-bali-kanike"
+id: seva-096-ashlesha-bali-kanike
 code: 96
 entity_id: 3
 event_id: 4
 title:
-  en: "Ashlesha Bali Kanike"
-  kn: "ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ"
+  en: Ashlesha Bali Kanike
+  kn: ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ
 name:
-  en: "Ashlesha Bali Kanike"
-  kn: "ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ"
+  en: Ashlesha Bali Kanike
+  kn: ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1000
 formatted_amount:
-  en: "₹1,000"
-  kn: "₹೧,೦೦೦"
-currency: "INR"
+  en: ₹1,000
+  kn: ₹೧,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=96"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=96
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Ashlesha Bali Kanike dedicated to the classic Ashlesha Bali rites at Sri Subrahmanya Sannidhi."
-  kn: "ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದ ದಿನದಂದು ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಸಮರ್ಪಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ಆಶ್ಲೇಷಾ ಬಲಿ ಪೂಜಾ ಕಾಣಿಕೆ."
+  en: Ashlesha Bali Kanike dedicated to the classic Ashlesha Bali rites at Sri Subrahmanya Sannidhi.
+  kn: ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದ ದಿನದಂದು ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವರಿಗೆ ಸಮರ್ಪಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ಆಶ್ಲೇಷಾ ಬಲಿ ಪೂಜಾ ಕಾಣಿಕೆ.
 significance:
-  en: "Appeases the serpent deities and brings peace, prosperity, and relief from chronic troubles."
-  kn: "ನಾಗದೇವತೆಗಳ ಪ್ರಸನ್ನತೆಗಾಗಿ ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದಲ್ಲಿ ಸಲ್ಲಿಸುವ ವಿಶಿಷ್ಟ ಸೇವೆ."
+  en: Appeases the serpent deities and brings peace, prosperity, and relief from chronic troubles.
+  kn: ನಾಗದೇವತೆಗಳ ಪ್ರಸನ್ನತೆಗಾಗಿ ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದಲ್ಲಿ ಸಲ್ಲಿಸುವ ವಿಶಿಷ್ಟ ಸೇವೆ.
+enabled: true
 ---
 
 # Ashlesha Bali Kanike

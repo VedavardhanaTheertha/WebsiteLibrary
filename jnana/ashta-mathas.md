@@ -1,24 +1,25 @@
 ---
 id: ashta-mathas
 title:
-  en: "The Ashta Mathas"
-  kn: "ಅಷ್ಟಮಠಗಳು"
+  en: The Ashta Mathas
+  kn: ಅಷ್ಟಮಠಗಳು
 summary:
-  en: "An introduction to the eight mathas associated with Udupi."
-  kn: "ಉಡುಪಿಗೆ ಸಂಬಂಧಿಸಿದ ಎಂಟು ಮಠಗಳ ಪರಿಚಯ."
+  en: An introduction to the eight mathas associated with Udupi.
+  kn: ಉಡುಪಿಗೆ ಸಂಬಂಧಿಸಿದ ಎಂಟು ಮಠಗಳ ಪರಿಚಯ.
 status:
-  en: "Introductory guide"
-  kn: "ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ"
+  en: Introductory guide
+  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
 tags:
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: matha
-    en: "matha"
-    kn: "ಮಠ"
+    en: matha
+    kn: ಮಠ
   - code: tradition
-    en: "tradition"
-    kn: "ಪರಂಪರೆ"
+    en: tradition
+    kn: ಪರಂಪರೆ
+enabled: false
 ---
 
 ## English

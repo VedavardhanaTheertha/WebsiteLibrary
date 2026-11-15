@@ -1,50 +1,51 @@
 ---
-id: "seva-074-panchamruthabhisheka"
+id: seva-074-panchamruthabhisheka
 code: 74
 entity_id: 3
 event_id: 4
 title:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Panchamruthabhisheka"
-  kn: "ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Panchamruthabhisheka
+  kn: ಪಂಚಾಮೃತಾಭಿಷೇಕ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/074-panchamruthabhisheka.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/074-panchamruthabhisheka.avif
 formatted_amount:
-  en: "₹100"
-  kn: "₹೧೦೦"
-currency: "INR"
+  en: ₹100
+  kn: ₹೧೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=74"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=74
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Panchamrutha Abhisheka performed for Bhojana Shala Sri Mukhyaprana."
-  kn: "ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನು, ಸಕ್ಕರೆಯಿಂದ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಮಾಡುವ ಅಭಿಷೇಕ."
+  en: Panchamrutha Abhisheka performed for Bhojana Shala Sri Mukhyaprana.
+  kn: ಹಾಲು, ಮೊಸರು, ತುಪ್ಪ, ಜೇನು, ಸಕ್ಕರೆಯಿಂದ ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರಿಗೆ ಮಾಡುವ ಅಭಿಷೇಕ.
 significance:
-  en: "Panchamrutha abhisheka enhances physical strength, digestive health, and general vitality."
-  kn: "ಉತ್ತಮ ಜೀರ್ಣಶಕ್ತಿ, ದೈಹಿಕ ಬಲ ಮತ್ತು ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಕರುಣಿಸುವ ಸೇವೆ."
+  en: Panchamrutha abhisheka enhances physical strength, digestive health, and general vitality.
+  kn: ಉತ್ತಮ ಜೀರ್ಣಶಕ್ತಿ, ದೈಹಿಕ ಬಲ ಮತ್ತು ಸಕಲ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಕರುಣಿಸುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Panchamruthabhisheka

@@ -57,4 +57,5 @@ fields:
   pages.local_copy.refund_80g:
     en: Currently 80G is not applicable to donations made to the Matha.
     kn: ಪ್ರಸ್ತುತ ಮಠಕ್ಕೆ ನೀಡಲಾಗುವ ದೇಣಿಗೆಗಳಿಗೆ 80G ತೆರಿಗೆ ವಿನಾಯಿತಿ ಅನ್ವಯಿಸುವುದಿಲ್ಲ.
+enabled: true
 ---

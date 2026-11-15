@@ -4,11 +4,11 @@ position: 14
 name: Sri Sridhara Teertharu (ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು)
 name-en: Sri Sridhara Teertharu
 name-kn: ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು
-timePeriod: '1572–1592 CE (ಶಾ.ಶಕ ೧೫೧೪)'
-timePeriod-en: '1572–1592 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೫೭೨–೧೫೯೨ (ಶಾ.ಶಕ ೧೫೧೪)'
-shaka: '1514'
-shaka-kn: '೧೫೧೪'
+timePeriod: 1572–1592 CE (ಶಾ.ಶಕ ೧೫೧೪)
+timePeriod-en: 1572–1592 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೫೭೨–೧೫೯೨ (ಶಾ.ಶಕ ೧೫೧೪)
+shaka: "1514"
+shaka-kn: ೧೫೧೪
 samvatsara-en: Nandana
 samvatsara-kn: ನಂದನ
 aradhana-en: Phalguna Krishna Amavasya
@@ -19,12 +19,11 @@ summary: |-
   Sri Sridhara Teertharu is the fourteenth pontiff of Sri Shiroor Matha, celebrated for attaining siddhi in the sacred Shreekara Mantra, through which he gathered immense wealth and offered it all to Lord Sri Vittala. He authored the poetic work 'Sri Krishna Leela', ruled for 20 years, and attained Haripada on the Tamraparni river in 1592 CE.
 
   ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪವಿತ್ರ ಶ್ರೀಕರ ಮಂತ್ರ ಸಿದ್ಧಿಯಿಂದ ಪ್ರಾಪ್ತವಾದ ಸಮಸ್ತ ಐಶ್ವರ್ಯವನ್ನು ಶ್ರೀ ವಿಠಲ ದೇವರಿಗೆ ಸಮರ್ಪಿಸಿದವರು ಹಾಗೂ 'ಶ್ರೀಕೃಷ್ಣಲೀಲಾ' ಕಾವ್ಯ ರಚಿಸಿದವರು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಸಾಮ್ರಾಜ್ಯವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೯೨ ರಲ್ಲಿ ತಾಮ್ರಪರ್ಣೀ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Sridhara Teertharu is the fourteenth pontiff of Sri Shiroor Matha, celebrated for attaining siddhi in the sacred Shreekara Mantra, through which he gathered immense wealth and offered it all to Lord Sri Vittala. He authored the poetic work 'Sri Krishna Leela', ruled for 20 years, and attained Haripada on the Tamraparni river in 1592 CE.
-summary-kn: |-
-  ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪವಿತ್ರ ಶ್ರೀಕರ ಮಂತ್ರ ಸಿದ್ಧಿಯಿಂದ ಪ್ರಾಪ್ತವಾದ ಸಮಸ್ತ ಐಶ್ವರ್ಯವನ್ನು ಶ್ರೀ ವಿಠಲ ದೇವರಿಗೆ ಸಮರ್ಪಿಸಿದವರು ಹಾಗೂ 'ಶ್ರೀಕೃಷ್ಣಲೀಲಾ' ಕಾವ್ಯ ರಚಿಸಿದವರು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಸಾಮ್ರಾಜ್ಯವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೯೨ ರಲ್ಲಿ ತಾಮ್ರಪರ್ಣೀ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Sridhara Teertharu is the fourteenth pontiff of Sri Shiroor Matha, celebrated for attaining siddhi in the sacred Shreekara Mantra, through which he gathered immense wealth and offered it all to Lord Sri Vittala. He authored the poetic work 'Sri Krishna Leela', ruled for 20 years, and attained Haripada on the Tamraparni river in 1592 CE.
+summary-kn: ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾಲ್ಕನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಪವಿತ್ರ ಶ್ರೀಕರ ಮಂತ್ರ ಸಿದ್ಧಿಯಿಂದ ಪ್ರಾಪ್ತವಾದ ಸಮಸ್ತ ಐಶ್ವರ್ಯವನ್ನು ಶ್ರೀ ವಿಠಲ ದೇವರಿಗೆ ಸಮರ್ಪಿಸಿದವರು ಹಾಗೂ 'ಶ್ರೀಕೃಷ್ಣಲೀಲಾ' ಕಾವ್ಯ ರಚಿಸಿದವರು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಸಾಮ್ರಾಜ್ಯವಾಳಿ ಕ್ರಿ.ಶ. ೧೫೯೨ ರಲ್ಲಿ ತಾಮ್ರಪರ್ಣೀ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Sridhara Teertharu (ಶ್ರೀ ಶ್ರೀಧರ ತೀರ್ಥರು)

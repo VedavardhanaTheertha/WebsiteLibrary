@@ -1,50 +1,51 @@
 ---
-id: "seva-069-mahapooja-to-garuda"
+id: seva-069-mahapooja-to-garuda
 code: 69
 entity_id: 3
 event_id: 4
 title:
-  en: "Mahapooja To Garuda"
-  kn: "ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಮಹಾಪೂಜೆ"
+  en: Mahapooja To Garuda
+  kn: ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಮಹಾಪೂಜೆ
 name:
-  en: "Mahapooja To Garuda"
-  kn: "ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಮಹಾಪೂಜೆ"
+  en: Mahapooja To Garuda
+  kn: ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಮಹಾಪೂಜೆ
 category:
-  code: "garuda-sannidhi"
-  en: "Lord Shree Garuda Deva Sannidhi Sevas"
-  kn: "ಶ್ರೀ ಗರುಡ ದೇವ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: garuda-sannidhi
+  en: Lord Shree Garuda Deva Sannidhi Sevas
+  kn: ಶ್ರೀ ಗರುಡ ದೇವ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Garuda Deva Sannidhi"
-  kn: "ಶ್ರೀ ಗರುಡ ದೇವ ಸನ್ನಿಧಿ"
+  en: Lord Shree Garuda Deva Sannidhi
+  kn: ಶ್ರೀ ಗರುಡ ದೇವ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Garuda Devaru"
-  kn: "ಶ್ರೀ ಗರುಡ ದೇವರು"
+  en: Lord Sri Garuda Devaru
+  kn: ಶ್ರೀ ಗರುಡ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/069-mahapooja-to-garuda.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/069-mahapooja-to-garuda.avif
 formatted_amount:
-  en: "₹200"
-  kn: "₹೨೦೦"
-currency: "INR"
+  en: ₹200
+  kn: ₹೨೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=69"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=69
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - garuda-sannidhi
 description:
-  en: "Mahapooja to Lord Sri Garuda Devaru, the divine eagle mount and supreme devotee of Lord Vishnu."
-  kn: "ಕೃಷ್ಣನ ಧ್ವಜವಾಹಕರಾದ ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಗರುಡ ಸನ್ನಿಧಿಯಲ್ಲಿ ಸಮರ್ಪಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಮಹಾಪೂಜೆ."
+  en: Mahapooja to Lord Sri Garuda Devaru, the divine eagle mount and supreme devotee of Lord Vishnu.
+  kn: ಕೃಷ್ಣನ ಧ್ವಜವಾಹಕರಾದ ಶ್ರೀ ಗರುಡ ದೇವರಿಗೆ ಗರುಡ ಸನ್ನಿಧಿಯಲ್ಲಿ ಸಮರ್ಪಿಸುವ ಭಕ್ತಿಪೂರ್ವಕ ಮಹಾಪೂಜೆ.
 significance:
-  en: "Destroys poison, evil energies, snake afflictions, and fear of sudden adversity."
-  kn: "ಗರುಡ ಪೂಜೆಯಿಂದ ಸರ್ಪದೋಷಗಳು, ವಿಷಭಯಗಳು ಹಾಗೂ ಶತ್ರುಬಾಧೆಗಳು ಶಮನವಾಗುತ್ತವೆ."
+  en: Destroys poison, evil energies, snake afflictions, and fear of sudden adversity.
+  kn: ಗರುಡ ಪೂಜೆಯಿಂದ ಸರ್ಪದೋಷಗಳು, ವಿಷಭಯಗಳು ಹಾಗೂ ಶತ್ರುಬಾಧೆಗಳು ಶಮನವಾಗುತ್ತವೆ.
+enabled: true
 ---
 
 # Mahapooja To Garuda

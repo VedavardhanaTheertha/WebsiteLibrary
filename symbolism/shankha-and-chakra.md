@@ -1,25 +1,26 @@
 ---
 id: shankha-and-chakra
 title:
-  en: "Shankha and Chakra"
-  kn: "ಶಂಖ ಮತ್ತು ಚಕ್ರ"
+  en: Shankha and Chakra
+  kn: ಶಂಖ ಮತ್ತು ಚಕ್ರ
 summary:
-  en: "An introduction to two attributes closely associated with Lord Vishnu."
-  kn: "ಭಗವಾನ್ ವಿಷ್ಣುವಿನೊಂದಿಗೆ ನಿಕಟ ಸಂಬಂಧ ಹೊಂದಿರುವ ಎರಡು ಆಯುಧಗಳ ಪರಿಚಯ."
+  en: An introduction to two attributes closely associated with Lord Vishnu.
+  kn: ಭಗವಾನ್ ವಿಷ್ಣುವಿನೊಂದಿಗೆ ನಿಕಟ ಸಂಬಂಧ ಹೊಂದಿರುವ ಎರಡು ಆಯುಧಗಳ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shankha-and-chakra.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shankha-and-chakra.avif
 tags:
   - code: vishnu
-    en: "Vishnu"
-    kn: "ವಿಷ್ಣು"
+    en: Vishnu
+    kn: ವಿಷ್ಣು
   - code: shankha
-    en: "shankha"
-    kn: "ಶಂಖ"
+    en: shankha
+    kn: ಶಂಖ
   - code: chakra
-    en: "chakra"
-    kn: "ಚಕ್ರ"
+    en: chakra
+    kn: ಚಕ್ರ
+enabled: false
 ---
 
 ## English

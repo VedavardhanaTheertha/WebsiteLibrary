@@ -13,4 +13,5 @@ fields:
   events_placeholder:
     en: "* Placeholder event dates and details — to be confirmed with management before launch."
     kn: "* ತಾತ್ಕಾಲಿಕ ವಿವರಗಳು — ಪ್ರಕಟಣೆಗೆ ಮೊದಲು ದೃಢೀಕರಿಸಬೇಕು."
+enabled: false
 ---

@@ -1,50 +1,51 @@
 ---
-id: "seva-013-saptotsava-seva"
+id: seva-013-saptotsava-seva
 code: 13
 entity_id: 3
 event_id: 4
 title:
-  en: "Saptotsava Seva"
-  kn: "ಸಪ್ತೋತ್ಸವ ಸೇವೆ"
+  en: Saptotsava Seva
+  kn: ಸಪ್ತೋತ್ಸವ ಸೇವೆ
 name:
-  en: "Saptotsava Seva"
-  kn: "ಸಪ್ತೋತ್ಸವ ಸೇವೆ"
+  en: Saptotsava Seva
+  kn: ಸಪ್ತೋತ್ಸವ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 200000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/013-saptotsava-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/013-saptotsava-seva.avif
 formatted_amount:
-  en: "₹2,00,000"
-  kn: "₹೨,೦೦,೦೦೦"
-currency: "INR"
+  en: ₹2,00,000
+  kn: ₹೨,೦೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=13"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=13
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Sponsorship of the magnificent seven-day Saptotsava celebrations and chariot processions during Makara Sankranthi."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಸಂದರ್ಭದಲ್ಲಿ ನಡೆಯುವ ಏಳು ದಿನಗಳ ಭವ್ಯ ಸಪ್ತೋತ್ಸವ ಸೇವೆ."
+  en: Sponsorship of the magnificent seven-day Saptotsava celebrations and chariot processions during Makara Sankranthi.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಸಂದರ್ಭದಲ್ಲಿ ನಡೆಯುವ ಏಳು ದಿನಗಳ ಭವ್ಯ ಸಪ್ತೋತ್ಸವ ಸೇವೆ.
 significance:
-  en: "Participating in the celebrated Udupi Saptotsava chariot festivities with intense spiritual upliftment."
-  kn: "ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಮಕರ ಸಂಕ್ರಾಂತಿ ಸಪ್ತೋತ್ಸವದ ದಿವ್ಯ ರಥೋತ್ಸವಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡು ಕೃಷ್ಣಾನುಗ್ರಹ ಪಡೆಯುವುದು."
+  en: Participating in the celebrated Udupi Saptotsava chariot festivities with intense spiritual upliftment.
+  kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಮಕರ ಸಂಕ್ರಾಂತಿ ಸಪ್ತೋತ್ಸವದ ದಿವ್ಯ ರಥೋತ್ಸವಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡು ಕೃಷ್ಣಾನುಗ್ರಹ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Saptotsava Seva

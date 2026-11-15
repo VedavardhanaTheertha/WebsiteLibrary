@@ -1,50 +1,51 @@
 ---
-id: "seva-015-annadana-sahitha-sarva-seva"
+id: seva-015-annadana-sahitha-sarva-seva
 code: 15
 entity_id: 3
 event_id: 4
 title:
-  en: "Annadana Sahitha Sarva Seva"
-  kn: "ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Annadana Sahitha Sarva Seva
+  kn: ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 name:
-  en: "Annadana Sahitha Sarva Seva"
-  kn: "ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Annadana Sahitha Sarva Seva
+  kn: ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 175000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/015-annadana-sahitha-sarva-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/015-annadana-sahitha-sarva-seva.avif
 formatted_amount:
-  en: "₹1,75,000"
-  kn: "₹೧,೭೫,೦೦೦"
-currency: "INR"
+  en: ₹1,75,000
+  kn: ₹೧,೭೫,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=15"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=15
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Complete Sarva Seva to Lord Sri Krishna combined with extensive Annadana prasada distribution."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸರ್ವ ಪೂಜೆಗಳು ಮತ್ತು ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ಎರಡನ್ನೂ ಒಟ್ಟಾಗಿ ನೆರವೇರಿಸುವ ಸಮಗ್ರ ಸೇವೆ."
+  en: Complete Sarva Seva to Lord Sri Krishna combined with extensive Annadana prasada distribution.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸರ್ವ ಪೂಜೆಗಳು ಮತ್ತು ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ಎರಡನ್ನೂ ಒಟ್ಟಾಗಿ ನೆರವೇರಿಸುವ ಸಮಗ್ರ ಸೇವೆ.
 significance:
-  en: "Dual spiritual merit of performing all sacred pujas to Lord Krishna while feeding visiting devotees."
-  kn: "ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಷೋಡಶೋಪಚಾರ ಪೂಜೆ ಮತ್ತು ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ಎರಡನ್ನೂ ಸಮರ್ಪಿಸುವ ದ್ವಿಗುಣ ಪುಣ್ಯದಾಯಕ ಸೇವೆ."
+  en: Dual spiritual merit of performing all sacred pujas to Lord Krishna while feeding visiting devotees.
+  kn: ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಷೋಡಶೋಪಚಾರ ಪೂಜೆ ಮತ್ತು ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ಎರಡನ್ನೂ ಸಮರ್ಪಿಸುವ ದ್ವಿಗುಣ ಪುಣ್ಯದಾಯಕ ಸೇವೆ.
+enabled: true
 ---
 
 # Annadana Sahitha Sarva Seva

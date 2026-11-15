@@ -4,11 +4,11 @@ position: 7
 name: Sri Maheesha Teertharu (ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು)
 name-en: Sri Maheesha Teertharu
 name-kn: ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು
-timePeriod: '1427–1451 CE (ಶಾ.ಶಕ ೧೩೭೩)'
-timePeriod-en: '1427–1451 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೪೨೭–೧೪೫೧ (ಶಾ.ಶಕ ೧೩೭೩)'
-shaka: '1373'
-shaka-kn: '೧೩೭೩'
+timePeriod: 1427–1451 CE (ಶಾ.ಶಕ ೧೩೭೩)
+timePeriod-en: 1427–1451 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೪೨೭–೧೪೫೧ (ಶಾ.ಶಕ ೧೩೭೩)
+shaka: "1373"
+shaka-kn: ೧೩೭೩
 samvatsara-en: Prajotpatti
 samvatsara-kn: ಪ್ರಜೋತ್ಪತ್ತಿ
 aradhana-en: Pushya Shukla Trayodashi
@@ -19,12 +19,11 @@ summary: |-
   Sri Maheesha Teertharu is the seventh pontiff of Sri Shiroor Matha, renowned for his extraordinary ascetic discipline, having completed an arduous twelve-year fasting vrata. He adorned the dharma peetha for 24 years and attained Haripada on the banks of the sacred Krishna river in 1451 CE.
 
   ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಏಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವಾದಶ ವರ್ಷ ಉಪವಾಸಾದಿ ಕಠಿಣ ವ್ರತ-ತಪಸ್ಸುಗಳನ್ನು ಆಚರಿಸಿದ ಮಹಾ ನಿಷ್ಠಾವಂತ ಯತಿಗಳು. ೨೪ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪೀಠವನ್ನಲಂಕರಿಸಿ ಕ್ರಿ.ಶ. ೧೪೫೧ ರಲ್ಲಿ ಕೃಷ್ಣಾ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Maheesha Teertharu is the seventh pontiff of Sri Shiroor Matha, renowned for his extraordinary ascetic discipline, having completed an arduous twelve-year fasting vrata. He adorned the dharma peetha for 24 years and attained Haripada on the banks of the sacred Krishna river in 1451 CE.
-summary-kn: |-
-  ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಏಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವಾದಶ ವರ್ಷ ಉಪವಾಸಾದಿ ಕಠಿಣ ವ್ರತ-ತಪಸ್ಸುಗಳನ್ನು ಆಚರಿಸಿದ ಮಹಾ ನಿಷ್ಠಾವಂತ ಯತಿಗಳು. ೨೪ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪೀಠವನ್ನಲಂಕರಿಸಿ ಕ್ರಿ.ಶ. ೧೪೫೧ ರಲ್ಲಿ ಕೃಷ್ಣಾ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Maheesha Teertharu is the seventh pontiff of Sri Shiroor Matha, renowned for his extraordinary ascetic discipline, having completed an arduous twelve-year fasting vrata. He adorned the dharma peetha for 24 years and attained Haripada on the banks of the sacred Krishna river in 1451 CE.
+summary-kn: ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಏಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ದ್ವಾದಶ ವರ್ಷ ಉಪವಾಸಾದಿ ಕಠಿಣ ವ್ರತ-ತಪಸ್ಸುಗಳನ್ನು ಆಚರಿಸಿದ ಮಹಾ ನಿಷ್ಠಾವಂತ ಯತಿಗಳು. ೨೪ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪೀಠವನ್ನಲಂಕರಿಸಿ ಕ್ರಿ.ಶ. ೧೪೫೧ ರಲ್ಲಿ ಕೃಷ್ಣಾ ತೀರದಲ್ಲಿ ಹರಿಪದ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Maheesha Teertharu (ಶ್ರೀ ಮಹೀಶ ತೀರ್ಥರು)

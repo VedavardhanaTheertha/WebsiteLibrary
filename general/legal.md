@@ -25,4 +25,5 @@ fields:
   pages.local_copy.legal_contact_email_label:
     en: "Email: "
     kn: "ಇಮೇಲ್: "
+enabled: true
 ---

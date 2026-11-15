@@ -4,11 +4,11 @@ position: 28
 name: Sri Lakshmindra Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು)
 name-en: Sri Lakshmindra Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು
-timePeriod: '1926–1963 CE (ಶಾ.ಶಕ ೧೮೮೫)'
-timePeriod-en: '1926–1963 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೯೨೬–೧೯೬೩ (ಶಾ.ಶಕ ೧೮೮೫)'
-shaka: '1885'
-shaka-kn: '೧೮೮೫'
+timePeriod: 1926–1963 CE (ಶಾ.ಶಕ ೧೮೮೫)
+timePeriod-en: 1926–1963 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೯೨೬–೧೯೬೩ (ಶಾ.ಶಕ ೧೮೮೫)
+shaka: "1885"
+shaka-kn: ೧೮೮೫
 samvatsara-en: Shubhakritu
 samvatsara-kn: ಶುಭಕೃತು
 aradhana-en: Magha Krishna Saptami
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmindra Teertharu is the twenty-eighth pontiff of Sri Shiroor Matha, an illustrious scholar, prolific author, and visionary builder. Revered as Vachaspati in Vedanta and Brihaspati in eloquence, he completed eight Sudha Mangalas, built the Subrahmanya shrine and Vasanta Mantapa in Sri Krishna Matha, and passed away while occupying the Paryaya Peetha in Udupi on 13 February 1963.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ವೇದಾಂತದಲ್ಲಿ ವಾಚಸ್ಪತಿ, ಭಾಷಣದಲ್ಲಿ ಬೃಹಸ್ಪತಿ ಎನಿಸಿ ೮ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದವರು, ಅನೇಕ ಗ್ರಂಥಕರ್ತರು, ಶ್ರೀಕೃಷ್ಣಮಠದಲ್ಲಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಗುಡಿ ಹಾಗೂ ವಸಂತ ಮಂಟಪ ನಿರ್ಮಿಸಿದವರು. ೩೭ ವರ್ಷ ಪೀಠವಾಳಿ ೧೯೬೩ ರಲ್ಲಿ ಪರ್ಯಾಯ ಪೀಠಸ್ಥರಾಗಿರುವಾಗಲೇ ಹರಿಪಾದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshmindra Teertharu is the twenty-eighth pontiff of Sri Shiroor Matha, an illustrious scholar, prolific author, and visionary builder. Revered as Vachaspati in Vedanta and Brihaspati in eloquence, he completed eight Sudha Mangalas, built the Subrahmanya shrine and Vasanta Mantapa in Sri Krishna Matha, and passed away while occupying the Paryaya Peetha in Udupi on 13 February 1963.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ವೇದಾಂತದಲ್ಲಿ ವಾಚಸ್ಪತಿ, ಭಾಷಣದಲ್ಲಿ ಬೃಹಸ್ಪತಿ ಎನಿಸಿ ೮ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದವರು, ಅನೇಕ ಗ್ರಂಥಕರ್ತರು, ಶ್ರೀಕೃಷ್ಣಮಠದಲ್ಲಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಗುಡಿ ಹಾಗೂ ವಸಂತ ಮಂಟಪ ನಿರ್ಮಿಸಿದವರು. ೩೭ ವರ್ಷ ಪೀಠವಾಳಿ ೧೯೬೩ ರಲ್ಲಿ ಪರ್ಯಾಯ ಪೀಠಸ್ಥರಾಗಿರುವಾಗಲೇ ಹರಿಪಾದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmindra Teertharu is the twenty-eighth pontiff of Sri Shiroor Matha, an illustrious scholar, prolific author, and visionary builder. Revered as Vachaspati in Vedanta and Brihaspati in eloquence, he completed eight Sudha Mangalas, built the Subrahmanya shrine and Vasanta Mantapa in Sri Krishna Matha, and passed away while occupying the Paryaya Peetha in Udupi on 13 February 1963.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ವೇದಾಂತದಲ್ಲಿ ವಾಚಸ್ಪತಿ, ಭಾಷಣದಲ್ಲಿ ಬೃಹಸ್ಪತಿ ಎನಿಸಿ ೮ ಸುಧಾಮಂಗಲ ನೆರವೇರಿಸಿದವರು, ಅನೇಕ ಗ್ರಂಥಕರ್ತರು, ಶ್ರೀಕೃಷ್ಣಮಠದಲ್ಲಿ ಸುಬ್ರಹ್ಮಣ್ಯ ಗುಡಿ ಹಾಗೂ ವಸಂತ ಮಂಟಪ ನಿರ್ಮಿಸಿದವರು. ೩೭ ವರ್ಷ ಪೀಠವಾಳಿ ೧೯೬೩ ರಲ್ಲಿ ಪರ್ಯಾಯ ಪೀಠಸ್ಥರಾಗಿರುವಾಗಲೇ ಹರಿಪಾದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmindra Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಂದ್ರ ತೀರ್ಥರು)

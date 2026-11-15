@@ -1,50 +1,51 @@
 ---
-id: "seva-017-udayasthamana-seva"
+id: seva-017-udayasthamana-seva
 code: 17
 entity_id: 3
 event_id: 4
 title:
-  en: "Udayasthamana Seva"
-  kn: "ಉದಯಾಸ್ತಮಾನ ಸೇವೆ"
+  en: Udayasthamana Seva
+  kn: ಉದಯಾಸ್ತಮಾನ ಸೇವೆ
 name:
-  en: "Udayasthamana Seva"
-  kn: "ಉದಯಾಸ್ತಮಾನ ಸೇವೆ"
+  en: Udayasthamana Seva
+  kn: ಉದಯಾಸ್ತಮಾನ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/017-udayasthamana-seva.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/017-udayasthamana-seva.avif
 formatted_amount:
-  en: "₹1,00,000"
-  kn: "₹೧,೦೦,೦೦೦"
-currency: "INR"
+  en: ₹1,00,000
+  kn: ₹೧,೦೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=17"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=17
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "All-day devotion from early dawn Ushakala Pooja to night Shayanotsava across all 14 daily worship rituals."
-  kn: "ಬೆಳಗಿನ ಉಷಃಕಾಲ ಪೂಜೆಯಿಂದ ರಾತ್ರಿಯ ಶಯನೋತ್ಸವದವರೆಗೆ ದಿನದ ಎಲ್ಲಾ ೧೪ ಪೂಜೆಗಳಲ್ಲಿ ಪೂರ್ಣ ದಿನ ಭಾಗವಹಿಸುವ ಸೇವೆ."
+  en: All-day devotion from early dawn Ushakala Pooja to night Shayanotsava across all 14 daily worship rituals.
+  kn: ಬೆಳಗಿನ ಉಷಃಕಾಲ ಪೂಜೆಯಿಂದ ರಾತ್ರಿಯ ಶಯನೋತ್ಸವದವರೆಗೆ ದಿನದ ಎಲ್ಲಾ ೧೪ ಪೂಜೆಗಳಲ್ಲಿ ಪೂರ್ಣ ದಿನ ಭಾಗವಹಿಸುವ ಸೇವೆ.
 significance:
-  en: "Experiencing the complete cycle of divine worship established by Sri Madhwacharya in a single day."
-  kn: "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಿಧಿಸಿದ ನಿತ್ಯದ ಹದಿನಾಲ್ಕು ಪೂಜೆಗಳಲ್ಲಿ ಬೆಳಗಿನಿಂದ ರಾತ್ರಿಯವರೆಗೆ ಸಂಪೂರ್ಣವಾಗಿ ತೊಡಗಿಕೊಳ್ಳುವ ಸೇವೆ."
+  en: Experiencing the complete cycle of divine worship established by Sri Madhwacharya in a single day.
+  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಿಧಿಸಿದ ನಿತ್ಯದ ಹದಿನಾಲ್ಕು ಪೂಜೆಗಳಲ್ಲಿ ಬೆಳಗಿನಿಂದ ರಾತ್ರಿಯವರೆಗೆ ಸಂಪೂರ್ಣವಾಗಿ ತೊಡಗಿಕೊಳ್ಳುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Udayasthamana Seva

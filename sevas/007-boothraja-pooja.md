@@ -1,50 +1,51 @@
 ---
-id: "seva-007-boothraja-pooja"
+id: seva-007-boothraja-pooja
 code: 7
 entity_id: 3
 event_id: 4
 title:
-  en: "Boothraja pooja"
-  kn: "ಭೂತರಾಜರ ಪೂಜೆ"
+  en: Boothraja pooja
+  kn: ಭೂತರಾಜರ ಪೂಜೆ
 name:
-  en: "Boothraja pooja"
-  kn: "ಭೂತರಾಜರ ಪೂಜೆ"
+  en: Boothraja pooja
+  kn: ಭೂತರಾಜರ ಪೂಜೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 0
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/007-boothraja-pooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/007-boothraja-pooja.avif
 formatted_amount:
-  en: "Any Amount / Devotee's Wish"
-  kn: "ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ"
-currency: "INR"
+  en: Any Amount / Devotee's Wish
+  kn: ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=7"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=7
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Special worship and offering to Sri Bhootharaja, the vigilant protector deity of the sacred kshetra."
-  kn: "ಕ್ಷೇತ್ರಪಾಲಕರಾದ ಶ್ರೀ ಭೂತರಾಜರಿಗೆ ವಿಶೇಷ ನೈವೇದ್ಯ, ಪೂಜೆ ಮತ್ತು ರಕ್ಷಾ ಪ್ರಾರ್ಥನೆ."
+  en: Special worship and offering to Sri Bhootharaja, the vigilant protector deity of the sacred kshetra.
+  kn: ಕ್ಷೇತ್ರಪಾಲಕರಾದ ಶ್ರೀ ಭೂತರಾಜರಿಗೆ ವಿಶೇಷ ನೈವೇದ್ಯ, ಪೂಜೆ ಮತ್ತು ರಕ್ಷಾ ಪ್ರಾರ್ಥನೆ.
 significance:
-  en: "Removing negative influences, obstacles, evil eyes, and bestowing divine protection to the devotee's household."
-  kn: "ವಿಘ್ನಗಳು, ಗ್ರಹದೋಷಗಳು, ದುಷ್ಟ ಶಕ್ತಿಗಳ ನಿವಾರಣೆ ಹಾಗೂ ಕುಟುಂಬಕ್ಕೆ ರಕ್ಷಣೆ ದೊರೆಯುವುದು."
+  en: Removing negative influences, obstacles, evil eyes, and bestowing divine protection to the devotee's household.
+  kn: ವಿಘ್ನಗಳು, ಗ್ರಹದೋಷಗಳು, ದುಷ್ಟ ಶಕ್ತಿಗಳ ನಿವಾರಣೆ ಹಾಗೂ ಕುಟುಂಬಕ್ಕೆ ರಕ್ಷಣೆ ದೊರೆಯುವುದು.
+enabled: true
 ---
 
 # Boothraja pooja

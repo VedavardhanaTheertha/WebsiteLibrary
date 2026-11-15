@@ -1,50 +1,51 @@
 ---
-id: "seva-037-uruli-naivedya-sevasampoorna"
+id: seva-037-uruli-naivedya-sevasampoorna
 code: 37
 entity_id: 3
 event_id: 4
 title:
-  en: "Uruli Naivedya Seva(Sampoorna)"
-  kn: "ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ (ಸಂಪೂರ್ಣ)"
+  en: Uruli Naivedya Seva(Sampoorna)
+  kn: ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ (ಸಂಪೂರ್ಣ)
 name:
-  en: "Uruli Naivedya Seva(Sampoorna)"
-  kn: "ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ (ಸಂಪೂರ್ಣ)"
+  en: Uruli Naivedya Seva(Sampoorna)
+  kn: ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ (ಸಂಪೂರ್ಣ)
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 6000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/037-uruli-naivedya-sevasampoorna.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/037-uruli-naivedya-sevasampoorna.avif
 formatted_amount:
-  en: "₹6,000"
-  kn: "₹೬,೦೦೦"
-currency: "INR"
+  en: ₹6,000
+  kn: ₹೬,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=37"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=37
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Complete Uruli Naivedya prepared with rich traditional ingredients offered to Lord Sri Krishna."
-  kn: "ಬೃಹತ್ ಕಂಚಿನ ಉರುಳಿಯಲ್ಲಿ ಸಿದ್ಧಪಡಿಸಿದ ಅಪೂರ್ವ ಸಿಹಿ ನೈವೇದ್ಯವನ್ನು ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸುವ ಸೇವೆ."
+  en: Complete Uruli Naivedya prepared with rich traditional ingredients offered to Lord Sri Krishna.
+  kn: ಬೃಹತ್ ಕಂಚಿನ ಉರುಳಿಯಲ್ಲಿ ಸಿದ್ಧಪಡಿಸಿದ ಅಪೂರ್ವ ಸಿಹಿ ನೈವೇದ್ಯವನ್ನು ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಅರ್ಪಿಸುವ ಸೇವೆ.
 significance:
-  en: "Satisfies the Lord with grand culinary devotion, bringing nourishment and prosperity to devotees."
-  kn: "ರುಚಿಕರವಾದ ದಿವ್ಯ ನೈವೇದ್ಯವನ್ನು ಉರುಳಿಯಲ್ಲಿ ಸಮರ್ಪಿಸಿ, ಅನ್ನಪೂರ್ಣೇಶ್ವರಿ ಮತ್ತು ಶ್ರೀಕೃಷ್ಣನ ಕೃಪೆ ಪಡೆಯುವುದು."
+  en: Satisfies the Lord with grand culinary devotion, bringing nourishment and prosperity to devotees.
+  kn: ರುಚಿಕರವಾದ ದಿವ್ಯ ನೈವೇದ್ಯವನ್ನು ಉರುಳಿಯಲ್ಲಿ ಸಮರ್ಪಿಸಿ, ಅನ್ನಪೂರ್ಣೇಶ್ವರಿ ಮತ್ತು ಶ್ರೀಕೃಷ್ಣನ ಕೃಪೆ ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Uruli Naivedya Seva(Sampoorna)

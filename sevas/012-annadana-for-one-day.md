@@ -1,50 +1,51 @@
 ---
-id: "seva-012-annadana-for-one-day"
+id: seva-012-annadana-for-one-day
 code: 12
 entity_id: 3
 event_id: 4
 title:
-  en: "Annadana For One Day"
-  kn: "ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ"
+  en: Annadana For One Day
+  kn: ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ
 name:
-  en: "Annadana For One Day"
-  kn: "ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ"
+  en: Annadana For One Day
+  kn: ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/012-annadana-for-one-day.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/012-annadana-for-one-day.avif
 formatted_amount:
-  en: "₹3,00,000"
-  kn: "₹೩,೦೦,೦೦೦"
-currency: "INR"
+  en: ₹3,00,000
+  kn: ₹೩,೦೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=12"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=12
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Full one-day sponsorship of the renowned Mahaprasada Annadana for all pilgrims visiting Sri Krishna Matha."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಒಂದು ಪೂರ್ಣ ದಿನದ ಸಂಪೂರ್ಣ ಮಹಾ ಅನ್ನದಾನವನ್ನು ಪ್ರಾಯೋಜಿಸುವ ಶ್ರೇಷ್ಠ ಸೇವೆ."
+  en: Full one-day sponsorship of the renowned Mahaprasada Annadana for all pilgrims visiting Sri Krishna Matha.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಒಂದು ಪೂರ್ಣ ದಿನದ ಸಂಪೂರ್ಣ ಮಹಾ ಅನ್ನದಾನವನ್ನು ಪ್ರಾಯೋಜಿಸುವ ಶ್ರೇಷ್ಠ ಸೇವೆ.
 significance:
-  en: "Directly satisfying thousands of hungry souls with Lord Krishna's sanctified food."
-  kn: "ದಿನವಿಡೀ ಆಗಮಿಸುವ ಸಹಸ್ರಾರು ಭಕ್ತರಿಗೆ ಹೊಟ್ಟೆತುಂಬ ಪ್ರಸಾದ ಬಡಿಸುವ ಮೂಲಕ ಅಪಾರ ಧನ್ಯತೆ ತರುವ ಸೇವೆ."
+  en: Directly satisfying thousands of hungry souls with Lord Krishna's sanctified food.
+  kn: ದಿನವಿಡೀ ಆಗಮಿಸುವ ಸಹಸ್ರಾರು ಭಕ್ತರಿಗೆ ಹೊಟ್ಟೆತುಂಬ ಪ್ರಸಾದ ಬಡಿಸುವ ಮೂಲಕ ಅಪಾರ ಧನ್ಯತೆ ತರುವ ಸೇವೆ.
+enabled: true
 ---
 
 # Annadana For One Day

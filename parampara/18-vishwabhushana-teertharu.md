@@ -4,11 +4,11 @@ position: 18
 name: Sri Vishwabhushana Teertharu (ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು)
 name-en: Sri Vishwabhushana Teertharu
 name-kn: ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು
-timePeriod: '1650–1672 CE (ಶಾ.ಶಕ ೧೫೯೪)'
-timePeriod-en: '1650–1672 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೬೫೦–೧೬೭೨ (ಶಾ.ಶಕ ೧೫೯೪)'
-shaka: '1594'
-shaka-kn: '೧೫೯೪'
+timePeriod: 1650–1672 CE (ಶಾ.ಶಕ ೧೫೯೪)
+timePeriod-en: 1650–1672 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೬೫೦–೧೬೭೨ (ಶಾ.ಶಕ ೧೫೯೪)
+shaka: "1594"
+shaka-kn: ೧೫೯೪
 samvatsara-en: Paridhavi
 samvatsara-kn: ಪರಿಧಾವಿ
 aradhana-en: Vaishakha Shukla Dvitiya
@@ -19,12 +19,11 @@ summary: |-
   Sri Vishwabhushana Teertharu is the eighteenth pontiff of Sri Shiroor Matha, celebrated for his mastery across all Shastras and his grand pilgrimage from Setu (Rameshwaram) to Badari. He governed the dharma samrajya for 22 years and reached Vishnu Pada on the Phalguni river in 1672 CE.
 
   ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಸರ್ವಶಾಸ್ತ್ರ ವಿಶಾರದರಾದ ಇವರು ರಾಮೇಶ್ವರದಿಂದ ಬದರಿಯವರೆಗೆ ಆಸೇತು-ಬದರಿ ಯಾತ್ರೆ ಕೈಗೊಂಡು, ೨೨ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪಾಲನೆ ಮಾಡಿ ಕ್ರಿ.ಶ. ೧೬೭೨ ರಲ್ಲಿ ಫಲ್ಗುಣೀ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಪಡೆದರು.
-summary-en: |-
-  Sri Vishwabhushana Teertharu is the eighteenth pontiff of Sri Shiroor Matha, celebrated for his mastery across all Shastras and his grand pilgrimage from Setu (Rameshwaram) to Badari. He governed the dharma samrajya for 22 years and reached Vishnu Pada on the Phalguni river in 1672 CE.
-summary-kn: |-
-  ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಸರ್ವಶಾಸ್ತ್ರ ವಿಶಾರದರಾದ ಇವರು ರಾಮೇಶ್ವರದಿಂದ ಬದರಿಯವರೆಗೆ ಆಸೇತು-ಬದರಿ ಯಾತ್ರೆ ಕೈಗೊಂಡು, ೨೨ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪಾಲನೆ ಮಾಡಿ ಕ್ರಿ.ಶ. ೧೬೭೨ ರಲ್ಲಿ ಫಲ್ಗುಣೀ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಪಡೆದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vishwabhushana Teertharu is the eighteenth pontiff of Sri Shiroor Matha, celebrated for his mastery across all Shastras and his grand pilgrimage from Setu (Rameshwaram) to Badari. He governed the dharma samrajya for 22 years and reached Vishnu Pada on the Phalguni river in 1672 CE.
+summary-kn: ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೆಂಟನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಸರ್ವಶಾಸ್ತ್ರ ವಿಶಾರದರಾದ ಇವರು ರಾಮೇಶ್ವರದಿಂದ ಬದರಿಯವರೆಗೆ ಆಸೇತು-ಬದರಿ ಯಾತ್ರೆ ಕೈಗೊಂಡು, ೨೨ ವರ್ಷಗಳ ಕಾಲ ಧರ್ಮಪಾಲನೆ ಮಾಡಿ ಕ್ರಿ.ಶ. ೧೬೭೨ ರಲ್ಲಿ ಫಲ್ಗುಣೀ ತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಪಡೆದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vishwabhushana Teertharu (ಶ್ರೀ ವಿಶ್ವಭೂಷಣ ತೀರ್ಥರು)

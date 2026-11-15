@@ -4,11 +4,11 @@ position: 30
 name: Sri Vedavardhana Teertharu (ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು)
 name-en: Sri Vedavardhana Teertharu
 name-kn: ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು
-timePeriod: '2021–Present (೨೦೨೧ ರಿಂದ ಪ್ರಸ್ತುತ)'
-timePeriod-en: '2021–Present'
-timePeriod-kn: '೨೦೨೧ ರಿಂದ ಪ್ರಸ್ತುತ'
-shaka: '—'
-shaka-kn: '—'
+timePeriod: 2021–Present (೨೦೨೧ ರಿಂದ ಪ್ರಸ್ತುತ)
+timePeriod-en: 2021–Present
+timePeriod-kn: ೨೦೨೧ ರಿಂದ ಪ್ರಸ್ತುತ
+shaka: —
+shaka-kn: —
 samvatsara-en: Plava
 samvatsara-kn: ಪ್ಲವ
 aradhana-en: Present Peethadhipathi
@@ -19,12 +19,11 @@ summary: |-
   Sri Vedavardhana Teertharu is the thirtieth pontiff and current spiritual master of Sri Shiroor Matha. Ordained into sanyasa on 14 May 2021 by Sri Vishwavallabha Teertharu of Sode Matha, he embodies deep Vedic scholarship, rigorous daily anushthana, and dedicated devotion, and is preparing to ascend the sacred Sarvajna Peetha for his maiden Paryaya on 18 January 2026.
 
   ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಮೂವತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು (ಪ್ರಸ್ತುತ ಮಠಾಧೀಶರು). ಸೋದೆ ಶ್ರೀ ವಿಶ್ವವಲ್ಲಭ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಪಡೆದು, ಕಠಿಣ ನಿತ್ಯಾನುಷ್ಠಾನ ಹಾಗೂ ಶಾಸ್ತ್ರಾಧ್ಯಯನ ನಿರತರಾಗಿದ್ದು, ೨೦೨೬ ಜನವರಿ ೧೮ ರಂದು ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಪವಿತ್ರ ಸರ್ವಜ್ಞ ಪೀಠವನ್ನು ಪ್ರಥಮ ಬಾರಿಗೆ ಅಲಂಕರಿಸಲು ಸನ್ನದ್ಧರಾಗಿದ್ದಾರೆ.
-summary-en: |-
-  Sri Vedavardhana Teertharu is the thirtieth pontiff and current spiritual master of Sri Shiroor Matha. Ordained into sanyasa on 14 May 2021 by Sri Vishwavallabha Teertharu of Sode Matha, he embodies deep Vedic scholarship, rigorous daily anushthana, and dedicated devotion, and is preparing to ascend the sacred Sarvajna Peetha for his maiden Paryaya on 18 January 2026.
-summary-kn: |-
-  ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಮೂವತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು (ಪ್ರಸ್ತುತ ಮಠಾಧೀಶರು). ಸೋದೆ ಶ್ರೀ ವಿಶ್ವವಲ್ಲಭ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಪಡೆದು, ಕಠಿಣ ನಿತ್ಯಾನುಷ್ಠಾನ ಹಾಗೂ ಶಾಸ್ತ್ರಾಧ್ಯಯನ ನಿರತರಾಗಿದ್ದು, ೨೦೨೬ ಜನವರಿ ೧೮ ರಂದು ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಪವಿತ್ರ ಸರ್ವಜ್ಞ ಪೀಠವನ್ನು ಪ್ರಥಮ ಬಾರಿಗೆ ಅಲಂಕರಿಸಲು ಸನ್ನದ್ಧರಾಗಿದ್ದಾರೆ.
-thumbnailImage: 'https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/swamiji.avif'
-fullImage: 'https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/swamiji.avif'
+summary-en: Sri Vedavardhana Teertharu is the thirtieth pontiff and current spiritual master of Sri Shiroor Matha. Ordained into sanyasa on 14 May 2021 by Sri Vishwavallabha Teertharu of Sode Matha, he embodies deep Vedic scholarship, rigorous daily anushthana, and dedicated devotion, and is preparing to ascend the sacred Sarvajna Peetha for his maiden Paryaya on 18 January 2026.
+summary-kn: ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಮೂವತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು (ಪ್ರಸ್ತುತ ಮಠಾಧೀಶರು). ಸೋದೆ ಶ್ರೀ ವಿಶ್ವವಲ್ಲಭ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ಪಡೆದು, ಕಠಿಣ ನಿತ್ಯಾನುಷ್ಠಾನ ಹಾಗೂ ಶಾಸ್ತ್ರಾಧ್ಯಯನ ನಿರತರಾಗಿದ್ದು, ೨೦೨೬ ಜನವರಿ ೧೮ ರಂದು ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಪವಿತ್ರ ಸರ್ವಜ್ಞ ಪೀಠವನ್ನು ಪ್ರಥಮ ಬಾರಿಗೆ ಅಲಂಕರಿಸಲು ಸನ್ನದ್ಧರಾಗಿದ್ದಾರೆ.
+thumbnailImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/swamiji.avif
+fullImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/swamiji.avif
+enabled: true
 ---
 
 # Sri Vedavardhana Teertharu (ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು)

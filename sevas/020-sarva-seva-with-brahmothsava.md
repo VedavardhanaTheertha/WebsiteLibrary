@@ -1,50 +1,51 @@
 ---
-id: "seva-020-sarva-seva-with-brahmothsava"
+id: seva-020-sarva-seva-with-brahmothsava
 code: 20
 entity_id: 3
 event_id: 4
 title:
-  en: "Sarva Seva With Brahmothsava"
-  kn: "ಬ್ರಹ್ಮೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva With Brahmothsava
+  kn: ಬ್ರಹ್ಮೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 name:
-  en: "Sarva Seva With Brahmothsava"
-  kn: "ಬ್ರಹ್ಮೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva With Brahmothsava
+  kn: ಬ್ರಹ್ಮೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 60000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/020-sarva-seva-with-brahmothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/020-sarva-seva-with-brahmothsava.avif
 formatted_amount:
-  en: "₹60,000"
-  kn: "₹೬೦,೦೦೦"
-currency: "INR"
+  en: ₹60,000
+  kn: ₹೬೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=20"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=20
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Comprehensive Sarva Seva combined with the majestic Brahmotsava chariot procession."
-  kn: "ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸರ್ವ ಪೂಜೆಗಳೊಂದಿಗೆ ಬ್ರಹ್ಮರಥೋತ್ಸವವನ್ನು ನೆರವೇರಿಸುವ ಅತ್ಯಂತ ಪವಿತ್ರವಾದ ಮಹಾಸೇವೆ."
+  en: Comprehensive Sarva Seva combined with the majestic Brahmotsava chariot procession.
+  kn: ಶ್ರೀ ಕೃಷ್ಣನಿಗೆ ಸರ್ವ ಪೂಜೆಗಳೊಂದಿಗೆ ಬ್ರಹ್ಮರಥೋತ್ಸವವನ್ನು ನೆರವೇರಿಸುವ ಅತ್ಯಂತ ಪವಿತ್ರವಾದ ಮಹಾಸೇವೆ.
 significance:
-  en: "Elevating the devotee's spiritual consciousness through grand temple ritual and chariot movement."
-  kn: "ಬ್ರಹ್ಮರಥದಲ್ಲಿ ವಿರಾಜಮಾನನಾದ ಕೃಷ್ಣನನ್ನು ಕಣ್ತುಂಬಿಕೊಂಡು ಸರ್ವ ಸೇವೆಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಪರಮೋಚ್ಚ ಸೇವೆ."
+  en: Elevating the devotee's spiritual consciousness through grand temple ritual and chariot movement.
+  kn: ಬ್ರಹ್ಮರಥದಲ್ಲಿ ವಿರಾಜಮಾನನಾದ ಕೃಷ್ಣನನ್ನು ಕಣ್ತುಂಬಿಕೊಂಡು ಸರ್ವ ಸೇವೆಗಳನ್ನು ಸಮರ್ಪಿಸುವ ಪರಮೋಚ್ಚ ಸೇವೆ.
+enabled: true
 ---
 
 # Sarva Seva With Brahmothsava

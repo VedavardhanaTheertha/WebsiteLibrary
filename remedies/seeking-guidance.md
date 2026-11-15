@@ -1,25 +1,26 @@
 ---
 id: seeking-guidance
 title:
-  en: "Seeking Guidance"
-  kn: "ಮಾರ್ಗದರ್ಶನ ಪಡೆಯುವುದು"
+  en: Seeking Guidance
+  kn: ಮಾರ್ಗದರ್ಶನ ಪಡೆಯುವುದು
 summary:
-  en: "How spiritual counsel and professional support can work together."
-  kn: "ಆಧ್ಯಾತ್ಮಿಕ ಸಲಹೆ ಮತ್ತು ವೃತ್ತಿಪರ ಬೆಂಬಲ ಒಟ್ಟಾಗಿ ಹೇಗೆ ನೆರವಾಗಬಲ್ಲವು."
+  en: How spiritual counsel and professional support can work together.
+  kn: ಆಧ್ಯಾತ್ಮಿಕ ಸಲಹೆ ಮತ್ತು ವೃತ್ತಿಪರ ಬೆಂಬಲ ಒಟ್ಟಾಗಿ ಹೇಗೆ ನೆರವಾಗಬಲ್ಲವು.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/seeking-guidance.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/seeking-guidance.avif
 tags:
   - code: guidance
-    en: "guidance"
-    kn: "ಮಾರ್ಗದರ್ಶನ"
+    en: guidance
+    kn: ಮಾರ್ಗದರ್ಶನ
   - code: counsel
-    en: "counsel"
-    kn: "ಸಲಹೆ"
+    en: counsel
+    kn: ಸಲಹೆ
   - code: wellbeing
-    en: "wellbeing"
-    kn: "ಯೋಗಕ್ಷೇಮ"
+    en: wellbeing
+    kn: ಯೋಗಕ್ಷೇಮ
+enabled: false
 ---
 
 ## English

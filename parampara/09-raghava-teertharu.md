@@ -4,11 +4,11 @@ position: 9
 name: Sri Raghava Teertharu (ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು)
 name-en: Sri Raghava Teertharu
 name-kn: ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು
-timePeriod: '1467–1484 CE (ಶಾ.ಶಕ ೧೪೦೬)'
-timePeriod-en: '1467–1484 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೪೬೭–೧೪೮೪ (ಶಾ.ಶಕ ೧೪೦೬)'
-shaka: '1406'
-shaka-kn: '೧೪೦೬'
+timePeriod: 1467–1484 CE (ಶಾ.ಶಕ ೧೪೦೬)
+timePeriod-en: 1467–1484 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೪೬೭–೧೪೮೪ (ಶಾ.ಶಕ ೧೪೦೬)
+shaka: "1406"
+shaka-kn: ೧೪೦೬
 samvatsara-en: Krodhi
 samvatsara-kn: ಕ್ರೋಧಿ
 aradhana-en: Vaishakha Krishna Tritiya
@@ -19,12 +19,11 @@ summary: |-
   Sri Raghava Teertharu is the ninth pontiff of Sri Shiroor Matha, renowned as an austere tapasvi dedicated to rigorous penance and constant contemplation of the Supreme. He adorned the sacred peetha for 17 years and offered his soul into Paramadhama at Kashi Kshetra in 1484 CE.
 
   ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಒಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿಷ್ಠಾವಂತ ತಪಸ್ವಿಗಳಾದ ಇವರು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಪಟ್ಟಪೀಠದಲ್ಲಿದ್ದು ಪೂಜೆ ಮತ್ತು ಶಾಸ್ತ್ರ ಸಂರಕ್ಷಣೆಯನ್ನು ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೪೮೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಆತ್ಮಾರ್ಪಣೆ ಮಾಡಿದರು.
-summary-en: |-
-  Sri Raghava Teertharu is the ninth pontiff of Sri Shiroor Matha, renowned as an austere tapasvi dedicated to rigorous penance and constant contemplation of the Supreme. He adorned the sacred peetha for 17 years and offered his soul into Paramadhama at Kashi Kshetra in 1484 CE.
-summary-kn: |-
-  ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಒಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿಷ್ಠಾವಂತ ತಪಸ್ವಿಗಳಾದ ಇವರು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಪಟ್ಟಪೀಠದಲ್ಲಿದ್ದು ಪೂಜೆ ಮತ್ತು ಶಾಸ್ತ್ರ ಸಂರಕ್ಷಣೆಯನ್ನು ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೪೮೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಆತ್ಮಾರ್ಪಣೆ ಮಾಡಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Raghava Teertharu is the ninth pontiff of Sri Shiroor Matha, renowned as an austere tapasvi dedicated to rigorous penance and constant contemplation of the Supreme. He adorned the sacred peetha for 17 years and offered his soul into Paramadhama at Kashi Kshetra in 1484 CE.
+summary-kn: ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಒಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿಷ್ಠಾವಂತ ತಪಸ್ವಿಗಳಾದ ಇವರು ೧೭ ವರ್ಷಗಳ ಕಾಲ ಪಟ್ಟಪೀಠದಲ್ಲಿದ್ದು ಪೂಜೆ ಮತ್ತು ಶಾಸ್ತ್ರ ಸಂರಕ್ಷಣೆಯನ್ನು ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೪೮೪ ರಲ್ಲಿ ಕಾಶೀ ಕ್ಷೇತ್ರದಲ್ಲಿ ಆತ್ಮಾರ್ಪಣೆ ಮಾಡಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Raghava Teertharu (ಶ್ರೀ ರಾಘವ ತೀರ್ಥರು)

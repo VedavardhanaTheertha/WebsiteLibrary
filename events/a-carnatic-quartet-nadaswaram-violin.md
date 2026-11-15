@@ -52,6 +52,7 @@ categories:
   - code: classical
     en: Classical
     kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # A Carnatic Quartet (Nadaswaram & Violin) by Shreya Devnath & Mylai M. Karthikeyan
@@ -87,4 +88,3 @@ A rare and enthralling musical synthesis featuring the traditional auspicious te
 ### Gallery Images
 
 ![A Carnatic Quartet (Nadaswaram & Violin) by Shreya Devnath & Mylai M. Karthikeyan - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/carnatic-quartet.avif)
-

@@ -1,50 +1,51 @@
 ---
-id: "seva-021-sarva-seva-sahitha-suvarna-rathothsava"
+id: seva-021-sarva-seva-sahitha-suvarna-rathothsava
 code: 21
 entity_id: 3
 event_id: 4
 title:
-  en: "Sarva Seva Sahitha Suvarna Rathothsava"
-  kn: "ಸುವರ್ಣ ರಥೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva Sahitha Suvarna Rathothsava
+  kn: ಸುವರ್ಣ ರಥೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 name:
-  en: "Sarva Seva Sahitha Suvarna Rathothsava"
-  kn: "ಸುವರ್ಣ ರಥೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ"
+  en: Sarva Seva Sahitha Suvarna Rathothsava
+  kn: ಸುವರ್ಣ ರಥೋತ್ಸವ ಸಹಿತ ಸರ್ವ ಸೇವೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 50000
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/021-sarva-seva-sahitha-suvarna-rathothsava.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/021-sarva-seva-sahitha-suvarna-rathothsava.avif
 formatted_amount:
-  en: "₹50,000"
-  kn: "₹೫೦,೦೦೦"
-currency: "INR"
+  en: ₹50,000
+  kn: ₹೫೦,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=21"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=21
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Sarva Seva accompanying the awe-inspiring Suvarna Rathotsava (Golden Chariot) around Car Street."
-  kn: "ಚಿನ್ನದ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರ ಉತ್ಸವದೊಂದಿಗೆ ಸಮಗ್ರ ಸರ್ವ ಪೂಜೆಗಳನ್ನು ಸಲ್ಲಿಸುವ ಸೇವೆ."
+  en: Sarva Seva accompanying the awe-inspiring Suvarna Rathotsava (Golden Chariot) around Car Street.
+  kn: ಚಿನ್ನದ ರಥದಲ್ಲಿ ಶ್ರೀ ಕೃಷ್ಣ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರ ಉತ್ಸವದೊಂದಿಗೆ ಸಮಗ್ರ ಸರ್ವ ಪೂಜೆಗಳನ್ನು ಸಲ್ಲಿಸುವ ಸೇವೆ.
 significance:
-  en: "The Golden Chariot represents royal reverence; pulling the chariot cleanses sins of lifetimes."
-  kn: "ರಥಸ್ಥಂ ಕೇಶವಂ ದೃಷ್ಟ್ವಾ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ - ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ನೋಡುವುದರಿಂದ ಪುನರ್ಜನ್ಮವಿಲ್ಲ."
+  en: The Golden Chariot represents royal reverence; pulling the chariot cleanses sins of lifetimes.
+  kn: ರಥಸ್ಥಂ ಕೇಶವಂ ದೃಷ್ಟ್ವಾ ಪುನರ್ಜನ್ಮ ನ ವಿದ್ಯತೇ - ಚಿನ್ನದ ರಥದಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ನೋಡುವುದರಿಂದ ಪುನರ್ಜನ್ಮವಿಲ್ಲ.
+enabled: true
 ---
 
 # Sarva Seva Sahitha Suvarna Rathothsava

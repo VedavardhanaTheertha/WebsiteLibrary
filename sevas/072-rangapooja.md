@@ -1,50 +1,51 @@
 ---
-id: "seva-072-rangapooja"
+id: seva-072-rangapooja
 code: 72
 entity_id: 3
 event_id: 4
 title:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 name:
-  en: "Rangapooja"
-  kn: "ರಂಗಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)"
+  en: Rangapooja
+  kn: ರಂಗಪೂಜೆ (ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ)
 category:
-  code: "bhojana-shala-mukhyaprana"
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು"
+  code: bhojana-shala-mukhyaprana
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi Sevas
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Bhojana Shala Mukhyaprana Sannidhi"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Bhojana Shala Mukhyaprana Sannidhi
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Bhojana Shala Sri Mukhyaprana"
-  kn: "ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು"
+  en: Bhojana Shala Sri Mukhyaprana
+  kn: ಭೋಜನ ಶಾಲಾ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 250
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/072-rangapooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/072-rangapooja.avif
 formatted_amount:
-  en: "₹250"
-  kn: "₹೨೫೦"
-currency: "INR"
+  en: ₹250
+  kn: ₹೨೫೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=72"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=72
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - bhojana-shala-mukhyaprana
 description:
-  en: "Rangapooja lighting traditional deepas before Bhojana Shala Sri Mukhyaprana."
-  kn: "ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಮುಂದೆ ದೀಪಾಲಂಕೃತ ರಂಗಪೂಜೆಯನ್ನು ನೆರವೇರಿಸುವ ಸೇವೆ."
+  en: Rangapooja lighting traditional deepas before Bhojana Shala Sri Mukhyaprana.
+  kn: ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಮುಂದೆ ದೀಪಾಲಂಕೃತ ರಂಗಪೂಜೆಯನ್ನು ನೆರವೇರಿಸುವ ಸೇವೆ.
 significance:
-  en: "Brings radiance, positive vibration, and contentment to the home."
-  kn: "ದೀಪಗಳ ಪ್ರಕಾಶದಿಂದ ಸಕಲ ದೋಷಗಳು ಕಳೆದು ಕುಟುಂಬದಲ್ಲಿ ಶಾಂತಿ ನೆಲೆಸುತ್ತದೆ."
+  en: Brings radiance, positive vibration, and contentment to the home.
+  kn: ದೀಪಗಳ ಪ್ರಕಾಶದಿಂದ ಸಕಲ ದೋಷಗಳು ಕಳೆದು ಕುಟುಂಬದಲ್ಲಿ ಶಾಂತಿ ನೆಲೆಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Rangapooja

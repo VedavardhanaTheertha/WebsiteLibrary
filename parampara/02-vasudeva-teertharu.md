@@ -4,11 +4,11 @@ position: 2
 name: Sri Vasudeva Teertharu (ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು)
 name-en: Sri Vasudeva Teertharu
 name-kn: ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು
-timePeriod: '1327–1347 CE (ಶಾ.ಶಕ ೧೨೬೯)'
-timePeriod-en: '1327–1347 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೩೨೭–೧೩೪೭ (ಶಾ.ಶಕ ೧೨೬೯)'
-shaka: '1269'
-shaka-kn: '೧೨೬೯'
+timePeriod: 1327–1347 CE (ಶಾ.ಶಕ ೧೨೬೯)
+timePeriod-en: 1327–1347 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೩೨೭–೧೩೪೭ (ಶಾ.ಶಕ ೧೨೬೯)
+shaka: "1269"
+shaka-kn: ೧೨೬೯
 samvatsara-en: Sarvajitu
 samvatsara-kn: ಸರ್ವಜಿತ್ತು
 aradhana-en: Magha Shukla Poornima
@@ -19,12 +19,11 @@ summary: |-
   Sri Vasudeva Teertharu is the second pontiff of Sri Shiroor Matha, celebrated for his immense ascetic tapas and scriptural prowess. He triumphed over Buddhist scholars in philosophical debate, performed the miracle of making a withered dry tree sprout leaves and flowers through Vedic recitation, and reached Vishnu Pada at Haridwara in 1347 CE.
 
   ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ದ್ವಿತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬೌದ್ಧ ಸನ್ಯಾಸಿಗಳೊಂದಿಗೆ ವಾದಮಾಡಿ ಜಯಗಳಿಸಿ, ವೇದಸೂಕ್ತ ಗಾನದಿಂದ ಒಣಗಿದ ಮರದಲ್ಲಿ ಎಲೆ-ಹೂವುಗಳನ್ನು ಅರಳಿಸಿದ ಮಹಾತಪಸ್ವಿಗಳು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೩೪೭ ರಲ್ಲಿ ಹರಿದ್ವಾರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Vasudeva Teertharu is the second pontiff of Sri Shiroor Matha, celebrated for his immense ascetic tapas and scriptural prowess. He triumphed over Buddhist scholars in philosophical debate, performed the miracle of making a withered dry tree sprout leaves and flowers through Vedic recitation, and reached Vishnu Pada at Haridwara in 1347 CE.
-summary-kn: |-
-  ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ದ್ವಿತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬೌದ್ಧ ಸನ್ಯಾಸಿಗಳೊಂದಿಗೆ ವಾದಮಾಡಿ ಜಯಗಳಿಸಿ, ವೇದಸೂಕ್ತ ಗಾನದಿಂದ ಒಣಗಿದ ಮರದಲ್ಲಿ ಎಲೆ-ಹೂವುಗಳನ್ನು ಅರಳಿಸಿದ ಮಹಾತಪಸ್ವಿಗಳು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೩೪೭ ರಲ್ಲಿ ಹರಿದ್ವಾರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Vasudeva Teertharu is the second pontiff of Sri Shiroor Matha, celebrated for his immense ascetic tapas and scriptural prowess. He triumphed over Buddhist scholars in philosophical debate, performed the miracle of making a withered dry tree sprout leaves and flowers through Vedic recitation, and reached Vishnu Pada at Haridwara in 1347 CE.
+summary-kn: ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು ಶ್ರೀ ಶೀರೂರು ಮಠದ ದ್ವಿತೀಯ ಪೀಠಾಧಿಪತಿಗಳು. ಬೌದ್ಧ ಸನ್ಯಾಸಿಗಳೊಂದಿಗೆ ವಾದಮಾಡಿ ಜಯಗಳಿಸಿ, ವೇದಸೂಕ್ತ ಗಾನದಿಂದ ಒಣಗಿದ ಮರದಲ್ಲಿ ಎಲೆ-ಹೂವುಗಳನ್ನು ಅರಳಿಸಿದ ಮಹಾತಪಸ್ವಿಗಳು. ೨೦ ವರ್ಷಗಳ ಕಾಲ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೩೪೭ ರಲ್ಲಿ ಹರಿದ್ವಾರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Vasudeva Teertharu (ಶ್ರೀ ವಾಸುದೇವ ತೀರ್ಥರು)

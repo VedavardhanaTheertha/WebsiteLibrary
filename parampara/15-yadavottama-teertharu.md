@@ -4,11 +4,11 @@ position: 15
 name: Sri Yadavottama Teertharu (ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು)
 name-en: Sri Yadavottama Teertharu
 name-kn: ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು
-timePeriod: '1592–1611 CE (ಶಾ.ಶಕ ೧೫೩೩)'
-timePeriod-en: '1592–1611 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೫೯೨–೧೬೧೧ (ಶಾ.ಶಕ ೧೫೩೩)'
-shaka: '1533'
-shaka-kn: '೧೫೩೩'
+timePeriod: 1592–1611 CE (ಶಾ.ಶಕ ೧೫೩೩)
+timePeriod-en: 1592–1611 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೫೯೨–೧೬೧೧ (ಶಾ.ಶಕ ೧೫೩೩)
+shaka: "1533"
+shaka-kn: ೧೫೩೩
 samvatsara-en: Virodhikritu
 samvatsara-kn: ವಿರೋಧಿಕೃತು
 aradhana-en: Magha Shukla Saptami
@@ -19,12 +19,11 @@ summary: |-
   Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
 
   ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
-summary-en: |-
-  Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
-summary-kn: |-
-  ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Yadavottama Teertharu is the fifteenth pontiff of Sri Shiroor Matha, renowned for his dialectical brilliance in philosophical debate. In the scholarly capital of Kashi, he triumphed decisively over rival scholars in scriptural disputation, conducted samsthana pooja for 19 years, and attained Paramadhama at Kashi in 1611 CE.
+summary-kn: ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನೈದನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಕಾಶಿಯ ವಿದ್ವತ್ ಸಭೆಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾರ್ಥ ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ವಿದ್ವಾಂಸರನ್ನು ಜಯಿಸಿ ದ್ವೈತ ಸಿದ್ಧಾಂತವನ್ನು ಎತ್ತಿಹಿಡಿದ ಪ್ರಖಂಡ ಪಂಡಿತರು. ೧೯ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೬೧೧ ರಲ್ಲಿ ಕಾಶಿಯಲ್ಲಿ ಪರಂಧಾಮ ಹೊಂದಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Yadavottama Teertharu (ಶ್ರೀ ಯಾದವೋತ್ತಮ ತೀರ್ಥರು)

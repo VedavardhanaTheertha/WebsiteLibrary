@@ -1,7 +1,7 @@
 ---
 id: 2026-04-07-sarvajna-peeta
 date: "2026-04-07"
-cover: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-l.webp"
+cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-l.webp
 title:
   en: Sarvajna Peeta
   kn: Sarvajna Peeta
@@ -16,6 +16,7 @@ tags:
     - ಪರ್ಯಾಯ
     - Sarvajna Peeta
 items:
-  - small-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-s.webp"
-    large-webp: "https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-l.webp"
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-s.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bda86b75/386004b6-l.webp
+enabled: true
 ---

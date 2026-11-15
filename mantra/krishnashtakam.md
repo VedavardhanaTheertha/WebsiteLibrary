@@ -1,24 +1,25 @@
 ---
 id: krishnashtakam
 title:
-  en: "Krishnashtakam"
-  kn: "ಕೃಷ್ಣಾಷ್ಟಕಂ"
+  en: Krishnashtakam
+  kn: ಕೃಷ್ಣಾಷ್ಟಕಂ
 summary:
-  en: "Eight devotional verses contemplating the beauty and grace of Lord Krishna."
-  kn: "ಶ್ರೀಕೃಷ್ಣನ ಸೌಂದರ್ಯ ಮತ್ತು ಕೃಪೆಯನ್ನು ಧ್ಯಾನಿಸುವ ಎಂಟು ಭಕ್ತಿಪದ್ಯಗಳು."
+  en: Eight devotional verses contemplating the beauty and grace of Lord Krishna.
+  kn: ಶ್ರೀಕೃಷ್ಣನ ಸೌಂದರ್ಯ ಮತ್ತು ಕೃಪೆಯನ್ನು ಧ್ಯಾನಿಸುವ ಎಂಟು ಭಕ್ತಿಪದ್ಯಗಳು.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: krishna
-    en: "Krishna"
-    kn: "ಕೃಷ್ಣ"
+    en: Krishna
+    kn: ಕೃಷ್ಣ
   - code: ashtakam
-    en: "ashtakam"
-    kn: "ಅಷ್ಟಕ"
+    en: ashtakam
+    kn: ಅಷ್ಟಕ
   - code: devotion
-    en: "devotion"
-    kn: "ಭಕ್ತಿ"
+    en: devotion
+    kn: ಭಕ್ತಿ
+enabled: false
 ---
 
 ## English

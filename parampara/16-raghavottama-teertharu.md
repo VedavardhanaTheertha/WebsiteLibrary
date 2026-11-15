@@ -4,11 +4,11 @@ position: 16
 name: Sri Raghavottama Teertharu (ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು)
 name-en: Sri Raghavottama Teertharu
 name-kn: ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು
-timePeriod: '1611–1632 CE (ಶಾ.ಶಕ ೧೫೫೪)'
-timePeriod-en: '1611–1632 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೬೧೧–೧೬೩೨ (ಶಾ.ಶಕ ೧೫೫೪)'
-shaka: '1554'
-shaka-kn: '೧೫೫೪'
+timePeriod: 1611–1632 CE (ಶಾ.ಶಕ ೧೫೫೪)
+timePeriod-en: 1611–1632 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೬೧೧–೧೬೩೨ (ಶಾ.ಶಕ ೧೫೫೪)
+shaka: "1554"
+shaka-kn: ೧೫೫೪
 samvatsara-en: Angirasa
 samvatsara-kn: ಅಂಗೀರಸ
 aradhana-en: Margashirsha Shukla Saptami
@@ -19,12 +19,11 @@ summary: |-
   Sri Raghavottama Teertharu is the sixteenth pontiff of Sri Shiroor Matha, revered for his single-minded dedication to daily worship and philosophical discourse. He guided the samsthana for 21 years and attained Vishnu Pada on the banks of the sacred Bheemarathi river in 1632 CE.
 
   ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿರಂತರ ಪೂಜಾ-ಪ್ರವಚನ ತತ್ಪರರಾಗಿ ಸಂಸ್ಥಾನವನ್ನು ೨೧ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೬೩೨ ರಲ್ಲಿ ಭೀಮರಥೀ (ಭೀಮಾ) ನದೀತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Raghavottama Teertharu is the sixteenth pontiff of Sri Shiroor Matha, revered for his single-minded dedication to daily worship and philosophical discourse. He guided the samsthana for 21 years and attained Vishnu Pada on the banks of the sacred Bheemarathi river in 1632 CE.
-summary-kn: |-
-  ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿರಂತರ ಪೂಜಾ-ಪ್ರವಚನ ತತ್ಪರರಾಗಿ ಸಂಸ್ಥಾನವನ್ನು ೨೧ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೬೩೨ ರಲ್ಲಿ ಭೀಮರಥೀ (ಭೀಮಾ) ನದೀತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Raghavottama Teertharu is the sixteenth pontiff of Sri Shiroor Matha, revered for his single-minded dedication to daily worship and philosophical discourse. He guided the samsthana for 21 years and attained Vishnu Pada on the banks of the sacred Bheemarathi river in 1632 CE.
+summary-kn: ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಹದಿನಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ನಿರಂತರ ಪೂಜಾ-ಪ್ರವಚನ ತತ್ಪರರಾಗಿ ಸಂಸ್ಥಾನವನ್ನು ೨೧ ವರ್ಷಗಳ ಕಾಲ ಮುನ್ನಡೆಸಿ ಕ್ರಿ.ಶ. ೧೬೩೨ ರಲ್ಲಿ ಭೀಮರಥೀ (ಭೀಮಾ) ನದೀತೀರದಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Raghavottama Teertharu (ಶ್ರೀ ರಾಘವೋತ್ತಮ ತೀರ್ಥರು)

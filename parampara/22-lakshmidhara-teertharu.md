@@ -4,11 +4,11 @@ position: 22
 name: Sri Lakshmidhara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು)
 name-en: Sri Lakshmidhara Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು
-timePeriod: '1720–1735 CE (ಶಾ.ಶಕ ೧೬೫೭)'
-timePeriod-en: '1720–1735 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೭೨೦–೧೭೩೫ (ಶಾ.ಶಕ ೧೬೫೭)'
-shaka: '1657'
-shaka-kn: '೧೬೫೭'
+timePeriod: 1720–1735 CE (ಶಾ.ಶಕ ೧೬೫೭)
+timePeriod-en: 1720–1735 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೭೨೦–೧೭೩೫ (ಶಾ.ಶಕ ೧೬೫೭)
+shaka: "1657"
+shaka-kn: ೧೬೫೭
 samvatsara-en: Rakshasa
 samvatsara-kn: ರಾಕ್ಷಸ
 aradhana-en: Shravana Krishna Ashtami (Sri Krishna Janmashtami)
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmidhara Teertharu is the twenty-second pontiff of Sri Shiroor Matha, who received sanyasa initiation from Sri Lakshmipathi Teertharu. Dedicated to unbroken worship of Lord Sri Krishna and Lord Sri Vittala, he guided the samsthana for 15 years and attained Vishnu Pada at Puttige in 1735 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸಾಶ್ರಮ ಪಡೆದು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೧೫ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೩೫ ರಲ್ಲಿ ಪುತ್ತಿಗೆಯಲ್ಲಿ (ಹಿರಿಯಡ್ಕ) ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshmidhara Teertharu is the twenty-second pontiff of Sri Shiroor Matha, who received sanyasa initiation from Sri Lakshmipathi Teertharu. Dedicated to unbroken worship of Lord Sri Krishna and Lord Sri Vittala, he guided the samsthana for 15 years and attained Vishnu Pada at Puttige in 1735 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸಾಶ್ರಮ ಪಡೆದು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೧೫ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೩೫ ರಲ್ಲಿ ಪುತ್ತಿಗೆಯಲ್ಲಿ (ಹಿರಿಯಡ್ಕ) ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmidhara Teertharu is the twenty-second pontiff of Sri Shiroor Matha, who received sanyasa initiation from Sri Lakshmipathi Teertharu. Dedicated to unbroken worship of Lord Sri Krishna and Lord Sri Vittala, he guided the samsthana for 15 years and attained Vishnu Pada at Puttige in 1735 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೆರಡನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರಿಂದ ಸನ್ಯಾಸಾಶ್ರಮ ಪಡೆದು ಶ್ರೀಕೃಷ್ಣ-ವಿಠಲ ಪೂಜಾನಿರತರಾಗಿ ೧೫ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೭೩೫ ರಲ್ಲಿ ಪುತ್ತಿಗೆಯಲ್ಲಿ (ಹಿರಿಯಡ್ಕ) ವಿಷ್ಣುಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmidhara Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಧರ ತೀರ್ಥರು)

@@ -1,24 +1,25 @@
 ---
 id: ekadashi-vrata
 title:
-  en: "Ekadashi Vrata"
-  kn: "ಏಕಾದಶಿ ವ್ರತ"
+  en: Ekadashi Vrata
+  kn: ಏಕಾದಶಿ ವ್ರತ
 summary:
-  en: "A general introduction to Ekadashi fasting and remembrance."
-  kn: "ಏಕಾದಶಿಯ ಉಪವಾಸ ಮತ್ತು ಭಗವಂತನ ಸ್ಮರಣೆಯ ಸಾಮಾನ್ಯ ಪರಿಚಯ."
+  en: A general introduction to Ekadashi fasting and remembrance.
+  kn: ಏಕಾದಶಿಯ ಉಪವಾಸ ಮತ್ತು ಭಗವಂತನ ಸ್ಮರಣೆಯ ಸಾಮಾನ್ಯ ಪರಿಚಯ.
 status:
-  en: "General orientation"
-  kn: "ಸಾಮಾನ್ಯ ಪರಿಚಯ"
+  en: General orientation
+  kn: ಸಾಮಾನ್ಯ ಪರಿಚಯ
 tags:
   - code: ekadashi
-    en: "Ekadashi"
-    kn: "ಏಕಾದಶಿ"
+    en: Ekadashi
+    kn: ಏಕಾದಶಿ
   - code: vrata
-    en: "vrata"
-    kn: "ವ್ರತ"
+    en: vrata
+    kn: ವ್ರತ
   - code: fasting
-    en: "fasting"
-    kn: "ಉಪವಾಸ"
+    en: fasting
+    kn: ಉಪವಾಸ
+enabled: false
 ---
 
 ## English

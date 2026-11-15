@@ -1,50 +1,51 @@
 ---
-id: "seva-042-chinnada-thottilu-pooja"
+id: seva-042-chinnada-thottilu-pooja
 code: 42
 entity_id: 3
 event_id: 4
 title:
-  en: "Chinnada Thottilu Pooja"
-  kn: "ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ"
+  en: Chinnada Thottilu Pooja
+  kn: ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ
 name:
-  en: "Chinnada Thottilu Pooja"
-  kn: "ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ"
+  en: Chinnada Thottilu Pooja
+  kn: ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ
 category:
-  code: "krishna-sannidhi"
-  en: "Sevas Offered to Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು"
+  code: krishna-sannidhi
+  en: Sevas Offered to Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿಗೆ ಸಲ್ಲಿಸುವ ಸೇವೆಗಳು
 sannidhi:
-  en: "Lord Shree Krishna Sannidhi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ"
+  en: Lord Shree Krishna Sannidhi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಸನ್ನಿಧಿ
 deity:
-  en: "Lord Sri Krishna"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು"
+  en: Lord Sri Krishna
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 1500
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/042-chinnada-thottilu-pooja.avif"
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/042-chinnada-thottilu-pooja.avif
 formatted_amount:
-  en: "₹1,500"
-  kn: "₹೧,೫೦೦"
-currency: "INR"
+  en: ₹1,500
+  kn: ₹೧,೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=42"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=42
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - krishna-sannidhi
 description:
-  en: "Golden Cradle (Chinnada Thottilu) Pooja rocking the child deity with lullabies and devotion."
-  kn: "ಚಿನ್ನದ ಸುಂದರ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮುದ್ದುಕೃಷ್ಣನನ್ನು ತೂಗಿ ಹಾಡುವ ದಿವ್ಯ ತೊಟ್ಟಿಲು ಸೇವೆ."
+  en: Golden Cradle (Chinnada Thottilu) Pooja rocking the child deity with lullabies and devotion.
+  kn: ಚಿನ್ನದ ಸುಂದರ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಮುದ್ದುಕೃಷ್ಣನನ್ನು ತೂಗಿ ಹಾಡುವ ದಿವ್ಯ ತೊಟ್ಟಿಲು ಸೇವೆ.
 significance:
-  en: "Bestows family happiness, harmony, child wellbeing, and peaceful family life."
-  kn: "ಬಂಗಾರದ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ತೂಗಿ, ಸಂತಾನ ಭಾಗ್ಯ ಹಾಗೂ ಮನೆತನದ ಶಾಂತಿ-ನೆಮ್ಮದಿಯನ್ನು ಪಡೆಯುವುದು."
+  en: Bestows family happiness, harmony, child wellbeing, and peaceful family life.
+  kn: ಬಂಗಾರದ ತೊಟ್ಟಿಲಿನಲ್ಲಿ ಕೃಷ್ಣನನ್ನು ತೂಗಿ, ಸಂತಾನ ಭಾಗ್ಯ ಹಾಗೂ ಮನೆತನದ ಶಾಂತಿ-ನೆಮ್ಮದಿಯನ್ನು ಪಡೆಯುವುದು.
+enabled: true
 ---
 
 # Chinnada Thottilu Pooja

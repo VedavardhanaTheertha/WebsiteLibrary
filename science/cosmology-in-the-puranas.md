@@ -1,25 +1,26 @@
 ---
 id: cosmology-in-the-puranas
 title:
-  en: "Cosmology in the Puranas"
-  kn: "ಪುರಾಣಗಳಲ್ಲಿನ ವಿಶ್ವವಿಜ್ಞಾನ"
+  en: Cosmology in the Puranas
+  kn: ಪುರಾಣಗಳಲ್ಲಿನ ವಿಶ್ವವಿಜ್ಞಾನ
 summary:
-  en: "A careful introduction to traditional accounts of time, worlds, and cycles."
-  kn: "ಕಾಲ, ಲೋಕಗಳು ಮತ್ತು ಚಕ್ರಗಳ ಸಾಂಪ್ರದಾಯಿಕ ವಿವರಣೆಗಳ ಎಚ್ಚರಿಕೆಯ ಪರಿಚಯ."
+  en: A careful introduction to traditional accounts of time, worlds, and cycles.
+  kn: ಕಾಲ, ಲೋಕಗಳು ಮತ್ತು ಚಕ್ರಗಳ ಸಾಂಪ್ರದಾಯಿಕ ವಿವರಣೆಗಳ ಎಚ್ಚರಿಕೆಯ ಪರಿಚಯ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
-image: "https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/cosmology-in-the-puranas.avif"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/cosmology-in-the-puranas.avif
 tags:
   - code: cosmology
-    en: "cosmology"
-    kn: "ವಿಶ್ವವಿಜ್ಞಾನ"
+    en: cosmology
+    kn: ವಿಶ್ವವಿಜ್ಞಾನ
   - code: purana
-    en: "Purana"
-    kn: "ಪುರಾಣ"
+    en: Purana
+    kn: ಪುರಾಣ
   - code: time
-    en: "time"
-    kn: "ಕಾಲ"
+    en: time
+    kn: ಕಾಲ
+enabled: false
 ---
 
 ## English

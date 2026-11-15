@@ -46,6 +46,7 @@ categories:
   - code: classical
     en: Classical
     kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+enabled: false
 ---
 
 # Devotional & Classical Concert by Mahesh Kale
@@ -81,4 +82,3 @@ National Award-winning vocalist Mahesh Kale presenting an inspiring Hindustani c
 ### Gallery Images
 
 ![Devotional & Classical Concert by Mahesh Kale - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif)
-

@@ -4,11 +4,11 @@ position: 26
 name: Sri Lakshmivallabha Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು)
 name-en: Sri Lakshmivallabha Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು
-timePeriod: '1829–1886 CE (ಶಾ.ಶಕ ೧೮೦೮)'
-timePeriod-en: '1829–1886 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೮೨೯–೧೮೮೬ (ಶಾ.ಶಕ ೧೮೦೮)'
-shaka: '1808'
-shaka-kn: '೧೮೦೮'
+timePeriod: 1829–1886 CE (ಶಾ.ಶಕ ೧೮೦೮)
+timePeriod-en: 1829–1886 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೮೨೯–೧೮೮೬ (ಶಾ.ಶಕ ೧೮೦೮)
+shaka: "1808"
+shaka-kn: ೧೮೦೮
 samvatsara-en: Vyaya
 samvatsara-kn: ವ್ಯಯ
 aradhana-en: Vaishakha Krishna Dvadashi
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmivallabha Teertharu is the twenty-sixth pontiff of Sri Shiroor Matha, celebrated as a great ascetic who completed five Vishnu Panchakas and three Sudha Mangalas. In an exalted passing, he departed for Vishnu Loka on a holy Dvadashi while performing pooja to Sri Vittala Devaru with the aarathi plate in his hands, after guiding the peetha for 57 years until 1886 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಐದು ವಿಷ್ಣುಪಂಚಕ ಮತ್ತು ಮೂರು ಸುಧಾಮಂಗಲಗಳನ್ನು ಪೂರೈಸಿ, ದ್ವಾದಶಿಯಂದು ಶ್ರೀವಿಠಲ ದೇವರಿಗೆ ಕೈಯಲ್ಲಿ ಆರತಿ ಹಿಡಿದು ಪೂಜಿಸುತ್ತಿದ್ದಂತೆಯೇ ವಿಷ್ಣುಲೋಕ ಸೇರಿದ ಪರಮತಪಸ್ವಿಗಳು. ೫೭ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೮೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-summary-en: |-
-  Sri Lakshmivallabha Teertharu is the twenty-sixth pontiff of Sri Shiroor Matha, celebrated as a great ascetic who completed five Vishnu Panchakas and three Sudha Mangalas. In an exalted passing, he departed for Vishnu Loka on a holy Dvadashi while performing pooja to Sri Vittala Devaru with the aarathi plate in his hands, after guiding the peetha for 57 years until 1886 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಐದು ವಿಷ್ಣುಪಂಚಕ ಮತ್ತು ಮೂರು ಸುಧಾಮಂಗಲಗಳನ್ನು ಪೂರೈಸಿ, ದ್ವಾದಶಿಯಂದು ಶ್ರೀವಿಠಲ ದೇವರಿಗೆ ಕೈಯಲ್ಲಿ ಆರತಿ ಹಿಡಿದು ಪೂಜಿಸುತ್ತಿದ್ದಂತೆಯೇ ವಿಷ್ಣುಲೋಕ ಸೇರಿದ ಪರಮತಪಸ್ವಿಗಳು. ೫೭ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೮೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmivallabha Teertharu is the twenty-sixth pontiff of Sri Shiroor Matha, celebrated as a great ascetic who completed five Vishnu Panchakas and three Sudha Mangalas. In an exalted passing, he departed for Vishnu Loka on a holy Dvadashi while performing pooja to Sri Vittala Devaru with the aarathi plate in his hands, after guiding the peetha for 57 years until 1886 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತಾರನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಐದು ವಿಷ್ಣುಪಂಚಕ ಮತ್ತು ಮೂರು ಸುಧಾಮಂಗಲಗಳನ್ನು ಪೂರೈಸಿ, ದ್ವಾದಶಿಯಂದು ಶ್ರೀವಿಠಲ ದೇವರಿಗೆ ಕೈಯಲ್ಲಿ ಆರತಿ ಹಿಡಿದು ಪೂಜಿಸುತ್ತಿದ್ದಂತೆಯೇ ವಿಷ್ಣುಲೋಕ ಸೇರಿದ ಪರಮತಪಸ್ವಿಗಳು. ೫೭ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೮೮೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ವೃಂದಾವನಸ್ಥರಾದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmivallabha Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀವಲ್ಲಭ ತೀರ್ಥರು)

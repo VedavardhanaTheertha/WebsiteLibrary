@@ -1,24 +1,25 @@
 ---
 id: paryaya-system
 title:
-  en: "Paryaya System"
-  kn: "ಪರ್ಯಾಯ ವ್ಯವಸ್ಥೆ"
+  en: Paryaya System
+  kn: ಪರ್ಯಾಯ ವ್ಯವಸ್ಥೆ
 summary:
-  en: "A reference guide to the rotating responsibility of Sri Krishna worship in Udupi."
-  kn: "ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ಪೂಜೆಯ ಆವರ್ತಕ ಜವಾಬ್ದಾರಿಯ ಉಲ್ಲೇಖ ಮಾರ್ಗದರ್ಶಿ."
+  en: A reference guide to the rotating responsibility of Sri Krishna worship in Udupi.
+  kn: ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ಪೂಜೆಯ ಆವರ್ತಕ ಜವಾಬ್ದಾರಿಯ ಉಲ್ಲೇಖ ಮಾರ್ಗದರ್ಶಿ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: paryaya
-    en: "Paryaya"
-    kn: "ಪರ್ಯಾಯ"
+    en: Paryaya
+    kn: ಪರ್ಯಾಯ
   - code: udupi
-    en: "Udupi"
-    kn: "ಉಡುಪಿ"
+    en: Udupi
+    kn: ಉಡುಪಿ
   - code: worship
-    en: "worship"
-    kn: "ಪೂಜೆ"
+    en: worship
+    kn: ಪೂಜೆ
+enabled: false
 ---
 
 ## English

@@ -4,11 +4,11 @@ position: 27
 name: Sri Lakshmisamudra Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು)
 name-en: Sri Lakshmisamudra Teertharu
 name-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು
-timePeriod: '1886–1926 CE (ಶಾ.ಶಕ ೧೮೩೮)'
-timePeriod-en: '1886–1926 CE'
-timePeriod-kn: 'ಕ್ರಿ.ಶ. ೧೮೮೬–೧೯೨೬ (ಶಾ.ಶಕ ೧೮೩೮)'
-shaka: '1838'
-shaka-kn: '೧೮೩೮'
+timePeriod: 1886–1926 CE (ಶಾ.ಶಕ ೧೮೩೮)
+timePeriod-en: 1886–1926 CE
+timePeriod-kn: ಕ್ರಿ.ಶ. ೧೮೮೬–೧೯೨೬ (ಶಾ.ಶಕ ೧೮೩೮)
+shaka: "1838"
+shaka-kn: ೧೮೩೮
 samvatsara-en: Nala
 samvatsara-kn: ನಳ
 aradhana-en: Ashwayuja Shukla Pratipat
@@ -19,12 +19,11 @@ summary: |-
   Sri Lakshmisamudra Teertharu is the twenty-seventh pontiff of Sri Shiroor Matha, celebrated for consecrating Sri Prana Devaru in the dining hall of Sri Krishna Matha, dedicating a magnificent Garuda Ratha during his Paryaya, and completely rebuilding Papooje Matha in stone. He governed the samsthana for 40 years and attained Haripada at Udupi in 1926 CE.
 
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೇಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯಲ್ಲಿ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಗರುಡ ರಥ ಸಮರ್ಪಿಸಿ, ಪಾಪೂಜೆ ಮಠವನ್ನು ಶಿಲಾಮಯವಾಗಿ ನವೀಕರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೪೦ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
-summary-en: |-
-  Sri Lakshmisamudra Teertharu is the twenty-seventh pontiff of Sri Shiroor Matha, celebrated for consecrating Sri Prana Devaru in the dining hall of Sri Krishna Matha, dedicating a magnificent Garuda Ratha during his Paryaya, and completely rebuilding Papooje Matha in stone. He governed the samsthana for 40 years and attained Haripada at Udupi in 1926 CE.
-summary-kn: |-
-  ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೇಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯಲ್ಲಿ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಗರುಡ ರಥ ಸಮರ್ಪಿಸಿ, ಪಾಪೂಜೆ ಮಠವನ್ನು ಶಿಲಾಮಯವಾಗಿ ನವೀಕರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೪೦ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
-thumbnailImage: ''
-fullImage: ''
+summary-en: Sri Lakshmisamudra Teertharu is the twenty-seventh pontiff of Sri Shiroor Matha, celebrated for consecrating Sri Prana Devaru in the dining hall of Sri Krishna Matha, dedicating a magnificent Garuda Ratha during his Paryaya, and completely rebuilding Papooje Matha in stone. He governed the samsthana for 40 years and attained Haripada at Udupi in 1926 CE.
+summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೇಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯಲ್ಲಿ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಗರುಡ ರಥ ಸಮರ್ಪಿಸಿ, ಪಾಪೂಜೆ ಮಠವನ್ನು ಶಿಲಾಮಯವಾಗಿ ನವೀಕರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೪೦ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
+thumbnailImage: ""
+fullImage: ""
+enabled: true
 ---
 
 # Sri Lakshmisamudra Teertharu (ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು)

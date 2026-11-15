@@ -1,24 +1,25 @@
 ---
 id: samskaras
 title:
-  en: "Samskaras"
-  kn: "ಸಂಸ್ಕಾರಗಳು"
+  en: Samskaras
+  kn: ಸಂಸ್ಕಾರಗಳು
 summary:
-  en: "An overview of rites that mark important stages of life."
-  kn: "ಜೀವನದ ಪ್ರಮುಖ ಹಂತಗಳನ್ನು ಗುರುತಿಸುವ ವಿಧಿಗಳ ಅವಲೋಕನ."
+  en: An overview of rites that mark important stages of life.
+  kn: ಜೀವನದ ಪ್ರಮುಖ ಹಂತಗಳನ್ನು ಗುರುತಿಸುವ ವಿಧಿಗಳ ಅವಲೋಕನ.
 status:
-  en: "Temporary content"
-  kn: "ತಾತ್ಕಾಲಿಕ ವಿಷಯ"
+  en: Temporary content
+  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
 tags:
   - code: samskara
-    en: "samskara"
-    kn: "ಸಂಸ್ಕಾರ"
+    en: samskara
+    kn: ಸಂಸ್ಕಾರ
   - code: rites
-    en: "rites"
-    kn: "ವಿಧಿಗಳು"
+    en: rites
+    kn: ವಿಧಿಗಳು
   - code: family
-    en: "family"
-    kn: "ಕುಟುಂಬ"
+    en: family
+    kn: ಕುಟುಂಬ
+enabled: false
 ---
 
 ## English

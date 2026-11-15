@@ -1,49 +1,50 @@
 ---
-id: "seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike"
+id: seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike
 code: 92
 entity_id: 3
 event_id: 4
 title:
-  en: "Ashlesha Bali Pradhana Homa Sahitha Kanike"
-  kn: "ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ"
+  en: Ashlesha Bali Pradhana Homa Sahitha Kanike
+  kn: ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ
 name:
-  en: "Ashlesha Bali Pradhana Homa Sahitha Kanike"
-  kn: "ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ"
+  en: Ashlesha Bali Pradhana Homa Sahitha Kanike
+  kn: ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 3000
 formatted_amount:
-  en: "₹3,000"
-  kn: "₹೩,೦೦೦"
-currency: "INR"
+  en: ₹3,000
+  kn: ₹೩,೦೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=92"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=92
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Ashlesha Bali with Pradhana Homa and intricate geometric mandala rites for profound Naga Dosha mitigation."
-  kn: "ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿಯಲ್ಲಿ ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದಂದು ಪ್ರಧಾನ ಹೋಮ, ಮಂಡಲ ಪೂಜೆ ಸಹಿತ ನೆರವೇರಿಸುವ ಸಂಪೂರ್ಣ ಆಶ್ಲೇಷಾ ಬಲಿ ಸೇವೆ."
+  en: Ashlesha Bali with Pradhana Homa and intricate geometric mandala rites for profound Naga Dosha mitigation.
+  kn: ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸನ್ನಿಧಿಯಲ್ಲಿ ಆಶ್ಲೇಷಾ ನಕ್ಷತ್ರದಂದು ಪ್ರಧಾನ ಹೋಮ, ಮಂಡಲ ಪೂಜೆ ಸಹಿತ ನೆರವೇರಿಸುವ ಸಂಪೂರ್ಣ ಆಶ್ಲೇಷಾ ಬಲಿ ಸೇವೆ.
 significance:
-  en: "The supreme traditional homa ritual for resolving intense Sarpa Dosha, delayed marriage, and progeny obstacles."
-  kn: "ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಆಶ್ಲೇಷಾ ಬಲಿಯಿಂದ ತೀವ್ರವಾದ ಸರ್ಪದೋಷ, ವಿವಾಹ ತಡೆ ಮತ್ತು ಸಂತಾನ ದೋಷಗಳು ನಿವಾರಣೆಯಾಗುತ್ತವೆ."
+  en: The supreme traditional homa ritual for resolving intense Sarpa Dosha, delayed marriage, and progeny obstacles.
+  kn: ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಆಶ್ಲೇಷಾ ಬಲಿಯಿಂದ ತೀವ್ರವಾದ ಸರ್ಪದೋಷ, ವಿವಾಹ ತಡೆ ಮತ್ತು ಸಂತಾನ ದೋಷಗಳು ನಿವಾರಣೆಯಾಗುತ್ತವೆ.
+enabled: true
 ---
 
 # Ashlesha Bali Pradhana Homa Sahitha Kanike

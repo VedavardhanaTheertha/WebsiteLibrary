@@ -1,49 +1,50 @@
 ---
-id: "seva-102-brahmachari-aradhane"
+id: seva-102-brahmachari-aradhane
 code: 102
 entity_id: 3
 event_id: 4
 title:
-  en: "Brahmachari Aradhane"
-  kn: "ಬ್ರಹ್ಮಚಾರಿ ಆರಾಧನೆ"
+  en: Brahmachari Aradhane
+  kn: ಬ್ರಹ್ಮಚಾರಿ ಆರಾಧನೆ
 name:
-  en: "Brahmachari Aradhane"
-  kn: "ಬ್ರಹ್ಮಚಾರಿ ಆರಾಧನೆ"
+  en: Brahmachari Aradhane
+  kn: ಬ್ರಹ್ಮಚಾರಿ ಆರಾಧನೆ
 category:
-  code: "other-sevas"
-  en: "Other Sevas"
-  kn: "ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು"
+  code: other-sevas
+  en: Other Sevas
+  kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
-  en: "Shri Krishna Matha & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Shri Krishna Matha & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 deity:
-  en: "Lord Sri Krishna & Shri Shiroor Matha"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ"
+  en: Lord Sri Krishna & Shri Shiroor Matha
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
 location:
-  en: "Shri Krishna Matha, Udupi"
-  kn: "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ"
+  en: Shri Krishna Matha, Udupi
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 500
 formatted_amount:
-  en: "₹500"
-  kn: "₹೫೦೦"
-currency: "INR"
+  en: ₹500
+  kn: ₹೫೦೦
+currency: INR
 highlight: 0
 is_popular: false
-booking_url: "https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=102"
+booking_url: https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=102
 contact:
-  phone: "+91 820 2520448"
-  email: "support@shiroormatha.org"
+  phone: +91 820 2520448
+  email: support@shiroormatha.org
 tags:
   - seva
   - udupi krishna matha
   - shiroor matha
   - other-sevas
 description:
-  en: "Brahmachari Aradhane honoring young celibate students studying Vedas with food, clothes, and dakshina."
-  kn: "ವೇದ ಕಲಿಯುತ್ತಿರುವ ಯುವ ಬ್ರಹ್ಮಚಾರಿ ವಟುಗಳಿಗೆ ವಸ್ತ್ರ, ದಕ್ಷಿಣೆ ಮತ್ತು ಭೋಜನ ನೀಡಿ ಗೌರವಿಸುವ ಪುಣ್ಯ ಸೇವೆ."
+  en: Brahmachari Aradhane honoring young celibate students studying Vedas with food, clothes, and dakshina.
+  kn: ವೇದ ಕಲಿಯುತ್ತಿರುವ ಯುವ ಬ್ರಹ್ಮಚಾರಿ ವಟುಗಳಿಗೆ ವಸ್ತ್ರ, ದಕ್ಷಿಣೆ ಮತ್ತು ಭೋಜನ ನೀಡಿ ಗೌರವಿಸುವ ಪುಣ್ಯ ಸೇವೆ.
 significance:
-  en: "Pleasing young students of the Vedas is praised as directly pleasing Lord Hayagriva."
-  kn: "ವೇದವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಭೋಜನ ಮತ್ತು ದಕ್ಷಿಣೆ ನೀಡಿ ಗೌರವಿಸುವುದರಿಂದ ವಿದ್ಯೆ, ಜ್ಞಾನ ಮತ್ತು ಗುರುಕೃಪೆ ಲಭಿಸುತ್ತದೆ."
+  en: Pleasing young students of the Vedas is praised as directly pleasing Lord Hayagriva.
+  kn: ವೇದವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಭೋಜನ ಮತ್ತು ದಕ್ಷಿಣೆ ನೀಡಿ ಗೌರವಿಸುವುದರಿಂದ ವಿದ್ಯೆ, ಜ್ಞಾನ ಮತ್ತು ಗುರುಕೃಪೆ ಲಭಿಸುತ್ತದೆ.
+enabled: true
 ---
 
 # Brahmachari Aradhane
