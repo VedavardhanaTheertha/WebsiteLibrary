@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7df8de30/dc09a5b4-l.webp
 title:
   en: Aralugaddige
-  kn: Aralugaddige
+  kn: ಅರಳುಗದ್ದಿಗೆ
 description:
   en: Aralugaddige — celebrations and darshan.
-  kn: Aralugaddige — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅರಳುಗದ್ದಿಗೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Aralugaddige
   kn:
     - ಪರ್ಯಾಯ
-    - Aralugaddige
+    - ಅರಳುಗದ್ದಿಗೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7df8de30/dc09a5b4-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7df8de30/dc09a5b4-l.webp

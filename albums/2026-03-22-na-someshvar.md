@@ -4,17 +4,17 @@ date: "2026-03-22"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/124947ea/990f7766-l.webp
 title:
   en: Na Someshvar
-  kn: Na Someshvar
+  kn: ಡಾ. ನಾ. ಸೋಮೇಶ್ವರ ಅವರ ಭೇಟಿ
 description:
   en: Na Someshvar — celebrations and darshan.
-  kn: Na Someshvar — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಡಾ. ನಾ. ಸೋಮೇಶ್ವರ ಅವರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Na Someshvar
   kn:
     - ಪರ್ಯಾಯ
-    - Na Someshvar
+    - ಡಾ. ನಾ. ಸೋಮೇಶ್ವರ ಅವರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/124947ea/990f7766-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/124947ea/990f7766-l.webp

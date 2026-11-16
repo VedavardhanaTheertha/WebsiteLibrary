@@ -4,17 +4,17 @@ date: "2026-01-09"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/55536a47/06b21d0a-l.webp
 title:
   en: Purapravesha
-  kn: Purapravesha
+  kn: ಪುರಪ್ರವೇಶ
 description:
   en: Purapravesha — celebrations and darshan.
-  kn: Purapravesha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪುರಪ್ರವೇಶ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Purapravesha
   kn:
     - ಪರ್ಯಾಯ
-    - Purapravesha
+    - ಪುರಪ್ರವೇಶ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/55536a47/06b21d0a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/55536a47/06b21d0a-l.webp

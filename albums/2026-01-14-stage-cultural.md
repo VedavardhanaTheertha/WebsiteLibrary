@@ -4,17 +4,17 @@ date: "2026-01-14"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5dff7b3e/3e7cbe47-l.webp
 title:
   en: stage & Cultural
-  kn: stage & Cultural
+  kn: ವೇದಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ
 description:
   en: stage & Cultural — celebrations and darshan.
-  kn: stage & Cultural — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವೇದಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - stage & Cultural
   kn:
     - ಪರ್ಯಾಯ
-    - stage & Cultural
+    - ವೇದಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5dff7b3e/3e7cbe47-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5dff7b3e/3e7cbe47-l.webp

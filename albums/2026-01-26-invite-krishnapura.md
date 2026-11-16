@@ -4,17 +4,17 @@ date: "2026-01-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9a411cf5/f1ea029e-l.webp
 title:
   en: Invite Krishnapura
-  kn: Invite Krishnapura
+  kn: ಕೃಷ್ಣಾಪುರ ಶ್ರೀಗಳ ಆಹ್ವಾನ
 description:
   en: Invite Krishnapura — celebrations and darshan.
-  kn: Invite Krishnapura — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕೃಷ್ಣಾಪುರ ಶ್ರೀಗಳ ಆಹ್ವಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Invite Krishnapura
   kn:
     - ಪರ್ಯಾಯ
-    - Invite Krishnapura
+    - ಕೃಷ್ಣಾಪುರ ಶ್ರೀಗಳ ಆಹ್ವಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9a411cf5/f1ea029e-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9a411cf5/f1ea029e-l.webp

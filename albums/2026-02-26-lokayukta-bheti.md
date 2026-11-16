@@ -4,17 +4,17 @@ date: "2026-02-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/554b04e5/8b03f7c1-l.webp
 title:
   en: Lokayukta Bheti
-  kn: Lokayukta Bheti
+  kn: ಲೋಕಾಯುಕ್ತರ ಭೇಟಿ
 description:
   en: Lokayukta Bheti — celebrations and darshan.
-  kn: Lokayukta Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಲೋಕಾಯುಕ್ತರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Lokayukta Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Lokayukta Bheti
+    - ಲೋಕಾಯುಕ್ತರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/554b04e5/8b03f7c1-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/554b04e5/8b03f7c1-l.webp

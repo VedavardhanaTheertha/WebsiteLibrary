@@ -4,17 +4,17 @@ date: "2026-03-03"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0d7b7a64/0a45e90a-l.webp
 title:
   en: Bojanashala New Cleaning Machine
-  kn: Bojanashala New Cleaning Machine
+  kn: ಭೋಜನಶಾಲೆಯ ಹೊಸ ಸ್ವಚ್ಛತಾ ಯಂತ್ರ
 description:
   en: Bojanashala New Cleaning Machine — celebrations and darshan.
-  kn: Bojanashala New Cleaning Machine — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭೋಜನಶಾಲೆಯ ಹೊಸ ಸ್ವಚ್ಛತಾ ಯಂತ್ರ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bojanashala New Cleaning Machine
   kn:
     - ಪರ್ಯಾಯ
-    - Bojanashala New Cleaning Machine
+    - ಭೋಜನಶಾಲೆಯ ಹೊಸ ಸ್ವಚ್ಛತಾ ಯಂತ್ರ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0d7b7a64/0a45e90a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0d7b7a64/0a45e90a-l.webp

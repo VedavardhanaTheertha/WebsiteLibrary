@@ -4,17 +4,17 @@ date: "2026-01-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd1844a6/362cd06c-l.webp
 title:
   en: + Hore Kanike Kateel
-  kn: + Hore Kanike Kateel
+  kn: ಕಟೀಲು ಹೊರೆಕಾಣಿಕೆ
 description:
   en: + Hore Kanike Kateel — celebrations and darshan.
-  kn: + Hore Kanike Kateel — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕಟೀಲು ಹೊರೆಕಾಣಿಕೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - + Hore Kanike Kateel
   kn:
     - ಪರ್ಯಾಯ
-    - + Hore Kanike Kateel
+    - ಕಟೀಲು ಹೊರೆಕಾಣಿಕೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd1844a6/362cd06c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd1844a6/362cd06c-l.webp

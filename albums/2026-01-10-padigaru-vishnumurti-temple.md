@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d8c7013/cce297c4-l.webp
 title:
   en: Padigaru Vishnumurti Temple
-  kn: Padigaru Vishnumurti Temple
+  kn: ಪಾಡಿಗಾರು ವಿಷ್ಣುಮೂರ್ತಿ ದೇವಸ್ಥಾನ
 description:
   en: Padigaru Vishnumurti Temple — celebrations and darshan.
-  kn: Padigaru Vishnumurti Temple — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪಾಡಿಗಾರು ವಿಷ್ಣುಮೂರ್ತಿ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Padigaru Vishnumurti Temple
   kn:
     - ಪರ್ಯಾಯ
-    - Padigaru Vishnumurti Temple
+    - ಪಾಡಿಗಾರು ವಿಷ್ಣುಮೂರ್ತಿ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d8c7013/cce297c4-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d8c7013/cce297c4-l.webp

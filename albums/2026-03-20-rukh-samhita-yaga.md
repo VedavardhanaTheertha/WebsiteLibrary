@@ -4,17 +4,17 @@ date: "2026-03-20"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3f9ad827/1d3c686f-l.webp
 title:
   en: Rukh Samhita Yaga
-  kn: Rukh Samhita Yaga
+  kn: ಋಕ್ ಸಂಹಿತಾ ಯಾಗ
 description:
   en: Rukh Samhita Yaga — celebrations and darshan.
-  kn: Rukh Samhita Yaga — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಋಕ್ ಸಂಹಿತಾ ಯಾಗ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Rukh Samhita Yaga
   kn:
     - ಪರ್ಯಾಯ
-    - Rukh Samhita Yaga
+    - ಋಕ್ ಸಂಹಿತಾ ಯಾಗ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3f9ad827/1d3c686f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3f9ad827/1d3c686f-l.webp

@@ -4,17 +4,17 @@ date: "2026-02-07"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/93ed51bf/0aa63c61-l.webp
 title:
   en: Sihmahasana
-  kn: Sihmahasana
+  kn: ಸಿಂಹಾಸನ
 description:
   en: Sihmahasana — celebrations and darshan.
-  kn: Sihmahasana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಿಂಹಾಸನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Sihmahasana
   kn:
     - ಪರ್ಯಾಯ
-    - Sihmahasana
+    - ಸಿಂಹಾಸನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/93ed51bf/0aa63c61-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/93ed51bf/0aa63c61-l.webp

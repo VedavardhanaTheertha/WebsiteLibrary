@@ -4,17 +4,17 @@ date: "2026-02-06"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9248b1ca/4b4255b9-l.webp
 title:
   en: Ratri Pooje
-  kn: Ratri Pooje
+  kn: ರಾತ್ರಿ ಪೂಜೆ
 description:
   en: Ratri Pooje — celebrations and darshan.
-  kn: Ratri Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಾತ್ರಿ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Ratri Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Ratri Pooje
+    - ರಾತ್ರಿ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9248b1ca/4b4255b9-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9248b1ca/4b4255b9-l.webp

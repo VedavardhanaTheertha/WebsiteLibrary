@@ -4,17 +4,17 @@ date: "2026-02-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd4f0957/c610f240-l.webp
 title:
   en: Brahmana Sabha Outhana
-  kn: Brahmana Sabha Outhana
+  kn: ಬ್ರಾಹ್ಮಣ ಸಭಾ ಔತಣಕೂಟ
 description:
   en: Brahmana Sabha Outhana — celebrations and darshan.
-  kn: Brahmana Sabha Outhana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಬ್ರಾಹ್ಮಣ ಸಭಾ ಔತಣಕೂಟ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Brahmana Sabha Outhana
   kn:
     - ಪರ್ಯಾಯ
-    - Brahmana Sabha Outhana
+    - ಬ್ರಾಹ್ಮಣ ಸಭಾ ಔತಣಕೂಟ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd4f0957/c610f240-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd4f0957/c610f240-l.webp

@@ -4,17 +4,17 @@ date: "2026-04-13"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c7c6449/3b45dd8a-l.webp
 title:
   en: Akankara & Mahapooje (Pejavara Shri)
-  kn: Akankara & Mahapooje (Pejavara Shri)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು)
 description:
   en: Akankara & Mahapooje (Pejavara Shri) — celebrations and darshan.
-  kn: Akankara & Mahapooje (Pejavara Shri) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Akankara & Mahapooje (Pejavara Shri)
   kn:
     - ಪರ್ಯಾಯ
-    - Akankara & Mahapooje (Pejavara Shri)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c7c6449/3b45dd8a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c7c6449/3b45dd8a-l.webp

@@ -4,17 +4,17 @@ date: "2026-04-21"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9c5a8a9/dc7c758f-l.webp
 title:
   en: Kerala Guest
-  kn: Kerala Guest
+  kn: ಕೇರಳದ ಅತಿಥಿಗಳು
 description:
   en: Kerala Guest — celebrations and darshan.
-  kn: Kerala Guest — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕೇರಳದ ಅತಿಥಿಗಳು — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Kerala Guest
   kn:
     - ಪರ್ಯಾಯ
-    - Kerala Guest
+    - ಕೇರಳದ ಅತಿಥಿಗಳು
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9c5a8a9/dc7c758f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9c5a8a9/dc7c758f-l.webp

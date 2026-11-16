@@ -4,17 +4,17 @@ date: "2026-04-29"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/890e3948/21194769-l.webp
 title:
   en: Uttaradi Matha Samsthana Pooje
-  kn: Uttaradi Matha Samsthana Pooje
+  kn: ಉತ್ತರಾದಿ ಮಠ ಸಂಸ್ಥಾನ ಪೂಜೆ
 description:
   en: Uttaradi Matha Samsthana Pooje — celebrations and darshan.
-  kn: Uttaradi Matha Samsthana Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉತ್ತರಾದಿ ಮಠ ಸಂಸ್ಥಾನ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Uttaradi Matha Samsthana Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Uttaradi Matha Samsthana Pooje
+    - ಉತ್ತರಾದಿ ಮಠ ಸಂಸ್ಥಾನ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/890e3948/21194769-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/890e3948/21194769-l.webp

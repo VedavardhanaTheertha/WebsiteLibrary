@@ -4,17 +4,17 @@ date: "2026-01-14"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5b558291/dd441370-l.webp
 title:
   en: Makara Sankranti Krishna matha Bheti
-  kn: Makara Sankranti Krishna matha Bheti
+  kn: ಮಕರ ಸಂಕ್ರಾಂತಿ ಕೃಷ್ಣ ಮಠ ಭೇಟಿ
 description:
   en: Makara Sankranti Krishna matha Bheti — celebrations and darshan.
-  kn: Makara Sankranti Krishna matha Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಕರ ಸಂಕ್ರಾಂತಿ ಕೃಷ್ಣ ಮಠ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Makara Sankranti Krishna matha Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Makara Sankranti Krishna matha Bheti
+    - ಮಕರ ಸಂಕ್ರಾಂತಿ ಕೃಷ್ಣ ಮಠ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5b558291/dd441370-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5b558291/dd441370-l.webp

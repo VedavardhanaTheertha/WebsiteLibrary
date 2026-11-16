@@ -4,17 +4,17 @@ date: "2026-01-21"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8991b61f/863b33ae-l.webp
 title:
   en: vijayprakash
-  kn: vijayprakash
+  kn: ವಿಜಯಪ್ರಕಾಶ್
 description:
   en: vijayprakash — celebrations and darshan.
-  kn: vijayprakash — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಿಜಯಪ್ರಕಾಶ್ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - vijayprakash
   kn:
     - ಪರ್ಯಾಯ
-    - vijayprakash
+    - ವಿಜಯಪ್ರಕಾಶ್
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8991b61f/863b33ae-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8991b61f/863b33ae-l.webp

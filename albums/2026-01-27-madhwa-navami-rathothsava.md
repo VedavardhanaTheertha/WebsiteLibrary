@@ -4,17 +4,17 @@ date: "2026-01-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4df7f8c5/484bdb0a-l.webp
 title:
   en: madhwa navami rathothsava
-  kn: madhwa navami rathothsava
+  kn: ಮಧ್ವ ನವಮಿ ರಥೋತ್ಸವ
 description:
   en: madhwa navami rathothsava — celebrations and darshan.
-  kn: madhwa navami rathothsava — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಧ್ವ ನವಮಿ ರಥೋತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - madhwa navami rathothsava
   kn:
     - ಪರ್ಯಾಯ
-    - madhwa navami rathothsava
+    - ಮಧ್ವ ನವಮಿ ರಥೋತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4df7f8c5/484bdb0a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4df7f8c5/484bdb0a-l.webp

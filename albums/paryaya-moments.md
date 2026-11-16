@@ -4,7 +4,7 @@ cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/58c87cc1/0f1c1f03-l
 event: a-carnatic-quartet-nadaswaram-violin
 title:
   en: Paryāya Moments
-  kn: ಪರ್ಯಾಯದ ಕ್ಷಣಗಳು
+  kn: ಪರ್ಯಾಯ ಕ್ಷಣಗಳು
 description:
   en: Ceremonies, preparations, and memorable moments from the Paryāya period.
   kn: ಪರ್ಯಾಯ ಅವಧಿಯ ಸಮಾರಂಭಗಳು, ಸಿದ್ಧತೆಗಳು ಮತ್ತು ಸ್ಮರಣೀಯ ಕ್ಷಣಗಳು.

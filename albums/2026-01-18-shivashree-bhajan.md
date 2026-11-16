@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/756b63a0/458142d1-l.webp
 title:
   en: Shivashree Bhajan
-  kn: Shivashree Bhajan
+  kn: ಶಿವಶ್ರೀ ಭಜನೆ
 description:
   en: Shivashree Bhajan — celebrations and darshan.
-  kn: Shivashree Bhajan — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶಿವಶ್ರೀ ಭಜನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Shivashree Bhajan
   kn:
     - ಪರ್ಯಾಯ
-    - Shivashree Bhajan
+    - ಶಿವಶ್ರೀ ಭಜನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/756b63a0/458142d1-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/756b63a0/458142d1-l.webp

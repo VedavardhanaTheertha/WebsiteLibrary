@@ -4,17 +4,17 @@ date: "2026-02-28"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cba0e04f/90fcb08c-l.webp
 title:
   en: Holi Celebration
-  kn: Holi Celebration
+  kn: ಹೋಳಿ ಆಚರಣೆ
 description:
   en: Holi Celebration — celebrations and darshan.
-  kn: Holi Celebration — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಹೋಳಿ ಆಚರಣೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Holi Celebration
   kn:
     - ಪರ್ಯಾಯ
-    - Holi Celebration
+    - ಹೋಳಿ ಆಚರಣೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cba0e04f/90fcb08c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cba0e04f/90fcb08c-l.webp

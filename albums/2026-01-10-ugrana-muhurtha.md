@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50143469/da94d707-l.webp
 title:
   en: Ugrana Muhurtha
-  kn: Ugrana Muhurtha
+  kn: ಉಗ್ರಾಣ ಮುಹೂರ್ತ
 description:
   en: Ugrana Muhurtha — celebrations and darshan.
-  kn: Ugrana Muhurtha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉಗ್ರಾಣ ಮುಹೂರ್ತ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Ugrana Muhurtha
   kn:
     - ಪರ್ಯಾಯ
-    - Ugrana Muhurtha
+    - ಉಗ್ರಾಣ ಮುಹೂರ್ತ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50143469/da94d707-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50143469/da94d707-l.webp

@@ -4,17 +4,17 @@ date: "2026-03-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5ad40650/fd258c38-l.webp
 title:
   en: Mahe President
-  kn: Mahe President
+  kn: ಮಾಹೆ ಅಧ್ಯಕ್ಷರ ಭೇಟಿ
 description:
   en: Mahe President — celebrations and darshan.
-  kn: Mahe President — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಾಹೆ ಅಧ್ಯಕ್ಷರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Mahe President
   kn:
     - ಪರ್ಯಾಯ
-    - Mahe President
+    - ಮಾಹೆ ಅಧ್ಯಕ್ಷರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5ad40650/fd258c38-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5ad40650/fd258c38-l.webp

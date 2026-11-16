@@ -4,17 +4,17 @@ date: "2026-01-13"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e004e432/e902158d-l.webp
 title:
   en: Cultural events
-  kn: Cultural events
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮಗಳು
 description:
   en: Cultural events — celebrations and darshan.
-  kn: Cultural events — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮಗಳು — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Cultural events
   kn:
     - ಪರ್ಯಾಯ
-    - Cultural events
+    - ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮಗಳು
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e004e432/e902158d-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e004e432/e902158d-l.webp

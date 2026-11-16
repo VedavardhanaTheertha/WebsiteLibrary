@@ -4,17 +4,17 @@ date: "2026-01-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3263f9d7/91ecaf35-l.webp
 title:
   en: karkala raghavendra matha
-  kn: karkala raghavendra matha
+  kn: ಕಾರ್ಕಳ ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿ ಮಠ
 description:
   en: karkala raghavendra matha — celebrations and darshan.
-  kn: karkala raghavendra matha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕಾರ್ಕಳ ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - karkala raghavendra matha
   kn:
     - ಪರ್ಯಾಯ
-    - karkala raghavendra matha
+    - ಕಾರ್ಕಳ ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿ ಮಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3263f9d7/91ecaf35-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3263f9d7/91ecaf35-l.webp

@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7a8f27c6/27d74b7c-l.webp
 title:
   en: DAndateertha
-  kn: DAndateertha
+  kn: ದಂಡತೀರ್ಥ
 description:
   en: DAndateertha — celebrations and darshan.
-  kn: DAndateertha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ದಂಡತೀರ್ಥ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - DAndateertha
   kn:
     - ಪರ್ಯಾಯ
-    - DAndateertha
+    - ದಂಡತೀರ್ಥ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7a8f27c6/27d74b7c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7a8f27c6/27d74b7c-l.webp

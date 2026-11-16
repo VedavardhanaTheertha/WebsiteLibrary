@@ -4,17 +4,17 @@ date: "2026-02-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/07e03e95/36c9983e-l.webp
 title:
   en: Minister Visit
-  kn: Minister Visit
+  kn: ಸಚಿವರ ಭೇಟಿ
 description:
   en: Minister Visit — celebrations and darshan.
-  kn: Minister Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಚಿವರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Minister Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Minister Visit
+    - ಸಚಿವರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/07e03e95/36c9983e-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/07e03e95/36c9983e-l.webp

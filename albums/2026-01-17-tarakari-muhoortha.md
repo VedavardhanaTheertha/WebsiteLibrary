@@ -4,17 +4,17 @@ date: "2026-01-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bbc3dff7/2904fbba-l.webp
 title:
   en: Tarakari Muhoortha
-  kn: Tarakari Muhoortha
+  kn: ತರಕಾರಿ ಮುಹೂರ್ತ
 description:
   en: Tarakari Muhoortha — celebrations and darshan.
-  kn: Tarakari Muhoortha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ತರಕಾರಿ ಮುಹೂರ್ತ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Tarakari Muhoortha
   kn:
     - ಪರ್ಯಾಯ
-    - Tarakari Muhoortha
+    - ತರಕಾರಿ ಮುಹೂರ್ತ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bbc3dff7/2904fbba-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bbc3dff7/2904fbba-l.webp

@@ -3,7 +3,7 @@ id: daily-worship
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bd3a73df/d3fcfa7f-l.webp
 title:
   en: Daily Worship
-  kn: ದೈನಂದಿನ ಪೂಜೆ
+  kn: ನಿತ್ಯ ಪೂಜೆ
 description:
   en: Morning and evening worship, sacred offerings, and darshan from the sanctum.
   kn: ಗರ್ಭಗುಡಿಯ ಬೆಳಗಿನ ಮತ್ತು ಸಂಜೆಯ ಪೂಜೆ, ಪವಿತ್ರ ಅರ್ಪಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.

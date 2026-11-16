@@ -4,17 +4,17 @@ date: "2026-04-02"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0971f50/ed7a0a41-l.webp
 title:
   en: Boiler Inogration
-  kn: Boiler Inogration
+  kn: ಬಾಯ್ಲರ್ ಉದ್ಘಾಟನೆ
 description:
   en: Boiler Inogration — celebrations and darshan.
-  kn: Boiler Inogration — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಬಾಯ್ಲರ್ ಉದ್ಘಾಟನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Boiler Inogration
   kn:
     - ಪರ್ಯಾಯ
-    - Boiler Inogration
+    - ಬಾಯ್ಲರ್ ಉದ್ಘಾಟನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0971f50/ed7a0a41-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0971f50/ed7a0a41-l.webp

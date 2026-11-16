@@ -4,17 +4,17 @@ date: "2026-04-29"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9cbad7ec/1dd66ce1-l.webp
 title:
   en: Chitrapura Matha Swamy Bheti
-  kn: Chitrapura Matha Swamy Bheti
+  kn: ಚಿತ್ರಾಪುರ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 description:
   en: Chitrapura Matha Swamy Bheti — celebrations and darshan.
-  kn: Chitrapura Matha Swamy Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಚಿತ್ರಾಪುರ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Chitrapura Matha Swamy Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Chitrapura Matha Swamy Bheti
+    - ಚಿತ್ರಾಪುರ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9cbad7ec/1dd66ce1-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9cbad7ec/1dd66ce1-l.webp

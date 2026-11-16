@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f0afbe04/942a694f-l.webp
 title:
   en: Krishnapura Mutt
-  kn: Krishnapura Mutt
+  kn: ಕೃಷ್ಣಾಪುರ ಮಠ
 description:
   en: Krishnapura Mutt — celebrations and darshan.
-  kn: Krishnapura Mutt — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕೃಷ್ಣಾಪುರ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Krishnapura Mutt
   kn:
     - ಪರ್ಯಾಯ
-    - Krishnapura Mutt
+    - ಕೃಷ್ಣಾಪುರ ಮಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f0afbe04/942a694f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f0afbe04/942a694f-l.webp

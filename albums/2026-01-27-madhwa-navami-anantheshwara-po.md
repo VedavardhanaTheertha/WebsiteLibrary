@@ -4,17 +4,17 @@ date: "2026-01-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/40ba6d31/3669d339-l.webp
 title:
   en: Madhwa navami Anantheshwara Pooje
-  kn: Madhwa navami Anantheshwara Pooje
+  kn: ಮಧ್ವ ನವಮಿ ಅನಂತೇಶ್ವರ ಪೂಜೆ
 description:
   en: Madhwa navami Anantheshwara Pooje — celebrations and darshan.
-  kn: Madhwa navami Anantheshwara Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಧ್ವ ನವಮಿ ಅನಂತೇಶ್ವರ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Madhwa navami Anantheshwara Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Madhwa navami Anantheshwara Pooje
+    - ಮಧ್ವ ನವಮಿ ಅನಂತೇಶ್ವರ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/40ba6d31/3669d339-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/40ba6d31/3669d339-l.webp

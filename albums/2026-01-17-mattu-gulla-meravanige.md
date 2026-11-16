@@ -4,17 +4,17 @@ date: "2026-01-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb6a59fc/59463004-l.webp
 title:
   en: Mattu Gulla Meravanige
-  kn: Mattu Gulla Meravanige
+  kn: ಮಟ್ಟು ಗುಳ್ಳ ಮೆರವಣಿಗೆ
 description:
   en: Mattu Gulla Meravanige — celebrations and darshan.
-  kn: Mattu Gulla Meravanige — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಟ್ಟು ಗುಳ್ಳ ಮೆರವಣಿಗೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Mattu Gulla Meravanige
   kn:
     - ಪರ್ಯಾಯ
-    - Mattu Gulla Meravanige
+    - ಮಟ್ಟು ಗುಳ್ಳ ಮೆರವಣಿಗೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb6a59fc/59463004-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb6a59fc/59463004-l.webp

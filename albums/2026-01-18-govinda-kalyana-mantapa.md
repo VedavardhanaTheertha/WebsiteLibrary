@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1f1bc806/5e9b3dfc-l.webp
 title:
   en: Govinda Kalyana Mantapa
-  kn: Govinda Kalyana Mantapa
+  kn: ಗೋವಿಂದ ಕಲ್ಯಾಣ ಮಂಟಪ
 description:
   en: Govinda Kalyana Mantapa — celebrations and darshan.
-  kn: Govinda Kalyana Mantapa — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಗೋವಿಂದ ಕಲ್ಯಾಣ ಮಂಟಪ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Govinda Kalyana Mantapa
   kn:
     - ಪರ್ಯಾಯ
-    - Govinda Kalyana Mantapa
+    - ಗೋವಿಂದ ಕಲ್ಯಾಣ ಮಂಟಪ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1f1bc806/5e9b3dfc-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1f1bc806/5e9b3dfc-l.webp

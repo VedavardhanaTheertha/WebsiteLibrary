@@ -4,17 +4,17 @@ date: "2026-02-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aa4b369b/f5abab87-l.webp
 title:
   en: Press Udupi
-  kn: Press Udupi
+  kn: ಮಾಧ್ಯಮ ಪ್ರತಿನಿಧಿಗಳು ಉಡುಪಿ
 description:
   en: Press Udupi — celebrations and darshan.
-  kn: Press Udupi — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಾಧ್ಯಮ ಪ್ರತಿನಿಧಿಗಳು ಉಡುಪಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Press Udupi
   kn:
     - ಪರ್ಯಾಯ
-    - Press Udupi
+    - ಮಾಧ್ಯಮ ಪ್ರತಿನಿಧಿಗಳು ಉಡುಪಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aa4b369b/f5abab87-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aa4b369b/f5abab87-l.webp

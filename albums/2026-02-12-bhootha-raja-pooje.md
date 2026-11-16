@@ -4,17 +4,17 @@ date: "2026-02-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dfc07325/a774b24e-l.webp
 title:
   en: Bhootha Raja Pooje
-  kn: Bhootha Raja Pooje
+  kn: ಭೂತರಾಜರ ಪೂಜೆ
 description:
   en: Bhootha Raja Pooje — celebrations and darshan.
-  kn: Bhootha Raja Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭೂತರಾಜರ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bhootha Raja Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Bhootha Raja Pooje
+    - ಭೂತರಾಜರ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dfc07325/a774b24e-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dfc07325/a774b24e-l.webp

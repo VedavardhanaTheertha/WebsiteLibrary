@@ -4,17 +4,17 @@ date: "2026-01-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bd3a73df/d3fcfa7f-l.webp
 title:
   en: Evening Pooje
-  kn: Evening Pooje
+  kn: ಸಾಯಂಕಾಲದ ಪೂಜೆ
 description:
   en: Evening Pooje — celebrations and darshan.
-  kn: Evening Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಯಂಕಾಲದ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Evening Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Evening Pooje
+    - ಸಾಯಂಕಾಲದ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bd3a73df/d3fcfa7f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bd3a73df/d3fcfa7f-l.webp

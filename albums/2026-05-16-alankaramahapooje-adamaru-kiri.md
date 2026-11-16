@@ -4,17 +4,17 @@ date: "2026-05-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aecdcb75/747af7a6-l.webp
 title:
   en: Alankara&Mahapooje (Adamaru Kiriya)
-  kn: Alankara&Mahapooje (Adamaru Kiriya)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಕಿರಿಯ ಶ್ರೀಗಳು)
 description:
   en: Alankara&Mahapooje (Adamaru Kiriya) — celebrations and darshan.
-  kn: Alankara&Mahapooje (Adamaru Kiriya) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಕಿರಿಯ ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara&Mahapooje (Adamaru Kiriya)
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara&Mahapooje (Adamaru Kiriya)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಕಿರಿಯ ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aecdcb75/747af7a6-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/aecdcb75/747af7a6-l.webp

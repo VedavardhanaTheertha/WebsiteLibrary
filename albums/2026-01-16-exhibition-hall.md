@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d13495b/bdd11ebb-l.webp
 title:
   en: Exhibition hall
-  kn: Exhibition hall
+  kn: ವಸ್ತುಪ್ರದರ್ಶನ ಸಭಾಂಗಣ
 description:
   en: Exhibition hall — celebrations and darshan.
-  kn: Exhibition hall — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಸ್ತುಪ್ರದರ್ಶನ ಸಭಾಂಗಣ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Exhibition hall
   kn:
     - ಪರ್ಯಾಯ
-    - Exhibition hall
+    - ವಸ್ತುಪ್ರದರ್ಶನ ಸಭಾಂಗಣ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d13495b/bdd11ebb-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d13495b/bdd11ebb-l.webp

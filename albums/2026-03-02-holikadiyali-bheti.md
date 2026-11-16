@@ -4,17 +4,17 @@ date: "2026-03-02"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/78a7f56a/e61367e4-l.webp
 title:
   en: Holi&Kadiyali bheti
-  kn: Holi&Kadiyali bheti
+  kn: ಹೋಳಿ ಮತ್ತು ಕಡಿಯಾಳಿ ಭೇಟಿ
 description:
   en: Holi&Kadiyali bheti — celebrations and darshan.
-  kn: Holi&Kadiyali bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಹೋಳಿ ಮತ್ತು ಕಡಿಯಾಳಿ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Holi&Kadiyali bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Holi&Kadiyali bheti
+    - ಹೋಳಿ ಮತ್ತು ಕಡಿಯಾಳಿ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/78a7f56a/e61367e4-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/78a7f56a/e61367e4-l.webp

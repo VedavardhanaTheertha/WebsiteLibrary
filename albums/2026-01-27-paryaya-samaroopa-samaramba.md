@@ -4,17 +4,17 @@ date: "2026-01-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5d2a02c9/ff074535-l.webp
 title:
   en: paryaya samaroopa samaramba
-  kn: paryaya samaroopa samaramba
+  kn: ಪರ್ಯಾಯ ಸಮಾರೋಪ ಸಮಾರಂಭ
 description:
   en: paryaya samaroopa samaramba — celebrations and darshan.
-  kn: paryaya samaroopa samaramba — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪರ್ಯಾಯ ಸಮಾರೋಪ ಸಮಾರಂಭ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - paryaya samaroopa samaramba
   kn:
     - ಪರ್ಯಾಯ
-    - paryaya samaroopa samaramba
+    - ಪರ್ಯಾಯ ಸಮಾರೋಪ ಸಮಾರಂಭ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5d2a02c9/ff074535-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/5d2a02c9/ff074535-l.webp

@@ -4,17 +4,17 @@ date: "2026-04-28"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e6e06293/e87faa33-l.webp
 title:
   en: New Dharshan Line Inogration
-  kn: New Dharshan Line Inogration
+  kn: ಹೊಸ ದರ್ಶನ ಸಾಲು ಉದ್ಘಾಟನೆ
 description:
   en: New Dharshan Line Inogration — celebrations and darshan.
-  kn: New Dharshan Line Inogration — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಹೊಸ ದರ್ಶನ ಸಾಲು ಉದ್ಘಾಟನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - New Dharshan Line Inogration
   kn:
     - ಪರ್ಯಾಯ
-    - New Dharshan Line Inogration
+    - ಹೊಸ ದರ್ಶನ ಸಾಲು ಉದ್ಘಾಟನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e6e06293/e87faa33-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e6e06293/e87faa33-l.webp

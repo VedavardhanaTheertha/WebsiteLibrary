@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae2d524c/c5ce6f70-l.webp
 title:
   en: Rathothsava - Sukumar
-  kn: Rathothsava - Sukumar
+  kn: ರಥೋತ್ಸವ
 description:
   en: Rathothsava - Sukumar — celebrations and darshan.
-  kn: Rathothsava - Sukumar — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಥೋತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Rathothsava - Sukumar
   kn:
     - ಪರ್ಯಾಯ
-    - Rathothsava - Sukumar
+    - ರಥೋತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae2d524c/c5ce6f70-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae2d524c/c5ce6f70-l.webp

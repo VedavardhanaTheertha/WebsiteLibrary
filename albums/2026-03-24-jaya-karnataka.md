@@ -4,17 +4,17 @@ date: "2026-03-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/44e5fe62/5374eb8a-l.webp
 title:
   en: Jaya Karnataka
-  kn: Jaya Karnataka
+  kn: ಜಯ ಕರ್ನಾಟಕ
 description:
   en: Jaya Karnataka — celebrations and darshan.
-  kn: Jaya Karnataka — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಜಯ ಕರ್ನಾಟಕ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Jaya Karnataka
   kn:
     - ಪರ್ಯಾಯ
-    - Jaya Karnataka
+    - ಜಯ ಕರ್ನಾಟಕ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/44e5fe62/5374eb8a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/44e5fe62/5374eb8a-l.webp

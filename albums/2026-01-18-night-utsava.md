@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a79ef38b/5a9c8c42-l.webp
 title:
   en: Night Utsava
-  kn: Night Utsava
+  kn: ರಾತ್ರಿ ಉತ್ಸವ
 description:
   en: Night Utsava — celebrations and darshan.
-  kn: Night Utsava — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಾತ್ರಿ ಉತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Night Utsava
   kn:
     - ಪರ್ಯಾಯ
-    - Night Utsava
+    - ರಾತ್ರಿ ಉತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a79ef38b/5a9c8c42-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a79ef38b/5a9c8c42-l.webp

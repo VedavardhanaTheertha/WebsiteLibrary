@@ -4,17 +4,17 @@ date: "2026-03-19"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/20c8dfcc/dfddde4e-l.webp
 title:
   en: Arani mathana ruk samhita yaga
-  kn: Arani mathana ruk samhita yaga
+  kn: ಅರಣಿ ಮಥನ ಋಕ್ ಸಂಹಿತಾ ಯಾಗ
 description:
   en: Arani mathana ruk samhita yaga — celebrations and darshan.
-  kn: Arani mathana ruk samhita yaga — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅರಣಿ ಮಥನ ಋಕ್ ಸಂಹಿತಾ ಯಾಗ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Arani mathana ruk samhita yaga
   kn:
     - ಪರ್ಯಾಯ
-    - Arani mathana ruk samhita yaga
+    - ಅರಣಿ ಮಥನ ಋಕ್ ಸಂಹಿತಾ ಯಾಗ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/20c8dfcc/dfddde4e-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/20c8dfcc/dfddde4e-l.webp

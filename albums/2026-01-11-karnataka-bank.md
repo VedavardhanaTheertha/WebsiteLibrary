@@ -4,17 +4,17 @@ date: "2026-01-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a3e7dfe8/2e06b524-l.webp
 title:
   en: Karnataka Bank
-  kn: Karnataka Bank
+  kn: ಕರ್ನಾಟಕ ಬ್ಯಾಂಕ್
 description:
   en: Karnataka Bank — celebrations and darshan.
-  kn: Karnataka Bank — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕರ್ನಾಟಕ ಬ್ಯಾಂಕ್ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Karnataka Bank
   kn:
     - ಪರ್ಯಾಯ
-    - Karnataka Bank
+    - ಕರ್ನಾಟಕ ಬ್ಯಾಂಕ್
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a3e7dfe8/2e06b524-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a3e7dfe8/2e06b524-l.webp

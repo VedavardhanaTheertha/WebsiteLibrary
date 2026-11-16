@@ -4,17 +4,17 @@ date: "2026-01-13"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d96dce88/967ad874-l.webp
 title:
   en: Horekanike - Dharmastala
-  kn: Horekanike - Dharmastala
+  kn: ಧರ್ಮಸ್ಥಳ ಹೊರೆಕಾಣಿಕೆ
 description:
   en: Horekanike - Dharmastala — celebrations and darshan.
-  kn: Horekanike - Dharmastala — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಧರ್ಮಸ್ಥಳ ಹೊರೆಕಾಣಿಕೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Horekanike - Dharmastala
   kn:
     - ಪರ್ಯಾಯ
-    - Horekanike - Dharmastala
+    - ಧರ್ಮಸ್ಥಳ ಹೊರೆಕಾಣಿಕೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d96dce88/967ad874-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d96dce88/967ad874-l.webp

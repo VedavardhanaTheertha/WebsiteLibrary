@@ -4,17 +4,17 @@ date: "2026-03-31"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8ca3979e/cbef9dac-l.webp
 title:
   en: Amdhra MLA Visit
-  kn: Amdhra MLA Visit
+  kn: ಆಂಧ್ರ ಶಾಸಕರ ಭೇಟಿ
 description:
   en: Amdhra MLA Visit — celebrations and darshan.
-  kn: Amdhra MLA Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಆಂಧ್ರ ಶಾಸಕರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Amdhra MLA Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Amdhra MLA Visit
+    - ಆಂಧ್ರ ಶಾಸಕರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8ca3979e/cbef9dac-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8ca3979e/cbef9dac-l.webp

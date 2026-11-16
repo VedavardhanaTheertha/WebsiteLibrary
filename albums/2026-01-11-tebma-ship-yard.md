@@ -4,17 +4,17 @@ date: "2026-01-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bcc6ac28/7291ca8b-l.webp
 title:
   en: Tebma Ship Yard
-  kn: Tebma Ship Yard
+  kn: ಟೆಬ್ಮಾ ಶಿಪ್ ಯಾರ್ಡ್
 description:
   en: Tebma Ship Yard — celebrations and darshan.
-  kn: Tebma Ship Yard — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಟೆಬ್ಮಾ ಶಿಪ್ ಯಾರ್ಡ್ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Tebma Ship Yard
   kn:
     - ಪರ್ಯಾಯ
-    - Tebma Ship Yard
+    - ಟೆಬ್ಮಾ ಶಿಪ್ ಯಾರ್ಡ್
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bcc6ac28/7291ca8b-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bcc6ac28/7291ca8b-l.webp

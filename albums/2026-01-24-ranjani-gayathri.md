@@ -4,17 +4,17 @@ date: "2026-01-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2827aeb5/f98eda0c-l.webp
 title:
   en: Ranjani gayathri
-  kn: Ranjani gayathri
+  kn: ರಂಜನಿ ಗಾಯತ್ರಿ
 description:
   en: Ranjani gayathri — celebrations and darshan.
-  kn: Ranjani gayathri — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಂಜನಿ ಗಾಯತ್ರಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Ranjani gayathri
   kn:
     - ಪರ್ಯಾಯ
-    - Ranjani gayathri
+    - ರಂಜನಿ ಗಾಯತ್ರಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2827aeb5/f98eda0c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2827aeb5/f98eda0c-l.webp

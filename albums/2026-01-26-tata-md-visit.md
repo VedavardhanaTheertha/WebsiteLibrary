@@ -4,17 +4,17 @@ date: "2026-01-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c9db64d/ea42ac20-l.webp
 title:
   en: TATA MD VISIT
-  kn: TATA MD VISIT
+  kn: ಟಾಟಾ ಸಂಸ್ಥೆಯ ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕರ ಭೇಟಿ
 description:
   en: TATA MD VISIT — celebrations and darshan.
-  kn: TATA MD VISIT — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಟಾಟಾ ಸಂಸ್ಥೆಯ ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - TATA MD VISIT
   kn:
     - ಪರ್ಯಾಯ
-    - TATA MD VISIT
+    - ಟಾಟಾ ಸಂಸ್ಥೆಯ ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c9db64d/ea42ac20-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8c9db64d/ea42ac20-l.webp

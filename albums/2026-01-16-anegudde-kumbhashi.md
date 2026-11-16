@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/63d7e6a6/036f9b7a-l.webp
 title:
   en: Anegudde - Kumbhashi
-  kn: Anegudde - Kumbhashi
+  kn: ಆನೆಗುಡ್ಡೆ - ಕುಂಭಾಶಿ
 description:
   en: Anegudde - Kumbhashi — celebrations and darshan.
-  kn: Anegudde - Kumbhashi — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಆನೆಗುಡ್ಡೆ - ಕುಂಭಾಶಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Anegudde - Kumbhashi
   kn:
     - ಪರ್ಯಾಯ
-    - Anegudde - Kumbhashi
+    - ಆನೆಗುಡ್ಡೆ - ಕುಂಭಾಶಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/63d7e6a6/036f9b7a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/63d7e6a6/036f9b7a-l.webp

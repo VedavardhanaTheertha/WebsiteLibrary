@@ -4,17 +4,17 @@ date: "2026-04-20"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36b4bc60/39eeb378-l.webp
 title:
   en: Thulabhara
-  kn: Thulabhara
+  kn: ತುಲಾಭಾರ
 description:
   en: Thulabhara — celebrations and darshan.
-  kn: Thulabhara — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ತುಲಾಭಾರ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Thulabhara
   kn:
     - ಪರ್ಯಾಯ
-    - Thulabhara
+    - ತುಲಾಭಾರ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36b4bc60/39eeb378-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/36b4bc60/39eeb378-l.webp

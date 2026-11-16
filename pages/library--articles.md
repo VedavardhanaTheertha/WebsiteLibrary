@@ -31,5 +31,5 @@ fields:
       eyebrow: ಚಿಂತನೆ ಮತ್ತು ಓದು
       title: ಬ್ಲಾಗ್‌ಗಳು ಮತ್ತು ಲೇಖನಗಳು
       description: ಮಠದ ಸಮುದಾಯದಿಂದ ಚಿಂತನೆಗಳು, ವಿವರಣೆಗಳು, ಸುದ್ದಿಗಳು ಮತ್ತು ಓದುವಿಕೆ.
-enabled: false
+enabled: true
 ---

@@ -4,17 +4,17 @@ date: "2026-01-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ee180756/7393255f-l.webp
 title:
   en: Pajaka Kshetra
-  kn: Pajaka Kshetra
+  kn: ಪಾಜಕ ಕ್ಷೇತ್ರ
 description:
   en: Pajaka Kshetra — celebrations and darshan.
-  kn: Pajaka Kshetra — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪಾಜಕ ಕ್ಷೇತ್ರ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Pajaka Kshetra
   kn:
     - ಪರ್ಯಾಯ
-    - Pajaka Kshetra
+    - ಪಾಜಕ ಕ್ಷೇತ್ರ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ee180756/7393255f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ee180756/7393255f-l.webp

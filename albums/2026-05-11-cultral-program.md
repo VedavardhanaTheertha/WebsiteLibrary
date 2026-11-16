@@ -4,17 +4,17 @@ date: "2026-05-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7794aea8/4390434d-l.webp
 title:
   en: Cultral Program
-  kn: Cultral Program
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
 description:
   en: Cultral Program — celebrations and darshan.
-  kn: Cultral Program — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Cultral Program
   kn:
     - ಪರ್ಯಾಯ
-    - Cultral Program
+    - ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7794aea8/4390434d-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7794aea8/4390434d-l.webp

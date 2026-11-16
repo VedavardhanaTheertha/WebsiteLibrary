@@ -4,17 +4,17 @@ date: "2026-03-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4c4fe160/1f9c0873-l.webp
 title:
   en: Ashtavadhana
-  kn: Ashtavadhana
+  kn: ಅಷ್ಟಾವಧಾನ
 description:
   en: Ashtavadhana — celebrations and darshan.
-  kn: Ashtavadhana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಷ್ಟಾವಧಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Ashtavadhana
   kn:
     - ಪರ್ಯಾಯ
-    - Ashtavadhana
+    - ಅಷ್ಟಾವಧಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4c4fe160/1f9c0873-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4c4fe160/1f9c0873-l.webp

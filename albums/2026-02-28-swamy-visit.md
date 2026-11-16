@@ -4,17 +4,17 @@ date: "2026-02-28"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae004159/5f30adaf-l.webp
 title:
   en: Swamy Visit
-  kn: Swamy Visit
+  kn: ಶ್ರೀಗಳ ಭೇಟಿ
 description:
   en: Swamy Visit — celebrations and darshan.
-  kn: Swamy Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶ್ರೀಗಳ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Swamy Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Swamy Visit
+    - ಶ್ರೀಗಳ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae004159/5f30adaf-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae004159/5f30adaf-l.webp

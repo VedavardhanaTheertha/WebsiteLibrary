@@ -4,17 +4,17 @@ date: "2026-04-28"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/15fbb9e2/5b5f5eaf-l.webp
 title:
   en: Uttaradi Mata Bheti
-  kn: Uttaradi Mata Bheti
+  kn: ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ
 description:
   en: Uttaradi Mata Bheti — celebrations and darshan.
-  kn: Uttaradi Mata Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Uttaradi Mata Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Uttaradi Mata Bheti
+    - ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/15fbb9e2/5b5f5eaf-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/15fbb9e2/5b5f5eaf-l.webp

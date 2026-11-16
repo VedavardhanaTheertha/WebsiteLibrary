@@ -4,17 +4,17 @@ date: "2026-01-14"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0498cc9/66572112-l.webp
 title:
   en: Aduge Preparation
-  kn: Aduge Preparation
+  kn: ಅಡುಗೆ ಸಿದ್ಧತೆ
 description:
   en: Aduge Preparation — celebrations and darshan.
-  kn: Aduge Preparation — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಡುಗೆ ಸಿದ್ಧತೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Aduge Preparation
   kn:
     - ಪರ್ಯಾಯ
-    - Aduge Preparation
+    - ಅಡುಗೆ ಸಿದ್ಧತೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0498cc9/66572112-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e0498cc9/66572112-l.webp

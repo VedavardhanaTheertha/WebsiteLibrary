@@ -4,17 +4,17 @@ date: "2026-02-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8d038b52/7784fa25-l.webp
 title:
   en: New folder
-  kn: New folder
+  kn: ವಿಶೇಷ ಆಲ್ಬಂ
 description:
   en: New folder — celebrations and darshan.
-  kn: New folder — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಿಶೇಷ ಆಲ್ಬಂ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - New folder
   kn:
     - ಪರ್ಯಾಯ
-    - New folder
+    - ವಿಶೇಷ ಆಲ್ಬಂ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8d038b52/7784fa25-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8d038b52/7784fa25-l.webp

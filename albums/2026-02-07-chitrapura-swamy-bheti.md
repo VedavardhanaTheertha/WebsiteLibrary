@@ -4,17 +4,17 @@ date: "2026-02-07"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0706f0aa/1e8032f2-l.webp
 title:
   en: Chitrapura Swamy Bheti
-  kn: Chitrapura Swamy Bheti
+  kn: ಚಿತ್ರಾಪುರ ಶ್ರೀಗಳ ಭೇಟಿ
 description:
   en: Chitrapura Swamy Bheti — celebrations and darshan.
-  kn: Chitrapura Swamy Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಚಿತ್ರಾಪುರ ಶ್ರೀಗಳ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Chitrapura Swamy Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Chitrapura Swamy Bheti
+    - ಚಿತ್ರಾಪುರ ಶ್ರೀಗಳ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0706f0aa/1e8032f2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/0706f0aa/1e8032f2-l.webp

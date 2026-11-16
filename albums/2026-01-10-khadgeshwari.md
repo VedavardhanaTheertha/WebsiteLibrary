@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/80c26bad/bd76e427-l.webp
 title:
   en: Khadgeshwari
-  kn: Khadgeshwari
+  kn: ಖಡ್ಗೇಶ್ವರಿ ದೇವಸ್ಥಾನ
 description:
   en: Khadgeshwari — celebrations and darshan.
-  kn: Khadgeshwari — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಖಡ್ಗೇಶ್ವರಿ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Khadgeshwari
   kn:
     - ಪರ್ಯಾಯ
-    - Khadgeshwari
+    - ಖಡ್ಗೇಶ್ವರಿ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/80c26bad/bd76e427-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/80c26bad/bd76e427-l.webp

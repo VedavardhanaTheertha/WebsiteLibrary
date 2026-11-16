@@ -4,17 +4,17 @@ date: "2026-02-02"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/06a28af9/1f9ef900-l.webp
 title:
   en: Bharatanatya
-  kn: Bharatanatya
+  kn: ಭರತನಾಟ್ಯ
 description:
   en: Bharatanatya — celebrations and darshan.
-  kn: Bharatanatya — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭರತನಾಟ್ಯ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bharatanatya
   kn:
     - ಪರ್ಯಾಯ
-    - Bharatanatya
+    - ಭರತನಾಟ್ಯ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/06a28af9/1f9ef900-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/06a28af9/1f9ef900-l.webp

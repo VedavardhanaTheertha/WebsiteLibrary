@@ -4,17 +4,17 @@ date: "2026-02-19"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2b7db09a/ae8ff310-l.webp
 title:
   en: Anantheshwara
-  kn: Anantheshwara
+  kn: ಅನಂತೇಶ್ವರ ದೇವಸ್ಥಾನ
 description:
   en: Anantheshwara — celebrations and darshan.
-  kn: Anantheshwara — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅನಂತೇಶ್ವರ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Anantheshwara
   kn:
     - ಪರ್ಯಾಯ
-    - Anantheshwara
+    - ಅನಂತೇಶ್ವರ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2b7db09a/ae8ff310-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2b7db09a/ae8ff310-l.webp

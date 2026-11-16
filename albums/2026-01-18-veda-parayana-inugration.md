@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/896b44dc/99510c08-l.webp
 title:
   en: ++ Veda Parayana Inugration
-  kn: ++ Veda Parayana Inugration
+  kn: ವೇದ ಪಾರಾಯಣ ಉದ್ಘಾಟನೆ
 description:
   en: ++ Veda Parayana Inugration — celebrations and darshan.
-  kn: ++ Veda Parayana Inugration — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವೇದ ಪಾರಾಯಣ ಉದ್ಘಾಟನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - ++ Veda Parayana Inugration
   kn:
     - ಪರ್ಯಾಯ
-    - ++ Veda Parayana Inugration
+    - ವೇದ ಪಾರಾಯಣ ಉದ್ಘಾಟನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/896b44dc/99510c08-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/896b44dc/99510c08-l.webp

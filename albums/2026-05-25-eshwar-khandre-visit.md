@@ -4,17 +4,17 @@ date: "2026-05-25"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d2fb7e01/90ea7a12-l.webp
 title:
   en: eshwar khandre visit
-  kn: eshwar khandre visit
+  kn: ಸಚಿವ ಈಶ್ವರ್ ಖಂಡ್ರೆ ಅವರ ಭೇಟಿ
 description:
   en: eshwar khandre visit — celebrations and darshan.
-  kn: eshwar khandre visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಚಿವ ಈಶ್ವರ್ ಖಂಡ್ರೆ ಅವರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - eshwar khandre visit
   kn:
     - ಪರ್ಯಾಯ
-    - eshwar khandre visit
+    - ಸಚಿವ ಈಶ್ವರ್ ಖಂಡ್ರೆ ಅವರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d2fb7e01/90ea7a12-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d2fb7e01/90ea7a12-l.webp

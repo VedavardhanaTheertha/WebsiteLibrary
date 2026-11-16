@@ -4,17 +4,17 @@ date: "2026-04-01"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/322d8445/6c5f6237-l.webp
 title:
   en: Karamballi Horekanike
-  kn: Karamballi Horekanike
+  kn: ಕರಂಬಳ್ಳಿ ಹೊರೆಕಾಣಿಕೆ
 description:
   en: Karamballi Horekanike — celebrations and darshan.
-  kn: Karamballi Horekanike — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕರಂಬಳ್ಳಿ ಹೊರೆಕಾಣಿಕೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Karamballi Horekanike
   kn:
     - ಪರ್ಯಾಯ
-    - Karamballi Horekanike
+    - ಕರಂಬಳ್ಳಿ ಹೊರೆಕಾಣಿಕೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/322d8445/6c5f6237-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/322d8445/6c5f6237-l.webp

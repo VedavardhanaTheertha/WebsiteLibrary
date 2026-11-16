@@ -4,17 +4,17 @@ date: "2026-01-19"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/749af549/27d02292-l.webp
 title:
   en: mahesh kale
-  kn: mahesh kale
+  kn: ಮಹೇಶ್ ಕಾಳೆ
 description:
   en: mahesh kale — celebrations and darshan.
-  kn: mahesh kale — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮಹೇಶ್ ಕಾಳೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - mahesh kale
   kn:
     - ಪರ್ಯಾಯ
-    - mahesh kale
+    - ಮಹೇಶ್ ಕಾಳೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/749af549/27d02292-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/749af549/27d02292-l.webp

@@ -4,17 +4,17 @@ date: "2026-01-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9530f2a/c8f6fff3-l.webp
 title:
   en: Mornimg Palla Pooje
-  kn: Mornimg Palla Pooje
+  kn: ಮುಂಜಾನೆಯ ಪಲ್ಲ ಪೂಜೆ
 description:
   en: Mornimg Palla Pooje — celebrations and darshan.
-  kn: Mornimg Palla Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮುಂಜಾನೆಯ ಪಲ್ಲ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Mornimg Palla Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Mornimg Palla Pooje
+    - ಮುಂಜಾನೆಯ ಪಲ್ಲ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9530f2a/c8f6fff3-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c9530f2a/c8f6fff3-l.webp

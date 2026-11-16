@@ -4,17 +4,17 @@ date: "2026-03-06"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd53ea42/a85d18ce-l.webp
 title:
   en: Vadiraja Jayanthi
-  kn: Vadiraja Jayanthi
+  kn: ವಾದಿರಾಜ ಜಯಂತಿ
 description:
   en: Vadiraja Jayanthi — celebrations and darshan.
-  kn: Vadiraja Jayanthi — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಾದಿರಾಜ ಜಯಂತಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vadiraja Jayanthi
   kn:
     - ಪರ್ಯಾಯ
-    - Vadiraja Jayanthi
+    - ವಾದಿರಾಜ ಜಯಂತಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd53ea42/a85d18ce-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/dd53ea42/a85d18ce-l.webp

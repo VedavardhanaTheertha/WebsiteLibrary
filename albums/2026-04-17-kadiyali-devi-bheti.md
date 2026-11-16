@@ -4,17 +4,17 @@ date: "2026-04-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7512a99a/880ef357-l.webp
 title:
   en: Kadiyali Devi Bheti
-  kn: Kadiyali Devi Bheti
+  kn: ಕಡಿಯಾಳಿ ಮಹಿಷಮರ್ದಿನಿ ದೇವಿ ದರ್ಶನ
 description:
   en: Kadiyali Devi Bheti — celebrations and darshan.
-  kn: Kadiyali Devi Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕಡಿಯಾಳಿ ಮಹಿಷಮರ್ದಿನಿ ದೇವಿ ದರ್ಶನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Kadiyali Devi Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Kadiyali Devi Bheti
+    - ಕಡಿಯಾಳಿ ಮಹಿಷಮರ್ದಿನಿ ದೇವಿ ದರ್ಶನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7512a99a/880ef357-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7512a99a/880ef357-l.webp

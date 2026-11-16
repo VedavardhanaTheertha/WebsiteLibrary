@@ -3,7 +3,7 @@ id: festivals-and-rathotsava
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ae2d524c/c5ce6f70-l.webp
 title:
   en: Festivals and Rathotsava
-  kn: ಹಬ್ಬಗಳು ಮತ್ತು ರಥೋತ್ಸವ
+  kn: ಉತ್ಸವಗಳು ಮತ್ತು ರಥೋತ್ಸವ
 description:
   en: Processions, chariot festivals, and community celebrations in Udupi.
   kn: ಉಡುಪಿಯ ಮೆರವಣಿಗೆಗಳು, ರಥೋತ್ಸವಗಳು ಮತ್ತು ಸಾಮೂಹಿಕ ಆಚರಣೆಗಳು.

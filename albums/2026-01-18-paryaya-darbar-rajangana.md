@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/90459c5b/f5f99f34-l.webp
 title:
   en: Paryaya Darbar Rajangana
-  kn: Paryaya Darbar Rajangana
+  kn: ಪರ್ಯಾಯ ದರ್ಬಾರ್ ರಾಜಾಂಗಣ
 description:
   en: Paryaya Darbar Rajangana — celebrations and darshan.
-  kn: Paryaya Darbar Rajangana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪರ್ಯಾಯ ದರ್ಬಾರ್ ರಾಜಾಂಗಣ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Paryaya Darbar Rajangana
   kn:
     - ಪರ್ಯಾಯ
-    - Paryaya Darbar Rajangana
+    - ಪರ್ಯಾಯ ದರ್ಬಾರ್ ರಾಜಾಂಗಣ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/90459c5b/f5f99f34-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/90459c5b/f5f99f34-l.webp

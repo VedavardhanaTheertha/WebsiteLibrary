@@ -4,17 +4,17 @@ date: "2026-02-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/12723e38/c5e0c773-l.webp
 title:
   en: Bharathi Vishnuvardhan Visit
-  kn: Bharathi Vishnuvardhan Visit
+  kn: ಭಾರತಿ ವಿಷ್ಣುವರ್ಧನ್ ಅವರ ಭೇಟಿ
 description:
   en: Bharathi Vishnuvardhan Visit — celebrations and darshan.
-  kn: Bharathi Vishnuvardhan Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭಾರತಿ ವಿಷ್ಣುವರ್ಧನ್ ಅವರ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bharathi Vishnuvardhan Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Bharathi Vishnuvardhan Visit
+    - ಭಾರತಿ ವಿಷ್ಣುವರ್ಧನ್ ಅವರ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/12723e38/c5e0c773-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/12723e38/c5e0c773-l.webp

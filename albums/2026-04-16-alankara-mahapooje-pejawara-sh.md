@@ -4,17 +4,17 @@ date: "2026-04-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/60066655/c55f6a7b-l.webp
 title:
   en: Alankara & Mahapooje (Pejawara Shri)
-  kn: Alankara & Mahapooje (Pejawara Shri)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು)
 description:
   en: Alankara & Mahapooje (Pejawara Shri) — celebrations and darshan.
-  kn: Alankara & Mahapooje (Pejawara Shri) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara & Mahapooje (Pejawara Shri)
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara & Mahapooje (Pejawara Shri)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಪೇಜಾವರ ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/60066655/c55f6a7b-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/60066655/c55f6a7b-l.webp

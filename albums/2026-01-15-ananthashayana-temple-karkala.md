@@ -4,17 +4,17 @@ date: "2026-01-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1809e3e9/aebe03da-l.webp
 title:
   en: ananthashayana temple karkala
-  kn: ananthashayana temple karkala
+  kn: ಅನಂತಶಯನ ದೇವಸ್ಥಾನ ಕಾರ್ಕಳ
 description:
   en: ananthashayana temple karkala — celebrations and darshan.
-  kn: ananthashayana temple karkala — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅನಂತಶಯನ ದೇವಸ್ಥಾನ ಕಾರ್ಕಳ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - ananthashayana temple karkala
   kn:
     - ಪರ್ಯಾಯ
-    - ananthashayana temple karkala
+    - ಅನಂತಶಯನ ದೇವಸ್ಥಾನ ಕಾರ್ಕಳ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1809e3e9/aebe03da-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1809e3e9/aebe03da-l.webp

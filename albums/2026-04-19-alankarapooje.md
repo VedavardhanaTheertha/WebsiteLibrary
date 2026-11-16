@@ -4,17 +4,17 @@ date: "2026-04-19"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddc9b624/c2248aa5-l.webp
 title:
   en: alankara&pooje
-  kn: alankara&pooje
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಪೂಜೆ
 description:
   en: alankara&pooje — celebrations and darshan.
-  kn: alankara&pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - alankara&pooje
   kn:
     - ಪರ್ಯಾಯ
-    - alankara&pooje
+    - ಅಲಂಕಾರ ಮತ್ತು ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddc9b624/c2248aa5-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddc9b624/c2248aa5-l.webp

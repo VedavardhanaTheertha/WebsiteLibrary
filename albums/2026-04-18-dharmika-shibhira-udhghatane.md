@@ -4,17 +4,17 @@ date: "2026-04-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4a3583a8/233d3611-l.webp
 title:
   en: dharmika shibhira udhghatane
-  kn: dharmika shibhira udhghatane
+  kn: ಧಾರ್ಮಿಕ ಶಿಬಿರ ಉದ್ಘಾಟನೆ
 description:
   en: dharmika shibhira udhghatane — celebrations and darshan.
-  kn: dharmika shibhira udhghatane — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಧಾರ್ಮಿಕ ಶಿಬಿರ ಉದ್ಘಾಟನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - dharmika shibhira udhghatane
   kn:
     - ಪರ್ಯಾಯ
-    - dharmika shibhira udhghatane
+    - ಧಾರ್ಮಿಕ ಶಿಬಿರ ಉದ್ಘಾಟನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4a3583a8/233d3611-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4a3583a8/233d3611-l.webp

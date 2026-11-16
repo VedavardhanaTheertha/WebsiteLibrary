@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/26b111b9/451f1412-l.webp
 title:
   en: Sagri Vasuki Temple
-  kn: Sagri Vasuki Temple
+  kn: ಸಾಗ್ರಿ ವಾಸುಕಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ
 description:
   en: Sagri Vasuki Temple — celebrations and darshan.
-  kn: Sagri Vasuki Temple — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಗ್ರಿ ವಾಸುಕಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Sagri Vasuki Temple
   kn:
     - ಪರ್ಯಾಯ
-    - Sagri Vasuki Temple
+    - ಸಾಗ್ರಿ ವಾಸುಕಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/26b111b9/451f1412-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/26b111b9/451f1412-l.webp

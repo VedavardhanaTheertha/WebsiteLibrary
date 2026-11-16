@@ -4,17 +4,17 @@ date: "2026-01-25"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f9fc0eb0/d834a104-l.webp
 title:
   en: sandeep narayan
-  kn: sandeep narayan
+  kn: ಸಂದೀಪ್ ನಾರಾಯಣ್
 description:
   en: sandeep narayan — celebrations and darshan.
-  kn: sandeep narayan — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಂದೀಪ್ ನಾರಾಯಣ್ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - sandeep narayan
   kn:
     - ಪರ್ಯಾಯ
-    - sandeep narayan
+    - ಸಂದೀಪ್ ನಾರಾಯಣ್
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f9fc0eb0/d834a104-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f9fc0eb0/d834a104-l.webp

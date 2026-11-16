@@ -4,17 +4,17 @@ date: "2026-03-14"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/97a73035/037a8a17-l.webp
 title:
   en: Kerala Mayer Visit
-  kn: Kerala Mayer Visit
+  kn: ಕೇರಳ ಮೇಯರ್ ಭೇಟಿ
 description:
   en: Kerala Mayer Visit — celebrations and darshan.
-  kn: Kerala Mayer Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕೇರಳ ಮೇಯರ್ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Kerala Mayer Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Kerala Mayer Visit
+    - ಕೇರಳ ಮೇಯರ್ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/97a73035/037a8a17-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/97a73035/037a8a17-l.webp

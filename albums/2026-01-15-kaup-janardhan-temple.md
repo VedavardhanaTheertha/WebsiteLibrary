@@ -4,17 +4,17 @@ date: "2026-01-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/753185a2/225a3af2-l.webp
 title:
   en: Kaup janardhan temple
-  kn: Kaup janardhan temple
+  kn: ಕಾಪು ಜನಾರ್ದನ ದೇವಸ್ಥಾನ
 description:
   en: Kaup janardhan temple — celebrations and darshan.
-  kn: Kaup janardhan temple — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕಾಪು ಜನಾರ್ದನ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Kaup janardhan temple
   kn:
     - ಪರ್ಯಾಯ
-    - Kaup janardhan temple
+    - ಕಾಪು ಜನಾರ್ದನ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/753185a2/225a3af2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/753185a2/225a3af2-l.webp

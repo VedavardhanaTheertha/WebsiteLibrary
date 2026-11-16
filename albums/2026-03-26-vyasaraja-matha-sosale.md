@@ -4,17 +4,17 @@ date: "2026-03-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/62d2ff08/b193645f-l.webp
 title:
   en: Vyasaraja Matha Sosale
-  kn: Vyasaraja Matha Sosale
+  kn: ವ್ಯಾಸರಾಜ ಮಠ (ಸೊಸಲೆ)
 description:
   en: Vyasaraja Matha Sosale — celebrations and darshan.
-  kn: Vyasaraja Matha Sosale — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವ್ಯಾಸರಾಜ ಮಠ (ಸೊಸಲೆ) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vyasaraja Matha Sosale
   kn:
     - ಪರ್ಯಾಯ
-    - Vyasaraja Matha Sosale
+    - ವ್ಯಾಸರಾಜ ಮಠ (ಸೊಸಲೆ)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/62d2ff08/b193645f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/62d2ff08/b193645f-l.webp

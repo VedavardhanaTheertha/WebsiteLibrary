@@ -4,17 +4,17 @@ date: "2026-01-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bf2402b9/41d573b2-l.webp
 title:
   en: Palimaru Swamiji Autana
-  kn: Palimaru Swamiji Autana
+  kn: ಪಲಿಮಾರು ಶ್ರೀಗಳ ಔತಣ
 description:
   en: Palimaru Swamiji Autana — celebrations and darshan.
-  kn: Palimaru Swamiji Autana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪಲಿಮಾರು ಶ್ರೀಗಳ ಔತಣ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Palimaru Swamiji Autana
   kn:
     - ಪರ್ಯಾಯ
-    - Palimaru Swamiji Autana
+    - ಪಲಿಮಾರು ಶ್ರೀಗಳ ಔತಣ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bf2402b9/41d573b2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/bf2402b9/41d573b2-l.webp

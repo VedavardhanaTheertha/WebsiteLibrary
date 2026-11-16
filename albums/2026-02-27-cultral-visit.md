@@ -4,17 +4,17 @@ date: "2026-02-27"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c00c0e78/cabc16ed-l.webp
 title:
   en: Cultral Visit
-  kn: Cultral Visit
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಭೇಟಿ
 description:
   en: Cultral Visit — celebrations and darshan.
-  kn: Cultral Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Cultral Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Cultral Visit
+    - ಸಾಂಸ್ಕೃತಿಕ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c00c0e78/cabc16ed-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c00c0e78/cabc16ed-l.webp

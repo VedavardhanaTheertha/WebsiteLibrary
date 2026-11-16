@@ -4,17 +4,17 @@ date: "2026-02-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3ad014e3/01c05018-l.webp
 title:
   en: Shivaratri celebration
-  kn: Shivaratri celebration
+  kn: ಶಿವರಾತ್ರಿ ಮಹೋತ್ಸವ
 description:
   en: Shivaratri celebration — celebrations and darshan.
-  kn: Shivaratri celebration — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶಿವರಾತ್ರಿ ಮಹೋತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Shivaratri celebration
   kn:
     - ಪರ್ಯಾಯ
-    - Shivaratri celebration
+    - ಶಿವರಾತ್ರಿ ಮಹೋತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3ad014e3/01c05018-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3ad014e3/01c05018-l.webp

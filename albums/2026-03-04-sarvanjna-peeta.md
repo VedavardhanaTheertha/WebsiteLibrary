@@ -4,17 +4,17 @@ date: "2026-03-04"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50b93d04/55de1d06-l.webp
 title:
   en: Sarvanjna Peeta
-  kn: Sarvanjna Peeta
+  kn: ಸರ್ವಜ್ಞ ಪೀಠ
 description:
   en: Sarvanjna Peeta — celebrations and darshan.
-  kn: Sarvanjna Peeta — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸರ್ವಜ್ಞ ಪೀಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Sarvanjna Peeta
   kn:
     - ಪರ್ಯಾಯ
-    - Sarvanjna Peeta
+    - ಸರ್ವಜ್ಞ ಪೀಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50b93d04/55de1d06-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/50b93d04/55de1d06-l.webp

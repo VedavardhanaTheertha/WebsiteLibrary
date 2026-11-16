@@ -3,7 +3,7 @@ id: guru-and-pravachana
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/86eec492/0d61d5b9-l.webp
 title:
   en: Guru and Pravachana
-  kn: ಗುರು ಮತ್ತು ಪ್ರವಚನ
+  kn: ಗುರುಗಳು ಮತ್ತು ಪ್ರವಚನ
 description:
   en: Teachings, blessings, and public discourses by His Holiness.
   kn: ಪೂಜ್ಯ ಶ್ರೀಗಳ ಉಪದೇಶಗಳು, ಆಶೀರ್ವಾದಗಳು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಪ್ರವಚನಗಳು.

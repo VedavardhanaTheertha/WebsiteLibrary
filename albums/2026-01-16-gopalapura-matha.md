@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9d0bc609/ed1738b2-l.webp
 title:
   en: Gopalapura matha
-  kn: Gopalapura matha
+  kn: ಗೋಪಾಲಪುರ ಮಠ
 description:
   en: Gopalapura matha — celebrations and darshan.
-  kn: Gopalapura matha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಗೋಪಾಲಪುರ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Gopalapura matha
   kn:
     - ಪರ್ಯಾಯ
-    - Gopalapura matha
+    - ಗೋಪಾಲಪುರ ಮಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9d0bc609/ed1738b2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9d0bc609/ed1738b2-l.webp

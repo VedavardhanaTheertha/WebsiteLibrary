@@ -4,17 +4,17 @@ date: "2026-03-22"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2ad92870/e8918270-l.webp
 title:
   en: Alankara & Mahapooje (kaniyooru Shri)
-  kn: Alankara & Mahapooje (kaniyooru Shri)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಕಾಣಿಯೂರು ಶ್ರೀಗಳು)
 description:
   en: Alankara & Mahapooje (kaniyooru Shri) — celebrations and darshan.
-  kn: Alankara & Mahapooje (kaniyooru Shri) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಕಾಣಿಯೂರು ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara & Mahapooje (kaniyooru Shri)
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara & Mahapooje (kaniyooru Shri)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಕಾಣಿಯೂರು ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2ad92870/e8918270-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2ad92870/e8918270-l.webp

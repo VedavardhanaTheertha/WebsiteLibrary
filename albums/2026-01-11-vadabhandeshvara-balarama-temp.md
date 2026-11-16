@@ -4,17 +4,17 @@ date: "2026-01-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a5364403/6dca3fe6-l.webp
 title:
   en: Vadabhandeshvara Balarama Temple
-  kn: Vadabhandeshvara Balarama Temple
+  kn: ವಡಭಾಂಡೇಶ್ವರ ಬಲರಾಮ ದೇವಸ್ಥಾನ
 description:
   en: Vadabhandeshvara Balarama Temple — celebrations and darshan.
-  kn: Vadabhandeshvara Balarama Temple — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಡಭಾಂಡೇಶ್ವರ ಬಲರಾಮ ದೇವಸ್ಥಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vadabhandeshvara Balarama Temple
   kn:
     - ಪರ್ಯಾಯ
-    - Vadabhandeshvara Balarama Temple
+    - ವಡಭಾಂಡೇಶ್ವರ ಬಲರಾಮ ದೇವಸ್ಥಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a5364403/6dca3fe6-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/a5364403/6dca3fe6-l.webp

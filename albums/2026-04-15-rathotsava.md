@@ -4,17 +4,17 @@ date: "2026-04-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d1defa1/3f47aadd-l.webp
 title:
   en: Rathotsava
-  kn: Rathotsava
+  kn: ರಥೋತ್ಸವ
 description:
   en: Rathotsava — celebrations and darshan.
-  kn: Rathotsava — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಥೋತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Rathotsava
   kn:
     - ಪರ್ಯಾಯ
-    - Rathotsava
+    - ರಥೋತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d1defa1/3f47aadd-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d1defa1/3f47aadd-l.webp

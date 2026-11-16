@@ -4,17 +4,17 @@ date: "2026-02-21"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/37d6109c/e4bc51b3-l.webp
 title:
   en: Bhimanakatte Mata Swamy Visit
-  kn: Bhimanakatte Mata Swamy Visit
+  kn: ಭೀಮನಕಟ್ಟೆ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 description:
   en: Bhimanakatte Mata Swamy Visit — celebrations and darshan.
-  kn: Bhimanakatte Mata Swamy Visit — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭೀಮನಕಟ್ಟೆ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bhimanakatte Mata Swamy Visit
   kn:
     - ಪರ್ಯಾಯ
-    - Bhimanakatte Mata Swamy Visit
+    - ಭೀಮನಕಟ್ಟೆ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/37d6109c/e4bc51b3-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/37d6109c/e4bc51b3-l.webp

@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e0e3ae7/fbb6f05f-l.webp
 title:
   en: Drone view lighting & ugraana
-  kn: Drone view lighting & ugraana
+  kn: ಡ್ರೋನ್ ನೋಟ - ದೀಪಾಲಂಕಾರ ಮತ್ತು ಉಗ್ರಾಣ
 description:
   en: Drone view lighting & ugraana — celebrations and darshan.
-  kn: Drone view lighting & ugraana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಡ್ರೋನ್ ನೋಟ - ದೀಪಾಲಂಕಾರ ಮತ್ತು ಉಗ್ರಾಣ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Drone view lighting & ugraana
   kn:
     - ಪರ್ಯಾಯ
-    - Drone view lighting & ugraana
+    - ಡ್ರೋನ್ ನೋಟ - ದೀಪಾಲಂಕಾರ ಮತ್ತು ಉಗ್ರಾಣ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e0e3ae7/fbb6f05f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e0e3ae7/fbb6f05f-l.webp

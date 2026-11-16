@@ -4,17 +4,17 @@ date: "2026-02-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ff14e46b/8bd0f5ff-l.webp
 title:
   en: Alankara & Friends
-  kn: Alankara & Friends
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಭಕ್ತಾದಿಗಳು
 description:
   en: Alankara & Friends — celebrations and darshan.
-  kn: Alankara & Friends — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಭಕ್ತಾದಿಗಳು — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara & Friends
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara & Friends
+    - ಅಲಂಕಾರ ಮತ್ತು ಭಕ್ತಾದಿಗಳು
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ff14e46b/8bd0f5ff-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ff14e46b/8bd0f5ff-l.webp

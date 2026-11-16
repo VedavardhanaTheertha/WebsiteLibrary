@@ -4,17 +4,17 @@ date: "2026-03-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d13f38d6/3bab5a78-l.webp
 title:
   en: Shrikanth Shetty
-  kn: Shrikanth Shetty
+  kn: ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ
 description:
   en: Shrikanth Shetty — celebrations and darshan.
-  kn: Shrikanth Shetty — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Shrikanth Shetty
   kn:
     - ಪರ್ಯಾಯ
-    - Shrikanth Shetty
+    - ಶ್ರೀಕಾಂತ್ ಶೆಟ್ಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d13f38d6/3bab5a78-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d13f38d6/3bab5a78-l.webp

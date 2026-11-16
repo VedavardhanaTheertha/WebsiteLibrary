@@ -4,17 +4,17 @@ date: "2026-03-07"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6e0db999/5260fdf2-l.webp
 title:
   en: vyasarajara ardhane
-  kn: vyasarajara ardhane
+  kn: ವ್ಯಾಸರಾಜರ ಆರಾಧನೆ
 description:
   en: vyasarajara ardhane — celebrations and darshan.
-  kn: vyasarajara ardhane — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವ್ಯಾಸರಾಜರ ಆರಾಧನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - vyasarajara ardhane
   kn:
     - ಪರ್ಯಾಯ
-    - vyasarajara ardhane
+    - ವ್ಯಾಸರಾಜರ ಆರಾಧನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6e0db999/5260fdf2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6e0db999/5260fdf2-l.webp

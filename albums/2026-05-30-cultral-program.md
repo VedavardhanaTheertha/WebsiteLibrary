@@ -4,17 +4,17 @@ date: "2026-05-30"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ca528b5b/538b3e56-l.webp
 title:
   en: cultral program
-  kn: cultral program
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
 description:
   en: cultral program — celebrations and darshan.
-  kn: cultral program — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - cultral program
   kn:
     - ಪರ್ಯಾಯ
-    - cultral program
+    - ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ca528b5b/538b3e56-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ca528b5b/538b3e56-l.webp

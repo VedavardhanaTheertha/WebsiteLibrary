@@ -4,17 +4,17 @@ date: "2026-05-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/145edf46/b4557164-l.webp
 title:
   en: Alanlkara & Mahapooje (Shirooru Shri)
-  kn: Alanlkara & Mahapooje (Shirooru Shri)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು)
 description:
   en: Alanlkara & Mahapooje (Shirooru Shri) — celebrations and darshan.
-  kn: Alanlkara & Mahapooje (Shirooru Shri) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alanlkara & Mahapooje (Shirooru Shri)
   kn:
     - ಪರ್ಯಾಯ
-    - Alanlkara & Mahapooje (Shirooru Shri)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/145edf46/b4557164-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/145edf46/b4557164-l.webp

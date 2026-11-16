@@ -4,17 +4,17 @@ date: "2026-01-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b99b7025/4ee1172f-l.webp
 title:
   en: Brahmi Sabha Bhavana
-  kn: Brahmi Sabha Bhavana
+  kn: ಬ್ರಾಹ್ಮಿ ಸಭಾ ಭವನ
 description:
   en: Brahmi Sabha Bhavana — celebrations and darshan.
-  kn: Brahmi Sabha Bhavana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಬ್ರಾಹ್ಮಿ ಸಭಾ ಭವನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Brahmi Sabha Bhavana
   kn:
     - ಪರ್ಯಾಯ
-    - Brahmi Sabha Bhavana
+    - ಬ್ರಾಹ್ಮಿ ಸಭಾ ಭವನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b99b7025/4ee1172f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b99b7025/4ee1172f-l.webp

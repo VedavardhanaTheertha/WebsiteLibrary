@@ -4,17 +4,17 @@ date: "2026-01-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6405f295/92dadb6c-l.webp
 title:
   en: Sanskrit Collage
-  kn: Sanskrit Collage
+  kn: ಸಂಸ್ಕೃತ ಕಾಲೇಜು
 description:
   en: Sanskrit Collage — celebrations and darshan.
-  kn: Sanskrit Collage — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸಂಸ್ಕೃತ ಕಾಲೇಜು — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Sanskrit Collage
   kn:
     - ಪರ್ಯಾಯ
-    - Sanskrit Collage
+    - ಸಂಸ್ಕೃತ ಕಾಲೇಜು
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6405f295/92dadb6c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/6405f295/92dadb6c-l.webp

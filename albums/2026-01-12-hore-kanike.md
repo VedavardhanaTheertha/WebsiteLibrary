@@ -4,17 +4,17 @@ date: "2026-01-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb3d282d/e6f78b1b-l.webp
 title:
   en: Hore Kanike
-  kn: Hore Kanike
+  kn: ಹೊರೆಕಾಣಿಕೆ
 description:
   en: Hore Kanike — celebrations and darshan.
-  kn: Hore Kanike — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಹೊರೆಕಾಣಿಕೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Hore Kanike
   kn:
     - ಪರ್ಯಾಯ
-    - Hore Kanike
+    - ಹೊರೆಕಾಣಿಕೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb3d282d/e6f78b1b-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/eb3d282d/e6f78b1b-l.webp

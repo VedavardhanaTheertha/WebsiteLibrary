@@ -4,17 +4,17 @@ date: "2026-05-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/818390a7/727921e9-l.webp
 title:
   en: Alankara & Mahapooje (Adamaru Shri)
-  kn: Alankara & Mahapooje (Adamaru Shri)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಶ್ರೀಗಳು)
 description:
   en: Alankara & Mahapooje (Adamaru Shri) — celebrations and darshan.
-  kn: Alankara & Mahapooje (Adamaru Shri) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara & Mahapooje (Adamaru Shri)
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara & Mahapooje (Adamaru Shri)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಅದಮಾರು ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/818390a7/727921e9-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/818390a7/727921e9-l.webp

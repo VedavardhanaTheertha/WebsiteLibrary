@@ -4,17 +4,17 @@ date: "2026-03-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e703abd/62e78ccd-l.webp
 title:
   en: Vyasaraja Matha Swamy Bheti
-  kn: Vyasaraja Matha Swamy Bheti
+  kn: ವ್ಯಾಸರಾಜ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 description:
   en: Vyasaraja Matha Swamy Bheti — celebrations and darshan.
-  kn: Vyasaraja Matha Swamy Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವ್ಯಾಸರಾಜ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vyasaraja Matha Swamy Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Vyasaraja Matha Swamy Bheti
+    - ವ್ಯಾಸರಾಜ ಮಠದ ಶ್ರೀಗಳ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e703abd/62e78ccd-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3e703abd/62e78ccd-l.webp

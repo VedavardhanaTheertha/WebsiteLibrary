@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4607591e/407d942b-l.webp
 title:
   en: + Saralathaya House
-  kn: + Saralathaya House
+  kn: ಸರಳತ್ತಾಯ ಅವರ ನಿವಾಸ
 description:
   en: + Saralathaya House — celebrations and darshan.
-  kn: + Saralathaya House — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸರಳತ್ತಾಯ ಅವರ ನಿವಾಸ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - + Saralathaya House
   kn:
     - ಪರ್ಯಾಯ
-    - + Saralathaya House
+    - ಸರಳತ್ತಾಯ ಅವರ ನಿವಾಸ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4607591e/407d942b-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4607591e/407d942b-l.webp

@@ -4,17 +4,17 @@ date: "2026-01-30"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f815f312/00f70590-l.webp
 title:
   en: Vadirajara Aradhane
-  kn: Vadirajara Aradhane
+  kn: ವಾದಿರಾಜರ ಆರಾಧನೆ
 description:
   en: Vadirajara Aradhane — celebrations and darshan.
-  kn: Vadirajara Aradhane — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಾದಿರಾಜರ ಆರಾಧನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vadirajara Aradhane
   kn:
     - ಪರ್ಯಾಯ
-    - Vadirajara Aradhane
+    - ವಾದಿರಾಜರ ಆರಾಧನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f815f312/00f70590-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f815f312/00f70590-l.webp

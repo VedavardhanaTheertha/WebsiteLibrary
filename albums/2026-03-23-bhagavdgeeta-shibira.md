@@ -4,17 +4,17 @@ date: "2026-03-23"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f99ca23f/89acac60-l.webp
 title:
   en: Bhagavdgeeta Shibira
-  kn: Bhagavdgeeta Shibira
+  kn: ಭಗವದ್ಗೀತಾ ಶಿಬಿರ
 description:
   en: Bhagavdgeeta Shibira — celebrations and darshan.
-  kn: Bhagavdgeeta Shibira — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭಗವದ್ಗೀತಾ ಶಿಬಿರ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bhagavdgeeta Shibira
   kn:
     - ಪರ್ಯಾಯ
-    - Bhagavdgeeta Shibira
+    - ಭಗವದ್ಗೀತಾ ಶಿಬಿರ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f99ca23f/89acac60-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/f99ca23f/89acac60-l.webp

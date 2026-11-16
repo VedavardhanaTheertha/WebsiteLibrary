@@ -4,17 +4,17 @@ date: "2026-05-10"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddddea67/94d194a9-l.webp
 title:
   en: Krishna mantra lekhana Udhghatane
-  kn: Krishna mantra lekhana Udhghatane
+  kn: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಉದ್ಘಾಟನೆ
 description:
   en: Krishna mantra lekhana Udhghatane — celebrations and darshan.
-  kn: Krishna mantra lekhana Udhghatane — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಉದ್ಘಾಟನೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Krishna mantra lekhana Udhghatane
   kn:
     - ಪರ್ಯಾಯ
-    - Krishna mantra lekhana Udhghatane
+    - ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಉದ್ಘಾಟನೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddddea67/94d194a9-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ddddea67/94d194a9-l.webp

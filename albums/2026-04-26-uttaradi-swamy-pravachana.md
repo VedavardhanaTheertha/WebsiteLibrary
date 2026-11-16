@@ -4,17 +4,17 @@ date: "2026-04-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/51e19eda/95d99ca8-l.webp
 title:
   en: Uttaradi Swamy Pravachana
-  kn: Uttaradi Swamy Pravachana
+  kn: ಉತ್ತರಾದಿ ಮಠದ ಶ್ರೀಗಳ ಪ್ರವಚನ
 description:
   en: Uttaradi Swamy Pravachana — celebrations and darshan.
-  kn: Uttaradi Swamy Pravachana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉತ್ತರಾದಿ ಮಠದ ಶ್ರೀಗಳ ಪ್ರವಚನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Uttaradi Swamy Pravachana
   kn:
     - ಪರ್ಯಾಯ
-    - Uttaradi Swamy Pravachana
+    - ಉತ್ತರಾದಿ ಮಠದ ಶ್ರೀಗಳ ಪ್ರವಚನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/51e19eda/95d99ca8-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/51e19eda/95d99ca8-l.webp

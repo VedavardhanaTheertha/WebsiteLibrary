@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d28ee82/ca67982e-l.webp
 title:
   en: Drone pictures
-  kn: Drone pictures
+  kn: ಡ್ರೋನ್ ಛಾಯಾಚಿತ್ರಗಳು
 description:
   en: Drone pictures — celebrations and darshan.
-  kn: Drone pictures — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಡ್ರೋನ್ ಛಾಯಾಚಿತ್ರಗಳು — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Drone pictures
   kn:
     - ಪರ್ಯಾಯ
-    - Drone pictures
+    - ಡ್ರೋನ್ ಛಾಯಾಚಿತ್ರಗಳು
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d28ee82/ca67982e-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d28ee82/ca67982e-l.webp

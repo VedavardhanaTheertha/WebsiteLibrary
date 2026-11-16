@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d0ed8909/805069da-l.webp
 title:
   en: Procession And Croud
-  kn: Procession And Croud
+  kn: ಮೆರವಣಿಗೆ ಮತ್ತು ಭಕ್ತಸಾಗರ
 description:
   en: Procession And Croud — celebrations and darshan.
-  kn: Procession And Croud — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಮೆರವಣಿಗೆ ಮತ್ತು ಭಕ್ತಸಾಗರ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Procession And Croud
   kn:
     - ಪರ್ಯಾಯ
-    - Procession And Croud
+    - ಮೆರವಣಿಗೆ ಮತ್ತು ಭಕ್ತಸಾಗರ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d0ed8909/805069da-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/d0ed8909/805069da-l.webp

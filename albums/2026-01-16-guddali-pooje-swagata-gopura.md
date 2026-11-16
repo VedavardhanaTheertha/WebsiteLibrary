@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4ac8461b/a3192df2-l.webp
 title:
   en: Guddali pooje Swagata gopura
-  kn: Guddali pooje Swagata gopura
+  kn: ಸ್ವಾಗತ ಗೋಪುರ ಗುದ್ದಲಿ ಪೂಜೆ
 description:
   en: Guddali pooje Swagata gopura — celebrations and darshan.
-  kn: Guddali pooje Swagata gopura — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಸ್ವಾಗತ ಗೋಪುರ ಗುದ್ದಲಿ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Guddali pooje Swagata gopura
   kn:
     - ಪರ್ಯಾಯ
-    - Guddali pooje Swagata gopura
+    - ಸ್ವಾಗತ ಗೋಪುರ ಗುದ್ದಲಿ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4ac8461b/a3192df2-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/4ac8461b/a3192df2-l.webp

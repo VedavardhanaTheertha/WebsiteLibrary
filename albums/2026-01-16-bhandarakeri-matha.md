@@ -4,17 +4,17 @@ date: "2026-01-16"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7c04911c/2bfe3b40-l.webp
 title:
   en: Bhandarakeri matha
-  kn: Bhandarakeri matha
+  kn: ಭಂಡಾರಕೇರಿ ಮಠ
 description:
   en: Bhandarakeri matha — celebrations and darshan.
-  kn: Bhandarakeri matha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭಂಡಾರಕೇರಿ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bhandarakeri matha
   kn:
     - ಪರ್ಯಾಯ
-    - Bhandarakeri matha
+    - ಭಂಡಾರಕೇರಿ ಮಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7c04911c/2bfe3b40-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7c04911c/2bfe3b40-l.webp

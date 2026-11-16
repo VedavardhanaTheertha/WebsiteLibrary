@@ -4,17 +4,17 @@ date: "2026-02-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/45c7a467/91c769fd-l.webp
 title:
   en: Alankara & Mahapooje
-  kn: Alankara & Mahapooje
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ
 description:
   en: Alankara & Mahapooje — celebrations and darshan.
-  kn: Alankara & Mahapooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara & Mahapooje
   kn:
     - ಪರ್ಯಾಯ
-    - Alankara & Mahapooje
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/45c7a467/91c769fd-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/45c7a467/91c769fd-l.webp

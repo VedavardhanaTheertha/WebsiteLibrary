@@ -4,17 +4,17 @@ date: "2026-02-12"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/24bbbf2f/8160e631-l.webp
 title:
   en: Brahmana Sabha
-  kn: Brahmana Sabha
+  kn: ಬ್ರಾಹ್ಮಣ ಸಭಾ
 description:
   en: Brahmana Sabha — celebrations and darshan.
-  kn: Brahmana Sabha — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಬ್ರಾಹ್ಮಣ ಸಭಾ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Brahmana Sabha
   kn:
     - ಪರ್ಯಾಯ
-    - Brahmana Sabha
+    - ಬ್ರಾಹ್ಮಣ ಸಭಾ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/24bbbf2f/8160e631-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/24bbbf2f/8160e631-l.webp

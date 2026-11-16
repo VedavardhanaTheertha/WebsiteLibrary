@@ -4,17 +4,17 @@ date: "2026-01-23"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/27ae3984/aac625b1-l.webp
 title:
   en: yakshagana
-  kn: yakshagana
+  kn: ಯಕ್ಷಗಾನ
 description:
   en: yakshagana — celebrations and darshan.
-  kn: yakshagana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಯಕ್ಷಗಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - yakshagana
   kn:
     - ಪರ್ಯಾಯ
-    - yakshagana
+    - ಯಕ್ಷಗಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/27ae3984/aac625b1-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/27ae3984/aac625b1-l.webp

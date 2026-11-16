@@ -4,17 +4,17 @@ date: "2026-03-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ccaa4618/7e497d9c-l.webp
 title:
   en: Ratri utsava
-  kn: Ratri utsava
+  kn: ರಾತ್ರಿ ಉತ್ಸವ
 description:
   en: Ratri utsava — celebrations and darshan.
-  kn: Ratri utsava — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಾತ್ರಿ ಉತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Ratri utsava
   kn:
     - ಪರ್ಯಾಯ
-    - Ratri utsava
+    - ರಾತ್ರಿ ಉತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ccaa4618/7e497d9c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/ccaa4618/7e497d9c-l.webp

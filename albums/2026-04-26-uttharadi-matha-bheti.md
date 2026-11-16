@@ -4,17 +4,17 @@ date: "2026-04-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/186180ed/a74c5871-l.webp
 title:
   en: Uttharadi Matha Bheti
-  kn: Uttharadi Matha Bheti
+  kn: ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ
 description:
   en: Uttharadi Matha Bheti — celebrations and darshan.
-  kn: Uttharadi Matha Bheti — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Uttharadi Matha Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - Uttharadi Matha Bheti
+    - ಉತ್ತರಾದಿ ಮಠ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/186180ed/a74c5871-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/186180ed/a74c5871-l.webp

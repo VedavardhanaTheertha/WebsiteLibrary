@@ -4,17 +4,17 @@ date: "2026-04-14"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e9dfb7fa/1412406a-l.webp
 title:
   en: Bhootarajara Pooje
-  kn: Bhootarajara Pooje
+  kn: ಭೂತರಾಜರ ಪೂಜೆ
 description:
   en: Bhootarajara Pooje — celebrations and darshan.
-  kn: Bhootarajara Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಭೂತರಾಜರ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Bhootarajara Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Bhootarajara Pooje
+    - ಭೂತರಾಜರ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e9dfb7fa/1412406a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/e9dfb7fa/1412406a-l.webp

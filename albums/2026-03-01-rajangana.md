@@ -4,17 +4,17 @@ date: "2026-03-01"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/52b01527/c4bddf56-l.webp
 title:
   en: Rajangana
-  kn: Rajangana
+  kn: ರಾಜಾಂಗಣ
 description:
   en: Rajangana — celebrations and darshan.
-  kn: Rajangana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ರಾಜಾಂಗಣ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Rajangana
   kn:
     - ಪರ್ಯಾಯ
-    - Rajangana
+    - ರಾಜಾಂಗಣ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/52b01527/c4bddf56-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/52b01527/c4bddf56-l.webp

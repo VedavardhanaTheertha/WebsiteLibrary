@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/57963dac/4e812455-l.webp
 title:
   en: Anna santarpane
-  kn: Anna santarpane
+  kn: ಅನ್ನ ಸಂತರ್ಪಣೆ
 description:
   en: Anna santarpane — celebrations and darshan.
-  kn: Anna santarpane — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅನ್ನ ಸಂತರ್ಪಣೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Anna santarpane
   kn:
     - ಪರ್ಯಾಯ
-    - Anna santarpane
+    - ಅನ್ನ ಸಂತರ್ಪಣೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/57963dac/4e812455-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/57963dac/4e812455-l.webp

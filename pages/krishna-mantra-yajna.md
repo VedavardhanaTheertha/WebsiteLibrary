@@ -10,9 +10,9 @@ image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-k
 page_type:
   en: Mantra Yajna
   kn: ಮಂತ್ರ ಯಜ್ಞ
-url: /events/mantra-yajna
+url: /mantra-yajna
 footnote:
   en: ""
   kn: ""
-enabled: false
+enabled: true
 ---

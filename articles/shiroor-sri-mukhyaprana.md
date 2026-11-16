@@ -6,9 +6,6 @@ title:
 summary:
   en: The sacred history, Treta Yuga origins with Sage Jabali, Suvarna River miracles, and living traditions of Sri Mukhyaprana Devaru at Shiroor Moola Matha.
   kn: ತ್ರೇತಾಯುಗದ ಜಾಬಾಲಿ ಮುನಿಗಳ ತಪೋಭೂಮಿ, ಸುವರ್ಣಾ ನದಿಯ ಪವಿತ್ರ ಸನ್ನಿಧಿ ಹಾಗೂ ಶೀರೂರು ಮೂಲ ಮಠದ ಸರ್ವಾಭೀಷ್ಟಪ್ರದಾಯಕ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರ ಮಹಿಮೆ ಮತ್ತು ಇತಿಹಾಸ.
-status:
-  en: Reviewed article
-  kn: ಪರಿಶೀಲಿತ ಲೇಖನ
 image: ""
 tags:
   - code: mukhyaprana
@@ -26,7 +23,7 @@ tags:
   - code: suvarna-river
     en: Suvarna River
     kn: ಸುವರ್ಣಾ ನದಿ
-enabled: false
+enabled: true
 ---
 
 ## English

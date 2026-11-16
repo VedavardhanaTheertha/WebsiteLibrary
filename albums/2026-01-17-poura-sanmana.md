@@ -4,17 +4,17 @@ date: "2026-01-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3cb54eb3/a2c1b88c-l.webp
 title:
   en: poura sanmana
-  kn: poura sanmana
+  kn: ಪೌರ ಸನ್ಮಾನ
 description:
   en: poura sanmana — celebrations and darshan.
-  kn: poura sanmana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪೌರ ಸನ್ಮಾನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - poura sanmana
   kn:
     - ಪರ್ಯಾಯ
-    - poura sanmana
+    - ಪೌರ ಸನ್ಮಾನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3cb54eb3/a2c1b88c-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/3cb54eb3/a2c1b88c-l.webp

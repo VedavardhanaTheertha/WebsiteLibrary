@@ -4,17 +4,17 @@ date: "2026-02-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9dce8fa4/6d67dd37-l.webp
 title:
   en: Vastu Pradarshana
-  kn: Vastu Pradarshana
+  kn: ವಾಸ್ತು ಪ್ರದರ್ಶನ
 description:
   en: Vastu Pradarshana — celebrations and darshan.
-  kn: Vastu Pradarshana — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವಾಸ್ತು ಪ್ರದರ್ಶನ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Vastu Pradarshana
   kn:
     - ಪರ್ಯಾಯ
-    - Vastu Pradarshana
+    - ವಾಸ್ತು ಪ್ರದರ್ಶನ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9dce8fa4/6d67dd37-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/9dce8fa4/6d67dd37-l.webp

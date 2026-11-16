@@ -4,17 +4,17 @@ date: "2026-04-24"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/31f80bec/d632b72f-l.webp
 title:
   en: Shrikara Pooje
-  kn: Shrikara Pooje
+  kn: ಶ್ರೀಕರ ಪೂಜೆ
 description:
   en: Shrikara Pooje — celebrations and darshan.
-  kn: Shrikara Pooje — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶ್ರೀಕರ ಪೂಜೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Shrikara Pooje
   kn:
     - ಪರ್ಯಾಯ
-    - Shrikara Pooje
+    - ಶ್ರೀಕರ ಪೂಜೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/31f80bec/d632b72f-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/31f80bec/d632b72f-l.webp

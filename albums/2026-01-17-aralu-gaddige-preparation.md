@@ -4,17 +4,17 @@ date: "2026-01-17"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c2489f2e/8d3751d5-l.webp
 title:
   en: aralu gaddige preparation
-  kn: aralu gaddige preparation
+  kn: ಅರಳುಗದ್ದಿಗೆ ಸಿದ್ಧತೆ
 description:
   en: aralu gaddige preparation — celebrations and darshan.
-  kn: aralu gaddige preparation — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅರಳುಗದ್ದಿಗೆ ಸಿದ್ಧತೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - aralu gaddige preparation
   kn:
     - ಪರ್ಯಾಯ
-    - aralu gaddige preparation
+    - ಅರಳುಗದ್ದಿಗೆ ಸಿದ್ಧತೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c2489f2e/8d3751d5-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/c2489f2e/8d3751d5-l.webp

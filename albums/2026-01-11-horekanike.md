@@ -4,17 +4,17 @@ date: "2026-01-11"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-l.webp
 title:
   en: Horekanike
-  kn: Horekanike
+  kn: ಹೊರೆಕಾಣಿಕೆ
 description:
   en: Horekanike — celebrations and darshan.
-  kn: Horekanike — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಹೊರೆಕಾಣಿಕೆ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Horekanike
   kn:
     - ಪರ್ಯಾಯ
-    - Horekanike
+    - ಹೊರೆಕಾಣಿಕೆ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/b9d38b61/228e8922-l.webp

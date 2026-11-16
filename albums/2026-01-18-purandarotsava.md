@@ -4,17 +4,17 @@ date: "2026-01-18"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/48c5f0c0/8fb45d9a-l.webp
 title:
   en: Purandarotsava
-  kn: Purandarotsava
+  kn: ಪುರಂದರೋತ್ಸವ
 description:
   en: Purandarotsava — celebrations and darshan.
-  kn: Purandarotsava — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಪುರಂದರೋತ್ಸವ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Purandarotsava
   kn:
     - ಪರ್ಯಾಯ
-    - Purandarotsava
+    - ಪುರಂದರೋತ್ಸವ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/48c5f0c0/8fb45d9a-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/48c5f0c0/8fb45d9a-l.webp

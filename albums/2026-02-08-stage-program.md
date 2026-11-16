@@ -4,17 +4,17 @@ date: "2026-02-08"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1cb030b1/b67d2509-l.webp
 title:
   en: Stage Program
-  kn: Stage Program
+  kn: ವೇದಿಕೆ ಕಾರ್ಯಕ್ರಮ
 description:
   en: Stage Program — celebrations and darshan.
-  kn: Stage Program — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ವೇದಿಕೆ ಕಾರ್ಯಕ್ರಮ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Stage Program
   kn:
     - ಪರ್ಯಾಯ
-    - Stage Program
+    - ವೇದಿಕೆ ಕಾರ್ಯಕ್ರಮ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1cb030b1/b67d2509-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/1cb030b1/b67d2509-l.webp
