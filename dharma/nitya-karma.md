@@ -1,11 +1,11 @@
 ---
 id: nitya-karma
 title:
-  en: Nitya Karma — The Daily Spiritual Discipline of Tattvavada
-  kn: ನಿತ್ಯಕರ್ಮ — ತತ್ತ್ವವಾದದಲ್ಲಿ ದೈನಂದಿನ ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ ಮತ್ತು ಸದಾಚಾರ ಸ್ಮೃತಿ
+  en: Nitya Karma — The Daily Spiritual Discipline
+  kn: ನಿತ್ಯಕರ್ಮ — ದೈನಂದಿನ ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ ಮತ್ತು ಸದಾಚಾರ ಸ್ಮೃತಿ
 summary:
-  en: An authoritative guide to the daily observances of a Madhwa Vaishnava, rooted in Sri Madhwacharya's Sadachara Smriti, detailing Brahma Muhurta awakening, Gopichandana and Mudra Dharana, Sandhyavandana, and Saligrama Pooja.
-  kn: ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ಸದಾಚಾರ ಸ್ಮೃತಿಯ ಆಧಾರದ ಮೇಲೆ ಮುಂಜಾನೆಯ ಜಾಗರಣೆ, ಗೋಪೀಚಂದನ-ಮುದ್ರಾಧಾರಣೆ, ತ್ರಿಕಾಲ ಸಂಧ್ಯಾವಂದನೆ, ಸಾಲಿಗ್ರಾಮ ಪೂಜೆ ಮತ್ತು ನಿತ್ಯಕರ್ಮಗಳ ಸಮಗ್ರ ವಿಧಿ-ವಿಧಾನ.
+  en: A guide to the daily observances of a Madhwa Vaishnava, rooted in Sri Madhwacharya's Sadachara Smriti, detailing Brahma Muhurta awakening, Gopichandana and Mudra Dharana, Sandhyavandana, and Saligrama Pooja.
+  kn: ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ಸದಾಚಾರ ಸ್ಮೃತಿಯ ಆಧಾರದ ಮೇಲೆ ಮುಂಜಾನೆಯ ಜಾಗರಣೆ, ಗೋಪೀಚಂದನ-ಮುದ್ರಾಧಾರಣೆ, ತ್ರಿಕಾಲ ಸಂಧ್ಯಾವಂದನೆ, ಸಾಲಿಗ್ರಾಮ ಪೂಜೆ ಮತ್ತು ನಿತ್ಯಕರ್ಮಗಳ ವಿಧಿ-ವಿಧಾನ.
 tags:
   - code: nitya-karma
     en: Nitya Karma
@@ -27,20 +27,20 @@ enabled: true
 
 ## English
 
-### Nitya Karma: The Daily Spiritual Discipline of Tattvavada
+### Nitya Karma: The Daily Spiritual Discipline
 
 > *"Kurvannevaha Karmani Jijeevishec-chatam Samaha  
 > Evam Tvayi Naanyatheto’sti Na Karma Lipyate Nare"*  
 > — *Isha Upanishad (Verse 2)*  
 > ("Only by performing one's prescribed duties throughout life should one desire to live a hundred years. For a human being dedicated to the Lord, there is no other way to remain untainted by karma.")
 
-In the Dvaita Vedanta philosophy founded by Jagadguru Sri Madhwacharya, **Nitya Karma** (daily prescribed duty) is the very foundation of spiritual existence. Far from being a mechanical set of social habits or burdensome rituals, Nitya Karma is an unbroken, round-the-clock stream of meditation (*Satata Smarana*) upon Supreme Lord Sri Narayana. In Tattvavada, physical actions are not renounced; rather, they are elevated into offerings of devotion (*Karmasu Kaushalam*). By performing one's daily duties with the knowledge that Sri Hari is the sole independent doer (*Svatantra Karta*) and we are His eternal servants (*Paratantra Jivas*), every ordinary movement—waking, bathing, breathing, eating, and studying—becomes an act of divine worship.
+As Jagadguru Sri Madhwacharya said, **Nitya Karma** (daily prescribed duty) is the very foundation of spiritual existence. Far from being a mechanical set of social habits or burdensome rituals, Nitya Karma is an unbroken, round-the-clock stream of meditation (*Satata Smarana*) upon Supreme Lord Sri Narayana. In Tattvavada, physical actions are not renounced; rather, they are elevated into offerings of devotion (*Karmasu Kaushalam*). By performing one's daily duties with the knowledge that Sri Hari is the sole independent doer (*Svatantra Karta*) and we are His eternal servants (*Paratantra Jivas*), every ordinary movement—waking, bathing, breathing, eating, and studying—becomes an act of divine worship.
 
 ---
 
 #### 1. The Authoritative Guide: Sri Madhwacharya's Sadachara Smriti
 
-The blueprint for daily life in the Madhwa tradition is codified by Sri Madhwacharya in his timeless manual, the ***Sadachara Smriti***:
+The blueprint for daily life is codified by Sri Madhwacharya in his timeless manual, the ***Sadachara Smriti***:
 
 - **Action without Attachment (*Nishkama Karma*)**: Sri Madhwa insists that duties must be performed without craving worldly rewards or pride, dedicated wholly to pleasing Lord Sri Krishna (*"Sri Krishna Preetyartham"*).
 - **The Three Categories of Action**:
@@ -130,20 +130,20 @@ Every Madhwa household is centered on the daily worship of sacred **Saligrama Sh
 
 ## ಕನ್ನಡ
 
-### ನಿತ್ಯಕರ್ಮ: ತತ್ತ್ವವಾದದಲ್ಲಿ ದೈನಂದಿನ ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ ಮತ್ತು ಸದಾಚಾರ ಸ್ಮೃತಿ
+### ನಿತ್ಯಕರ್ಮ: ದೈನಂದಿನ ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ ಮತ್ತು ಸದಾಚಾರ ಸ್ಮೃತಿ
 
 > *"ಕುರ್ವನ್ನೇವೇಹ ಕರ್ಮಾಣಿ ಜಿಜೀವಿಷೇಚ್ಛತಂ ಸಮಾಃ  
 > ಏವಂ ತ್ವಯಿ ನಾನ್ಯಥೇತೋಽಸ್ತಿ ನ ಕರ್ಮ ಲಿಪ್ಯತೇ ನರೇ"*  
 > — *ಈಶಾವಾಸ್ಯ ಉಪನಿಷತ್ (ಶ್ಲೋಕ ೨)*  
 > ("ಮಾನವನು ಶಾಸ್ತ್ರೋಕ್ತ ಕರ್ತವ್ಯಗಳನ್ನು ನಿಷ್ಠೆಯಿಂದ ಆಚರಿಸುತ್ತಲೇ ನೂರು ವರ್ಷಗಳ ಕಾಲ ಬದುಕಲು ಬಯಸಬೇಕು. ಭಗವದರ್ಪಣಾ ಭಾವದಿಂದ ಕರ್ಮ ಮಾಡುವ ಮಾನವನಿಗೆ ಕರ್ಮಲೇಪವು ಎಂದಿಗೂ ತಟ್ಟುವುದಿಲ್ಲ.")
 
-ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ದ್ವೈತ ತತ್ತ್ವವಾದದಲ್ಲಿ **ನಿತ್ಯಕರ್ಮ**ವು ಕೇವಲ ಯಾಂತ್ರಿಕವಾದ ಆಚಾರವಲ್ಲ; ಅದು ಮಾನವ ಜನ್ಮವನ್ನು ಸಾರ್ಥಕಗೊಳಿಸುವ ನಿರಂತರ ಭಗವದನುಸಂಧಾನವಾಗಿದೆ. ಕರ್ಮಗಳನ್ನು ಬಿಟ್ಟು ಸನ್ಯಾಸಿಯಾಗುವುದಕ್ಕಿಂತ, ಮಾಡುವ ಪ್ರತಿಯೊಂದು ಕರ್ಮವನ್ನೂ ಭಗವತ್ಪೂಜೆಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವುದೇ ತತ್ತ್ವವಾದದ ಮೂಲಮಂತ್ರ. ಭಗವಾನ್ ಶ್ರೀ ನಾರಾಯಣನೇ ಜಗತ್ತಿನ ಏಕೈಕ ಪರಮ ಸ್ವತಂತ್ರ ಕರ್ತೃ, ನಾವು ಆತನ ಅಧೀನರಾದ ಸೇವಕರು ಎಂಬ ದೃಢ ಜ್ಞಾನದಿಂದ ಕರ್ತವ್ಯಗಳನ್ನು ಪಾಲಿಸಿದಾಗ ನಮ್ಮ ಏಳು-ಬೀಳು, ಸ್ನಾನ-ಪಾನ, ಊಟ-ಉಪಾಹಾರಗಳೆಲ್ಲವೂ ಮಹಾಯಜ್ಞವಾಗಿ ಮಾರ್ಪಡುತ್ತವೆ.
+ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ತತ್ತ್ವವಾದದಲ್ಲಿ **ನಿತ್ಯಕರ್ಮ**ವು ಕೇವಲ ಯಾಂತ್ರಿಕವಾದ ಆಚಾರವಲ್ಲ; ಅದು ಮಾನವ ಜನ್ಮವನ್ನು ಸಾರ್ಥಕಗೊಳಿಸುವ ನಿರಂತರ ಭಗವದನುಸಂಧಾನವಾಗಿದೆ. ಕರ್ಮಗಳನ್ನು ಬಿಟ್ಟು ಸನ್ಯಾಸಿಯಾಗುವುದಕ್ಕಿಂತ, ಮಾಡುವ ಪ್ರತಿಯೊಂದು ಕರ್ಮವನ್ನೂ ಭಗವತ್ಪೂಜೆಯನ್ನಾಗಿ ಪರಿವರ್ತಿಸುವುದೇ ತತ್ತ್ವವಾದದ ಮೂಲಮಂತ್ರ. ಭಗವಾನ್ ಶ್ರೀ ನಾರಾಯಣನೇ ಜಗತ್ತಿನ ಏಕೈಕ ಪರಮ ಸ್ವತಂತ್ರ ಕರ್ತೃ, ನಾವು ಆತನ ಅಧೀನರಾದ ಸೇವಕರು ಎಂಬ ದೃಢ ಜ್ಞಾನದಿಂದ ಕರ್ತವ್ಯಗಳನ್ನು ಪಾಲಿಸಿದಾಗ ನಮ್ಮ ಏಳು-ಬೀಳು, ಸ್ನಾನ-ಪಾನ, ಊಟ-ಉಪಾಹಾರಗಳೆಲ್ಲವೂ ಮಹಾಯಜ್ಞವಾಗಿ ಮಾರ್ಪಡುತ್ತವೆ.
 
 ---
 
 #### ೧. ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ 'ಸದಾಚಾರ ಸ್ಮೃತಿ'ಯ ಮಾರ್ಗದರ್ಶನ
 
-ಮಾಧ್ವರ ದೈನಂದಿನ ಜೀವನ ಹೇಗಿರಬೇಕೆಂಬುದನ್ನು ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ***ಸದಾಚಾರ ಸ್ಮೃತಿ*** ಗ್ರಂಥದಲ್ಲಿ ಅತ್ಯಂತ ಸ್ಪಷ್ಟವಾಗಿ ನಿರೂಪಿಸಿದ್ದಾರೆ:
+ದೈನಂದಿನ ಜೀವನ ಹೇಗಿರಬೇಕೆಂಬುದನ್ನು ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ***ಸದಾಚಾರ ಸ್ಮೃತಿ*** ಗ್ರಂಥದಲ್ಲಿ ಅತ್ಯಂತ ಸ್ಪಷ್ಟವಾಗಿ ನಿರೂಪಿಸಿದ್ದಾರೆ:
 
 - **ನಿಷ್ಕಾಮ ಕರ್ಮಯೋಗ**: ಯಾವುದೇ ಲೌಕಿಕ ಫಲದ ನಿರೀಕ್ಷೆಯಿಲ್ಲದೆ, ಕೇವಲ ಶ್ರೀಕೃಷ್ಣನ ಪರಮ ಪ್ರೀತಿಗಾಗಿ (*"ಶ್ರೀ ಕೃಷ್ಣ ಪ್ರೀತ್ಯರ್ಥಂ"*) ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಬೇಕು.
 - **ಕರ್ಮಗಳ ತ್ರಿವಿಧ ವಿಭಾಗ**:

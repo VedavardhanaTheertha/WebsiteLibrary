@@ -4,8 +4,8 @@ title:
   en: The Sacred Samskaras — Sacraments of Spiritual Elevation in Tattvavada
   kn: ಪವಿತ್ರ ಸಂಸ್ಕಾರಗಳು — ತತ್ತ್ವವಾದದಲ್ಲಿ ಷೋಡಶ ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ತಪ್ತಮುದ್ರಾ ಧಾರಣಾ ಮಹತ್ತ್ವ
 summary:
-  en: A comprehensive guide to the Vedic Samskaras in the Madhwa tradition, detailing their spiritual philosophy, the lifecycle rites from Garbhadhana and Upanayana to Tapta Mudra Dharana, Vivaha, and Sannyasa.
-  kn: ಮಾಧ್ವ ಪರಂಪರೆಯಲ್ಲಿ ಗರ್ಭಾದಾನ, ಉಪನಯನ, ತಪ್ತಮುದ್ರಾ ಧಾರಣೆ, ವಿವಾಹ ಮತ್ತು ಸಂನ್ಯಾಸಗಳನ್ನೊಳಗೊಂಡ ಷೋಡಶ ಸಂಸ್ಕಾರಗಳ ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ತ್ವ ಮತ್ತು ಶಾಸ್ತ್ರೀಯ ವಿಧಿ-ವಿಧಾನಗಳ ಸಮಗ್ರ ಪರಿಚಯ.
+  en: A brief guide to the Vedic Samskaras, detailing their spiritual philosophy, the lifecycle rites from Garbhadhana and Upanayana to Tapta Mudra Dharana, Vivaha, and Sannyasa.
+  kn: ಗರ್ಭಾದಾನ, ಉಪನಯನ, ತಪ್ತಮುದ್ರಾ ಧಾರಣೆ, ವಿವಾಹ ಮತ್ತು ಸಂನ್ಯಾಸಗಳನ್ನೊಳಗೊಂಡ ಷೋಡಶ ಸಂಸ್ಕಾರಗಳ ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ತ್ವ ಮತ್ತು ಶಾಸ್ತ್ರೀಯ ವಿಧಿ-ವಿಧಾನಗಳ ಕಿರು ಪರಿಚಯ.
 tags:
   - code: samskara
     en: Samskara
@@ -34,11 +34,11 @@ enabled: true
 > — *Skanda Purana (Sanatkumara Samhita)*  
 > ("By biological birth, everyone is born unprocessed. Through sacred Samskaras, one attains twice-born status (*Dvija*). Through deep study of Vedic scriptures, one becomes a learned scholar (*Vipra*); and by realizing the Supreme Brahman Sri Hari, one attains the true state of a Brahmana.")
 
-In the Dvaita Vedanta philosophy founded by Jagadguru Sri Madhwacharya, **Samskaras** (sacred rites of passage) are the spiritual crucibles through which an embodied soul (*Jiva*) is systematically purified and consecrated. The Sanskrit term *Samskara* derives from the root *"Sam-kri"*, meaning to refine, polish, and transform. Just as a rough, unhewn diamond extracted from a mine reveals its dazzling brilliance only after being cut and polished, the individual soul—though possessing innate spiritual eligibility (*Svarupa Yogyata*)—is shrouded by beginningless cosmic ignorance (*Anadi Avidya*) and material conditioning. The Vedic Samskaras remove subtle impurities, instill divine impressions (*Vasana-shuddhi*), and render the person fit for the highest knowledge (*Jnana*) and supreme devotion (*Bhakti*) unto Lord Sri Krishna.
+**Samskaras** (sacred rites of passage) are the spiritual crucibles through which an embodied soul (*Jiva*) is systematically purified and consecrated. The Sanskrit term *Samskara* derives from the root *"Sam-kri"*, meaning to refine, polish, and transform. Just as a rough, unhewn diamond extracted from a mine reveals its dazzling brilliance only after being cut and polished, the individual soul—though possessing innate spiritual eligibility (*Svarupa Yogyata*)—is shrouded by beginningless cosmic ignorance (*Anadi Avidya*) and material conditioning. The Vedic Samskaras remove subtle impurities, instill divine impressions (*Vasana-shuddhi*), and render the person fit for the highest knowledge (*Jnana*) and supreme devotion (*Bhakti*) unto Lord Sri Krishna.
 
 ---
 
-#### 1. The Purificatory Science of Samskaras in Madhwa Shastra
+#### 1. The Purificatory Science of Samskaras
 
 According to Sri Madhwacharya's teachings and classical Smriti texts, Samskaras operate on two interconnected planes:
 
@@ -62,7 +62,7 @@ Antyeshti (Final Oblation) ◄──  Vivaha / Sannyasa   ◄──  Tapta Mudra
 
 ##### 2. Infancy and Early Childhood (Jatakarma to Chaula)
 - **Jatakarma**: Performed at birth. The father gently touches the infant's tongue with a golden spoon tipped with sacred ghee and honey, whispering the secret name of God and praying for long life (*Ayushya*) and intellect (*Medha*).
-- **Namakarana (The Naming Ceremony)**: Bestowing a name of Supreme Lord Sri Narayana (or His divine incarnations and great devotees). In Madhwa philosophy, every divine name is an eternal vibration of Sri Hari's attributes, ensuring that every time the child is addressed, the parents and society perform *Nama Smarana*.
+- **Namakarana (The Naming Ceremony)**: Bestowing a name of Supreme Lord Sri Narayana (or His divine incarnations and great devotees). Every divine name is an eternal vibration of Sri Hari's attributes, ensuring that every time the child is addressed, the parents and society perform *Nama Smarana*.
 - **Annaprashana**: The first offering of consecrated solid food (Maha Prasada from Sri Krishna's sanctum) at six months, ensuring that the child's physical body is built upon pure, offered nourishment.
 - **Chaula (Chudakarana)**: The ceremonial first haircut, leaving the sacred tuft of hair (*Shikha*) over the crown to protect the vital spiritual center (*Brahmarandhra*).
 
@@ -73,7 +73,7 @@ The most momentous milestone in a seeker's youth, typically performed at the age
 - **Gayatri Upadesha**: The father or spiritual preceptor whispers the supreme Vedic *Gayatri Mantra* into the boy's right ear under a consecrated silk cloth. The initiate enters the **Brahmacharya Ashrama**, dedicating his youth to strict celibacy, scriptural study, and daily Trikaala Sandhyavandana.
 
 ##### 4. Tapta Mudra Dharana: The Hallmark Vaishnava Deeksha
-A distinctive and indispensable sacrament in the Madhwa tradition, administered by the Mathadhipati (Peetadhipati Swamiji) of Sri Shiroor Matha or the Ashta Mathas on Ashadha Shukla Ekadashi (*Prathama/Sayana Ekadashi*):
+A distinctive and indispensable sacrament, administered by the Mathadhipati (Peetadhipati Swamiji) of Sri Shiroor Matha or the Ashta Mathas on Ashadha Shukla Ekadashi (*Prathama/Sayana Ekadashi*):
 - **The Sacred Metallurgy**: Metal seals of the divine **Sudarshana Chakra** and **Panchajanya Sankha** are heated in a sanctified Vedic Yajna fire.
 - **The Imprinting**: The presiding Swamiji lovingly and gently presses the hot consecrated seals onto the shoulders of the devotee:
   - *Right shoulder*: The blazing Sudarshana Chakra, destroying all sins and fear of mortality.
@@ -81,7 +81,7 @@ A distinctive and indispensable sacrament in the Madhwa tradition, administered 
 - **Spiritual Significance**: Tapta Mudra Dharana marks the soul as the eternal, consecrated servant of Lord Sri Narayana (*Sri Hari Dasa*), declaring that this body belongs solely to the Supreme Master.
 
 ##### 5. Vivaha: The Sacred Bond of Matrimony
-In the Madhwa tradition, marriage is not a civil contract, but an unbreakable sacramental union:
+Marriage is not a civil contract, but an unbreakable sacramental union:
 - **Dharma-Patni**: The wife is welcomed as a partner in spiritual duty (*Saha-dharmini*). A householder cannot perform daily Agnihotra, Vaishvadeva, or complete Deva Pooja without his consecrated spouse.
 - **The Sacred Rites**:
   - *Kanyadana*: The parents offer their daughter as an oblation to the groom, seeing him as a manifestation of Lord Narayana.
@@ -109,14 +109,14 @@ When the soul departs its physical shell, the mortal body is offered as a final 
 
 ## ಕನ್ನಡ
 
-### ಪವಿತ್ರ ಸಂಸ್ಕಾರಗಳು: ತತ್ತ್ವವಾದದಲ್ಲಿ ಷೋಡಶ ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ತಪ್ತಮುದ್ರಾ ಧಾರಣಾ ಮಹತ್ತ್ವ
+### ಪವಿತ್ರ ಸಂಸ್ಕಾರಗಳು: ಷೋಡಶ ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ತಪ್ತಮುದ್ರಾ ಧಾರಣಾ ಮಹತ್ತ್ವ
 
 > *"ಜನ್ಮನಾ ಜಾಯತೇ ಶೂದ್ರಃ ಸಂಸ್ಕಾರಾದ್ ದ್ವಿಜ ಉಚ್ಯತೇ  
 > ವೇದಾಭ್ಯಾಸಾದ್ ಭವೇದ್ ವಿಪ್ರಃ ಬ್ರಹ್ಮ ಜಾನಾತೀತಿ ಬ್ರಾಹ್ಮಣಃ"*  
 > — *ಸ್ಕಂದ ಪುರಾಣ (ಸನತ್ಕುಮಾರ ಸಂಹಿತಾ)*  
 > ("ಹುಟ್ಟಿನಿಂದ ಪ್ರತಿಯೊಬ್ಬನೂ ಅಪಕ್ವನಾಗಿಯೇ ಜನಿಸುತ್ತಾನೆ. ಶಾಸ್ತ್ರೋಕ್ತ ಸಂಸ್ಕಾರಗಳಿಂದ ಆತನು 'ದ್ವಿಜ'ನಾಗುತ್ತಾನೆ. ವೇದಾಧ್ಯಯನದಿಂದ 'ವಿಪ್ರ'ನಾಗುತ್ತಾನೆ; ಹಾಗೂ ಪರಬ್ರಹ್ಮ ಶ್ರೀಹರಿಯನ್ನು ಸಾಕ್ಷಾತ್ಕರಿಸಿಕೊಂಡಾಗ ಮಾತ್ರವೇ ನಿಜವಾದ 'ಬ್ರಾಹ್ಮಣ'ನಾಗುತ್ತಾನೆ.")
 
-ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ದ್ವೈತ ತತ್ತ್ವವಾದದಲ್ಲಿ **ಸಂಸ್ಕಾರಗಳು** ಮಾನವ ಜೀವನವನ್ನು ಹಂತ-ಹಂತವಾಗಿ ಪಾವನಗೊಳಿಸುವ ಪರಮ ಪವಿತ್ರ ದೀಕ್ಷೆಗಳಾಗಿವೆ. "ಸಂಸ್ಕಾರ" ಎಂಬ ಶಬ್ದವು "ಸಂ-ಕೃ" ಎಂಬ ಸಂಸ್ಕೃತ ಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದ್ದು, ಶುದ್ಧೀಕರಿಸುವುದು, ಪರಿಷ್ಕರಿಸುವುದು ಮತ್ತು ದಿವ್ಯತೆಯನ್ನು ತುಂಬುವುದು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ. ಗಣಿಯಿಂದ ತೆಗೆದ ಕಚ್ಚಾ ವಜ್ರವು ತಿದ್ದಿ-ತೀಡಿದಾಗ ಮಾತ್ರವೇ ಜಗತ್ಪ್ರಸಿದ್ಧ ಕಾಂತಿಯನ್ನು ಬೀರುವಂತೆ, ಜೀವಾತ್ಮನು ಹುಟ್ಟಿನಿಂದ ಅಜ್ಞಾನ ಮತ್ತು ಮಾಯಾಮೋಹಗಳಿಂದ ಆವೃತವಾಗಿದ್ದರೂ, ವೈದಿಕ ಸಂಸ್ಕಾರಗಳ ಮೂಲಕ ಅಂತರಂಗದ ಕೊಳೆಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಗೆ ಯೋಗ್ಯನಾಗುತ್ತಾನೆ.
+ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ತತ್ತ್ವವಾದದಲ್ಲಿ **ಸಂಸ್ಕಾರಗಳು** ಮಾನವ ಜೀವನವನ್ನು ಹಂತ-ಹಂತವಾಗಿ ಪಾವನಗೊಳಿಸುವ ಪರಮ ಪವಿತ್ರ ದೀಕ್ಷೆಗಳಾಗಿವೆ. "ಸಂಸ್ಕಾರ" ಎಂಬ ಶಬ್ದವು "ಸಂ-ಕೃ" ಎಂಬ ಸಂಸ್ಕೃತ ಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದ್ದು, ಶುದ್ಧೀಕರಿಸುವುದು, ಪರಿಷ್ಕರಿಸುವುದು ಮತ್ತು ದಿವ್ಯತೆಯನ್ನು ತುಂಬುವುದು ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ. ಗಣಿಯಿಂದ ತೆಗೆದ ಕಚ್ಚಾ ವಜ್ರವು ತಿದ್ದಿ-ತೀಡಿದಾಗ ಮಾತ್ರವೇ ಜಗತ್ಪ್ರಸಿದ್ಧ ಕಾಂತಿಯನ್ನು ಬೀರುವಂತೆ, ಜೀವಾತ್ಮನು ಹುಟ್ಟಿನಿಂದ ಅಜ್ಞಾನ ಮತ್ತು ಮಾಯಾಮೋಹಗಳಿಂದ ಆವೃತವಾಗಿದ್ದರೂ, ವೈದಿಕ ಸಂಸ್ಕಾರಗಳ ಮೂಲಕ ಅಂತರಂಗದ ಕೊಳೆಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಗೆ ಯೋಗ್ಯನಾಗುತ್ತಾನೆ.
 
 ---
 
@@ -137,7 +137,7 @@ When the soul departs its physical shell, the mortal body is offered as a final 
 
 ##### ೨. ಜಾತಕರ್ಮದಿಂದ ಚೌಲದವರೆಗೆ (ಬಾಲ್ಯ ಸಂಸ್ಕಾರಗಳು)
 - **ಜಾತಕರ್ಮ**: ಮಗು ಜನಿಸಿದ ತಕ್ಷಣ ತಂದೆಯು ಬಂಗಾರದ ಸರಳಿನಿಂದ ತುಪ್ಪ-ಜೇನುತುಪ್ಪವನ್ನು ಮಗುವಿನ ನಾಲಿಗೆಗೆ ಸ್ಪರ್ಶಿಸಿ, ಆಯಸ್ಸು ಮತ್ತು ಸದ್ಬುದ್ಧಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುವುದು.
-- **ನಾಮಕರಣ**: ಮಗುವಿಗೆ ಭಗವಂತನ ದಿವ್ಯ ನಾಮಗಳನ್ನೇ (ಶ್ರೀಕೃಷ್ಣ, ರಾಮ, ನಾರಾಯಣ ಇತ್ಯಾದಿ) ಇಡುವುದು. ಮಾಧ್ವ ಸಿದ್ಧಾಂತದ ಪ್ರಕಾರ ಭಗವನ್ನಾಮಗಳು ಕೇವಲ ಹೆಸರುಗಳಲ್ಲ, ಅವು ಅನಂತ ಕಲ್ಯಾಣಗುಣಗಳ ಪ್ರತೀಕ. ಮಗುವನ್ನು ಕರೆಯುವ ಪ್ರತಿ ಬಾರಿಯೂ ತಂದೆ-ತಾಯಿಗಳಿಗೆ ನಾಮಸ್ಮರಣೆಯ ಪುಣ್ಯ ಲಭಿಸುತ್ತದೆ.
+- **ನಾಮಕರಣ**: ಮಗುವಿಗೆ ಭಗವಂತನ ದಿವ್ಯ ನಾಮಗಳನ್ನೇ (ಶ್ರೀಕೃಷ್ಣ, ರಾಮ, ನಾರಾಯಣ ಇತ್ಯಾದಿ) ಇಡುವುದು.ಭಗವನ್ನಾಮಗಳು ಕೇವಲ ಹೆಸರುಗಳಲ್ಲ, ಅವು ಅನಂತ ಕಲ್ಯಾಣಗುಣಗಳ ಪ್ರತೀಕ. ಮಗುವನ್ನು ಕರೆಯುವ ಪ್ರತಿ ಬಾರಿಯೂ ತಂದೆ-ತಾಯಿಗಳಿಗೆ ನಾಮಸ್ಮರಣೆಯ ಪುಣ್ಯ ಲಭಿಸುತ್ತದೆ.
 - **ಅನ್ನಪ್ರಾಶನ**: ಆರನೆಯ ತಿಂಗಳಲ್ಲಿ ಮಗುವಿಗೆ ಮೊದಲ ಬಾರಿಗೆ ಶ್ರೀಕೃಷ್ಣನ ನೈವೇದ್ಯವಾದ ಪರಮಾನ್ನ (ಮಹಾಪ್ರಸಾದ) ವನ್ನು ತಿನ್ನಿಸುವ ಮೂಲಕ, ಮಗುವಿನ ಶರೀರವು ಪವಿತ್ರ ಪ್ರಸಾದದಿಂದಲೇ ಬೆಳೆಯುವಂತೆ ಮಾಡುವುದು.
 - **ಚೌಲ (ಚೂಡಾಕರ್ಮ)**: ತಲೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಪವಿತ್ರವಾದ 'ಶಿಖೆ'ಯನ್ನು ಉಳಿಸಿ ಕೇಶಮುಂಡನ ಮಾಡುವ ವಿಧಿ.
 
@@ -147,9 +147,9 @@ When the soul departs its physical shell, the mortal body is offered as a final 
 - **ಯಜ್ಞೋಪವೀತ ಧಾರಣೆ**: ಸತ್ತ್ವ, ರಜಸ್, ತಮೋಗುಣಗಳು ಶ್ರೀಹರಿಗೆ ಅಧೀನವೆಂಬುದನ್ನು ಸಾರುವ ಮೂರು ಎಳೆಗಳ ಜನಿವಾರವನ್ನು ಧರಿಸುವುದು.
 - **ಗಾಯತ್ರೀ ಉಪದೇಶ**: ತಂದೆಯು ರೇಷ್ಮೆ ವಸ್ತ್ರದ ಹೊದಿಕೆಯೊಳಗೆ ಬಾಲಕನ ಬಲಕಿವಿಯಲ್ಲಿ ಪರಮ ಪವಿತ್ರವಾದ ಗಾಯತ್ರೀ ಮಂತ್ರವನ್ನು ಉಪದೇಶಿಸುತ್ತಾನೆ. ಇಲ್ಲಿಂದ ಬಾಲಕನು ನಿತ್ಯವೂ ತ್ರಿಕಾಲ ಸಂಧ್ಯಾವಂದನೆಯನ್ನು ಆಚರಿಸುವ ಬ್ರಹ್ಮಚರ್ಯ ವ್ರತಕ್ಕೆ ಕಾಲಿಡುತ್ತಾನೆ.
 
-##### ೪. ತಪ್ತಮುದ್ರಾ ಧಾರಣೆ: ಮಾಧ್ವರ ಅನನ್ಯ ವೈಷ್ಣವ ದೀಕ್ಷೆ
-ಮಾಧ್ವ ಸಂಪ್ರದಾಯದ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ, ಪ್ರತಿಯೊಬ್ಬ ಮಾಧ್ವನೂ ಕಡ್ಡಾಯವಾಗಿ ಪಡೆಯಲೇಬೇಕಾದ ಪರಮ ಪಾವನ ಸಂಸ್ಕಾರ:
-- ಆಷಾಢ ಶುಕ್ಲ ಏಕಾದಶಿಯ (ಪ್ರಥಮ ಏಕಾದಶಿ) ಪವಿತ್ರ ದಿನದಂದು ಉಡುಪಿಯ ಶ್ರೀ ಶಿರೂರು ಮಠವೇ ಮೊದಲಾದ ಅಷ್ಟಮಠಗಳ ಪೂಜ್ಯ ಸ್ವಾಮೀಜಿಯವರು ಈ ದೀಕ್ಷೆಯನ್ನು ಅನುಗ್ರಹಿಸುತ್ತಾರೆ.
+##### ೪. ತಪ್ತಮುದ್ರಾ ಧಾರಣೆ: ಅನನ್ಯ ವೈಷ್ಣವ ದೀಕ್ಷೆ
+ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ, ಪ್ರತಿಯೊಬ್ಬ ವೈಷ್ಣವನೂ ಕಡ್ಡಾಯವಾಗಿ ಪಡೆಯಲೇಬೇಕಾದ ಪರಮ ಪಾವನ ಸಂಸ್ಕಾರ:
+- ಆಷಾಢ ಶುಕ್ಲ ಏಕಾದಶಿಯ (ಪ್ರಥಮ ಏಕಾದಶಿ) ಪವಿತ್ರ ದಿನದಂದು ಉಡುಪಿಯ ಶ್ರೀ ಶಿರೂರು ಮಠವೇ ಮೊದಲಾದ ಪೂಜ್ಯ ಸ್ವಾಮೀಜಿಯವರು ಈ ದೀಕ್ಷೆಯನ್ನು ಅನುಗ್ರಹಿಸುತ್ತಾರೆ.
 - ಸುದರ್ಶನ ಹೋಮದ ಪವಿತ್ರ ಅಗ್ನಿಯಲ್ಲಿ ಕಾಯಿಸಿದ ಚಿನ್ನ ಅಥವಾ ಬೆಳ್ಳಿಯ **ಸುದರ್ಶನ ಚಕ್ರ** ಮತ್ತು **ಪಾಂಚಜನ್ಯ ಶಂಖ**ಗಳ ಮುದ್ರೆಗಳನ್ನು ಭಕ್ತರ ಭುಜಗಳ ಮೇಲೆ ಭಕ್ತಿಯಿಂದ ಧಾರಣೆ ಮಾಡಲಾಗುತ್ತದೆ:
   - *ಬಲಭುಜ*: ಸಮಸ್ತ ಪಾಪಗಳನ್ನು ಸುಡುವ, ಮೃತ್ಯುಭಯವನ್ನು ನೀಗುವ ಸುದರ್ಶನ ಚಕ್ರ.
   - *ಎಡಭುಜ*: ಜ್ಞಾನವನ್ನು ಜಾಗೃತಗೊಳಿಸುವ ಪಾಂಚಜನ್ಯ ಶಂಖ.

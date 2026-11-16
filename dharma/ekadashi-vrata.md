@@ -34,7 +34,7 @@ enabled: true
 > — *Sri Madhwacharya (Krishnamruta Maharnava, 142)*  
 > ("Under no circumstance should a human being consume food on Ekadashi; this applies equally to the bright fortnight and the dark fortnight.")
 
-In the Dvaita Vedanta philosophy founded by Jagadguru Sri Madhwacharya, **Ekadashi Vrata** is not merely an optional ritual or a periodic dietary fast for physical health. It is an inviolable Vedic injunction (*Nitya-kartavya*) commanded directly by Supreme Lord Sri Narayana. Ekadashi is extolled as **Sri Hari-vasara**—the sacred day belonging exclusively to the Supreme Lord. Observing complete fasting on this day, combined with unbroken remembrance of Sri Hari, constitutes one of the most potent Sadhanas for burning accumulated sins (*Papapurusha-vinasha*), achieving purity of the inner instrument (*Chitta-shuddhi*), and securing the supreme grace (*Atyanta-prasada*) of Lord Sri Krishna.
+As Jagadguru Sri Madhwacharya said, **Ekadashi Vrata** is not merely an optional ritual or a periodic dietary fast for physical health. It is an inviolable Vedic injunction (*Nitya-kartavya*) commanded directly by Supreme Lord Sri Narayana. Ekadashi is extolled as **Sri Hari-vasara**—the sacred day belonging exclusively to the Supreme Lord. Observing complete fasting on this day, combined with unbroken remembrance of Sri Hari, constitutes one of the most potent Sadhanas for burning accumulated sins (*Papapurusha-vinasha*), achieving purity of the inner instrument (*Chitta-shuddhi*), and securing the supreme grace (*Atyanta-prasada*) of Lord Sri Krishna.
 
 ---
 
@@ -50,7 +50,7 @@ In his monumental compendium of devotion, the *Krishnamruta Maharnava*, Sri Madh
 
 #### 2. The Sacred Three-Day Continuum: Dashami, Ekadashi, and Dvadashi
 
-The observance of Ekadashi in the Madhwa tradition is not an isolated twenty-four-hour event; it is a sacred discipline spanning three continuous days:
+The observance of Ekadashi is not an isolated twenty-four-hour event; it is a sacred discipline spanning three continuous days:
 
 ```
 Dashami (Sanyama)  ──►  Ekadashi (Upavasa & Jagarana)  ──►  Dvadashi (Parana & Seva)
@@ -70,7 +70,7 @@ Dashami (Sanyama)  ──►  Ekadashi (Upavasa & Jagarana)  ──►  Dvadashi
 
 ##### Step 3: Dvadashi (The Sacred Parana)
 - **Harivasara Calculation**: The holy period of *Harivasara* comprises the last quarter of Ekadashi tithi and the first quarter of Dvadashi tithi. Fasting must continue until Harivasara concludes.
-- **Timely Parana (*Kala-Niyama*)**: Breaking the fast (*Parana*) must be performed within the designated Dvadashi tithi window according to the authoritative Madhwa Panchanga. Breaking the fast too early or letting Dvadashi elapse without Parana nullifies the vow's merit.
+- **Timely Parana (*Kala-Niyama*)**: Breaking the fast (*Parana*) must be performed within the designated Dvadashi tithi window according to the authoritative Panchanga. Breaking the fast too early or letting Dvadashi elapse without Parana nullifies the vow's merit.
 - **The Parana Sequence**:
   1. Early morning Snana and complete Sandhyavandana.
   2. Mahabhisheka to Sri Saligrama and Sri Krishna.
@@ -95,7 +95,7 @@ Sri Vadiraja Tirtha and Sri Kanaka Dasa emphasized that performing thousands of 
 
 1. **Mastery of the Senses (*Indriya Vijaya*)**: The senses naturally gravitate toward gratification. By withdrawing food—the primary fuel of sensory stimulation—the mind becomes calm, transparent (*Sattva-guna pradhana*), and receptive to deep meditation (*Dhyana*).
 2. **Dissolution of Prarabdha and Sanchita Karma**: Sri Madhwacharya states that the fire of Ekadashi fasting, combined with the cooling nectar of Sri Krishna's name, incinerates lifetimes of accumulated demerit.
-3. **Biological Rejuvenation**: Modern science confirms that periodic complete fasting induces cellular autophagy, clears metabolic toxins, rests the digestive apparatus, and enhances mental clarity. In the Madhwa tradition, this physical benefit is merely an incidental byproduct of a far higher spiritual consecration.
+3. **Biological Rejuvenation**: Modern science confirms that periodic complete fasting induces cellular autophagy, clears metabolic toxins, rests the digestive apparatus, and enhances mental clarity. This physical benefit is merely an incidental byproduct of a far higher spiritual consecration.
 
 ---
 
