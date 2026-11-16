@@ -24,5 +24,5 @@ fields:
       eyebrow: ಆಚರಣೆ ಮತ್ತು ಅನುಷ್ಠಾನ
       title: ಧರ್ಮ ವಿಧಿ
       description: ದೈನಂದಿನ ಆಚರಣೆಗಳು, ವ್ರತಗಳು, ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ಹಬ್ಬಗಳ ಆಚರಣೆಯ ಪ್ರಾಯೋಗಿಕ ಪರಿಚಯ.
-enabled: false
+enabled: true
 ---
