@@ -14,5 +14,17 @@ url: /
 footnote:
   en: ""
   kn: ""
+fields:
+  home:
+    en:
+      explore_label: Explore Shiroor Matha
+      explore_title: Connect and Experience
+      guidance_label: Seeking Guidance
+      guidance_title: When life feels overwhelming
+    kn:
+      explore_label: ಶಿರೂರು ಮಠದ ಇನ್ನಷ್ಟು ವಿವರಗಳು
+      explore_title: ಭಾಗಿಯಾಗಿ ಮತ್ತು ಅನುಭವಿಸಿರಿ
+      guidance_label: ಮಾರ್ಗದರ್ಶನದ ಅನ್ವೇಷಣೆ
+      guidance_title: ಬದುಕು ಭಾರವೆನಿಸಿದಾಗ
 enabled: true
 ---
