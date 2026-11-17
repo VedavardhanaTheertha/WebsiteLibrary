@@ -29,8 +29,8 @@ enabled: true
 
 ### The Sacred Samskaras: Sacraments of Spiritual Elevation in Tattvavada
 
-> *"Janmana Jayate Shudrah Samskarad Dvija Uchyate  
-> Vedabhyasad Bhaved Viprah Brahma Janatiti Brahmanaha"*  
+> > *"ಜನ್ಮನಾ ಜಾಯತೇ ಶೂದ್ರಃ ಕಾರ್ಮಣಾ ದ್ವಿಜ ಉಚ್ಯತೇ  
+> ವೇದಾಭ್ಯಾಸಾದ್ ಭವೇದ್ ವಿಪ್ರಃ ಬ್ರಹ್ಮಜ್ಞಾನಾತ್ ಬ್ರಾಹ್ಮಣಃ"*
 > — *Skanda Purana (Sanatkumara Samhita)*  
 > ("By biological birth, everyone is born unprocessed. Through sacred Samskaras, one attains twice-born status (*Dvija*). Through deep study of Vedic scriptures, one becomes a learned scholar (*Vipra*); and by realizing the Supreme Brahman Sri Hari, one attains the true state of a Brahmana.")
 
@@ -111,8 +111,8 @@ When the soul departs its physical shell, the mortal body is offered as a final 
 
 ### ಪವಿತ್ರ ಸಂಸ್ಕಾರಗಳು: ಷೋಡಶ ಸಂಸ್ಕಾರಗಳು ಮತ್ತು ತಪ್ತಮುದ್ರಾ ಧಾರಣಾ ಮಹತ್ತ್ವ
 
-> *"ಜನ್ಮನಾ ಜಾಯತೇ ಶೂದ್ರಃ ಸಂಸ್ಕಾರಾದ್ ದ್ವಿಜ ಉಚ್ಯತೇ  
-> ವೇದಾಭ್ಯಾಸಾದ್ ಭವೇದ್ ವಿಪ್ರಃ ಬ್ರಹ್ಮ ಜಾನಾತೀತಿ ಬ್ರಾಹ್ಮಣಃ"*  
+> *"ಜನ್ಮನಾ ಜಾಯತೇ ಶೂದ್ರಃ ಕಾರ್ಮಣಾ ದ್ವಿಜ ಉಚ್ಯತೇ  
+> ವೇದಾಭ್ಯಾಸಾದ್ ಭವೇದ್ ವಿಪ್ರಃ ಬ್ರಹ್ಮಜ್ಞಾನಾತ್ ಬ್ರಾಹ್ಮಣಃ"*  
 > — *ಸ್ಕಂದ ಪುರಾಣ (ಸನತ್ಕುಮಾರ ಸಂಹಿತಾ)*  
 > ("ಹುಟ್ಟಿನಿಂದ ಪ್ರತಿಯೊಬ್ಬನೂ ಅಪಕ್ವನಾಗಿಯೇ ಜನಿಸುತ್ತಾನೆ. ಶಾಸ್ತ್ರೋಕ್ತ ಸಂಸ್ಕಾರಗಳಿಂದ ಆತನು 'ದ್ವಿಜ'ನಾಗುತ್ತಾನೆ. ವೇದಾಧ್ಯಯನದಿಂದ 'ವಿಪ್ರ'ನಾಗುತ್ತಾನೆ; ಹಾಗೂ ಪರಬ್ರಹ್ಮ ಶ್ರೀಹರಿಯನ್ನು ಸಾಕ್ಷಾತ್ಕರಿಸಿಕೊಂಡಾಗ ಮಾತ್ರವೇ ನಿಜವಾದ 'ಬ್ರಾಹ್ಮಣ'ನಾಗುತ್ತಾನೆ.")
 

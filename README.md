@@ -90,10 +90,9 @@ five icon cards, six bottom cards distinct from the top list, and three explore
 cards. A record does not create a route. Keep destinations aligned with concrete
 routes rather than query/hash states.
 
-The generated `remidies_carousel` selects three distinct `remedies/` articles once
-per generation and shares the result across languages/content variants. Maintain at
-least four eligible articles. It uses article title, summary, image, and status plus
-the collection's page-reference title; do not author a duplicate settings list.
+The dynamic `guidance_carousel` selects enabled sevas and remedies
+or uses overrides configured in `settings/home.json`. Maintain eligible articles in
+`library/remedies/` and `library/sevas/`. It uses title, summary/description, image, and status/amount.
 
 For image-only edits preserve translated text and other metadata. Keep remote image
 URLs consistent with settings image policy and verify availability. Preserve
