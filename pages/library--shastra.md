@@ -29,5 +29,5 @@ fields:
       eyebrow: ಶಾಸ್ತ್ರ ಅಧ್ಯಯನ
       title: ಶಾಸ್ತ್ರ ವಿದ್ಯಾ
       description: ದ್ವೈತ ಪರಂಪರೆಯ ಮೂಲಭೂತ ಗ್ರಂಥಗಳು ಮತ್ತು ತತ್ವಗಳ ಪರಿಚಯ.
-enabled: false
+enabled: true
 ---

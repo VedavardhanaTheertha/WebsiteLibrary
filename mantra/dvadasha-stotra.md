@@ -5,11 +5,7 @@ title:
   kn: ದ್ವಾದಶ ಸ್ತೋತ್ರ
 summary:
   en: Twelve hymns composed by Sri Madhwacharya in praise of Lord Vishnu.
-  kn: ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ಸ್ತುತಿಗಾಗಿ ರಚಿಸಿದ ಹನ್ನೆರಡು ಸ್ತೋತ್ರಗಳು.
-status:
-  en: Introductory guide
-  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
-tags:
+  kn: ಶ್ರೀಮಧ್ವಾಚಾರ್ಯರು ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ಸ್ತುತಿಗಾಗಿ ರಚಿಸಿದ ಹನ್ನೆರಡು ಸ್ತೋತ್ರಗಳು.tags:
   - code: stotra
     en: stotra
     kn: ಸ್ತೋತ್ರ

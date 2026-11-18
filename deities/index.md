@@ -2,6 +2,7 @@
 title:
   en: The Presiding Deities of Shri Shiroor Matha
   kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಆರಾಧ್ಯ ದೇವತೆಗಳು
+enabled: true
 ---
 The primordial presiding deity of Shri Shiroor Matha is Lord Sri Anna Vittala (Krishna Vittala), lovingly bestowed by Jagadguru Sri Madhwacharya upon Sri Vamana Teertharu. Revered as the granter of sustenance and spiritual grace, Lord Vittala is worshipped with sacred devotion across the centuries.
 

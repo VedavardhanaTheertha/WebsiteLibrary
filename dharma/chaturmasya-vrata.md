@@ -4,7 +4,7 @@ title:
   en: "Chaturmasya Vrata: The Four Months of Sacred Penance and Austerity"
   kn: "ಚಾತುರ್ಮಾಸ್ಯ ವ್ರತ: ತತ್ತ್ವವಾದದಲ್ಲಿ ನಾಲ್ಕು ತಿಂಗಳ ಮಹಾವ್ರತ, ತಪ್ತ ಮುದ್ರಾಧಾರಣೆ ಮತ್ತು ಸಾಧನಾ ನಿಯಮ"
 summary:
-  en: "A comprehensive guide to the four-month vow of Chaturmasya, spanning from Ashadha Shukla Ekadashi to Kartika Shukla Ekadashi, detailing Tapta Mudra Dharana, the four culinary vows, and spiritual elevation."
+  en: "A brief guide to the four-month vow of Chaturmasya, spanning from Ashadha Shukla Ekadashi to Kartika Shukla Ekadashi, detailing Tapta Mudra Dharana, the four culinary vows, and spiritual elevation."
   kn: "ಆಷಾಢ ಶುಕ್ಲ ಏಕಾದಶಿಯಿಂದ ಕಾರ್ತೀಕ ಶುಕ್ಲ ಏಕಾದಶಿಯವರೆಗೆ ಆಚರಿಸಲ್ಪಡುವ ಚಾತುರ್ಮಾಸ್ಯ ಮಹಾವ್ರತ, ತಪ್ತ ಮುದ್ರಾಧಾರಣೆ, ನಾಲ್ಕು ತಿಂಗಳ ಆಹಾರ ತ್ಯಾಗ ನಿಯಮಗಳು ಹಾಗೂ ಆತ್ಮೋದ್ಧಾರದ ಮಹತ್ತ್ವ."
 tags:
   - code: festivals

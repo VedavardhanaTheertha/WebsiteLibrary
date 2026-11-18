@@ -5,8 +5,8 @@ title:
   kn: ಅನ್ನದಾನವೇ ಹರಿಪೂಜೆ — ತತ್ತ್ವವಾದದಲ್ಲಿ ಅನ್ನ ಬ್ರಹ್ಮ ತತ್ತ್ವ ಮತ್ತು ಉಡುಪಿ ಅನ್ನದಾಸೋಹ ಪರಂಪರೆ
 summary:
   en: Exploring the spiritual philosophy of Annadana, its consecration to Sri Krishna and Sri Mukhyaprana, and the historic Bhojana Shala tradition of Shri Shiroor Matha.
-  kn: ಅನ್ನದಾನದ ಆಧ್ಯಾತ್ಮಿಕ ತತ್ತ್ವ, ಶ್ರೀಕೃಷ್ಣ ಮತ್ತು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸಮರ್ಪಣೆ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಅನ್ನದಾಸೋಹ ಪರಂಪರೆಯ ಸಮಗ್ರ ಅವಲೋಕನ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/feeding-as-worship.avif
+  kn: ಅನ್ನದಾನದ ಆಧ್ಯಾತ್ಮಿಕ ತತ್ತ್ವ, ಶ್ರೀಕೃಷ್ಣ ಮತ್ತು ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ಸಮರ್ಪಣೆ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಅನ್ನದಾಸೋಹ ಪರಂಪರೆಯ ಕಿರು ಅವಲೋಕನ.
+image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/library/012-annadana-for-one-day.webp
 tags:
   - code: annadana
     en: Annadana

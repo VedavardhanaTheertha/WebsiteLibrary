@@ -5,7 +5,7 @@ title:
   kn: ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಒಂದು ದಿನ — ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಚತುರ್ದಶ ಪೂಜಾ ವೈಭವ ಮತ್ತು ದೈನಂದಿನ ಪೂಜಾ ಕ್ರಮ
 summary:
   en: An authentic chronicle of the continuous cycle of fourteen daily poojas, Vedic abhishekas, sacred alankaras, and evening rathotsavas offered to Lord Sri Krishna from 4:00 AM to 9:00 PM.
-  kn: ಮುಂಜಾನೆ ೪:೦೦ ಗಂಟೆಯ ನಿರ್ಮಾಲ್ಯ ವಿಸರ್ಜನೆಯಿಂದ ರಾತ್ರಿಯ ಏಕಾಂತ ಸೇವೆವರೆಗೆ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ನೆರವೇರುವ ಹದಿನಾಲ್ಕು ಪವಿತ್ರ ಪೂಜೆಗಳು, ಅಲಂಕಾರಗಳು ಮತ್ತು ರಥೋತ್ಸವಗಳ ಸಮಗ್ರ ದರ್ಶನ.
+  kn: ಮುಂಜಾನೆ ೪:೦೦ ಗಂಟೆಯ ನಿರ್ಮಾಲ್ಯ ವಿಸರ್ಜನೆಯಿಂದ ರಾತ್ರಿಯ ಏಕಾಂತ ಸೇವೆವರೆಗೆ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ನೆರವೇರುವ ಹದಿನಾಲ್ಕು ಪವಿತ್ರ ಪೂಜೆಗಳು, ಅಲಂಕಾರಗಳು ಮತ್ತು ರಥೋತ್ಸವಗಳ ಕಿರು ದರ್ಶನ.
 image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/day-in-the-sanctum.avif
 tags:
   - code: pooja

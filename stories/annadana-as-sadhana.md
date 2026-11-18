@@ -5,11 +5,7 @@ title:
   kn: ಸಾಧನೆಯಾಗಿ ಅನ್ನದಾನ
 summary:
   en: A placeholder chronicle about preparing and serving food as disciplined devotion.
-  kn: ಶಿಸ್ತುಬದ್ಧ ಭಕ್ತಿಯಾಗಿ ಆಹಾರ ಸಿದ್ಧಪಡಿಸಿ ಬಡಿಸುವ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ.
-status:
-  en: Temporary content
-  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-as-sadhana.avif
+  kn: ಶಿಸ್ತುಬದ್ಧ ಭಕ್ತಿಯಾಗಿ ಆಹಾರ ಸಿದ್ಧಪಡಿಸಿ ಬಡಿಸುವ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-as-sadhana.avif
 tags:
   - code: annadana
     en: Annadana

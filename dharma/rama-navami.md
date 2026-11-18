@@ -4,7 +4,7 @@ title:
   en: "Sri Rama Navami: The Sacred Advent of Maryada Purushottama"
   kn: "ಶ್ರೀ ರಾಮನವಮಿ: ಮರ್ಯಾದಾ ಪುರುಷೋತ್ತಮನ ಪಾವನ ಅವತಾರ ಮತ್ತು ವ್ರತ ವಿಧಿ"
 summary:
-  en: "The comprehensive philosophical significance, scriptural foundation, and observance of Sri Rama Navami according to Jagadguru Sri Madhwacharya's Mahabharata Tatparya Nirnaya, Udupi Ashta Matha traditions, and Haridasa literature."
+  en: "The brief philosophical significance, scriptural foundation, and observance of Sri Rama Navami according to Jagadguru Sri Madhwacharya's Mahabharata Tatparya Nirnaya, Udupi Ashta Matha traditions, and Haridasa literature."
   kn: "ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ಮಹಾಭಾರತ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ, ಉಡುಪಿ ಅಷ್ಟಮಠಗಳ ಸಂಪ್ರದಾಯ ಹಾಗೂ ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ಶ್ರೀ ರಾಮನವಮಿ ವ್ರತದ ತತ್ತ್ವ, ಪೂಜಾ ವಿಧಾನ ಮತ್ತು ಆಚರಣೆ."
 tags:
   - code: festivals

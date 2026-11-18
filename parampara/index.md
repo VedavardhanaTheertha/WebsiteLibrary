@@ -2,6 +2,7 @@
 title:
   en: The Paramahamsa Peetha & Origin of the Lineage
   kn: ಪರಮಹಂಸ ಪೀಠ ಮತ್ತು ಗುರು ಪರಂಪರೆಯ ಉಗಮ
+enabled: true
 ---
 Lord Sri Hari, upon creating humanity, incarnated as Sri Hamsa to impart the profound essence of the Vedic scriptures that leads to liberation (Moksha), establishing the sacred 'Paramahamsa Peetha'. The divine succession of this Peetha flowed from Lord Hamsanamaka to Chaturmukha Brahma, and through him to the Sanakadi sages, Durvasa Muni, Sri Parateertharu, Sri Satyaprajnaru, and Sri Prajnatirtharu.
 

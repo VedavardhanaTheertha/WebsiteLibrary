@@ -5,7 +5,7 @@ title:
   kn: ಪರ್ಯಾಯದ ಪರಮಾರ್ಥ — ಉಡುಪಿಯ ಅಷ್ಟ ಮಠಗಳ ಎಂಟು ಶತಮಾನಗಳ ದಿವ್ಯ ಆರಾಧನಾ ಪರಂಪರೆ
 summary:
   en: Exploring the spiritual origin, philosophical vision, two-year rotational sovereignty of the Ashta Mathas, and sacred rituals of Udupi Paryaya Mahotsava.
-  kn: ಉಡುಪಿ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆ, ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯ-ಶ್ರೀ ವಾದಿರಾಜರ ಕೊಡುಗೆ, ದ್ವೈತ ಸಿದ್ಧಾಂತದ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ಎರಡು ವರ್ಷಗಳ ಅಧಿಕಾರ ಹಸ್ತಾಂತರದ ದಿವ್ಯ ವಿಧಿವಿಧಾನಗಳ ಸಮಗ್ರ ಅವಲೋಕನ.
+  kn: ಉಡುಪಿ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆ, ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯ-ಶ್ರೀ ವಾದಿರಾಜರ ಕೊಡುಗೆ, ದ್ವೈತ ಸಿದ್ಧಾಂತದ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ಎರಡು ವರ್ಷಗಳ ಅಧಿಕಾರ ಹಸ್ತಾಂತರದ ದಿವ್ಯ ವಿಧಿವಿಧಾನಗಳ ಕಿರು ಅವಲೋಕನ.
 image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/meaning-of-paryaya.avif
 tags:
   - code: paryaya

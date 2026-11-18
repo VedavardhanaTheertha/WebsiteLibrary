@@ -5,11 +5,7 @@ title:
   kn: ಸೂರ್ಯೋದಯಕ್ಕೂ ಮುನ್ನ ಸೇವೆ
 summary:
   en: A placeholder story about volunteers preparing a sacred space before devotees arrive.
-  kn: ಭಕ್ತರು ಬರುವ ಮೊದಲು ಪವಿತ್ರ ಸ್ಥಳವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸ್ವಯಂಸೇವಕರ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಕಥೆ.
-status:
-  en: Temporary content
-  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/service-before-sunrise.avif
+  kn: ಭಕ್ತರು ಬರುವ ಮೊದಲು ಪವಿತ್ರ ಸ್ಥಳವನ್ನು ಸಿದ್ಧಪಡಿಸುವ ಸ್ವಯಂಸೇವಕರ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಕಥೆ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/service-before-sunrise.avif
 tags:
   - code: seva
     en: seva

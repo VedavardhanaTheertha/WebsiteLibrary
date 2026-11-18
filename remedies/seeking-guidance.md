@@ -5,11 +5,7 @@ title:
   kn: ಮಾರ್ಗದರ್ಶನ ಪಡೆಯುವುದು
 summary:
   en: How spiritual counsel and professional support can work together.
-  kn: ಆಧ್ಯಾತ್ಮಿಕ ಸಲಹೆ ಮತ್ತು ವೃತ್ತಿಪರ ಬೆಂಬಲ ಒಟ್ಟಾಗಿ ಹೇಗೆ ನೆರವಾಗಬಲ್ಲವು.
-status:
-  en: Temporary content
-  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/seeking-guidance.avif
+  kn: ಆಧ್ಯಾತ್ಮಿಕ ಸಲಹೆ ಮತ್ತು ವೃತ್ತಿಪರ ಬೆಂಬಲ ಒಟ್ಟಾಗಿ ಹೇಗೆ ನೆರವಾಗಬಲ್ಲವು.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/seeking-guidance.avif
 tags:
   - code: guidance
     en: guidance

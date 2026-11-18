@@ -5,11 +5,7 @@ title:
   kn: ಕೃಷ್ಣಾಷ್ಟಕಂ
 summary:
   en: Eight devotional verses contemplating the beauty and grace of Lord Krishna.
-  kn: ಶ್ರೀಕೃಷ್ಣನ ಸೌಂದರ್ಯ ಮತ್ತು ಕೃಪೆಯನ್ನು ಧ್ಯಾನಿಸುವ ಎಂಟು ಭಕ್ತಿಪದ್ಯಗಳು.
-status:
-  en: Temporary content
-  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
-tags:
+  kn: ಶ್ರೀಕೃಷ್ಣನ ಸೌಂದರ್ಯ ಮತ್ತು ಕೃಪೆಯನ್ನು ಧ್ಯಾನಿಸುವ ಎಂಟು ಭಕ್ತಿಪದ್ಯಗಳು.tags:
   - code: krishna
     en: Krishna
     kn: ಕೃಷ್ಣ

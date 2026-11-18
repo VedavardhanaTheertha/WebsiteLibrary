@@ -2,6 +2,7 @@
 title:
   en: The Sacred Seats of Shri Shiroor Matha
   kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು
+enabled: true
 ---
 When Jagadguru Sri Madhwacharya consecrated Lord Sri Krishna in Udupi and established the Ashta Mathas, he initiated his beloved disciple Sri Vamana Teertharu into sanyasa and bestowed the sacred idol of Lord Sri Anna Vittala, founding Shri Shiroor Matha.
 

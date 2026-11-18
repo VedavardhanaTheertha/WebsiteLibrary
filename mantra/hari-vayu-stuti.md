@@ -5,11 +5,7 @@ title:
   kn: ಹರಿವಾಯು ಸ್ತುತಿ
 summary:
   en: A celebrated hymn honoring Lord Hari and Mukhyaprana.
-  kn: ಶ್ರೀಹರಿ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರನ್ನು ಗೌರವಿಸುವ ಪ್ರಸಿದ್ಧ ಸ್ತೋತ್ರ.
-status:
-  en: Temporary content
-  kn: ತಾತ್ಕಾಲಿಕ ವಿಷಯ
-tags:
+  kn: ಶ್ರೀಹರಿ ಮತ್ತು ಮುಖ್ಯಪ್ರಾಣರನ್ನು ಗೌರವಿಸುವ ಪ್ರಸಿದ್ಧ ಸ್ತೋತ್ರ.tags:
   - code: hari
     en: Hari
     kn: ಹರಿ

@@ -5,11 +5,7 @@ title:
   kn: ವಿಷ್ಣು ಸಹಸ್ರನಾಮ
 summary:
   en: The thousand names of Lord Vishnu and a guide to reflective recitation.
-  kn: ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ಸಾವಿರ ನಾಮಗಳು ಮತ್ತು ಚಿಂತನಶೀಲ ಪಠಣದ ಮಾರ್ಗದರ್ಶಿ.
-status:
-  en: Introductory guide
-  kn: ಪರಿಚಯಾತ್ಮಕ ಮಾರ್ಗದರ್ಶಿ
-tags:
+  kn: ಭಗವಾನ್ ವಿಷ್ಣುವಿನ ಸಾವಿರ ನಾಮಗಳು ಮತ್ತು ಚಿಂತನಶೀಲ ಪಠಣದ ಮಾರ್ಗದರ್ಶಿ.tags:
   - code: nama
     en: nama
     kn: ನಾಮ

@@ -24,5 +24,5 @@ fields:
       eyebrow: ಜ್ಞಾನ ಭಂಡಾರ
       title: ಜ್ಞಾನ ಕೋಶ
       description: ಪರಂಪರೆ, ಇತಿಹಾಸ ಮತ್ತು ತತ್ವಶಾಸ್ತ್ರದ ಪದಕೋಶ ಹಾಗೂ ಉಲ್ಲೇಖಗಳ ಬೆಳೆಯುತ್ತಿರುವ ಸಂಗ್ರಹ.
-enabled: false
+enabled: true
 ---

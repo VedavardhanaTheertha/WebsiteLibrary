@@ -5,11 +5,7 @@ title:
   kn: ಅನ್ನದಾನ ಭವನ ನಿರ್ಮಾಣ
 summary:
   en: A planned hall designed to serve two thousand devotees during peak periods.
-  kn: ಜನಸಂದಣಿಯ ಅವಧಿಯಲ್ಲಿ ಎರಡು ಸಾವಿರ ಭಕ್ತರಿಗೆ ಸೇವೆ ನೀಡಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಯೋಜಿತ ಭವನ.
-status:
-  en: Upcoming
-  kn: ಮುಂಬರುವ ಯೋಜನೆ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-hall-construction.avif
+  kn: ಜನಸಂದಣಿಯ ಅವಧಿಯಲ್ಲಿ ಎರಡು ಸಾವಿರ ಭಕ್ತರಿಗೆ ಸೇವೆ ನೀಡಲು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಯೋಜಿತ ಭವನ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/annadana-hall-construction.avif
 tags:
   - code: upcoming
     en: upcoming
