@@ -69,6 +69,8 @@ According to the canonical injunctions of the *Sadachara Smriti* and Shiroor Mat
 | 11 | Upper Back (*Prishta*) | **Om Padmanabhaya Namaha** | From whose lotus navel Lord Brahma arises |
 | 12 | Lower Back (*Kakud*) | **Om Damodaraya Namaha** | Bound by the rope of pure motherly love |
 
+![Gopichandana Dharana Paddhati](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/library/gopichandana-dharana.webp "Gopichandana Dharana")
+
 ---
 
 ### Application of the Five Sacred Mudras (Pancha Mudra Dharana)
@@ -123,6 +125,8 @@ Following the application of Gopichandana lines and Angara, consecrated metallic
 ೧೦. **ಎಡ ಕೊರಳು:** ಓಂ ಹೃಷೀಕೇಶಾಯ ನಮಃ  
 ೧೧. **ಬೆನ್ನಿನ ಮೇಲ್ಭಾಗ:** ಓಂ ಪದ್ಮನಾಭಾಯ ನಮಃ  
 ೧೨. **ಬೆನ್ನಿನ ಕೆಳಭಾಗ:** ಓಂ ದಾಮೋದರಾಯ ನಮಃ  
+
+![ಗೋಪೀಚಂದನ ಧಾರಣಾ ವಿಧಿ](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/library/gopichandana-dharana.webp "ಗೋಪೀಚಂದನ ಧಾರಣೆ")
 
 ---
 
