@@ -15,7 +15,7 @@ sanctum:
 summary:
   en: The primordial consecrated deity of Shri Shiroor Matha, personally worshipped by Jagadguru Sri Madhwacharya and lovingly celebrated across generations as Anna Vittala.
   kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಪೂಜಿಸಲ್ಪಟ್ಟು ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪ್ರಥಮ ಪೀಠಾಧಿಪತಿಗಳಿಗೆ ಅನುಗ್ರಹಿಸಲ್ಪಟ್ಟ ಪರಮ ಪಾವನ ಆರಾಧ್ಯ ದೈವ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/deities/vittala-murthy.avif
 enabled: true
 ---
 

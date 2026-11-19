@@ -23,7 +23,7 @@ location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 100
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/074-panchamruthabhisheka.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/sevas/074-panchamruthabhisheka.avif
 formatted_amount:
   en: ₹100
   kn: ₹೧೦೦

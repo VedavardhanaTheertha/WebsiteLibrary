@@ -6,7 +6,6 @@ title:
 summary:
   en: An authentic walking pilgrimage guide around Car Street in Udupi, detailing the locations, presiding deities, visiting hours, and spiritual etiquette of all eight monasteries founded by Sri Madhwacharya.
   kn: ಉಡುಪಿ ರಥಬೀದಿಯಲ್ಲಿರುವ ಎಂಟು ಮಠಗಳ ಕಿರು ಪರಿಕ್ರಮಣ ಮಾರ್ಗದರ್ಶಿ — ಮಠಗಳ ಇತಿಹಾಸ, ಮೂಲ ಪಟ್ಟದ ದೇವರುಗಳು, ದರ್ಶನ ಸಮಯ ಹಾಗೂ ಯಾತ್ರಿಕರು ಪಾಲಿಸಬೇಕಾದ ಪಾವನ ನಿಯಮಗಳು.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/ashta-mathas-circuit.avif
 tags:
   - code: ashta-mathas
     en: Ashta Mathas

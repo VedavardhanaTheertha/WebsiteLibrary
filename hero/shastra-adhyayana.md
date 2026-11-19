@@ -4,7 +4,7 @@ title:
   kn: ವೇದ & ಶಾಸ್ತ್ರಾಧ್ಯಯನ, ಪ್ರಾಚೀನ ಜ್ಞಾನ ಸಂರಕ್ಷಣೆ
 href: /learn
 image:
-  landscape: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/shastra-adhyayana-landscape.avif
-  portrait: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/shastra-adhyayana-portrait.avif
+  landscape: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/shastra-adhyayana-landscape.avif
+  portrait: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/shastra-adhyayana-portrait.avif
 enabled: true
 ---

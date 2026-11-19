@@ -5,7 +5,7 @@ title:
   kn: ವೇದ ಪಾಠಶಾಲೆಯ ವಿಸ್ತರಣೆ
 summary:
   en: Expanded learning facilities to accommodate forty additional students.
-  kn: ಹೆಚ್ಚುವರಿ ನಲವತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸುವ ವಿಸ್ತೃತ ಕಲಿಕಾ ಸೌಲಭ್ಯಗಳು.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-school-expansion.avif
+  kn: ಹೆಚ್ಚುವರಿ ನಲವತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸುವ ವಿಸ್ತೃತ ಕಲಿಕಾ ಸೌಲಭ್ಯಗಳು.image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/projects/vedic-school-expansion.avif
 tags:
   - code: completed
     en: completed

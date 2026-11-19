@@ -24,17 +24,17 @@ performers:
     - ಶ್ರೀ ಕ್ಷೇತ್ರ ಧರ್ಮಸ್ಥಳ ಗ್ರಾಮಾಭಿವೃದ್ಧಿ ಯೋಜನೆ ಮತ್ತು ಬೆಳ್ತಂಗಡಿಯ ನಾಗರಿಕರು
     - ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು
     - ಶಾಸಕ ಯಶ್ ಪಾಲ್ ಸುವರ್ಣ, ಬೈಕಾಡಿ ಸುಪ್ರಸಾದ್ ಶೆಟ್ಟಿ, ಮೋಹನ್ ಭಟ್, ಉದಯಕುಮಾರ ಸರಳತ್ತಾಯ, ನಂದನ್ ಜೈನ್
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-4.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-9.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-3.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-2.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-8.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-1.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-7.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-6.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-5.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-4.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-9.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-3.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-2.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-8.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-1.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-7.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-6.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-5.avif
 recurrence: special
 tags:
   - horekanike
@@ -90,20 +90,20 @@ The maiden Horekanike voluntary offering procession for the Shiroor Paryaya, ded
 
 ### Gallery Images
 
-![Grand Green Horekanike Offering Procession - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-4.avif)
+![Grand Green Horekanike Offering Procession - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-4.avif)
 
-![Grand Green Horekanike Offering Procession - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-9.avif)
+![Grand Green Horekanike Offering Procession - Image 2](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-9.avif)
 
-![Grand Green Horekanike Offering Procession - Image 3](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-3.avif)
+![Grand Green Horekanike Offering Procession - Image 3](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-3.avif)
 
-![Grand Green Horekanike Offering Procession - Image 4](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-2.avif)
+![Grand Green Horekanike Offering Procession - Image 4](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-2.avif)
 
-![Grand Green Horekanike Offering Procession - Image 5](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-8.avif)
+![Grand Green Horekanike Offering Procession - Image 5](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-8.avif)
 
-![Grand Green Horekanike Offering Procession - Image 6](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-1.avif)
+![Grand Green Horekanike Offering Procession - Image 6](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-1.avif)
 
-![Grand Green Horekanike Offering Procession - Image 7](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-7.avif)
+![Grand Green Horekanike Offering Procession - Image 7](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-7.avif)
 
-![Grand Green Horekanike Offering Procession - Image 8](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-6.avif)
+![Grand Green Horekanike Offering Procession - Image 8](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-6.avif)
 
-![Grand Green Horekanike Offering Procession - Image 9](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/horekanike-procession-5.avif)
+![Grand Green Horekanike Offering Procession - Image 9](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/horekanike-procession-5.avif)

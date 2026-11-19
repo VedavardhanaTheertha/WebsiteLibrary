@@ -6,7 +6,6 @@ title:
 summary:
   en: An authentic Vedic exploration of Ayurveda through the lens of Dvaita Vedanta, viewing the human body as a sacred temple of the indwelling Lord Sri Hari, guided by Sattvic nutrition, dinacharya, and Lord Dhanvantari.
   kn: ದ್ವೈತ ವೇದಾಂತದ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ಆಯುರ್ವೇದ ಮತ್ತು ಆರೋಗ್ಯ ವಿಜ್ಞಾನ — ಅಂತರ್ಯಾಮಿ ಶ್ರೀಹರಿಯ ದೇಗುಲವಾದ ಮಾನವ ದೇಹದ ರಕ್ಷಣೆ, ಸಾತ್ತ್ವಿಕ ಆಹಾರ, ದಿನಚರ್ಯೆ ಹಾಗೂ ಶ್ರೀ ಧನ್ವಂತರಿಯ ಉಪಾಸನೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/ayurveda-and-wellbeing.avif
 tags:
   - code: ayurveda
     en: Ayurveda

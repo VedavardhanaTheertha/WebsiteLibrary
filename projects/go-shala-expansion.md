@@ -5,7 +5,7 @@ title:
   kn: ಗೋಶಾಲೆ ವಿಸ್ತರಣೆ
 summary:
   en: Expanding the sacred cow shelter to care for fifty additional Gir cows.
-  kn: ಹೆಚ್ಚುವರಿ ಐವತ್ತು ಗಿರ್ ತಳಿಯ ಗೋವುಗಳ ಆರೈಕೆಗಾಗಿ ಪವಿತ್ರ ಗೋಶಾಲೆಯ ವಿಸ್ತರಣೆ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.avif
+  kn: ಹೆಚ್ಚುವರಿ ಐವತ್ತು ಗಿರ್ ತಳಿಯ ಗೋವುಗಳ ಆರೈಕೆಗಾಗಿ ಪವಿತ್ರ ಗೋಶಾಲೆಯ ವಿಸ್ತರಣೆ.image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/go-shala-expansion.avif
 tags:
   - code: ongoing
     en: ongoing

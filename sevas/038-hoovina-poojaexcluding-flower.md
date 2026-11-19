@@ -23,7 +23,7 @@ location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 5000
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/038-hoovina-poojaexcluding-flower.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/sevas/038-hoovina-poojaexcluding-flower.avif
 formatted_amount:
   en: ₹5,000
   kn: ₹೫,೦೦೦

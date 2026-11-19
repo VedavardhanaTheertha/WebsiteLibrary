@@ -21,8 +21,8 @@ summary: |-
   ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಾಯುದೇವರ ತೃತೀಯಾವತಾರ ಹಾಗೂ ದ್ವೈತ (ತತ್ತ್ವವಾದ) ಸಿದ್ಧಾಂತದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು. ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀ ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಅಷ್ಟಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿ, ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ನೀಡಿ ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರನ್ನು ಅನುಗ್ರಹಿಸಿ ಶೀರೂರು ಮಠದ ಮೂಲ ಗುರುಗಳಾದರು.
 summary-en: Sri Madhwacharyaru is the revered founder of the Dvaita (Tatvavada) philosophy and the root authority of the Shiroor Matha lineage. As the third avatar of Lord Vayu, he consecrated Lord Sri Balakrishna in Udupi, established the Ashta Mathas, and initiated Sri Vamana Teertharu into sanyasa, bestowing the sacred idol of Sri Vittala Devaru (Anna Vittala).
 summary-kn: ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ವಾಯುದೇವರ ತೃತೀಯಾವತಾರ ಹಾಗೂ ದ್ವೈತ (ತತ್ತ್ವವಾದ) ಸಿದ್ಧಾಂತದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು. ಉಡುಪಿಯಲ್ಲಿ ಶ್ರೀ ಬಾಲಕೃಷ್ಣನನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಅಷ್ಟಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿ, ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಸನ್ಯಾಸ ದೀಕ್ಷೆ ನೀಡಿ ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರನ್ನು ಅನುಗ್ರಹಿಸಿ ಶೀರೂರು ಮಠದ ಮೂಲ ಗುರುಗಳಾದರು.
-thumbnailImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/m.avif
-fullImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/m.avif
+thumbnailImage: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/parampara/m.avif
+fullImage: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/parampara/m.avif
 enabled: true
 ---
 
@@ -34,7 +34,7 @@ enabled: true
 - **Samvatsara:** Pingala (ಪಿಂಗಳ)
 - **Aradhana:** Magha Shukla Navami (Sri Madhwa Navami) (ಮಾಘ ಶುಕ್ಲ ನವಮೀ (ಶ್ರೀ ಮಧ್ವ ನವಮೀ))
 - **Vrindavana Kshetra:** Uttara Badari (Badari Kshetra) (ಉತ್ತರಬದರೀ (ಬದರೀ ಕ್ಷೇತ್ರ))
-- **Image:** https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/m.avif
+- **Image:** https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/parampara/m.avif
 
 Sri Madhwacharyaru is the revered founder of the Dvaita (Tatvavada) philosophy and the root authority of the Shiroor Matha lineage. As the third avatar of Lord Vayu, he consecrated Lord Sri Balakrishna in Udupi, established the Ashta Mathas, and initiated Sri Vamana Teertharu into sanyasa, bestowing the sacred idol of Sri Vittala Devaru (Anna Vittala).
 

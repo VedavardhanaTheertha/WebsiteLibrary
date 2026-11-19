@@ -6,7 +6,6 @@ title:
 summary:
   en: An extensive study of Puranic cosmology and astronomy as expounded by Jagadguru Sri Madhwacharya, detailing the twenty-four tattvas, the fourteen planetary realms, cosmic time cycles, and the reality of the cosmos.
   kn: ಜಗದ್ಗುರು ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯರ ದರ್ಶನದಲ್ಲಿ ವಿಶ್ವ ಸೃಷ್ಟಿಯ ಕ್ರಮ, ಚತುರ್ವಿಂಶತಿ ತತ್ತ್ವಗಳು, ಚತುರ್ದಶ ಲೋಕಗಳು, ಮೇರು ಪರ್ವತ, ಕಾಲಚಕ್ರ ಹಾಗೂ ಜಗತ್ತಿನ ಸತ್ಯತ್ವದ ಕಿರು ವಿವರಣೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/cosmology-in-the-puranas.avif
 tags:
   - code: cosmology
     en: Cosmology

@@ -18,7 +18,7 @@ established_by:
 summary:
   en: The holy branch matha and Vrindavana kshetra of Shri Shiroor Matha situated in Papuje near Hiriyadka, enshrining Lord Venugopala Krishna.
   kn: ಹಿರಿಯಡ್ಕ ಸಮೀಪದ ಬೊಮ್ಮರಬೆಟ್ಟು ಗ್ರಾಮದ ಪಾಪೂಜೆಯಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಶಾಖಾ ಮಠ ಹಾಗೂ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿ ತೀರ್ಥರ ವೃಂದಾವನ ಸನ್ನಿಧಿ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/lord-vitthala.avif
 enabled: true
 ---
 

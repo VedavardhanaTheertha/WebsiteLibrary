@@ -5,7 +5,7 @@ title:
   kn: ವೈದಿಕ ಗ್ರಂಥಾಲಯದ ಡಿಜಿಟಲೀಕರಣ
 summary:
   en: Preserving rare manuscripts and texts through careful digitization.
-  kn: ಅಪರೂಪದ ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಗ್ರಂಥಗಳನ್ನು ಎಚ್ಚರಿಕೆಯ ಡಿಜಿಟಲೀಕರಣದ ಮೂಲಕ ಸಂರಕ್ಷಿಸುವುದು.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vedic-library-digitization.avif
+  kn: ಅಪರೂಪದ ಹಸ್ತಪ್ರತಿಗಳು ಮತ್ತು ಗ್ರಂಥಗಳನ್ನು ಎಚ್ಚರಿಕೆಯ ಡಿಜಿಟಲೀಕರಣದ ಮೂಲಕ ಸಂರಕ್ಷಿಸುವುದು.image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/projects/vedic-library-digitization.avif
 tags:
   - code: ongoing
     en: ongoing

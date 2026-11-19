@@ -6,7 +6,7 @@ title:
 description:
   en: The consecrated deities of Shri Shiroor Matha, including Lord Sri Anna Vittala and Lord Mukhyaprana.
   kn: ಶ್ರೀ ಅನ್ನವಿಠಲ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಸೇರಿದಂತೆ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪೂಜಿಸಲ್ಪಡುವ ಆರಾಧ್ಯ ದೇವತೆಗಳು.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/deities/vittala-murthy.avif
 page_type:
   en: Presiding Deities
   kn: ಆರಾಧ್ಯ ದೇವತೆಗಳು

@@ -4,7 +4,7 @@ title:
   kn: ಮಾಧ್ವ ಸತ್ಪರಂಪರೆ, ಶಾಶ್ವತ ತತ್ತ್ವಜ್ಞಾನದ ಬೆಳಕು
 href: /history--parampara
 image:
-  landscape: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/madhwa-parampara-landscape.avif
-  portrait: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/madhwa-parampara-portrait.avif
+  landscape: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/madhwa-parampara-landscape.avif
+  portrait: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/madhwa-parampara-portrait.avif
 enabled: true
 ---

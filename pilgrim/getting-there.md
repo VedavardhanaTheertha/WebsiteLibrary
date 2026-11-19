@@ -6,7 +6,6 @@ title:
 summary:
   en: Practical and brief pilgrimage travel guide to Udupi, covering road, rail (Konkan Railway), air routes via Mangaluru, traditional spiritual stops like Pajaka and Danda Tirtha, and seasonal tips.
   kn: ಉಡುಪಿ ಕ್ಷೇತ್ರಕ್ಕೆ ಆಗಮಿಸುವ ಭಕ್ತರಿಗೆ ಕಿರು ಸಾರಿಗೆ ಮಾರ್ಗದರ್ಶಿ — ಕೊಂಕಣ ರೈಲ್ವೆ, ಮಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣ, ರಸ್ತೆ ಸಾರಿಗೆ, ಪಾಜಕ ಕ್ಷೇತ್ರ ದರ್ಶನ ಹಾಗೂ ಯಾತ್ರಾ ಸಲಹೆಗಳು.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/getting-there.avif
 tags:
   - code: travel
     en: Travel

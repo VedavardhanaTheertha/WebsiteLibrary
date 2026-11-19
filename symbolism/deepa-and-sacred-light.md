@@ -6,7 +6,6 @@ title:
 summary:
   en: An extensive spiritual treatise on the sacred oil lamp (Deepa) and camphor arati in the Udupi Sri Krishna tradition, exploring the self-luminous nature of Sri Hari, Akhanda Deepa, and the Kartika Deepotsava.
   kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಪಾವನ ದೀಪಾರಾಧನೆ, ಅಖಂಡ ದೀಪ, ಕರ್ಪೂರ ನೀರಾಜನ ಹಾಗೂ ಕಾರ್ತಿಕ ದೀಪೋತ್ಸವಗಳ ಕಿರು ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ತಾತ್ತ್ವಿಕ ಸಂಕೇತಗಳ ವಿವರಣೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/library/utsava-deeparadhana-landscape.webp
 tags:
   - code: deepa
     en: Deepa

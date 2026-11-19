@@ -3,10 +3,10 @@ id: prayer-during-uncertainty
 title:
   en: Prayer During Uncertainty
   kn: ಅನಿಶ್ಚಿತತೆಯ ಸಮಯದಲ್ಲಿ ಪ್ರಾರ್ಥನೆ
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/remedies/prayer-during-uncertainty.avif
 summary:
   en: A simple framework for prayer, reflection, and practical next steps.
-  kn: ಪ್ರಾರ್ಥನೆ, ಆತ್ಮಾವಲೋಕನ ಮತ್ತು ಪ್ರಾಯೋಗಿಕ ಮುಂದಿನ ಹೆಜ್ಜೆಗಳಿಗೆ ಸರಳ ಚೌಕಟ್ಟು.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/prayer-during-uncertainty.avif
-tags:
+  kn: ಪ್ರಾರ್ಥನೆ, ಆತ್ಮಾವಲೋಕನ ಮತ್ತು ಪ್ರಾಯೋಗಿಕ ಮುಂದಿನ ಹೆಜ್ಜೆಗಳಿಗೆ ಸರಳ ಚೌಕಟ್ಟು.tags:
   - code: prayer
     en: prayer
     kn: ಪ್ರಾರ್ಥನೆ

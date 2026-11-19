@@ -20,10 +20,10 @@ performers:
     - Scholars, Bhajana Mandalis and Cultural Artists
   kn:
     - ವಿದ್ವಾಂಸರು, ಭಜನಾ ಮಂಡಳಿಗಳು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕಲಾವಿದರು
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/maha-shivaratri-1.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-2.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/maha-shivaratri-1.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/maha-shivaratri-2.avif
 recurrence: annual
 tags:
   - shivaratri
@@ -82,6 +82,6 @@ You and your family are cordially invited to the holy Maha Shivaratri Mahotsav t
 
 ### Gallery Images
 
-![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-1.avif)
+![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/maha-shivaratri-1.avif)
 
-![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 2](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/maha-shivaratri-2.avif)
+![Maha Shivaratri Mahotsav – The Sacred Night of Devotion 🙏 - Image 2](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/maha-shivaratri-2.avif)

@@ -60,10 +60,10 @@ embed_map_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15538.56!2d
 coordinates:
   latitude: 13.3833
   longitude: 74.8712
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/lord-vitthala.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/vittala-murthy.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/lord-vitthala.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/deities/vittala-murthy.avif
 tags:
   - moola-matha
   - shirooru

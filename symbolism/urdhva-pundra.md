@@ -6,7 +6,6 @@ title:
 summary:
   en: The holy origin of Gopi Chandana from Dwarka's Gopi Sarovara, and the comprehensive liturgical treatise on Urdhva Pundra (Gopichandana Dharana) following the authentic Shiroor Matha paddhati with twelve holy names and sacred mudras.
   kn: ದ್ವಾರಕೆಯ ಗೋಪೀ ಸರೋವರದಲ್ಲಿ ಪಾವನಗೊಂಡು ಉಡುಪಿಗೆ ಬಂದ ಗೋಪೀಚಂದನದ ಮಹಿಮೆ ಹಾಗೂ ಶೀರೂರು ಮಠದ ಪರಂಪರೆಯಂತೆ ಊರ್ಧ್ವಪುಂಡ್ರ ಧಾರಣೆಯ ಕಿರು ಶಾಸ್ತ್ರೀಯ ವಿಧಿ — ದ್ವಾದಶ ನಾಮಗಳು, ಶಂಖ-ಚಕ್ರ ಮುದ್ರಾ ಲಕ್ಷಣಗಳು ಹಾಗೂ ಹರಿಪಾದ ಚಿಂತನೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/library/gopichandana-dharana.webp
 tags:
   - code: urdhva-pundra
     en: Urdhva Pundra

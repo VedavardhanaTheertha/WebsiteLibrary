@@ -6,7 +6,6 @@ title:
 summary:
   en: An examination of Dvaita Vedanta as a rigorous philosophical and cognitive science, detailing its epistemology of the Sakshi, the metaphysical principle of Visesha, and the rational refutation of illusionism.
   kn: ದ್ವೈತ ವೇದಾಂತದ ವೈಜ್ಞಾನಿಕ ಮತ್ತು ತಾರ್ಕಿಕ ಆಯಾಮಗಳ ಕಿರು ವಿಶ್ಲೇಷಣೆ — ಸಾಕ್ಷಿ ಪ್ರಮಾಣ, ವಿಶೇಷ ಸಿದ್ಧಾಂತ, ಕಾರ್ಯ-ಕಾರಣ ನಿಯಮ ಹಾಗೂ ಮಾಯಾವಾದದ ವೈಚಾರಿಕ ನಿರಾಕರಣೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/dvaita-vedanta.avif
 tags:
   - code: dvaita
     en: Dvaita

@@ -23,7 +23,7 @@ location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
 amount: 300
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/050-avasara-sanakadi-pooja.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/sevas/050-avasara-sanakadi-pooja.avif
 formatted_amount:
   en: ₹300
   kn: ₹೩೦೦

@@ -46,9 +46,9 @@ performers:
     - ವಿನಯ್ ಬೇರೋಳ್ಳಿ
     - ನಿರಂಜನ ಜಾಗೃತಿ
     - ದೀಪಕ್ ಕುಂಕಿ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/yakshagana-nala-damayanthi.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/yakshagana-nala-damayanthi.avif
 recurrence: special
 tags:
   - yakshagana
@@ -104,4 +104,4 @@ Grand Badaguthittu Yakshagana performance depicting the classic epic tale of "Na
 
 ### Gallery Images
 
-![Yakshagana Prasanga: Nala Damayanthi - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/yakshagana-nala-damayanthi.avif)
+![Yakshagana Prasanga: Nala Damayanthi - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/yakshagana-nala-damayanthi.avif)

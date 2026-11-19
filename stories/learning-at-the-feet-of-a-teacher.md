@@ -5,8 +5,7 @@ title:
   kn: ಗುರುವಿನ ಪಾದಸನ್ನಿಧಿಯಲ್ಲಿ ಕಲಿಕೆ
 summary:
   en: A temporary reflection on humility, listening, and steady study.
-  kn: ವಿನಯ, ಆಲಿಸುವಿಕೆ ಮತ್ತು ಸ್ಥಿರ ಅಧ್ಯಯನದ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಚಿಂತನೆ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/learning-at-the-feet-of-a-teacher.avif
-tags:
+  kn: ವಿನಯ, ಆಲಿಸುವಿಕೆ ಮತ್ತು ಸ್ಥಿರ ಅಧ್ಯಯನದ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ಚಿಂತನೆ.tags:
   - code: guru
     en: guru
     kn: ಗುರು

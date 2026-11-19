@@ -20,9 +20,9 @@ performers:
     - Praveen Kumar (Chithkala School of Dance)
   kn:
     - ಪ್ರವೀಣ್ ಕುಮಾರ್ (ಚಿತ್ಕಲಾ ಸ್ಕೂಲ್ ಆಫ್ ಡ್ಯಾನ್ಸ್)
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/madhva-acharya-as-hero.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/madhva-acharya-as-hero.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/madhva-acharya-as-hero.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/madhva-acharya-as-hero.avif
 recurrence: special
 tags:
   - dance
@@ -78,4 +78,4 @@ A thematic Bharatanatyam dance production "Madhva - The Acharya as Hero" depicti
 
 ### Gallery Images
 
-![Madhva - The Acharya as Hero (Dance Performance) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/madhva-acharya-as-hero.avif)
+![Madhva - The Acharya as Hero (Dance Performance) - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/madhva-acharya-as-hero.avif)

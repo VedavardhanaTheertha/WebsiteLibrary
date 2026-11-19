@@ -18,7 +18,7 @@ established_by:
 summary:
   en: The sacred town headquarters of Shri Shiroor Matha situated on Car Street in Udupi, housing the venerable sanctum of Lord Sri Vittala Devaru.
   kn: ಉಡುಪಿಯ ರಥಬೀದಿಯಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಪ್ರಧಾನ ಕಾರ್ಯಾಲಯ ಹಾಗೂ ಶ್ರೀ ವಿಠಲ ದೇವರ ದಿವ್ಯ ಸನ್ನಿಧಾನ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shiroor-matha-architecture.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/shiroor-matha-architecture.avif
 enabled: true
 ---
 

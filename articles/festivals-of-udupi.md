@@ -6,7 +6,6 @@ title:
 summary:
   en: A brief guide to the sacred festivals, car festivals (Rathotsava), Laksha Deepotsava, Sri Krishna Janmashtami, and devotional celebrations of Udupi.
   kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಜರಗುವ ಶ್ರೀಕೃಷ್ಣ ಜನ್ಮಾಷ್ಟಮಿ, ಲಕ್ಷದೀಪೋತ್ಸವ, ಸಪ್ತೋತ್ಸವ, ಚೂರ್ಣೋತ್ಸವ, ಮಕರ ಸಂಕ್ರಾಂತಿ ಮತ್ತು ಮಾಧ್ವ ಪಂಚಾಂಗದ ಪವಿತ್ರ ಹಬ್ಬಗಳ ಕಿರು ಪರಿಚಯ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/festivals-of-udupi.avif
 tags:
   - code: festival
     en: Festival

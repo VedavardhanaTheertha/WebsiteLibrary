@@ -26,9 +26,9 @@ performers:
     - ಶ್ರುತಿ ಗೋಪಾಲ್
     - ಆದಿತ್ಯ ಪಿ.ವಿ.
     - ಪುಣ್ಯ ಡ್ಯಾನ್ಸ್ ಕಂಪನಿ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/abha-ramayana.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/abha-ramayana.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/abha-ramayana.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/abha-ramayana.avif
 recurrence: special
 tags:
   - dance
@@ -84,4 +84,4 @@ Acclaimed dance production "ABHA: A Retelling of Ramayana" through the perspecti
 
 ### Gallery Images
 
-![ABHA: A Retelling of Ramayana (Dance) - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/abha-ramayana.avif)
+![ABHA: A Retelling of Ramayana (Dance) - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/abha-ramayana.avif)

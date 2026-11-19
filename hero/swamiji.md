@@ -4,7 +4,7 @@ title:
   kn: ಶ್ರೀ ವೇದವರ್ಧನ ತೀರ್ಥರು, ಶಿರೂರು ಮಠದ ೩೦ನೇ ಪೀಠಾಧಿಪತಿಗಳು
 href: /history--parampara
 image:
-  landscape: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/swamiji-paryaya-peetarohana-landscape.avif
-  portrait: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/hero/swamiji-paryaya-peetarohana-portrait.avif
+  landscape: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/swamiji-paryaya-peetarohana-landscape.avif
+  portrait: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/hero/swamiji-paryaya-peetarohana-portrait.avif
 enabled: true
 ---

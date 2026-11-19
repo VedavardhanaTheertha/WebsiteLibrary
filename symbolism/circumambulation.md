@@ -6,7 +6,6 @@ title:
 summary:
   en: A profound spiritual and theological analysis of Pradakshina in the Udupi Sri Krishna tradition, exploring its geometry of surrender, Angapradakshina, Rathotsava around Car Street, and inner Bimba contemplation.
   kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರದಕ್ಷಿಣೆ ಮತ್ತು ಉರುಳು ಸೇವೆಯ ಕಿರು ಆಧ್ಯಾತ್ಮಿಕ ದರ್ಶನ — ಶ್ರೀಹರಿಯನ್ನು ಕೇಂದ್ರವಾಗಿರಿಸಿದ ಚಲನೆ, ಪಾಪ ನಿವಾರಣೆ, ರಥಬೀದಿ ಪರಿಕ್ರಮಣ ಹಾಗೂ ಅಂತರಂಗ ಪ್ರದಕ್ಷಿಣೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/circumambulation.avif
 tags:
   - code: pradakshina
     en: Pradakshina

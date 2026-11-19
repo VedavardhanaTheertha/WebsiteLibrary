@@ -18,7 +18,7 @@ established_by:
 summary:
   en: The tranquil rural branch matha of Shri Shiroor Matha situated in Santhyaru, Byrampalli village, enshrining Lord Sri Gopalakrishna amidst nature.
   kn: ಬೈರಂಪಳ್ಳಿ ಗ್ರಾಮದ ಸಾಂತ್ಯಾರಿನಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಶಾಖಾ ಮಠ ಹಾಗೂ ಶ್ರೀ ಗೋಪಾಲಕೃಷ್ಣ ದೇವರ ದಿವ್ಯ ಸನ್ನಿಧಾನ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/lord-vitthala.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/lord-vitthala.avif
 enabled: true
 ---
 

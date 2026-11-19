@@ -1,6 +1,6 @@
 ---
 id: go-shala
-cover: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.avif
+cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/go-shala-expansion.avif
 title:
   en: Go Shāla
   kn: ಗೋಶಾಲೆ
@@ -17,7 +17,7 @@ tags:
     - ಗೋಸೇವೆ
     - ಗೋಪೂಜೆ
 items:
-  - small-webp: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.webp
-    large-webp: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/go-shala-expansion.webp
+  - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/go-shala-expansion.webp
+    large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/go-shala-expansion.webp
 enabled: true
 ---

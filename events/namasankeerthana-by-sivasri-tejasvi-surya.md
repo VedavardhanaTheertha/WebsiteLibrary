@@ -20,9 +20,9 @@ performers:
     - Sivasri Tejasvi Surya & Bhajana Troupe
   kn:
     - ಶಿವಶ್ರೀ ತೇಜಸ್ವಿ ಸೂರ್ಯ ಮತ್ತು ಭಜನಾ ತಂಡ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/namasankeerthana-tejasvi-surya.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/namasankeerthana-tejasvi-surya.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/namasankeerthana-tejasvi-surya.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/namasankeerthana-tejasvi-surya.avif
 recurrence: special
 tags:
   - namasankeerthana
@@ -77,4 +77,4 @@ Ecstatic congregational chanting and Namasankeerthana in the Sampradaya Dakshina
 
 ### Gallery Images
 
-![Namasankeerthana by Sivasri Tejasvi Surya - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/namasankeerthana-tejasvi-surya.avif)
+![Namasankeerthana by Sivasri Tejasvi Surya - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/namasankeerthana-tejasvi-surya.avif)

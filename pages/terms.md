@@ -6,7 +6,7 @@ title:
 description:
   en: Terms of Service
   kn: ಸೇವಾ ನಿಯಮಗಳು
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-gopuram-architecture.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/temple-gopuram-architecture.avif
 page_type:
   en: Legal policy
   kn: ಕಾನೂನು ನೀತಿ

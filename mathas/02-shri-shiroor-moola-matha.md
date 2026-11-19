@@ -18,7 +18,7 @@ established_by:
 summary:
   en: The sacred primordial seat and serene spiritual hermitage of Shri Shiroor Matha nestled on the banks of the sacred Suvarna river.
   kn: ಸುವರ್ಣ ನದಿಯ ಪವಿತ್ರ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪಾವನ ಮೂಲ ಪೀಠ ಹಾಗೂ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/temple-festivity-deepotsava.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/temple-festivity-deepotsava.avif
 enabled: true
 ---
 

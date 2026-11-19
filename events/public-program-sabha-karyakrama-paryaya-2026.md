@@ -22,9 +22,9 @@ performers:
   kn:
     - ಪರಮಪೂಜ್ಯ ಶ್ರೀ ಶ್ರೀ ವೇದವರ್ಧನತೀರ್ಥ ಶ್ರೀಪಾದರು (ಪರ್ಯಾಯ ಶ್ರೀ ಶೀರೂರು ಮಠ)
     - ಗಣ್ಯ ಮಹನೀಯರು ಹಾಗೂ ವಿದ್ವಾಂಸರು
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/public-sabha-karyakrama-2026.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/public-sabha-karyakrama-2026.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/public-sabha-karyakrama-2026.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/public-sabha-karyakrama-2026.avif
 recurrence: special
 tags:
   - paryaya
@@ -80,4 +80,4 @@ Grand public convention (Sabha Karyakrama) held in the benign divine presence of
 
 ### Gallery Images
 
-![Paryaya Public Program | Sabha Karyakrama - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/public-sabha-karyakrama-2026.avif)
+![Paryaya Public Program | Sabha Karyakrama - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/public-sabha-karyakrama-2026.avif)

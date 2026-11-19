@@ -5,8 +5,7 @@ title:
   kn: ದೈನಂದಿನ ಪೂಜೆಯಿಂದ ರೂಪುಗೊಂಡ ಜೀವನ
 summary:
   en: A temporary chronicle about the quiet discipline of returning to worship each day.
-  kn: ಪ್ರತಿದಿನ ಪೂಜೆಗೆ ಮರಳುವ ಮೌನ ಶಿಸ್ತಿನ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/a-life-shaped-by-daily-worship.avif
-tags:
+  kn: ಪ್ರತಿದಿನ ಪೂಜೆಗೆ ಮರಳುವ ಮೌನ ಶಿಸ್ತಿನ ಕುರಿತ ತಾತ್ಕಾಲಿಕ ವೃತ್ತಾಂತ.tags:
   - code: sadhana
     en: sadhana
     kn: ಸಾಧನೆ

@@ -6,7 +6,6 @@ title:
 summary:
   en: An extensive theological analysis of the Conch (Panchajanya) and Discus (Sudarshana), exploring their Vedic symbolism, destruction of demonic forces, and the sacred rite of Tapta Mudra Dharana.
   kn: ಉಡುಪಿ ಕೃಷ್ಣ ಪರಂಪರೆಯಲ್ಲಿ ಶಂಖ ಮತ್ತು ಸುದರ್ಶನ ಚಕ್ರಗಳ ಪಾವನ ಸಂಕೇತ — ಪಾಂಚಜನ್ಯದ ವೇದನಾದ, ಸುದರ್ಶನದ ಕಾಲಚಕ್ರ, ತಪ್ತಮುದ್ರಾ ಧಾರಣೆ ಹಾಗೂ ರಕ್ಷಣಾ ಕವಚ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/shankha-and-chakra.avif
 tags:
   - code: shankha
     en: Shankha

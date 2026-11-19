@@ -6,7 +6,6 @@ title:
 summary:
   en: The divine inexhaustible vessel given by Sri Madhwacharya, symbolizing the sacred duty of unceasing Annadana in Udupi Sri Krishna Matha.
   kn: ಉಡುಪಿಯ ಶ್ರೀ ಕೃಷ್ಣ ಮಠದ ನಿರಂತರ ಅನ್ನದಾನ ಸಂಕಲ್ಪವನ್ನು ಪ್ರತಿನಿಧಿಸುವ, ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ನೀಡಿದ ದಿವ್ಯ ಅಕ್ಷಯ ಪಾತ್ರೆಯ ಮಹಿಮೆ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/library/009-annadana.webp
 tags:
   - code: symbolism
     en: Symbolism

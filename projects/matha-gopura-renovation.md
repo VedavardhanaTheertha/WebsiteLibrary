@@ -5,7 +5,7 @@ title:
   kn: ಮಠದ ಗೋಪುರದ ಜೀರ್ಣೋದ್ಧಾರ
 summary:
   en: Restoration of the historic gopura using traditional Agama shilpa methods.
-  kn: ಸಾಂಪ್ರದಾಯಿಕ ಆಗಮ ಶಿಲ್ಪ ವಿಧಾನಗಳಿಂದ ಐತಿಹಾಸಿಕ ಗೋಪುರದ ಪುನರುಜ್ಜೀವನ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/matha-gopura-renovation.avif
+  kn: ಸಾಂಪ್ರದಾಯಿಕ ಆಗಮ ಶಿಲ್ಪ ವಿಧಾನಗಳಿಂದ ಐತಿಹಾಸಿಕ ಗೋಪುರದ ಪುನರುಜ್ಜೀವನ.image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/projects/matha-gopura-renovation.avif
 tags:
   - code: completed
     en: completed

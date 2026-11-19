@@ -6,7 +6,6 @@ title:
 summary:
   en: A brief accommodation guide for pilgrims visiting Udupi, detailing Ashta Matha guest houses, Yatri Nivas facilities around Car Street, modern family hotels, booking advice, and sacred decorum.
   kn: ಉಡುಪಿಗೆ ಆಗಮಿಸುವ ಯಾತ್ರಿಕರಿಗೆ ಕಿರು ವಸತಿ ಮಾರ್ಗದರ್ಶಿ — ಅಷ್ಟಮಠಗಳ ಯಾತ್ರಿ ನಿವಾಸಗಳು, ರಥಬೀದಿಯ ಛತ್ರಗಳು, ಹೋಟೆಲ್ ವ್ಯವಸ್ಥೆ ಹಾಗೂ ಮುಂಗಡ ಕಾಯ್ದಿರಿಸುವಿಕೆಯ ವಿವರಗಳು.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/where-to-stay.avif
 tags:
   - code: stay
     en: Stay

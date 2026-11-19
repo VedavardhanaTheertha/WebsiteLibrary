@@ -3,10 +3,10 @@ id: seva-in-difficult-times
 title:
   en: Seva in Difficult Times
   kn: ಕಷ್ಟಕಾಲದಲ್ಲಿ ಸೇವೆ
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/remedies/seva-in-difficult-times.avif
 summary:
   en: Turning concern into constructive service within one's capacity.
-  kn: ತಮ್ಮ ಸಾಮರ್ಥ್ಯದೊಳಗೆ ಕಾಳಜಿಯನ್ನು ರಚನಾತ್ಮಕ ಸೇವೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/seva-in-difficult-times.avif
-tags:
+  kn: ತಮ್ಮ ಸಾಮರ್ಥ್ಯದೊಳಗೆ ಕಾಳಜಿಯನ್ನು ರಚನಾತ್ಮಕ ಸೇವೆಯಾಗಿ ಪರಿವರ್ತಿಸುವುದು.tags:
   - code: seva
     en: seva
     kn: ಸೇವೆ

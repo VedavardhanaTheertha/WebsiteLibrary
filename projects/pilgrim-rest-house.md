@@ -5,7 +5,7 @@ title:
   kn: ಯಾತ್ರಿಕರ ವಿಶ್ರಾಂತಿ ಗೃಹ
 summary:
   en: A proposed accommodation complex for visiting pilgrims.
-  kn: ಭೇಟಿ ನೀಡುವ ಯಾತ್ರಿಕರಿಗಾಗಿ ಪ್ರಸ್ತಾವಿತ ವಸತಿ ಸಂಕೀರ್ಣ.image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/pilgrim-rest-house.avif
+  kn: ಭೇಟಿ ನೀಡುವ ಯಾತ್ರಿಕರಿಗಾಗಿ ಪ್ರಸ್ತಾವಿತ ವಸತಿ ಸಂಕೀರ್ಣ.image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/projects/pilgrim-rest-house.avif
 tags:
   - code: upcoming
     en: upcoming

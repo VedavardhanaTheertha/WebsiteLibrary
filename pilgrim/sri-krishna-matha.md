@@ -6,7 +6,6 @@ title:
 summary:
   en: A brief guide to Udupi Sri Krishna Matha, detailing its consecration by Sri Madhwacharya, the miracle of Kanakana Kindi, the shrines of Mukhyaprana and Anantheshwara, Madhwa Sarovara, and the daily Mahaprasada.
   kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಕಿರು ಪರಿಚಯ — ಮಧ್ವಾಚಾರ್ಯರ ಪ್ರತಿಷ್ಠಾಪನೆ, ಕನಕನ ಕಿಂಡಿಯ ಮಹಿಮೆ, ಮುಖ್ಯಪ್ರಾಣ-ಅನಂತೇಶ್ವರ ಸನ್ನಿಧಿಗಳು, ಮಧ್ವ ಸರೋವರ ಮತ್ತು ನಿತ್ಯ ಅನ್ನದಾನದ ವೈಭವ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sri-krishna-matha.avif
 tags:
   - code: udupi
     en: Udupi

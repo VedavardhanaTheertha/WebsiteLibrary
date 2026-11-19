@@ -74,8 +74,8 @@ fields:
     en: 24.8%
     kn: 24.8%
   pages.local_copy.yajna_image:
-    en: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif
-    kn: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/sacred-alankara-sri-krishna.avif
+    en: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/sacred-alankara-sri-krishna.avif
+    kn: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/sacred-alankara-sri-krishna.avif
   page_metadata.yajna:
     en:
       title: Krishna Mantra Lekhana Yajna — Shri Shiroor Matha

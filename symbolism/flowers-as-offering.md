@@ -6,7 +6,6 @@ title:
 summary:
   en: An extensive exploration of floral offerings and Tulasi in the worship of Lord Sri Krishna, examining the regulations of Tantra Sara Sangraha, the primacy of Tulasi, and the eight internal spiritual flowers of virtue.
   kn: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಪೂಜೆಯಲ್ಲಿ ಪುಷ್ಪ ಮತ್ತು ತುಳಸಿ ಸಮರ್ಪಣೆಯ ಶಾಸ್ತ್ರೀಯ ವಿಧಿ — ತಂತ್ರಸಾರ ಸಂಗ್ರಹದ ನಿಯಮಗಳು, ತುಳಸಿಯ ಮಹತ್ತ್ವ ಹಾಗೂ ಆತ್ಮಗುಣಗಳಾದ ಅಂತರಂಗದ ಅಷ್ಟಪುಷ್ಪಗಳು.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/flowers-as-offering.avif
 tags:
   - code: flowers
     en: Flowers

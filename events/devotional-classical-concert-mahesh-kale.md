@@ -20,9 +20,9 @@ performers:
     - Pandit Mahesh Kale (Hindustani Vocal) & Ensemble
   kn:
     - ಪಂಡಿತ್ ಮಹೇಶ್ ಕಾಳೆ (ಹಿಂದೂಸ್ತಾನಿ ಗಾಯನ) ಮತ್ತು ವಾದ್ಯ ವೃಂದ
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif
+image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/devotional-concert-mahesh-kale.avif
 images:
-  - https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif
+  - https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/devotional-concert-mahesh-kale.avif
 recurrence: special
 tags:
   - concert
@@ -81,4 +81,4 @@ National Award-winning vocalist Mahesh Kale presenting an inspiring Hindustani c
 
 ### Gallery Images
 
-![Devotional & Classical Concert by Mahesh Kale - Image 1](https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/events/devotional-concert-mahesh-kale.avif)
+![Devotional & Classical Concert by Mahesh Kale - Image 1](https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/events/devotional-concert-mahesh-kale.avif)

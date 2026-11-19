@@ -6,7 +6,6 @@ title:
 summary:
   en: A brief treatise on Jyotisha as a canonical Vedanga in Dvaita Vedanta, elucidating astronomical calculation, the five limbs of the Panchanga, planetary presiding deities under Sri Hari, and the determination of sacred vratas like Ekadashi.
   kn: ದ್ವೈತ ಸಿದ್ಧಾಂತದಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಶಾಸ್ತ್ರ ಮತ್ತು ಖಗೋಳ ವಿಜ್ಞಾನದ ಕಿರು ದರ್ಶನ — ಪಂಚಾಂಗದ ಪಂಚಾಂಗಗಳು, ಕಾಲಚಕ್ರದ ಅಭಿಮಾನಿ ದೇವತೆಗಳು, ಗ್ರಹಗತಿ ಹಾಗೂ ಏಕಾದಶಿ ನಿರ್ಣಯ.
-image: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/jyotisha.avif
 tags:
   - code: jyotisha
     en: Jyotisha
