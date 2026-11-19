@@ -21,8 +21,8 @@ summary: |-
   ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ 'ಜನಸಾಮಾನ್ಯರ ಸ್ವಾಮೀಜಿ' ಎನಿಸಿದವರು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಮುಖಮಂಟಪ ಗೋಪುರ ನಿರ್ಮಿಸಿ, ಶ್ರೀಕೃಷ್ಣನಿಗೆ ೩೦೦ ದಿನಗಳ ನಿರಂತರ ಅಲಂಕಾರ ಸೇವೆ ಸಮರ್ಪಿಸಿ ಸ್ವರ್ಣಗೀತರಥವನ್ನು ಅರ್ಪಿಸಿದ ಮಹಾಮಹಿಮರು. ಕ್ರಿ.ಶ. ೨೦೧೮ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
 summary-en: Sri Lakshmivara Teertharu is the twenty-ninth pontiff of Sri Shiroor Matha, affectionately remembered as 'Janasamanya Swamiji' for his boundless compassion, extensive civic charity, and artistic devotion. He built the Mukha Mantapa Gopura of Sri Krishna Matha, offered the golden Swarna Geetharatha after 300 continuous alankara sevas, and attained Vishnu Pada at Shiroor in 2018.
 summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀವರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೊಂಬತ್ತನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಜನಸಾಮಾನ್ಯರ ಸಂಕಷ್ಟಕ್ಕೆ ಸ್ಪಂದಿಸಿ 'ಜನಸಾಮಾನ್ಯರ ಸ್ವಾಮೀಜಿ' ಎನಿಸಿದವರು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಮುಖಮಂಟಪ ಗೋಪುರ ನಿರ್ಮಿಸಿ, ಶ್ರೀಕೃಷ್ಣನಿಗೆ ೩೦೦ ದಿನಗಳ ನಿರಂತರ ಅಲಂಕಾರ ಸೇವೆ ಸಮರ್ಪಿಸಿ ಸ್ವರ್ಣಗೀತರಥವನ್ನು ಅರ್ಪಿಸಿದ ಮಹಾಮಹಿಮರು. ಕ್ರಿ.ಶ. ೨೦೧೮ ರಲ್ಲಿ ಶೀರೂರಿನಲ್ಲಿ ವಿಷ್ಣುಪದ ಸೇರಿದರು.
-thumbnailImage: ""
-fullImage: ""
+thumbnailImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/29-lakshmivara-teertharu.avif
+fullImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/29-lakshmivara-teertharu.avif
 enabled: true
 ---
 
@@ -34,6 +34,7 @@ enabled: true
 - **Samvatsara:** Vilambi (ವಿಳಂಬಿ)
 - **Aradhana:** Ashadha Shukla Saptami (ಆಷಾಢ ಶುಕ್ಲ ಸಪ್ತಮೀ)
 - **Vrindavana Kshetra:** Shiroor Moola Matha (ಶೀರೂರು ಮೂಲ ಮಠ)
+- **Image:** https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/29-lakshmivara-teertharu.avif
 
 Sri Lakshmivara Teertharu is the twenty-ninth pontiff of Sri Shiroor Matha, affectionately remembered as 'Janasamanya Swamiji' for his boundless compassion, extensive civic charity, and artistic devotion. He built the Mukha Mantapa Gopura of Sri Krishna Matha, offered the golden Swarna Geetharatha after 300 continuous alankara sevas, and attained Vishnu Pada at Shiroor in 2018.
 

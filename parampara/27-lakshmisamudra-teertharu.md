@@ -21,8 +21,8 @@ summary: |-
   ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೇಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯಲ್ಲಿ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಗರುಡ ರಥ ಸಮರ್ಪಿಸಿ, ಪಾಪೂಜೆ ಮಠವನ್ನು ಶಿಲಾಮಯವಾಗಿ ನವೀಕರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೪೦ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
 summary-en: Sri Lakshmisamudra Teertharu is the twenty-seventh pontiff of Sri Shiroor Matha, celebrated for consecrating Sri Prana Devaru in the dining hall of Sri Krishna Matha, dedicating a magnificent Garuda Ratha during his Paryaya, and completely rebuilding Papooje Matha in stone. He governed the samsthana for 40 years and attained Haripada at Udupi in 1926 CE.
 summary-kn: ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು ಶೀರೂರು ಮಠದ ಇಪ್ಪತ್ತೇಳನೆಯ ಪೀಠಾಧಿಪತಿಗಳು. ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯಲ್ಲಿ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ, ಗರುಡ ರಥ ಸಮರ್ಪಿಸಿ, ಪಾಪೂಜೆ ಮಠವನ್ನು ಶಿಲಾಮಯವಾಗಿ ನವೀಕರಿಸಿದ ಮಹಾವಿದ್ವಾಂಸರು. ೪೦ ವರ್ಷ ಸಂಸ್ಥಾನವಾಳಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ರಲ್ಲಿ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದ ಸೇರಿದರು.
-thumbnailImage: ""
-fullImage: ""
+thumbnailImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/27-lakshmisamudra-teertharu.avif
+fullImage: https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/27-lakshmisamudra-teertharu.avif
 enabled: true
 ---
 
@@ -34,6 +34,7 @@ enabled: true
 - **Samvatsara:** Nala (ನಳ)
 - **Aradhana:** Ashwayuja Shukla Pratipat (ಆಶ್ವಯುಜ ಶುಕ್ಲ ಪ್ರತಿಪತ್)
 - **Vrindavana Kshetra:** Udupi (ಉಡುಪಿ)
+- **Image:** https://pub-0b8a6620d6eb460aaa020636cb2c7784.r2.dev/parampara/27-lakshmisamudra-teertharu.avif
 
 Sri Lakshmisamudra Teertharu is the twenty-seventh pontiff of Sri Shiroor Matha, celebrated for consecrating Sri Prana Devaru in the dining hall of Sri Krishna Matha, dedicating a magnificent Garuda Ratha during his Paryaya, and completely rebuilding Papooje Matha in stone. He governed the samsthana for 40 years and attained Haripada at Udupi in 1926 CE.
 
