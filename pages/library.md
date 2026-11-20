@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Library
+  kn: ಗ್ರಂಥಾಲಯ
 title:
   en: Digital Library
   kn: ಡಿಜಿಟಲ್ ಗ್ರಂಥಾಲಯ

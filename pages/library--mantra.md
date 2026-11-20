@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Mantra
+  kn: ಮಂತ್ರ
 title:
   en: Mantra Nada
   kn: ಮಂತ್ರ ನಾದ

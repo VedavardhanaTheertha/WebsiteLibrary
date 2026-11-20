@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Albums
+  kn: ಚಿತ್ರಸಂಪುಟ
 title:
   en: Browse Albums
   kn: ಚಿತ್ರಸಂಪುಟಗಳನ್ನು ನೋಡಿ

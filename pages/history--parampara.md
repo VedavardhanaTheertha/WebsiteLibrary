@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Parampara
+  kn: ಪರಂಪರೆ
 title:
   en: Guru Paramparā
   kn: ಗುರು ಪರಂಪರೆ

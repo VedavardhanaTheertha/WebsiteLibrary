@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Refund
+  kn: ಮರುಪಾವತಿ
 title:
   en: Refund Policy
   kn: ಮರುಪಾವತಿ ನೀತಿ

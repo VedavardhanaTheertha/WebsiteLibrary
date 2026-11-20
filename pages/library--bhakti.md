@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Bhakti
+  kn: ಭಕ್ತಿ
 title:
   en: Bhakti Gāna
   kn: ಭಕ್ತಿ ಗಾನ

@@ -3,8 +3,7 @@ id: facebook
 order: 1
 platform: Facebook
 handle: "@shrishiroormuttudupi"
-audience: 11K+
-audience_label: Audience
+audience: 13K+
 url: https://www.facebook.com/shrishiroormuttudupi
 brand_color: "#1877F2"
 icon: /icons/connect/facebook.svg
@@ -16,6 +15,6 @@ enabled: true
 # Facebook
 
 - **Handle:** @shrishiroormuttudupi
-- **Audience:** 11K+
+- **Audience:** 13K+
 - **Link:** [Facebook](https://www.facebook.com/shrishiroormuttudupi)
 - **Brand color:** `#1877F2`

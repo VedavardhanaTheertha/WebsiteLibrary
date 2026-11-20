@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Mathas
+  kn: ಮಠಗಳು
 title:
   en: The Sacred Seats of Shri Shiroor Matha
   kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು

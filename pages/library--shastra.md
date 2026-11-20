@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Shastra
+  kn: ಶಾಸ್ತ್ರ
 title:
   en: Shastra Vidya
   kn: ಶಾಸ್ತ್ರ ವಿದ್ಯಾ

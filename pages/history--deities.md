@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Deities
+  kn: ದೇವತೆಗಳು
 title:
   en: The Presiding Deities of Shri Shiroor Matha
   kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಆರಾಧ್ಯ ದೇವತೆಗಳು

@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Events
+  kn: ಕಾರ್ಯಕ್ರಮ
 title:
   en: Events
   kn: ಕಾರ್ಯಕ್ರಮಗಳು

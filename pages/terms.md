@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Terms
+  kn: ನಿಯಮಗಳು
 title:
   en: Terms of Service
   kn: ಸೇವಾ ನಿಯಮಗಳು

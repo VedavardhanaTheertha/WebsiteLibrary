@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Home
+  kn: ಮುಖಪುಟ
 title:
   en: Home
   kn: ಮುಖಪುಟ

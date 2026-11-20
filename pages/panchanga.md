@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Panchanga
+  kn: ಪಂಚಾಂಗ
 title:
   en: Today's Panchānga
   kn: ಇಂದಿನ ಪಂಚಾಂಗ

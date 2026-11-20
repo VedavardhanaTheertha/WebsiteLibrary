@@ -3,8 +3,7 @@ id: youtube
 order: 3
 platform: YouTube
 handle: "@Shiroormatha"
-audience: 7K+
-audience_label: Audience
+audience: 10K+
 url: https://www.youtube.com/@shiroormatha
 brand_color: "#FF0000"
 icon: /icons/connect/youtube.svg
@@ -16,6 +15,6 @@ enabled: true
 # YouTube
 
 - **Handle:** @Shiroormatha
-- **Audience:** 7K+
+- **Audience:** 10K+
 - **Link:** [YouTube](https://www.youtube.com/@shiroormatha)
 - **Brand color:** `#FF0000`

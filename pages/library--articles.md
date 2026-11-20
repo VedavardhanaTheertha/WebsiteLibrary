@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Articles
+  kn: ಲೇಖನಗಳು
 title:
   en: Blogs and Articles
   kn: ಬ್ಲಾಗ್‌ಗಳು ಮತ್ತು ಲೇಖನಗಳು

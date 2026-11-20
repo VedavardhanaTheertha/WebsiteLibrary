@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Story
+  kn: ಕಥೆ
 title:
   en: Know the Story of Shri Shiroor Matha
   kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಕಥೆಯನ್ನು ತಿಳಿಯಿರಿ

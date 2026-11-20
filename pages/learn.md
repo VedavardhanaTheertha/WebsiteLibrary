@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Learn
+  kn: ಕಲಿಯಿರಿ
 title:
   en: Learn with Us
   kn: ನಮ್ಮೊಂದಿಗೆ ಕಲಿಯಿರಿ

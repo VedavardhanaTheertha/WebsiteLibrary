@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Jnana
+  kn: ಜ್ಞಾನ
 title:
   en: Jnana Kosha
   kn: ಜ್ಞಾನ ಕೋಶ

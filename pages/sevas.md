@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Seva
+  kn: ಸೇವೆ
 title:
   en: Sevas
   kn: ಸೇವೆಗಳು

@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Privacy
+  kn: ಗೌಪ್ಯತೆ
 title:
   en: Privacy Policy
   kn: ಗೌಪ್ಯತಾ ನೀತಿ

@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Dharma
+  kn: ಧರ್ಮ
 title:
   en: Dharma Vidhi
   kn: ಧರ್ಮ ವಿಧಿ

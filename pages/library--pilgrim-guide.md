@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Guide
+  kn: ಮಾರ್ಗದರ್ಶಿ
 title:
   en: Pilgrim Site Guide
   kn: ಯಾತ್ರಿಕರ ಸ್ಥಳ ಮಾರ್ಗದರ್ಶಿ

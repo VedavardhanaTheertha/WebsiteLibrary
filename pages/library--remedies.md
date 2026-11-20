@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Remedies
+  kn: ಪರಿಹಾರ
 title:
   en: Problem-Solving Mantras and Remedies
   kn: ಸಮಸ್ಯೆ ಪರಿಹಾರ ಮಂತ್ರಗಳು ಮತ್ತು ಉಪಾಯಗಳು

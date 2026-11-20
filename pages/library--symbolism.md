@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Symbolism
+  kn: ಸಂಕೇತ
 title:
   en: Symbolism of Hindu Deities and Rituals
   kn: ಹಿಂದೂ ದೇವತೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳ ಸಂಕೇತಾರ್ಥಗಳು

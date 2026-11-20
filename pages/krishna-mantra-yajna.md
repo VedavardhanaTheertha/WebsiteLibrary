@@ -1,8 +1,11 @@
 ---
 kind: page-reference
+icon_title:
+  en: Lekhana Yajna
+  kn: ಲೇಖನಯಜ್ಞ
 title:
-  en: Krishna Mantra Yajna
-  kn: ಕೃಷ್ಣ ಮಂತ್ರ ಯಜ್ಞ
+  en: Krishna Mantra Lekhana Yajna
+  kn: ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞ
 description:
   en: Join the sacred Krishna Mantra Lekhana Yajna during Paryaya 2026–2028.
   kn: ೨೦೨೬–೨೦೨೮ರ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಪವಿತ್ರ ಕೃಷ್ಣ ಮಂತ್ರ ಲೇಖನ ಯಜ್ಞದಲ್ಲಿ ಭಾಗವಹಿಸಿ.

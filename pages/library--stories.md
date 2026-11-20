@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Stories
+  kn: ಕಥೆಗಳು
 title:
   en: Sadhana Stories and Chronicles
   kn: ಸಾಧನೆಯ ಕಥೆಗಳು ಮತ್ತು ವೃತ್ತಾಂತಗಳು

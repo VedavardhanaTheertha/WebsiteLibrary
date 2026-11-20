@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Projects
+  kn: ಯೋಜನೆಗಳು
 title:
   en: Projects
   kn: ಯೋಜನೆಗಳು

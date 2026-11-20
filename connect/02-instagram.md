@@ -3,8 +3,7 @@ id: instagram
 order: 2
 platform: Instagram
 handle: "@shiroormatha_official"
-audience: 29K+
-audience_label: Audience
+audience: 35K+
 url: https://www.instagram.com/shiroormatha_official
 brand_color: "#C13584"
 icon: /icons/connect/instagram.svg
@@ -16,6 +15,6 @@ enabled: true
 # Instagram
 
 - **Handle:** @shiroormatha_official
-- **Audience:** 29K+
+- **Audience:** 35K+
 - **Link:** [Instagram](https://www.instagram.com/shiroormatha_official)
 - **Brand color:** `#C13584`

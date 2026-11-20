@@ -1,5 +1,8 @@
 ---
 kind: page-reference
+icon_title:
+  en: Connect
+  kn: ಸಂಪರ್ಕ
 title:
   en: Connect with Matha
   kn: ಮಠವನ್ನು ಸಂಪರ್ಕಿಸಿ
