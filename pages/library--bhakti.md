@@ -42,7 +42,7 @@ fields:
         reading: Reading
     kn:
       page:
-        metadata_title: ಭಕ್ತಿ ಗಾನ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+        metadata_title: ಭಕ್ತಿ ಗಾನ | ಶ್ರೀ ಶೀರೂರು ಮಠ
         metadata_description: ಹರಿದಾಸ ಪರಂಪರೆಯ ಕನ್ನಡ ಭಕ್ತಿ ರಚನೆಗಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ಓದಿ.
         eyebrow: ಭಕ್ತಿ ಸಾಹಿತ್ಯ
         title: ಭಕ್ತಿ ಗಾನ

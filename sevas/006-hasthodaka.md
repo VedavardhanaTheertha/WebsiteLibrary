@@ -15,10 +15,10 @@ category:
   kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
   en: Shri Krishna Matha & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 deity:
   en: Lord Sri Krishna & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
@@ -41,7 +41,7 @@ tags:
   - other-sevas
 description:
   en: Hasthodaka offering to Jagadguru Sri Madhwacharya and the holy Vrindavanas of the Shiroor Matha lineage.
-  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ.
+  kn: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ.
 significance:
   en: Honoring the lineage of saintly teachers and invoking their eternal guidance and blessings.
   kn: ಜ್ಞಾನಭಕ್ತಿ ಪ್ರದಾಯಕರಾದ ಗುರುಗಳ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ನೀಡಿ ಅವರ ದಿವ್ಯ ಆಶೀರ್ವಾದ ಪಡೆಯುವುದು.
@@ -54,7 +54,7 @@ enabled: true
 - **Seva Code**: `6`
 - **Category / ವರ್ಗ**: **Other Sevas** (ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು)
 - **Amount / ಕಾಣಿಕೆ**: Any Amount / Devotee's Wish (ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ)
-- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
+- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
 - **Direct Online Booking / ನೇರ ಆನ್‌ಲೈನ್ ಬುಕಿಂಗ್**: [Book Hasthodaka Online](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=6)
 
 ---
@@ -65,7 +65,7 @@ Hasthodaka offering to Jagadguru Sri Madhwacharya and the holy Vrindavanas of th
 
 ### ವಿವರಣೆ (ಕನ್ನಡ)
 
-ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ.
+ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಗುರುಪರಂಪರೆಯ ಯತಿವರೇಣ್ಯರ ವೃಂದಾವನಗಳಿಗೆ ಹಸ್ತೋದಕ ಸಮರ್ಪಣೆ.
 
 ---
 
@@ -100,4 +100,4 @@ Honoring the lineage of saintly teachers and invoking their eternal guidance and
 - **Online Payment Link**: [https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=6](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=6)
 - **Phone / ದೂರವಾಣಿ**: +91 820 2520448
 - **Email / ಇಮೇಲ್**: support@shiroormatha.org
-- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶಿರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)
+- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶೀರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)

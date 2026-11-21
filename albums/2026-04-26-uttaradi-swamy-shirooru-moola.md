@@ -4,17 +4,17 @@ date: "2026-04-26"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7cf9538d/665f29c9-l.webp
 title:
   en: Uttaradi Swamy Shirooru Moola Matha Bheti
-  kn: ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶಿರೂರು ಮೂಲ ಮಠ ಭೇಟಿ
+  kn: ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶೀರೂರು ಮೂಲ ಮಠ ಭೇಟಿ
 description:
   en: Uttaradi Swamy Shirooru Moola Matha Bheti — celebrations and darshan.
-  kn: ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶಿರೂರು ಮೂಲ ಮಠ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶೀರೂರು ಮೂಲ ಮಠ ಭೇಟಿ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Uttaradi Swamy Shirooru Moola Matha Bheti
   kn:
     - ಪರ್ಯಾಯ
-    - ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶಿರೂರು ಮೂಲ ಮಠ ಭೇಟಿ
+    - ಉತ್ತರಾದಿ ಶ್ರೀಗಳ ಶೀರೂರು ಮೂಲ ಮಠ ಭೇಟಿ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7cf9538d/665f29c9-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/7cf9538d/665f29c9-l.webp

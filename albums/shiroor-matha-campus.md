@@ -3,7 +3,7 @@ id: shiroor-matha-campus
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/2d28ee82/ca67982e-l.webp
 title:
   en: Shiroor Matha Campus
-  kn: ಶಿರೂರು ಮಠದ ಆವರಣ
+  kn: ಶೀರೂರು ಮಠದ ಆವರಣ
 description:
   en: Sacred spaces, architecture, and everyday life around the Matha.
   kn: ಮಠದ ಪವಿತ್ರ ಸ್ಥಳಗಳು, ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ದೈನಂದಿನ ಜೀವನ.

@@ -5,7 +5,7 @@ icon_title:
   kn: ಮಠಗಳು
 title:
   en: The Sacred Seats of Shri Shiroor Matha
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು
 description:
   en: Discover the sacred town headquarters on Udupi Car Street and the serene riverbank Moola Matha.
   kn: ಉಡುಪಿಯ ರಥಬೀದಿಯ ಪ್ರಧಾನ ಮಠ ಮತ್ತು ಪಾವನ ನದೀತೀರದ ಮೂಲ ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು.
@@ -23,7 +23,7 @@ fields:
       title: The Sacred Seats of Shri Shiroor Matha
       description: Discover the sacred town headquarters on Udupi Car Street and the serene riverbank Moola Matha.
     kn:
-      title: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು
+      title: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು
       description: ಉಡುಪಿಯ ರಥಬೀದಿಯ ಪ್ರಧಾನ ಮಠ ಮತ್ತು ಪಾವನ ನದೀತೀರದ ಮೂಲ ಮಠದ ಪವಿತ್ರ ಕ್ಷೇತ್ರಗಳು.
 enabled: true
 ---

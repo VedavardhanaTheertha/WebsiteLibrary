@@ -4,17 +4,17 @@ date: "2026-02-15"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8807b210/7f4981fb-l.webp
 title:
   en: Alankara&Mahapooje  (Shirooru Swami)
-  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು)
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶೀರೂರು ಶ್ರೀಗಳು)
 description:
   en: Alankara&Mahapooje  (Shirooru Swami) — celebrations and darshan.
-  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶೀರೂರು ಶ್ರೀಗಳು) — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Alankara&Mahapooje  (Shirooru Swami)
   kn:
     - ಪರ್ಯಾಯ
-    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶಿರೂರು ಶ್ರೀಗಳು)
+    - ಅಲಂಕಾರ ಮತ್ತು ಮಹಾಪೂಜೆ (ಶೀರೂರು ಶ್ರೀಗಳು)
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8807b210/7f4981fb-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/8807b210/7f4981fb-l.webp

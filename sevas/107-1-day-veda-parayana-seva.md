@@ -15,7 +15,7 @@ category:
   kn: ವಿಶೇಷ ಸೇವೆಗಳು
 sannidhi:
   en: Shri Krishna Matha & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 deity:
   en: Lord Sri Krishna & Parampara Samsthana
   kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಸಂಸ್ಥಾನ ಪರಂಪರೆ
@@ -53,7 +53,7 @@ enabled: true
 - **Seva Code**: `107`
 - **Category / ವರ್ಗ**: **Special Sevas** (ವಿಶೇಷ ಸೇವೆಗಳು)
 - **Amount / ಕಾಣಿಕೆ**: ₹1,00,000 (₹೧,೦೦,೦೦೦)
-- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
+- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
 - **Direct Online Booking / ನೇರ ಆನ್‌ಲೈನ್ ಬುಕಿಂಗ್**: [Book 1 Day Veda Parayana Seva Online](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=107)
 
 ---
@@ -99,4 +99,4 @@ The vibrations of Vedic chanting cleanse the environment, bring world peace, and
 - **Online Payment Link**: [https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=107](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=107)
 - **Phone / ದೂರವಾಣಿ**: +91 820 2520448
 - **Email / ಇಮೇಲ್**: support@shiroormatha.org
-- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶಿರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)
+- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶೀರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)

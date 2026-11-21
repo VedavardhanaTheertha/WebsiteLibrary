@@ -2,10 +2,10 @@
 id: shri-shiroor-moola-matha
 title:
   en: Shri Shiroor Moola Matha (Shiroor)
-  kn: ಶ್ರೀ ಶಿರೂರು ಮೂಲ ಮಠ (ಶಿರೂರು)
+  kn: ಶ್ರೀ ಶೀರೂರು ಮೂಲ ಮಠ (ಶೀರೂರು)
 subtitle:
   en: Original Seat & Tapobhoomi · Shiroor, Udupi District
-  kn: ಮೂಲ ಪೀಠ ಹಾಗೂ ತಪೋಭೂಮಿ · ಶಿರೂರು, ಉಡುಪಿ ಜಿಲ್ಲೆ
+  kn: ಮೂಲ ಪೀಠ ಹಾಗೂ ತಪೋಭೂಮಿ · ಶೀರೂರು, ಉಡುಪಿ ಜಿಲ್ಲೆ
 era:
   en: Treta Yuga (Sage Jabali Hermitage); Dvaita consecration 13th Century CE
   kn: ತ್ರೇತಾಯುಗ (ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳ ಆಶ್ರಮ); ದ್ವೈತ ಪ್ರತಿಷ್ಠಾಪನೆ ೧೩ನೆಯ ಶತಮಾನ
@@ -17,7 +17,7 @@ established_by:
   kn: ಜಾಬಾಲಿ ಮಹರ್ಷಿಗಳು (ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಮತ್ತು ಶ್ರೀ ವಾಮನ ತೀರ್ಥರ ಅನುಗ್ರಹ)
 summary:
   en: The sacred primordial seat and serene spiritual hermitage of Shri Shiroor Matha nestled on the banks of the sacred Suvarna river.
-  kn: ಸುವರ್ಣ ನದಿಯ ಪವಿತ್ರ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪಾವನ ಮೂಲ ಪೀಠ ಹಾಗೂ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ.
+  kn: ಸುವರ್ಣ ನದಿಯ ಪವಿತ್ರ ತೀರದಲ್ಲಿರುವ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪಾವನ ಮೂಲ ಪೀಠ ಹಾಗೂ ಪ್ರಶಾಂತ ತಪೋಭೂಮಿ.
 image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/mathas/temple-festivity-deepotsava.avif
 enabled: true
 ---
@@ -30,7 +30,7 @@ The sanctum sanctorum overlooks green paddy fields and groves of arecanut trees,
 
 ---
 
-# ಶ್ರೀ ಶಿರೂರು ಮೂಲ ಮಠ (ಶಿರೂರು)
+# ಶ್ರೀ ಶೀರೂರು ಮೂಲ ಮಠ (ಶೀರೂರು)
 
 ಸ್ಥಳಪುರಾಣದ ಪ್ರಕಾರ, ತ್ರೇತಾಯುಗದಲ್ಲಿ ಮಹರ್ಷಿ ಜಾಬಾಲಿಗಳು ಸುವರ್ಣ ನದಿಯ ದಂಡೆಯಲ್ಲಿ ತಪಸ್ಸನ್ನಾಚರಿಸಿ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿದ ಪಾವನ ಕ್ಷೇತ್ರವಿದು. ೧೩ನೆಯ ಶತಮಾನದಲ್ಲಿ ಜಗದ್ಗುರು ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ಈ ಕ್ಷೇತ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಶ್ರೀ ವಿಠಲ ದೇವರನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿ ತಮ್ಮ ಶಿಷ್ಯರಾದ ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ ಅನುಗ್ರಹಿಸಿದರು.
 

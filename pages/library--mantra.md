@@ -22,7 +22,7 @@ fields:
     en:
       title: Mantra Nāda | Library | Shri Shiroor Matha
     kn:
-      title: ಮಂತ್ರ ನಾದ | ಗ್ರಂಥಾಲಯ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+      title: ಮಂತ್ರ ನಾದ | ಗ್ರಂಥಾಲಯ | ಶ್ರೀ ಶೀರೂರು ಮಠ
   library_sections.mantra:
     en:
       eyebrow: Sacred Sound

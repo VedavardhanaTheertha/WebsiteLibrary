@@ -8,7 +8,7 @@ title:
   kn: ಮಠವನ್ನು ಸಂಪರ್ಕಿಸಿ
 description:
   en: Explore Shri Shiroor Matha branches, contact details, maps, directions, and official social channels.
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಶಾಖೆಗಳು, ಸಂಪರ್ಕ ವಿವರಗಳು, ನಕ್ಷೆಗಳು, ಮಾರ್ಗಸೂಚಿಗಳು ಮತ್ತು ಅಧಿಕೃತ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ತಿಳಿಯಿರಿ.
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಶಾಖೆಗಳು, ಸಂಪರ್ಕ ವಿವರಗಳು, ನಕ್ಷೆಗಳು, ಮಾರ್ಗಸೂಚಿಗಳು ಮತ್ತು ಅಧಿಕೃತ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ತಿಳಿಯಿರಿ.
 image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/temple-gopuram-architecture.avif
 page_type:
   en: Contact and branch directory
@@ -23,8 +23,8 @@ fields:
       title: Connect with Matha | Shri Shiroor Matha
       description: Explore Shri Shiroor Matha branches, contact details, maps, directions, and official social channels.
     kn:
-      title: ಮಠದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
-      description: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಶಾಖೆಗಳು, ಸಂಪರ್ಕ ವಿವರಗಳು, ನಕ್ಷೆಗಳು, ದಿಕ್ಕುಗಳು ಮತ್ತು ಅಧಿಕೃತ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ನೋಡಿ.
+      title: ಮಠದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಿ | ಶ್ರೀ ಶೀರೂರು ಮಠ
+      description: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಶಾಖೆಗಳು, ಸಂಪರ್ಕ ವಿವರಗಳು, ನಕ್ಷೆಗಳು, ದಿಕ್ಕುಗಳು ಮತ್ತು ಅಧಿಕೃತ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ನೋಡಿ.
   connect_page.title:
     en: Connect with Matha
     kn: ಮಠದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಿ

@@ -15,10 +15,10 @@ category:
   kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
   en: Shri Krishna Matha & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 deity:
   en: Lord Sri Krishna & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
@@ -41,10 +41,10 @@ tags:
   - other-sevas
 description:
   en: Special Paryaya Kanike dedicated to the grandeur and conduct of the Shiroor Matha biennial Paryaya Mahotsava.
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ.
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ.
 significance:
   en: Contributing to the glorious bi-annual worship of Lord Sri Krishna during Shiroor Matha's Paryaya tenure.
-  kn: ಶಿರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ.
+  kn: ಶೀರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ.
 enabled: true
 ---
 
@@ -54,7 +54,7 @@ enabled: true
 - **Seva Code**: `10`
 - **Category / ವರ್ಗ**: **Other Sevas** (ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು)
 - **Amount / ಕಾಣಿಕೆ**: ₹5,000 (₹೫,೦೦೦)
-- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
+- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
 - **Direct Online Booking / ನೇರ ಆನ್‌ಲೈನ್ ಬುಕಿಂಗ್**: [Book Paryaya Kanike Online](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=10)
 
 ---
@@ -65,7 +65,7 @@ Special Paryaya Kanike dedicated to the grandeur and conduct of the Shiroor Math
 
 ### ವಿವರಣೆ (ಕನ್ನಡ)
 
-ಶ್ರೀ ಶಿರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ.
+ಶ್ರೀ ಶೀರೂರು ಮಠದ ಐತಿಹಾಸಿಕ ಪರ್ಯಾಯ ಮಹೋತ್ಸವದ ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೈಂಕರ್ಯಗಳಿಗೆ ನೀಡುವ ವಿಶೇಷ ಕಾಣಿಕೆ.
 
 ---
 
@@ -75,7 +75,7 @@ Contributing to the glorious bi-annual worship of Lord Sri Krishna during Shiroo
 
 ### ಧಾರ್ಮಿಕ ಮಹತ್ವ ಮತ್ತು ಫಲಶ್ರುತಿ (ಕನ್ನಡ)
 
-ಶಿರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ.
+ಶೀರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಯಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ನಿರಂತರ ಪೂಜೆ ಮತ್ತು ಮಹೋತ್ಸವಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವ ಅಪೂರ್ವ ಅವಕಾಶ.
 
 ---
 
@@ -100,4 +100,4 @@ Contributing to the glorious bi-annual worship of Lord Sri Krishna during Shiroo
 - **Online Payment Link**: [https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=10](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=10)
 - **Phone / ದೂರವಾಣಿ**: +91 820 2520448
 - **Email / ಇಮೇಲ್**: support@shiroormatha.org
-- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶಿರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)
+- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶೀರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)

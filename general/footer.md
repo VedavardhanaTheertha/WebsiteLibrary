@@ -3,7 +3,7 @@ kind: localized-copy
 fields:
   footer.copyright_text:
     en: Shri Krishna Matha Paryaya Shri Shiroor Matha, Udupi.
-    kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಪರ್ಯಾಯ ಶ್ರೀ ಶಿರೂರು ಮಠ, ಉಡುಪಿ.
+    kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಪರ್ಯಾಯ ಶ್ರೀ ಶೀರೂರು ಮಠ, ಉಡುಪಿ.
   footer.address:
     en: Car Street, Udupi, Karnataka 576101
     kn: ಕಾರ್ ಸ್ಟ್ರೀಟ್, ಉಡುಪಿ, ಕರ್ನಾಟಕ 576101

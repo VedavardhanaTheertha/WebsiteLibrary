@@ -8,7 +8,7 @@ title:
   kn: ಮುಖಪುಟ
 description:
   en: Official portal of Shri Shiroor Matha, Udupi.
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ ಉಡುಪಿಯ ಅಧಿಕೃತ ತಾಣ.
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠ ಉಡುಪಿಯ ಅಧಿಕೃತ ತಾಣ.
 image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/shri-krishna-hero-section.avif
 page_type:
   en: Home
@@ -25,7 +25,7 @@ fields:
       guidance_label: Seeking Guidance
       guidance_title: When life feels overwhelming
     kn:
-      explore_label: ಶಿರೂರು ಮಠದ ಇನ್ನಷ್ಟು ವಿವರಗಳು
+      explore_label: ಶೀರೂರು ಮಠದ ಇನ್ನಷ್ಟು ವಿವರಗಳು
       explore_title: ಭಾಗಿಯಾಗಿ ಮತ್ತು ಅನುಭವಿಸಿರಿ
       guidance_label: ಮಾರ್ಗದರ್ಶನದ ಅನ್ವೇಷಣೆ
       guidance_title: ಬದುಕು ಭಾರವೆನಿಸಿದಾಗ

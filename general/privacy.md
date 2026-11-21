@@ -5,13 +5,13 @@ fields:
     en:
       title: Privacy Policy | Shri Shiroor Matha
     kn:
-      title: ಗೌಪ್ಯತಾ ನೀತಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+      title: ಗೌಪ್ಯತಾ ನೀತಿ | ಶ್ರೀ ಶೀರೂರು ಮಠ
   pages.local_copy.privacy_title:
     en: Privacy Policy
     kn: ಗೌಪ್ಯತಾ ನೀತಿ
   pages.local_copy.privacy_intro:
     en: Shri Shiroor Matha ("we", "us", "our") is committed to protecting the privacy of its devotees and visitors. This policy outlines how we collect and handle your data.
-    kn: ಶ್ರೀ ಶಿರೂರು ಮಠವು ("ನಾವು", "ನಮ್ಮ") ಭಕ್ತರು ಮತ್ತು ಸಂದರ್ಶಕರ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಬದ್ಧವಾಗಿದೆ. ನಾವು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ ಮತ್ತು ನಿರ್ವಹಿಸುತ್ತೇವೆ ಎಂಬುದನ್ನು ಈ ನೀತಿಯು ವಿವರಿಸುತ್ತದೆ.
+    kn: ಶ್ರೀ ಶೀರೂರು ಮಠವು ("ನಾವು", "ನಮ್ಮ") ಭಕ್ತರು ಮತ್ತು ಸಂದರ್ಶಕರ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಬದ್ಧವಾಗಿದೆ. ನಾವು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ ಮತ್ತು ನಿರ್ವಹಿಸುತ್ತೇವೆ ಎಂಬುದನ್ನು ಈ ನೀತಿಯು ವಿವರಿಸುತ್ತದೆ.
   pages.local_copy.privacy_heading_1:
     en: 2.1 Information We Collect
     kn: 2.1 ನಾವು ಸಂಗ್ರಹಿಸುವ ಮಾಹಿತಿ

@@ -15,10 +15,10 @@ category:
   kn: ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು
 sannidhi:
   en: Shri Krishna Matha & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 deity:
   en: Lord Sri Krishna & Shri Shiroor Matha
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ
 location:
   en: Shri Krishna Matha, Udupi
   kn: ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ
@@ -41,7 +41,7 @@ tags:
   - other-sevas
 description:
   en: Voluntary devotional offering (Kanike) to Lord Sri Krishna, Lord Mukhyaprana, and Shri Shiroor Matha Samsthana.
-  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ.
+  kn: ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ.
 significance:
   en: Expressing pure surrender and gratitude to the Lord without condition, sanctifying one's earnings.
   kn: ಭಗವಂತನಿಗೆ ತನು-ಮನ-ಧನಗಳಿಂದ ಶರಣಾಗಿ, ಸಂಪಾದನೆಯನ್ನು ಸತ್ಪಾತ್ರದಲ್ಲಿ ಸಮರ್ಪಿಸಿ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸುವ ಪುಣ್ಯಕಾರ್ಯ.
@@ -54,7 +54,7 @@ enabled: true
 - **Seva Code**: `1`
 - **Category / ವರ್ಗ**: **Other Sevas** (ಇತರ ವಿಶೇಷ ಸೇವೆಗಳು ಮತ್ತು ಕಾಣಿಕೆಗಳು)
 - **Amount / ಕಾಣಿಕೆ**: Any Amount / Devotee's Wish (ಭಕ್ತರ ಇಚ್ಛಾನುಸಾರ ಕಾಣಿಕೆ)
-- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
+- **Sannidhi / Venue**: Shri Krishna Matha & Shri Shiroor Matha, Shri Krishna Matha, Udupi (ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ)
 - **Direct Online Booking / ನೇರ ಆನ್‌ಲೈನ್ ಬುಕಿಂಗ್**: [Book Kanike Online](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=1)
 
 ---
@@ -65,7 +65,7 @@ Voluntary devotional offering (Kanike) to Lord Sri Krishna, Lord Mukhyaprana, an
 
 ### ವಿವರಣೆ (ಕನ್ನಡ)
 
-ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶಿರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ.
+ಶ್ರೀ ಕೃಷ್ಣ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು ಹಾಗೂ ಶ್ರೀ ಶೀರೂರು ಮಠ ಸಂಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಪೂರ್ವಕವಾಗಿ ಸಮರ್ಪಿಸುವ ಸ್ವಯಂಪ್ರೇರಿತ ಕಾಣಿಕೆ.
 
 ---
 
@@ -100,4 +100,4 @@ Expressing pure surrender and gratitude to the Lord without condition, sanctifyi
 - **Online Payment Link**: [https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=1](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=1)
 - **Phone / ದೂರವಾಣಿ**: +91 820 2520448
 - **Email / ಇಮೇಲ್**: support@shiroormatha.org
-- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶಿರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)
+- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶೀರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)

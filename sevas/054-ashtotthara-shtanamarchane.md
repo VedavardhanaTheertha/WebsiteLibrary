@@ -100,4 +100,4 @@ Quick and powerful invocation of Lord Krishna's protection for daily challenges.
 - **Online Payment Link**: [https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=54](https://pay.shiroormatha.org/?entity_id=3&event_id=4&seva_id=54)
 - **Phone / ದೂರವಾಣಿ**: +91 820 2520448
 - **Email / ಇಮೇಲ್**: support@shiroormatha.org
-- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶಿರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)
+- **Address / ವಿಳಾಸ**: Shri Shiroor Matha, Car Street, Udupi - 576101, Karnataka, India (ಶ್ರೀ ಶೀರೂರು ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ - ೫೭೬೧೦೧)

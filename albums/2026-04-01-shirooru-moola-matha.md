@@ -4,17 +4,17 @@ date: "2026-04-01"
 cover: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd99fd63/57f186a6-l.webp
 title:
   en: Shirooru Moola Matha
-  kn: ಶಿರೂರು ಮೂಲ ಮಠ
+  kn: ಶೀರೂರು ಮೂಲ ಮಠ
 description:
   en: Shirooru Moola Matha — celebrations and darshan.
-  kn: ಶಿರೂರು ಮೂಲ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
+  kn: ಶೀರೂರು ಮೂಲ ಮಠ — ಪವಿತ್ರ ಆಚರಣೆಗಳು ಹಾಗೂ ದರ್ಶನ.
 tags:
   en:
     - Paryaya
     - Shirooru Moola Matha
   kn:
     - ಪರ್ಯಾಯ
-    - ಶಿರೂರು ಮೂಲ ಮಠ
+    - ಶೀರೂರು ಮೂಲ ಮಠ
 items:
   - small-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd99fd63/57f186a6-s.webp
     large-webp: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/a/cd99fd63/57f186a6-l.webp

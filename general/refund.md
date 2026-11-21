@@ -5,13 +5,13 @@ fields:
     en:
       title: Refund Policy | Shri Shiroor Matha
     kn:
-      title: ಮರುಪಾವತಿ ನೀತಿ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+      title: ಮರುಪಾವತಿ ನೀತಿ | ಶ್ರೀ ಶೀರೂರು ಮಠ
   pages.local_copy.refund_title:
     en: Refund and Cancellation Policy
     kn: ಮರುಪಾವತಿ ಮತ್ತು ರದ್ದತಿ ನೀತಿ
   pages.local_copy.refund_intro:
     en: Shri Shiroor Matha follows a transparent policy regarding contributions and Seva bookings.
-    kn: ಶ್ರೀ ಶಿರೂರು ಮಠವು ಭಕ್ತರ ಕಾಣಿಕೆಗಳು ಮತ್ತು ಸೇವಾ ಕಾಯ್ದಿರಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪಾರದರ್ಶಕ ನೀತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ.
+    kn: ಶ್ರೀ ಶೀರೂರು ಮಠವು ಭಕ್ತರ ಕಾಣಿಕೆಗಳು ಮತ್ತು ಸೇವಾ ಕಾಯ್ದಿರಿಸುವಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪಾರದರ್ಶಕ ನೀತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ.
   pages.local_copy.refund_heading_1:
     en: 3.1 Seva Cancellations
     kn: 3.1 ಸೇವಾ ರದ್ದತಿಗಳು

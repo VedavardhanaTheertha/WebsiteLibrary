@@ -5,10 +5,10 @@ icon_title:
   kn: ಕಥೆ
 title:
   en: Know the Story of Shri Shiroor Matha
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಕಥೆಯನ್ನು ತಿಳಿಯಿರಿ
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಕಥೆಯನ್ನು ತಿಳಿಯಿರಿ
 description:
   en: The sacred history of Krishna Mutt, Shiroor Matha, Annadana, Go Pooja and the significance of Paryaya.
-  kn: ಕೃಷ್ಣ ಮಠ, ಶಿರೂರು ಮಠ, ಅನ್ನದಾನ, ಗೋ ಪೂಜೆ ಮತ್ತು ಪರ್ಯಾಯದ ಮಹತ್ವದ ಪವಿತ್ರ ಇತಿಹಾಸ.
+  kn: ಕೃಷ್ಣ ಮಠ, ಶೀರೂರು ಮಠ, ಅನ್ನದಾನ, ಗೋ ಪೂಜೆ ಮತ್ತು ಪರ್ಯಾಯದ ಮಹತ್ವದ ಪವಿತ್ರ ಇತಿಹಾಸ.
 image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/pages/day-in-the-sanctum.avif
 page_type:
   en: History and tradition hub
@@ -23,8 +23,8 @@ fields:
       title: Know the Story — Shri Shiroor Matha
       description: The sacred history of Krishna Mutt, Shiroor Matha, Annadana, Go Pooja and the significance of Paryaya.
     kn:
-      title: ಪರಂಪರೆಯ ಕಥೆಯನ್ನು ತಿಳಿಯಿರಿ — ಶ್ರೀ ಶಿರೂರು ಮಠ
-      description: ಕೃಷ್ಣ ಮಠ, ಶಿರೂರು ಮಠ, ಅನ್ನದಾನ, ಗೋ ಪೂಜೆಯ ಪವಿತ್ರ ಇತಿಹಾಸ ಮತ್ತು ಪರ್ಯಾಯದ ಮಹತ್ವ.
+      title: ಪರಂಪರೆಯ ಕಥೆಯನ್ನು ತಿಳಿಯಿರಿ — ಶ್ರೀ ಶೀರೂರು ಮಠ
+      description: ಕೃಷ್ಣ ಮಠ, ಶೀರೂರು ಮಠ, ಅನ್ನದಾನ, ಗೋ ಪೂಜೆಯ ಪವಿತ್ರ ಇತಿಹಾಸ ಮತ್ತು ಪರ್ಯಾಯದ ಮಹತ್ವ.
   pages.story:
     en:
       title: Know the Story
@@ -47,7 +47,7 @@ fields:
       attributes: Attributes & Iconography
     kn:
       title: ಪರಂಪರೆಯ ಕಥೆ
-      intro: ಶ್ರೀ ಶಿರೂರು ಮಠದ ಪವಿತ್ರ ಮಠಗಳು, ಪರಂಪರೆಯ ಗುರುಗಳು ಮತ್ತು ಆರಾಧ್ಯ ದೇವತೆಗಳ ದಿವ್ಯ ಚರಿತ್ರೆಯನ್ನು ತಿಳಿಯಿರಿ.
+      intro: ಶ್ರೀ ಶೀರೂರು ಮಠದ ಪವಿತ್ರ ಮಠಗಳು, ಪರಂಪರೆಯ ಗುರುಗಳು ಮತ್ತು ಆರಾಧ್ಯ ದೇವತೆಗಳ ದಿವ್ಯ ಚರಿತ್ರೆಯನ್ನು ತಿಳಿಯಿರಿ.
       tabs:
         mathas: ಮಠ
         parampara: ಪರಂಪರೆ

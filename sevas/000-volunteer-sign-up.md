@@ -15,13 +15,13 @@ category:
   kn: ಸಮುದಾಯ ಸೇವೆ
 sannidhi:
   en: Shri Shiroor Matha
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠ
 deity:
   en: Service to Shri Hari, Vayu and Gurugalu
   kn: ಶ್ರೀ ಹರಿ ವಾಯು ಗುರುಗಳ ಸೇವೆ
 location:
   en: Shri Shiroor Matha, Udupi and remote opportunities
-  kn: ಶ್ರೀ ಶಿರೂರು ಮಠ, ಉಡುಪಿ ಹಾಗೂ ದೂರಸ್ಥ ಸೇವಾ ಅವಕಾಶಗಳು
+  kn: ಶ್ರೀ ಶೀರೂರು ಮಠ, ಉಡುಪಿ ಹಾಗೂ ದೂರಸ್ಥ ಸೇವಾ ಅವಕಾಶಗಳು
 amount: 0
 image: https://pub-80e0aeff507a41da90321eb9ff4616c7.r2.dev/sevas/000-volunteer-sign-up.avif
 formatted_amount:
@@ -40,7 +40,7 @@ tags:
   - paryaya
 description:
   en: Join Shri Shiroor Matha's seva family by offering your time, skills, and dedicated service.
-  kn: ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ.
+  kn: ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ.
 significance:
   en: Volunteering carries forward the Matha's tradition through sacred service to devotees and the community.
   kn: ಭಕ್ತರು ಮತ್ತು ಸಮುದಾಯಕ್ಕೆ ಪವಿತ್ರ ಸೇವೆ ಸಲ್ಲಿಸುವ ಮೂಲಕ ಮಠದ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುವ ಅವಕಾಶ.
@@ -56,7 +56,7 @@ Join Shri Shiroor Matha's seva family by offering your time, skills, and dedicat
 
 ### ವಿವರಣೆ (ಕನ್ನಡ)
 
-ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶಿರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ.
+ನಿಮ್ಮ ಸಮಯ, ಕೌಶಲ್ಯ ಮತ್ತು ಸಮರ್ಪಿತ ಸೇವೆಯನ್ನು ಅರ್ಪಿಸುವ ಮೂಲಕ ಶ್ರೀ ಶೀರೂರು ಮಠದ ಸೇವಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿ.
 
 ### Significance & Spiritual Benefits (English)
 

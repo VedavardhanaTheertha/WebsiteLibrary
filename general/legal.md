@@ -18,7 +18,7 @@ fields:
     kn: "ಈ ನೀತಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿಗೆ, ದಯವಿಟ್ಟು ಸಂಪರ್ಕಿಸಿ:"
   pages.local_copy.legal_contact_name:
     en: Shri Shiroor Matha
-    kn: ಶ್ರೀ ಶಿರೂರು ಮಠ
+    kn: ಶ್ರೀ ಶೀರೂರು ಮಠ
   pages.local_copy.legal_contact_address:
     en: Car Street, Udupi, Karnataka - 576101
     kn: ರಥಬೀದಿ, ಉಡುಪಿ, ಕರ್ನಾಟಕ - 576101

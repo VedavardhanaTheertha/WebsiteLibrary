@@ -22,7 +22,7 @@ fields:
     en:
       title: Shāstra Vidya | Library | Shri Shiroor Matha
     kn:
-      title: ಶಾಸ್ತ್ರ ವಿದ್ಯಾ | ಗ್ರಂಥಾಲಯ | ಶ್ರೀ ಶಿರೂರು ಮಠ
+      title: ಶಾಸ್ತ್ರ ವಿದ್ಯಾ | ಗ್ರಂಥಾಲಯ | ಶ್ರೀ ಶೀರೂರು ಮಠ
   library_sections.shastra:
     en:
       eyebrow: Scriptural Study
