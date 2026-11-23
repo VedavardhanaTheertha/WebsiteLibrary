@@ -57,7 +57,7 @@ Born on Ashadha Bahula Saptami (Thursday) in Shalivahana Shaka 1801 (Pramathi sa
 ### Major Contributions to Sri Krishna Matha and Papuje Matha
 1. **Madhyama Ratha Construction:** During his youthful first Paryaya, Sri Lakshmisamudra Teertharu constructed the celebrated intermediate chariot (*Madhyama Ratha*) used for Lord Sri Krishna's utsavas to this day.
 2. **Reconstruction of Papuje Matha:** He completely reconstructed the sacred Papuje Matha belonging to Shiroor Matha afresh.
-3. **Stone Dining Hall & Sri Prana Devaru Consecration:** In his second Paryaya, he constructed the monumental, permanent stone dining hall (*shilamaya bhojanashala*) of Sri Krishna Matha in an exquisite architectural style entirely using Shiroor Matha's own funds (*mathada dravyadhindale*), and consecrated Sri Prana Devaru (Sri Mukhyaprana, brought from AbbaraNye lake) inside it, which remains the sanctified venue of Anna Brahma seva to this day.
+3. **Stone Dining Hall & Sri Prana Devaru Consecration:** In his second Paryaya, he constructed the monumental, permanent stone dining hall (*shilamaya bhojanashala*) of Sri Krishna Matha in an exquisite architectural style entirely using Shiroor Matha's own funds (*mathada dravyadhindale*), and consecrated Sri Prana Devaru (Sri Mukhyaprana, brought from AbbaraNye lake) inside it. As celebrated in oral tradition, this holy consecration established the spiritual fountainhead of Udupi's world-renowned Annadana, ensuring that no devotee ever leaves Sri Krishna Matha hungry and blessing Udupi's hospitality culture to this day.
 4. **Garuda Ratha Dedication:** He also dedicated a magnificent Garuda Ratha to Lord Sri Krishna.
 
 ### Departure
@@ -75,7 +75,7 @@ Sri Lakshmisamudra Teertharu governed the samsthana for thirty years (or forty y
 #### ಜೀವನ ಚರಿತ್ರೆ ಮತ್ತು ಸಾಧನೆಗಳು
 ಈ ಶ್ರೀಗಳವರು ಶಾ. ಶಕ ೧೮೦೧ ಪ್ರಮಾಥಿ ಸಂವತ್ಸರದ ಆಷಾಢ ಬಹುಳ ೭ ಗುರುವಾರ ಜನ್ಮವೆತ್ತಿ, ವ್ಯಯ ಸಂವತ್ಸರದ ವೈಶಾಖ ಬಹುಳ ೧೦ ರ ದಿನ ಶ್ರೀಲಕ್ಷ್ಮೀವಲ್ಲಭತೀರ್ಥರಿಂದ ಸನ್ಯಾಸಾಶ್ರಮವನ್ನು ಪಡೆದರು. ಇವರು ವಿದ್ವಾಂಸರೂ ಬಹಳ ವಿರಕ್ತರೂ ಆಗಿದ್ದರು.
 
-ತನ್ನ ಬಾಲ್ಯದ ಪರ್ಯಾಯದಲ್ಲಿ ಶ್ರೀಗಳವರು ಈಗ ಶ್ರೀಕೃಷ್ಣನ ಉತ್ಸವಕ್ಕಿರುವ ಮಧ್ಯಮ ರಥವನ್ನು ಕಟ್ಟಿಸಿದರಲ್ಲದೆ, ತಮ್ಮ ಮಠಕ್ಕೆ ಸೇರಿದ ಪಾಪುಜೆ ಮಠವನ್ನು ಸಂಪೂರ್ಣ ಹೊಸದಾಗಿ ನಿರ್ಮಾಣ ಮಾಡಿಸಿದರು. ತಮ್ಮ ಎರಡನೆಯ ಪರ್ಯಾಯದಲ್ಲಿ ಇಂದಿಗೂ ವಿರಾಜಿಸಿಕೊಂಡಿರುವ ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯನ್ನು ಶಿಲಾಮಯವಾಗಿ ಉತ್ಕೃಷ್ಟ ರೀತಿಯಿಂದ ತಮ್ಮ ಮಠದ ದ್ರವ್ಯದಿಂದಲೇ ಕಟ್ಟಿಸಿ, ಅಬ್ಬಾರಣ್ಯ ಕೆರೆಯಲ್ಲಿದ್ದ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠೆ ಮಾಡಿಸಿದರು. ಗರುಡ ರಥವನ್ನೂ ಸಮರ್ಪಿಸಿದರು. ಈ ಶ್ರೀಗಳವರು ೩೦ ವರ್ಷಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ, ಶಾ. ಶಕ ೧೮೩೮ (ಕ್ರಿ.ಶ. ೧೯೧೬) ನಳ ಸಂವತ್ಸರದ ಆಶ್ವಿನ ಶುಕ್ಲ ೧ ರ ದಿನ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದವನ್ನು ಸೇರಿದರು (ಕೆಲವು ಮುದ್ರಣಗಳಲ್ಲಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ಎಂದೂ ನಮೂದಿಸಲಾಗಿದೆ).
+ತನ್ನ ಬಾಲ್ಯದ ಪರ್ಯಾಯದಲ್ಲಿ ಶ್ರೀಗಳವರು ಈಗ ಶ್ರೀಕೃಷ್ಣನ ಉತ್ಸವಕ್ಕಿರುವ ಮಧ್ಯಮ ರಥವನ್ನು ಕಟ್ಟಿಸಿದರಲ್ಲದೆ, ತಮ್ಮ ಮಠಕ್ಕೆ ಸೇರಿದ ಪಾಪುಜೆ ಮಠವನ್ನು ಸಂಪೂರ್ಣ ಹೊಸದಾಗಿ ನಿರ್ಮಾಣ ಮಾಡಿಸಿದರು. ತಮ್ಮ ಎರಡನೆಯ ಪರ್ಯಾಯದಲ್ಲಿ ಇಂದಿಗೂ ವಿರಾಜಿಸಿಕೊಂಡಿರುವ ಶ್ರೀಕೃಷ್ಣಮಠದ ಭೋಜನಶಾಲೆಯನ್ನು ಶಿಲಾಮಯವಾಗಿ ಉತ್ಕೃಷ್ಟ ರೀತಿಯಿಂದ ತಮ್ಮ ಮಠದ ದ್ರವ್ಯದಿಂದಲೇ ಕಟ್ಟಿಸಿ, ಅಬ್ಬಾರಣ್ಯ ಕೆರೆಯಲ್ಲಿದ್ದ ಪ್ರಾಣದೇವರನ್ನು ಪ್ರತಿಷ್ಠೆ ಮಾಡಿಸಿದರು. ಈ ಭೋಜನಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣನ ಪ್ರತಿಷ್ಠಾಪನೆಯಿಂದಾಗಿ ಉಡುಪಿಯ ಅನ್ನದಾಸೋಹವು ನಿರಂತರವಾಗಿ ಬೆಳೆದು, ಉಡುಪಿಯ ಆತಿಥ್ಯ ಮತ್ತು ಹೋಟೆಲ್ ರಂಗಕ್ಕೆ ಜಾಗತಿಕ ಪ್ರಸಿದ್ಧಿ ಲಭಿಸಿತು ಎಂಬುದು ಪರಂಪರೆಯ ಶ್ರದ್ಧಾಪೂರ್ವಕ ನಂಬಿಕೆ. ಗರುಡ ರಥವನ್ನೂ ಸಮರ್ಪಿಸಿದರು. ಈ ಶ್ರೀಗಳವರು ೩೦ ವರ್ಷಕಾಲ ಸಂಸ್ಥಾನವನ್ನಾಳಿ, ಶಾ. ಶಕ ೧೮೩೮ (ಕ್ರಿ.ಶ. ೧೯೧೬) ನಳ ಸಂವತ್ಸರದ ಆಶ್ವಿನ ಶುಕ್ಲ ೧ ರ ದಿನ ಉಡುಪಿಯಲ್ಲಿ ಹರಿಪದವನ್ನು ಸೇರಿದರು (ಕೆಲವು ಮುದ್ರಣಗಳಲ್ಲಿ ಕ್ರಿ.ಶ. ೧೯೨೬ ಎಂದೂ ನಮೂದಿಸಲಾಗಿದೆ).
 
 ### ಪರಂಪರಾ ಶ್ಲೋಕ (Guru Parampara Stotra)
 

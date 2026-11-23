@@ -51,6 +51,21 @@ Ushakkala Kartika Snana  ──►  Akhanda Deepa Dana  ──►  Damodarashtak
 
 ---
 
+#### 2. Utthana Dwadashi & The Ksheerabdhi Pooja on Madhwa Sarovara
+
+The spiritual pinnacle of Kartika Masa arrives on **Utthana Dwadashi** (Kartika Shukla Dwadashi), commemorating the divine awakening of Lord Sri Hari from His mystic slumber:
+
+> *"ಉತ್ತಿಷ್ಠೋತ್ತಿಷ್ಠ ಗೋವಿಂದ ಉತ್ತಿಷ್ಠ ಗರುಡಧ್ವಜ |  
+> ಉತ್ತಿಷ್ಠ ಕಮಲಾಕಾಂತ ತ್ರೈಲೋಕ್ಯಂ ಮಂಗಲಂ ಕುರು ॥"*  
+> ("Awaken, O Govinda! Awaken, O Lord whose flag bears Garuda! Awaken, O beloved consort of Lakshmi! Arise and bestow auspiciousness upon the three worlds!")
+
+In Udupi Sri Krishna Matha, this awakening is celebrated with singular grandeur:
+- **Ksheera Arghya at Madhwa Sarovara**: While Lord Krishna is offered pure water arghya during Sri Krishna Janmashtami, on Utthana Dwadashi the Lord who reclines upon the ocean of milk (*Ksheerashayi*) is offered sacred **milk arghya** (*Ksheera Arghya*). The Paryaya Swamiji offers arghya three times using a coconut shell at the center of the holy Madhwa Sarovara, facing the marble murti of Jagadguru Sri Madhwacharya where all the presiding deities (*Pattada Devaru*) are assembled.
+- **Awakening within the Lotus Heart**: As His Holiness teaches, waking the Lord is not merely external ritual; it symbolizes awakening the living consciousness of God within our own hearts. When we keep the constant awareness (*anusandhana*) that the Divine is ever watchful within us, adharma and unethical deeds naturally fall away.
+- **Dhatri Havana & Tulasi Kalyana**: In the morning and evening, the sacred wedding of Tulasi with Lord Damodara (*Tulasi Kalyana*) is solemnized. Under the auspicious shade of the Dhatri (Amla / Indian Gooseberry) tree, special Dhatri Havana is performed, followed by grand Tulasi Sankirtana sung by the scholarly community. Scriptural tradition notes that partaking of sanctified amla (*Dhatri sevana*) during Kartika grants unwavering spiritual liberation.
+
+---
+
 #### 2. Utthana Dvadashi: The Divine Awakening and Tulasi Vivaha
 
 The twelfth day of the bright fortnight (*Kartika Shukla Dvadashi*) is celebrated with monumental grandeur as **Utthana Dvadashi**:
@@ -136,6 +151,12 @@ Towards the latter half of Kartika, devotees and mathas organize **Vana Bhojana*
 
 ---
 
-#### ೪. ಧಾತ್ರೀ ಹವನ ಮತ್ತು ವನಭೋಜನ
+#### ೪. ಧಾತ್ರೀ ಹವನ, ಕ್ಷೀರಾಬ್ಧಿ ಪೂಜೆ ಮತ್ತು ವನಭೋಜನ
 
-ಕಾರ್ತೀಕ ಮಾಸದ ಅಂತ್ಯದಲ್ಲಿ ನೆಲ್ಲಿಕಾಯಿ ಗಿಡದ (ಧಾತ್ರೀ ವೃಕ್ಷ) ಕೆಳಗೆ ಪೂಜೆ, ಹವನಗಳನ್ನು ನಡೆಸಿ, ಭಕ್ತರೆಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಕುಳಿತು ಪ್ರಸಾದ ಸ್ವೀಕರಿಸುವ **ವನಭೋಜನ**ವು ಸಾಮರಸ್ಯ, ಪ್ರಕೃತಿ ಪ್ರೇಮ ಮತ್ತು ಭಗವದರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿದೆ.
+ಉತ್ಥಾನ ದ್ವಾದಶಿಯ ಪಾವನ ದಿನದಂದು ಶ್ರೀಹರಿಯನ್ನು ಯೋಗನಿದ್ರೆಯಿಂದ ಎಬ್ಬಿಸುವ ಮಹೋತ್ಸವ ಜರುಗುತ್ತದೆ:
+> *"ಉತ್ತಿಷ್ಠೋತ್ತಿಷ್ಠ ಗೋವಿಂದ ಉತ್ತಿಷ್ಠ ಗರುಡಧ್ವಜ |  
+> ಉತ್ತಿಷ್ಠ ಕಮಲಾಕಾಂತ ತ್ರೈಲೋಕ್ಯಂ ಮಂಗಲಂ ಕುರು ॥"*
+
+ಉಡುಪಿಯ ಮಧ್ವ ಸರೋವರದ ಮಧ್ಯದಲ್ಲಿರುವ ಮಧ್ವಾಚಾರ್ಯರ ಪ್ರತಿಮೆಯ ಎದುರು ಪಟ್ಟದ ದೇವರುಗಳಿಗೆ ಆರಾಧನೆ ಸಲ್ಲಿಸಿ, ತೆಂಗಿನ ಗಡಿಯಲ್ಲಿ ಹಾಲನ್ನಿಟ್ಟು ಪರ್ಯಾಯ ಶ್ರೀಪಾದಂಗಳವರು ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಮೂರು ಬಾರಿ **ಕ್ಷೀರ ಅರ್ಘ್ಯ**ವನ್ನು ಸಮರ್ಪಿಸುತ್ತಾರೆ. ಜನ್ಮಾಷ್ಟಮಿಯಂದು ಶುದ್ಧ ನೀರಿನಿಂದ ಅರ್ಘ್ಯ ನೀಡಿದರೆ, ಕ್ಷೀರಾಬ್ಧಿಯಂದು ಕ್ಷೀರಶಾಯಿಗೆ ಕ್ಷೀರದಿಂದಲೇ ಅರ್ಘ್ಯ ಸಮರ್ಪಿಸುವುದು ಉಡುಪಿಯ ಅನಾದಿ ವೈಶಿಷ್ಟ್ಯ. 
+
+ಭಗವಂತನನ್ನು ಎಬ್ಬಿಸುವುದೆಂದರೆ ನಮ್ಮ ಹೃದಯ ಕಮಲದಲ್ಲಿ ಭಗವಂತನ ಪ್ರಜ್ಞೆಯನ್ನು ಜಾಗೃತಗೊಳಿಸುವುದು. ಅಂತಹ ದೇವರ ಪ್ರಜ್ಞೆ ಜಾಗೃತವಾಗಿದ್ದಾಗ ಅಧರ್ಮಗಳು ತಾವಾಗಿಯೇ ನಿವಾರಣೆಯಾಗುತ್ತವೆ. ಅಂದು ಬೆಳಿಗ್ಗೆ ಮತ್ತು ಸಾಯಂಕಾಲ ತುಳಸೀ ಕಲ್ಯಾಣ, ತುಳಸೀ ಸಂಕೀರ್ತನೆ ಹಾಗೂ ಧಾತ್ರೀ (ನೆಲ್ಲಿ ಗಿಡದ) ಸನ್ನಿಧಿಯಲ್ಲಿ ವಿಶೇಷ ಧಾತ್ರೀ ಹವನ ನಡೆಯುತ್ತದೆ. ಶಾಸ್ತ್ರಗಳ ಪ್ರಕಾರ ಕಾರ್ತಿಕದಲ್ಲಿ ಧಾತ್ರೀ ಸೇವನೆಯು ಮೋಕ್ಷಕ್ಕೆ ಖಾತ್ರಿ ನೀಡುತ್ತದೆ. ವನಭೋಜನವು ಸಾಮರಸ್ಯ, ಪ್ರಕೃತಿ ಪ್ರೇಮ ಮತ್ತು ಭಗವದರ್ಪಣೆಯ ಸಂಕೇತವಾಗಿದೆ.

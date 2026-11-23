@@ -70,6 +70,12 @@ The indispensable role of **Sri Mukhyaprana (Sri Vayu Devaru)**.
 Among the Ashta Mathas established by Sri Madhwacharya, **Shri Shiroor Matha** has earned an unparalleled reputation for its legendary warmth, generosity, and magnificent Annadana festivals.
 
 - **Anna Vittala**: The sacred presiding deity given by Sri Madhwacharya to his direct disciple, Sri Vamana Teertharu (founder of Shri Shiroor Matha), is **Sri Vittala Devaru**, fondly adored as **"Anna Vittala"**. Devotees and scholars have celebrated for generations that praying to Sri Anna Vittala ensures that no devotee ever suffers from scarcity or hunger.
+- **Bhojana Shala Mukhyaprana**: It was **Sri Lakshmisamudra Teertharu**, the 27th illustrious pontiff of Shri Shiroor Matha, who formally consecrated the celebrated icon of **Bhojana Shala Sri Mukhyaprana** directly overlooking the massive dining halls of Sri Krishna Matha. Sri Lakshmisamudra Teertharu established that food must be served without interruption to every pilgrim, establishing the spiritual shield that made Udupi world-renowned for its culinary hospitality.
+- **The Akshaya Patre Transfer**: When Paryaya responsibilities transition every two years, the outgoing pontiff hands over not crowns or jewels, but the ancient **Akshaya Patre (inexhaustible vessel) and the sacred wooden ladle** to the incoming Peethadhipathi, symbolizing the solemn vow that the fire of Annadana shall never grow cold.
+- **Scriptural Sanctity of Feeding Scholars**: As recorded in the *Bhavishya Purana*:
+  > *"Vidya-tapobhyam sampanne brahmane grihamagate |*  
+  > *Kreedanty-aushadhayah sarvah yasyamah paramam gatim ||"*  
+  (When a humble scholar endowed with learning and penance arrives at the home and is served food, all medicinal herbs and crops rejoice, knowing they have attained their supreme spiritual destination).
 - **Paryaya Maha Annasantarpane**: During every Paryaya tenure of Shri Shiroor Matha, feeding tens of thousands of pilgrims daily is executed on a heroic scale. In the spacious *Rajangana* and *Annadana Hall*, rows upon rows of devotees (*Pankti*) sit together without distinction of caste, creed, wealth, or status.
 - **Traditional Satvik Cuisine**: The sacred meal served is a culinary testament to ancient coastal Karnataka heritage—steaming aromatic boiled or white rice, fragrant sambar made with local heirloom spices, spiced rasam, traditional palya (vegetables), tender coconut sweet payasa, buttermilk, and golden ghee (*Toppa*), served on fresh plantain leaves (*Bale Ele*).
 
@@ -138,6 +144,12 @@ By feeding the hungry and sharing Sri Krishna's Maha Prasada, the devotee cleans
 ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರಿಂದ ಸ್ಥಾಪಿತವಾದ ಅಷ್ಟ ಮಠಗಳಲ್ಲಿ **ಶ್ರೀ ಶೀರೂರು ಮಠವು** ತನ್ನ ಅಪೂರ್ವ ಆತಿಥ್ಯ ಮತ್ತು ಭವ್ಯ ಅನ್ನದಾನಕ್ಕೆ ನಾಡಿನಾದ್ಯಂತ ಖ್ಯಾತಿವೆತ್ತಿದೆ.
 
 - **ಅನ್ನ ವಿಠಲ ದೇವರು**: ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ತಮ್ಮ ಪ್ರಿಯ ಶಿಷ್ಯರಾದ ಶ್ರೀ ವಾಮನ ತೀರ್ಥರಿಗೆ (ಶ್ರೀ ಶೀರೂರು ಮಠದ ಮೂಲ ಸಂಸ್ಥಾಪಕರು) ಪೂಜಿಸಲು ನೀಡಿದ ಆರಾಧ್ಯ ಮೂರ್ತಿಯೇ **ಶ್ರೀ ವಿಠಲ ದೇವರು**. ಭಕ್ತರ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ಪೂರೈಸುವ ಮತ್ತು ಅನ್ನದ ಕೊರತೆಯನ್ನು ನೀಗಿಸುವ ಈ ದೇವರಿಗೆ **"ಅನ್ನ ವಿಠಲ"** ಎಂದೇ ಪ್ರೀತಿಯ ಕರೆಯಿದೆ.
+- **ಭೋಜನ ಶಾಲಾ ಮುಖ್ಯಪ್ರಾಣ ದೇವರು**: ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಭೋಜನ ಶಾಲೆಯಲ್ಲಿ ಅನ್ನದಾಸೋಹದ ದೈವಿಕ ರಕ್ಷಕನಾಗಿ ನಿಂತಿರುವ ಶ್ರೀ ಮುಖ್ಯಪ್ರಾಣ ದೇವರನ್ನು ಶೀರೂರು ಮಠದ ೨೭ನೆಯ ಪೀಠಾಧಿಪತಿಗಳಾದ **ಶ್ರೀ ಲಕ್ಷ್ಮೀಸಮುದ್ರ ತೀರ್ಥರು** ಸ್ವತಃ ಪ್ರತಿಷ್ಠಾಪಿಸಿದರು. ಉಡುಪಿಗೆ ಬಂದ ಯಾವೊಬ್ಬ ಭಕ್ತನೂ ಹಸಿದು ಮರಳಬಾರದು ಎಂಬ ಸಂಕಲ್ಪದಿಂದ ಈ ಸನ್ನಿಧಾನವನ್ನು ಸ್ಥಾಪಿಸಲಾಯಿತು. ಉಡುಪಿಯ ಹೋಟೆಲ್‌ಗಳು ಮತ್ತು ಆತಿಥ್ಯ ರಂಗವು ಜಗತ್ತಿನಾದ್ಯಂತ ಪ್ರಸಿದ್ಧಿ ಪಡೆಯಲು ಈ ಮುಖ್ಯಪ್ರಾಣನ ಅನುಗ್ರಹವೇ ಕಾರಣವೆಂದು ನಂಬಲಾಗಿದೆ.
+- **ಅಕ್ಷಯ ಪಾತ್ರೆ ಮತ್ತು ಸೌಟಿನ ಹಸ್ತಾಂತರ**: ಪ್ರತಿ ಎರಡು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಪರ್ಯಾಯ ಮಹೋತ್ಸವ ನಡೆಯುವಾಗ ನಿರ್ಗಮಿಸುವ ಸ್ವಾಮೀಜಿಯವರು ನೂತನ ಪರ್ಯಾಯ ಪೀಠಾಧಿಪತಿಗಳಿಗೆ ಸಿಂಹಾಸನ ಅಥವಾ ಚಿನ್ನ-ರತ್ನಗಳನ್ನು ಹಸ್ತಾಂತರಿಸುವುದಿಲ್ಲ; ಬದಲಾಗಿ ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ಕಾಲದ ಪಾವನ **ಅಕ್ಷಯ ಪಾತ್ರೆ ಮತ್ತು ಅನ್ನ ಬಡಿಸುವ ಮರದ ಸೌಟನ್ನು** ಕೈಗಿಡುತ್ತಾರೆ! ಇದು ಅನ್ನದಾನದ ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತುಕೊಂಡು ಸಮಸ್ತ ಭಕ್ತರಿಗೆ ನಿರಂತರ ಅನ್ನದಾನ ಮಾಡಬೇಕೆಂಬ ಪವಿತ್ರ ಸಂಕಲ್ಪದ ಸಂಕೇತವಾಗಿದೆ.
+- **ಭವಿಷ್ಯ ಪುರಾಣದ ಶ್ಲೋಕ ಪ್ರಮಾಣ**:
+  > *"ವಿದ್ಯಾ ತಪೋಭ್ಯಾಂ ಸಂಪನ್ನೇ ಬ್ರಾಹ್ಮಣೇ ಗೃಹಮಾಗತೇ |*  
+  > *ಕ್ರೀಡಂತ್ಯೌಷಧಯಃ ಸರ್ವಾಃ ಯಾಸ್ಯಾಮಃ ಪರಮಾಂ ಗತಿಮ್ ||"*  
+  (ವಿದ್ಯೆ ಮತ್ತು ತಪಸ್ಸಿನಿಂದ ಸಂಪನ್ನರಾದ ಸಾತ್ವಿಕ ವಿದ್ವಾಂಸರು ಮನೆಗೆ ಬಂದಾಗ ಅವರಿಗೆ ಅನ್ನವನ್ನು ಅರ್ಪಿಸಿದರೆ, ಸಕಲ ಧಾನ್ಯ-ಔಷಧಿ ಸಸ್ಯಗಳೂ "ನಾವು ಪರಮಗತಿಯನ್ನು ಪಡೆದೆವು" ಎಂದು ಆನಂದದಿಂದ ಕುಣಿಯುತ್ತವೆ).
 - **ಪರ್ಯಾಯದ ಮಹಾ ಅನ್ನಸಂತರ್ಪಣೆ**: ಶೀರೂರು ಮಠದ ಪರ್ಯಾಯ ಅವಧಿಗಳಲ್ಲಿ ನಿತ್ಯವೂ ಸಹಸ್ರಾರು ಭಕ್ತರಿಗೆ ಅನ್ನದಾನ ನಡೆಯುತ್ತದೆ. ರಾಜಾಂಗಣ ಮತ್ತು ಅನ್ನಪೂರ್ಣ ಭೋಜನಶಾಲೆಗಳಲ್ಲಿ ಯಾವುದೇ ಜಾತಿ, ಮತ, ಭಾಷೆ ಅಥವಾ ಬಡವ-ಬಲ್ಲಿದನೆಂಬ ಭೇದವಿಲ್ಲದೆ ಎಲ್ಲರೂ ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಕುಳಿತು ಪ್ರಸಾದ ಸ್ವೀಕರಿಸುವುದು ಈ ಕ್ಷೇತ್ರದ ಸೌಹಾರ್ದತೆಯ ಪ್ರತೀಕ.
 - **ಸಾಂಪ್ರದಾಯಿಕ ಸಾತ್ವಿಕ ಭೋಜನ**: ಬಾಳೆಯೆಲೆಯ ಮೇಲೆ ಬಡಿಸುವ ಬಿಸಿಬಿಸಿಯಾದ ಕುಚ್ಚಲಕ್ಕಿ ಅಥವಾ ಬಿಳಿ ಅನ್ನ, ತರಕಾರಿಯ ಸಾಂಬಾರು, ಘಮಘಮಿಸುವ ಸಾರು, ಸಾತ್ವಿಕ ಪಲ್ಯ, ಸುವಾಸಿತ ತಂಬುಳಿ, ಪಾಯಸ, ತುಪ್ಪ ಹಾಗೂ ಮಜ್ಜಿಗೆಯು ಕರಾವಳಿಯ ಪಾರಂಪರಿಕ ಸಾತ್ವಿಕ ಆಹಾರ ಸಂಸ್ಕೃತಿಯನ್ನು ಜಗತ್ತಿಗೆ ಪರಿಚಯಿಸುತ್ತದೆ.
 

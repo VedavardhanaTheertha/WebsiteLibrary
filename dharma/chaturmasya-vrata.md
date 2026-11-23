@@ -81,6 +81,15 @@ Householders are instructed to deepen their spiritual routine:
 
 ## ಕನ್ನಡ
 
+#### 5. Vrata Samapana: The Four-Day Awakening at Udupi
+
+The formal conclusion of the Chaturmasya austerities occurs in the auspicious month of Kartika. As Vedic tradition notes, *"Krittika agnirdevata"*—the month of the Krittika constellation is governed by Agni, where lighting lamps burns away the spiritual inertia accumulated during rainy seclusion.
+
+At Sri Krishna Matha, the penance culminates in a magnificent four-day continuum:
+- **Dwadashi (Utthana Dwadashi)**: Lord Narayana awakens from His four-month mystic sleep (*Yoga Nidra*). Sacred Ksheera Arghya is offered on Madhwa Sarovara and Tulasi Kalyana is solemnized.
+- **Trayodashi & Chaturdashi**: Daily rathotsavas and teppotsavas on Madhwa Sarovara build momentum toward the full moon.
+- **Kartika Poornima**: The grand climax of Laksha Deepotsava, where a hundred thousand clay lamps illuminate Car Street and the Brahma Ratha is drawn amidst thunderous chanting, sealing four months of spiritual austerity with triumphant illumination.
+
 ### ಚಾತುರ್ಮಾಸ್ಯ ವ್ರತ: ತತ್ತ್ವವಾದದಲ್ಲಿ ನಾಲ್ಕು ತಿಂಗಳ ಮಹಾವ್ರತ, ತಪ್ತ ಮುದ್ರಾಧಾರಣೆ ಮತ್ತು ಸಾಧನಾ ನಿಯಮ
 
 > *"ಸುಪ್ತೇ ತ್ವಯಿ ಜಗನ್ನಾಥೇ ಜಗತ್ ಸುಪ್ತಂ ಭವೇದಿದಮ್ |  
@@ -130,7 +139,11 @@ Householders are instructed to deepen their spiritual routine:
 
 ---
 
-#### ೪. ಗೃಹಸ್ಥರ ಸಾಧನೆ ಮತ್ತು ಪುಣ್ಯ ಫಲಗಳು
+#### ೫. ವ್ರತ ಸಮಾರೋಪ: ಉಡುಪಿಯಲ್ಲಿ ನಾಲ್ಕು ದಿನಗಳ ಜಾಗರಣ ಮಹೋತ್ಸವ
+
+ಚಾತುರ್ಮಾಸ್ಯ ವ್ರತದ ಮಂಗಳ ಮಹೋತ್ಸವವು ಕಾರ್ತಿಕ ಮಾಸದಲ್ಲಿ ನೆರವೇರುತ್ತದೆ. "ಕೃತ್ತಿಕಾ ಅಗ್ನಿರ್ದೇವತಾ" ಎಂಬಂತೆ ಅಗ್ನಿಗೆ ಸಂಬಂಧಿಸಿದ ಕಾರ್ತಿಕ ಮಾಸದಲ್ಲಿ ದೀಪಗಳನ್ನು ಬೆಳಗಿಸಿ ಚಾತುರ್ಮಾಸ್ಯದ ಸಾಧನೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲಾಗುತ್ತದೆ.
+
+ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ಯೋಗನಿದ್ರೆಯಲ್ಲಿ ಮಲಗಿದ್ದ ಭಗವಂತನು ಉತ್ಥಾನ ದ್ವಾದಶಿಯಂದು ಜಾಗೃತನಾಗುವ ದಿನದಿಂದ ಆರಂಭಿಸಿ, ಹುಣ್ಣಿಮೆಯವರೆಗೆ ನಿರಂತರ ನಾಲ್ಕು ದಿನಗಳ ಕಾಲ (ದ್ವಾದಶಿ, ತ್ರಯೋದಶಿ, ಚತುರ್ದಶಿ, ಹುಣ್ಣಿಮೆ) ಮಹೋತ್ಸವಗಳು ನಡೆಯುತ್ತವೆ. ರಥೋತ್ಸವ, ತೆಪ್ಪೋತ್ಸವ ಹಾಗೂ ಕಾರ್ತಿಕ ಹುಣ್ಣಿಮೆಯ ಲಕ್ಷದೀಪೋತ್ಸವದ ಮೂಲಕ ನಾಲ್ಕು ತಿಂಗಳ ತಪಸ್ಸು ದಿವ್ಯ ಜ್ಞಾನಪ್ರಕಾಶದಲ್ಲಿ ಮುಕ್ತಾಯಗೊಳ್ಳುತ್ತದೆ.
 
 - **ಸಾಲಿಗ್ರಾಮ ಪೂಜೆ ಮತ್ತು ತುಳಸಿ ಅರ್ಚನೆ**: ನಿತ್ಯವೂ ಪಂಚಾಮೃತದಿಂದ ಸಾಲಿಗ್ರಾಮಕ್ಕೆ ಅಭಿಷೇಕ ಮಾಡಿ, ಸಹಸ್ರ ತುಳಸೀದಳಗಳಿಂದ ಅರ್ಚಿಸುವುದು.
 - **ಹರಿದಾಸ ಸಾಹಿತ್ಯ ಮತ್ತು ಸ್ತೋತ್ರ ಪಾರಾಯಣ**: *ಸುಮಧ್ವ ವಿಜಯ*, *ಹರಿಕಥಾಮೃತಸಾರ*, *ದ್ವಾದಶ ಸ್ತೋತ್ರ*ಗಳನ್ನು ನಿತ್ಯವೂ ಪಠಿಸುವುದು.
