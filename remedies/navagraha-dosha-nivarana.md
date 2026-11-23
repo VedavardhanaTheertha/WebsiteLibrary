@@ -41,12 +41,12 @@ To draw the deepest benefit from this remedy, follow the classical tripartite pi
 1. **Step 1: Preliminary Prayer to Lord Chandramouleshwara (Calming the Mind)**
    - Before approaching the Lord of the universe, first offer your respectful salutations at the ancient shrine of Sri Chandramouleshwara.
    - Lord Shiva (Rudra) is venerated in Tattvavada as *Mano-bhimani*—the presiding deity of the human mind and emotions. As the celebrated hymn reminds us: *"Kailasavasa Gaurisha Isha, Harite Manabiktu Shambho"* ("O dweller of Kailasa, guide our restless minds toward the lotus feet of Sri Hari"). Praying here quietens emotional agitation and settles the nervous system.
-   - *Matching Sevas:* Devotees seeking special protection often link their prayers with [Kanike](/sevas/seva-001-kanike) or sacred offerings.
+   - *Matching Sevas:* Devotees seeking special protection often link their prayers with [Kanike](/sevas#seva-001-kanike) or sacred offerings.
 
 2. **Step 2: Homage to Lord Anantheshwara (Rooting in Serenity)**
    - Next, step across the square to Lord Anantheshwara, where Lord Narayana sits upon the serpent couch of Shesha. This is the sacred sanctuary where Sri Madhwacharya taught his disciples and completed his earthly mission.
    - Pray here for the burning away of deep-seated ancestral transgressions and the gift of unshakeable faith.
-   - *Matching Sevas:* Sponsoring [Ashlesha Bali Pradhana Homa](/sevas/seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike) or [Ashlesha Bali Kanike](/sevas/seva-096-ashlesha-bali-kanike) helps resolve chronic planetary and serpent afflictions.
+   - *Matching Sevas:* Sponsoring [Ashlesha Bali Pradhana Homa](/sevas#seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike) or [Ashlesha Bali Kanike](/sevas#seva-096-ashlesha-bali-kanike) helps resolve chronic planetary and serpent afflictions.
 
 3. **Step 3: The Sacred Darshana Through the Navagraha Kindi**
    - Enter the courtyard of Sri Krishna Matha. Instead of entering directly into the sanctum, approach the holy **Navagraha Kindi**—the sacred nine-squared silver window facing the deity.
@@ -62,7 +62,7 @@ After completing this darshana, a deep sense of lightness replaces your former b
 
 #### Conclusion (Gentle Call to Action)
 
-Spiritual healing does not require dramatic upheaval; it begins with one small, deliberate gesture. This week, set aside ten minutes at dawn or dusk. Light a simple lamp at your altar, chant the name of Sri Krishna with mindful breath, and consciously surrender whichever specific anxiety is weighing on you. If your circumstances allow, you can also support the sacred rituals of the sanctum by sponsoring a [Kanike](/sevas/seva-001-kanike) or [Ashlesha Bali Seva](/sevas/seva-096-ashlesha-bali-kanike) to ground your prayer in tangible sacred action.
+Spiritual healing does not require dramatic upheaval; it begins with one small, deliberate gesture. This week, set aside ten minutes at dawn or dusk. Light a simple lamp at your altar, chant the name of Sri Krishna with mindful breath, and consciously surrender whichever specific anxiety is weighing on you. If your circumstances allow, you can also support the sacred rituals of the sanctum by sponsoring a [Kanike](/sevas#seva-001-kanike) or [Ashlesha Bali Seva](/sevas#seva-096-ashlesha-bali-kanike) to ground your prayer in tangible sacred action.
 
 ---
 
@@ -87,12 +87,12 @@ Spiritual healing does not require dramatic upheaval; it begins with one small, 
 1. **ಮೊದಲ ಹಂತ: ಶ್ರೀ ಚಂದ್ರಮೌಳೀಶ್ವರ ದೇವಸ್ಥಾನದ ದರ್ಶನ (ಮನಸ್ಸಿನ ಸಮಾಧಾನ)**
    - ಶ್ರೀಕೃಷ್ಣ ಮಠವನ್ನು ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ರಥಬೀದಿಯ ಮುಂಭಾಗದಲ್ಲಿರುವ ಶ್ರೀ ಚಂದ್ರಮೌಳೀಶ್ವರನಿಗೆ ನಮಸ್ಕರಿಸಬೇಕು. 
    - ರುದ್ರದೇವರು (ಶಿವನು) ಮನೋಭಿಮಾನಿ ದೇವರು. ಮನಸ್ಸಿನ ಚಂಚಲತೆ, ಕೋಪ, ಆತಂಕಗಳನ್ನು ಶಾಂತಗೊಳಿಸುವ ಮಹಾದೇವ. "ಕೈಲಾಸವಾಸ ಗೌರೀಶ ಈಶ ಹರಿಯಲ್ಲಿ ಮನವಿಟ್ಟು ಶಂಭೋ" ಎಂಬಂತೆ, ನಮ್ಮ ಮನಸ್ಸನ್ನು ಶ್ರೀಹರಿಯ ಧ್ಯಾನಕ್ಕೆ ಯೋಗ್ಯವನ್ನಾಗಿಸಲು ಚಂದ್ರಮೌಳೀಶ್ವರನ ಅನುಗ್ರಹ ಅತ್ಯಗತ್ಯ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ದೇವಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಯಿಂದ [ಕಾಣಿಕೆ](/sevas/seva-001-kanike) ಅರ್ಪಿಸಿ ಸಂಕಲ್ಪ ಮಾಡಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ದೇವಸ್ಥಾನಕ್ಕೆ ಭಕ್ತಿಯಿಂದ [ಕಾಣಿಕೆ](/sevas#seva-001-kanike) ಅರ್ಪಿಸಿ ಸಂಕಲ್ಪ ಮಾಡಬಹುದು.
 
 2. **ಎರಡನೇ ಹಂತ: ಶ್ರೀ ಅನಂತೇಶ್ವರ ದೇವಸ್ಥಾನದ ದರ್ಶನ (ಮೂಲ ಆಶೀರ್ವಾದ)**
    - ತದನಂತರ ಪಕ್ಕದಲ್ಲಿರುವ ಪರಶುರಾಮ ಪ್ರತಿಷ್ಠಾಪಿತ ಲಿಂಗರೂಪಿ ಶ್ರೀಮದನಂತೇಶ್ವರನ ದರ್ಶನ ಪಡೆಯಬೇಕು. ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು ತಮ್ಮ ಶಿಷ್ಯರಿಗೆ ಪಾಠ ಪ್ರವಚನ ಮಾಡಿ ಅದೃಶ್ಯರಾದ ಪವಿತ್ರ ಸನ್ನಿಧಿ ಇದು.
    - ಇಲ್ಲಿ ಶೇಷಶಾಯಿಯಾದ ನಾರಾಯಣನನ್ನು ಪ್ರಾರ್ಥಿಸಿ ಜನ್ಮಜನ್ಮಾಂತರದ ಪಾಪಗಳನ್ನು ಭಸ್ಮ ಮಾಡುವಂತೆ ಬೇಡಿಕೊಳ್ಳಬೇಕು.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಸರ್ಪದೋಷ ಮತ್ತು ಜಾತಕ ದೋಷ ನಿವಾರಣೆಗಾಗಿ [ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ](/sevas/seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike) ಅಥವಾ [ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ](/sevas/seva-096-ashlesha-bali-kanike) ಸಮರ್ಪಿಸಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಸರ್ಪದೋಷ ಮತ್ತು ಜಾತಕ ದೋಷ ನಿವಾರಣೆಗಾಗಿ [ಆಶ್ಲೇಷಾ ಬಲಿ ಪ್ರಧಾನ ಹೋಮ ಸಹಿತ ಕಾಣಿಕೆ](/sevas#seva-092-ashlesha-bali-pradhana-homa-sahitha-kanike) ಅಥವಾ [ಆಶ್ಲೇಷಾ ಬಲಿ ಕಾಣಿಕೆ](/sevas#seva-096-ashlesha-bali-kanike) ಸಮರ್ಪಿಸಬಹುದು.
 
 3. **ಮೂರನೇ ಹಂತ: ನವಗ್ರಹ ಕಿಂಡಿಯ ಮೂಲಕ ಶ್ರೀಕೃಷ್ಣ ದರ್ಶನ**
    - ಅನಂತರ ಕೃಷ್ಣ ಮಠದ ಒಳಾಂಗಣವನ್ನು ಪ್ರವೇಶಿಸಿ, ಮುಖಮಂಟಪದಲ್ಲಿರುವ ಬೆಳ್ಳಿಯ **ನವಗ್ರಹ ಕಿಂಡಿ**ಯ ಎದುರು ನಿಲ್ಲಬೇಕು.
@@ -107,4 +107,4 @@ Spiritual healing does not require dramatic upheaval; it begins with one small, 
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ಈ ವಾರವೇ ನಿಮ್ಮ ಮನೆಯ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಒಂದು ಶುದ್ಧ ಎಣ್ಣೆಯ ದೀಪವನ್ನು ಹಚ್ಚಿ, ನವಗ್ರಹಗಳ ಅಧಿದೇವನಾದ ಶ್ರೀಕೃಷ್ಣನನ್ನು ಸ್ಮರಿಸಿ. ನಿಮ್ಮ ಸಂಕಷ್ಟಗಳನ್ನು ದೇವರಿಗೆ ನಿವೇದಿಸಿ. ಸಾಧ್ಯವಾದರೆ, ಉಡುಪಿಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ ಆನ್‌ಲೈನ್ ಮೂಲಕ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರಿಗೆ [ಕಾಣಿಕೆ](/sevas/seva-001-kanike) ಅಥವಾ [ಆಶ್ಲೇಷಾ ಬಲಿ ಸೇವೆ](/sevas/seva-096-ashlesha-bali-kanike) ಸಲ್ಲಿಸಿ ನಿಮ್ಮ ಪ್ರಾರ್ಥನೆಯನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳಿ.
+ಈ ವಾರವೇ ನಿಮ್ಮ ಮನೆಯ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಒಂದು ಶುದ್ಧ ಎಣ್ಣೆಯ ದೀಪವನ್ನು ಹಚ್ಚಿ, ನವಗ್ರಹಗಳ ಅಧಿದೇವನಾದ ಶ್ರೀಕೃಷ್ಣನನ್ನು ಸ್ಮರಿಸಿ. ನಿಮ್ಮ ಸಂಕಷ್ಟಗಳನ್ನು ದೇವರಿಗೆ ನಿವೇದಿಸಿ. ಸಾಧ್ಯವಾದರೆ, ಉಡುಪಿಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ ಆನ್‌ಲೈನ್ ಮೂಲಕ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರಿಗೆ [ಕಾಣಿಕೆ](/sevas#seva-001-kanike) ಅಥವಾ [ಆಶ್ಲೇಷಾ ಬಲಿ ಸೇವೆ](/sevas#seva-096-ashlesha-bali-kanike) ಸಲ್ಲಿಸಿ ನಿಮ್ಮ ಪ್ರಾರ್ಥನೆಯನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳಿ.

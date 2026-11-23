@@ -51,7 +51,7 @@ Engaging in the spirit of Thottilu Seva—whether visiting the sanctum in Udupi 
 3. **Step 3: The Gift of Nourishment (After the Service)**
    - Offer a bowl of sweetened cow's milk, fresh butter, or simple beaten rice (*avalakki*) with jaggery to the infant Lord.
    - Distribute this sweet prasada with joy to neighborhood children, family members, or expecting mothers. Sharing sweetness with children seals the blessing of Vatsalya.
-   - *Matching Sevas:* Devotees seeking to perform this service formally at the sanctum book the revered [Thottilu Pooja](/sevas/seva-008-thottilu-pooje) or the magnificent [Chinnada Thottilu Pooja](/sevas/seva-042-chinnada-thottilu-pooja).
+   - *Matching Sevas:* Devotees seeking to perform this service formally at the sanctum book the revered [Thottilu Pooja](/sevas#seva-008-thottilu-pooje) or the magnificent [Chinnada Thottilu Pooja](/sevas#seva-042-chinnada-thottilu-pooja).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -61,7 +61,7 @@ After completing Thottilu Seva, couples experience a deep reconciliation and ren
 
 #### Conclusion (Gentle Call to Action)
 
-If your heart longs for the gift of a child, or if you wish to bless your children with health and wisdom, take a gentle step today. Place a small bowl of milk or fresh butter before your altar, recite the Santana Gopala prayer with your partner, and picture baby Krishna smiling upon your family. To anchor your prayers in the sanctum where millions have found joy, you can dedicate a [Thottilu Pooja](/sevas/seva-008-thottilu-pooje) or [Chinnada Thottilu Pooja](/sevas/seva-042-chinnada-thottilu-pooja) at Sri Krishna Matha.
+If your heart longs for the gift of a child, or if you wish to bless your children with health and wisdom, take a gentle step today. Place a small bowl of milk or fresh butter before your altar, recite the Santana Gopala prayer with your partner, and picture baby Krishna smiling upon your family. To anchor your prayers in the sanctum where millions have found joy, you can dedicate a [Thottilu Pooja](/sevas#seva-008-thottilu-pooje) or [Chinnada Thottilu Pooja](/sevas#seva-042-chinnada-thottilu-pooja) at Sri Krishna Matha.
 
 ---
 
@@ -94,7 +94,7 @@ If your heart longs for the gift of a child, or if you wish to bless your childr
 3. **ಎರಡನೇ ಹಂತ: ನೈವೇದ್ಯ ಮತ್ತು ಸಕ್ಕರೆ-ಬೆಣ್ಣೆ ವಿತರಣೆ**
    - ಬಾಲಕೃಷ್ಣನಿಗೆ ಪರಮ ಪ್ರಿಯವಾದ ಹಸುವಿನ ಹಾಲು, ಬೆಣ್ಣೆ, ಅಥವಾ ಬೆಲ್ಲ-ಅವಲಕ್ಕಿಯನ್ನು ನೈವೇದ್ಯ ಮಾಡಿ.
    - ಈ ಪ್ರಸಾದವನ್ನು ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಪುಟ್ಟ ಮಕ್ಕಳಿಗೆ ಅಥವಾ ಗರ್ಭಿಣಿಯರಿಗೆ ಅತ್ಯಂತ ಪ್ರೀತಿಯಿಂದ ವಿತರಿಸಿ. ಮಕ್ಕಳ ನಗುವಿನಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣನ ಸಾಕ್ಷಾತ್ಕಾರವಾಗುತ್ತದೆ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ನೆರವೇರುವ ಸುಪ್ರಸಿದ್ಧ [ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas/seva-008-thottilu-pooje) ಅಥವಾ [ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas/seva-042-chinnada-thottilu-pooja) ಸೇವೆಗಳನ್ನು ಭಕ್ತರು ತಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಬುಕ್ ಮಾಡಿ ಸಂಕಲ್ಪ ಮಾಡಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ನೆರವೇರುವ ಸುಪ್ರಸಿದ್ಧ [ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas#seva-008-thottilu-pooje) ಅಥವಾ [ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas#seva-042-chinnada-thottilu-pooja) ಸೇವೆಗಳನ್ನು ಭಕ್ತರು ತಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಬುಕ್ ಮಾಡಿ ಸಂಕಲ್ಪ ಮಾಡಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಕೌಟುಂಬಿಕ ಸಾಮರಸ್ಯ
 
@@ -104,4 +104,4 @@ If your heart longs for the gift of a child, or if you wish to bless your childr
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ಸಂತಾನ ಭಾಗ್ಯಕ್ಕಾಗಿ ಹಂಬಲಿಸುತ್ತಿರುವ ದಂಪತಿಗಳು ಇಂದೇ ಸಂಜೆ ನಿಮ್ಮ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಬಾಲಕೃಷ್ಣನ ಮುಂದೆ ಒಂದು ಪುಟ್ಟ ಬಟ್ಟಲಿನಲ್ಲಿ ಹಾಲನ್ನು ಅಥವಾ ಬೆಣ್ಣೆಯನ್ನು ಇಟ್ಟು, ಸಂತಾನ ಗೋಪಾಲ ಮಂತ್ರವನ್ನು ಒಟ್ಟಿಗೆ ಪಠಿಸಿ. ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಕೃಪೆಯಿಂದ ನಿಮ್ಮ ಕೋರಿಕೆ ಶೀಘ್ರವೇ ಈಡೇರಲು ಕೃಷ್ಣ ಮಠಕ್ಕೆ [ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas/seva-008-thottilu-pooje) ಅಥವಾ [ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas/seva-042-chinnada-thottilu-pooja) ಸಮರ್ಪಿಸಿ ಕೃತಾರ್ಥರಾಗಿ.
+ಸಂತಾನ ಭಾಗ್ಯಕ್ಕಾಗಿ ಹಂಬಲಿಸುತ್ತಿರುವ ದಂಪತಿಗಳು ಇಂದೇ ಸಂಜೆ ನಿಮ್ಮ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಬಾಲಕೃಷ್ಣನ ಮುಂದೆ ಒಂದು ಪುಟ್ಟ ಬಟ್ಟಲಿನಲ್ಲಿ ಹಾಲನ್ನು ಅಥವಾ ಬೆಣ್ಣೆಯನ್ನು ಇಟ್ಟು, ಸಂತಾನ ಗೋಪಾಲ ಮಂತ್ರವನ್ನು ಒಟ್ಟಿಗೆ ಪಠಿಸಿ. ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಕೃಪೆಯಿಂದ ನಿಮ್ಮ ಕೋರಿಕೆ ಶೀಘ್ರವೇ ಈಡೇರಲು ಕೃಷ್ಣ ಮಠಕ್ಕೆ [ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas#seva-008-thottilu-pooje) ಅಥವಾ [ಚಿನ್ನದ ತೊಟ್ಟಿಲು ಪೂಜೆ](/sevas#seva-042-chinnada-thottilu-pooja) ಸಮರ್ಪಿಸಿ ಕೃತಾರ್ಥರಾಗಿ.

@@ -59,7 +59,7 @@ To tap into the stabilizing power of Veda Parayana in your everyday routine, fol
 3. **Step 3: Patronizing Sacred Vedic Transmission (The Karmic Lock)**
    - The preservation of Vedic vibration requires supporting the selfless scholars and young students (*vatus*) who dedicate twelve years of their youth memorizing these texts word-for-word in Udupi’s Gurukulas.
    - Sponsoring a day of Veda Parayana creates an enduring spiritual umbrella over your family lineage (*vamsha*).
-   - *Matching Sevas:* Devotees seeking profound mental peace, clarity for children’s education, and resolution of ancestral curses sponsor the canonical [1 Day Veda Parayana Seva](/sevas/seva-107-1-day-veda-parayana-seva), [Pavamana Parayana](/sevas/seva-061-pavamana-parayana), or [Sundarakanda Parayana](/sevas/seva-063-sundarakanda-parayana).
+   - *Matching Sevas:* Devotees seeking profound mental peace, clarity for children’s education, and resolution of ancestral curses sponsor the canonical [1 Day Veda Parayana Seva](/sevas#seva-107-1-day-veda-parayana-seva), [Pavamana Parayana](/sevas#seva-061-pavamana-parayana), or [Sundarakanda Parayana](/sevas#seva-063-sundarakanda-parayana).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -69,7 +69,7 @@ After maintaining this connection for even a few days, devotees notice that comp
 
 #### Conclusion (Gentle Call to Action)
 
-Begin tomorrow morning. Instead of reaching for your smartphone upon waking, sit in silence and listen to five minutes of authentic Vedic chanting with your eyes closed. Feel the acoustic vibrations anchoring your awareness in timeless truth. To extend this divine protection to your household, consider offering a [1 Day Veda Parayana Seva](/sevas/seva-107-1-day-veda-parayana-seva) or [Pavamana Parayana](/sevas/seva-061-pavamana-parayana) at Sri Krishna Matha.
+Begin tomorrow morning. Instead of reaching for your smartphone upon waking, sit in silence and listen to five minutes of authentic Vedic chanting with your eyes closed. Feel the acoustic vibrations anchoring your awareness in timeless truth. To extend this divine protection to your household, consider offering a [1 Day Veda Parayana Seva](/sevas#seva-107-1-day-veda-parayana-seva) or [Pavamana Parayana](/sevas#seva-061-pavamana-parayana) at Sri Krishna Matha.
 
 ---
 
@@ -111,7 +111,7 @@ Begin tomorrow morning. Instead of reaching for your smartphone upon waking, sit
 3. **ಮೂರನೇ ಹಂತ: ವೇದ ಪಾರಾಯಣ ಸೇವೆ ಸಮರ್ಪಣೆ**
    - ಭಾರತದ ಸನಾತನ ಸಂಸ್ಕೃತಿಯ ಜೀವಾಳವಾದ ವೇದಗಳನ್ನು ಉಳಿಸಿ ಬೆಳೆಸುತ್ತಿರುವ ಉಡುಪಿಯ ವೇದ ಪಾಠಶಾಲೆಗಳ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮತ್ತು ವಿದ್ವಾಂಸರಿಗೆ ಪ್ರೋತ್ಸಾಹ ನೀಡುವುದು ಪ್ರತಿಯೊಬ್ಬ ಭಕ್ತನ ಕರ್ತವ್ಯ.
    - ನಿಮ್ಮ ಜನ್ಮದಿನ, ವಿವಾಹ ವಾರ್ಷಿಕೋತ್ಸವ ಅಥವಾ ಪಿತೃಗಳ ಪುಣ್ಯತಿಥಿಯಂದು ವೇದ ಪಾರಾಯಣ ಸೇವೆಯನ್ನು ಮಾಡಿಸಿದರೆ, ನಿಮ್ಮ ವಂಶಕ್ಕೆ ಶಾಶ್ವತ ಆಶೀರ್ವಾದ ದೊರೆಯುತ್ತದೆ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ನೆರವೇರುವ [ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ](/sevas/seva-107-1-day-veda-parayana-seva), [ಪವಮಾನ ಪಾರಾಯಣ ಸೇವೆ](/sevas/seva-061-pavamana-parayana), ಅಥವಾ [ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ ಸೇವೆ](/sevas/seva-063-sundarakanda-parayana)ಗಳನ್ನು ಭಕ್ತರು ಶ್ರದ್ಧೆಯಿಂದ ಸಮರ್ಪಿಸಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ ನೆರವೇರುವ [ಒಂದು ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ](/sevas#seva-107-1-day-veda-parayana-seva), [ಪವಮಾನ ಪಾರಾಯಣ ಸೇವೆ](/sevas#seva-061-pavamana-parayana), ಅಥವಾ [ಸುಂದರಕಾಂಡ ಪಾರಾಯಣ ಸೇವೆ](/sevas#seva-063-sundarakanda-parayana)ಗಳನ್ನು ಭಕ್ತರು ಶ್ರದ್ಧೆಯಿಂದ ಸಮರ್ಪಿಸಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಬುದ್ಧಿಶಕ್ತಿ
 
@@ -121,4 +121,4 @@ Begin tomorrow morning. Instead of reaching for your smartphone upon waking, sit
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ನಾಳೆಯ ಮುಂಜಾನೆಯಿಂದಲೇ ನಿಮ್ಮ ದಿನವನ್ನು ಐದು ನಿಮಿಷಗಳ ವೇದ ಮಂತ್ರ ಶ್ರವಣದೊಂದಿಗೆ ಆರಂಭಿಸಿ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಸದಾ ಶಾಂತಿ ಮತ್ತು ಜ್ಞಾನದ ವಾತಾವರಣ ನೆಲೆಸಲು ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಗೆ [೧ ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ](/sevas/seva-107-1-day-veda-parayana-seva) ಅಥವಾ [ಪವಮಾನ ಪಾರಾಯಣ ಸೇವೆ](/sevas/seva-061-pavamana-parayana) ಸಮರ್ಪಿಸಿ, ಮಹಾತಪಸ್ಸಿನ ಪುಣ್ಯಕ್ಕೆ ಪಾತ್ರರಾಗಿ.
+ನಾಳೆಯ ಮುಂಜಾನೆಯಿಂದಲೇ ನಿಮ್ಮ ದಿನವನ್ನು ಐದು ನಿಮಿಷಗಳ ವೇದ ಮಂತ್ರ ಶ್ರವಣದೊಂದಿಗೆ ಆರಂಭಿಸಿ. ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಸದಾ ಶಾಂತಿ ಮತ್ತು ಜ್ಞಾನದ ವಾತಾವರಣ ನೆಲೆಸಲು ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಗೆ [೧ ದಿನದ ವೇದ ಪಾರಾಯಣ ಸೇವೆ](/sevas#seva-107-1-day-veda-parayana-seva) ಅಥವಾ [ಪವಮಾನ ಪಾರಾಯಣ ಸೇವೆ](/sevas#seva-061-pavamana-parayana) ಸಮರ್ಪಿಸಿ, ಮಹಾತಪಸ್ಸಿನ ಪುಣ್ಯಕ್ಕೆ ಪಾತ್ರರಾಗಿ.

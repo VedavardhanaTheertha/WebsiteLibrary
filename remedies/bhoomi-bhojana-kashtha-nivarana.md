@@ -55,7 +55,7 @@ Whether undertaking this vow during a pilgrimage to Udupi or integrating its spi
 3. **Step 3: The Spirit of Giving Back (After the Meal)**
    - After rising, wash mindfully and offer a silent prayer of gratitude to the cooks, the servers, and Mother Earth.
    - The true completion of receiving food is ensuring someone else is fed. Even if your financial capacity is modest, participating in the tradition of *Anna Dana* creates a powerful karmic reversal.
-   - *Matching Sevas:* Devotees seeking to break stubborn cycles of poverty and stress sponsor [Annadana Seva](/sevas/seva-009-annadana), [Annadana for One Day](/sevas/seva-012-annadana-for-one-day), or contribute toward the [Annadana Nidhi](/sevas/seva-057-annadana-nidhi).
+   - *Matching Sevas:* Devotees seeking to break stubborn cycles of poverty and stress sponsor [Annadana Seva](/sevas#seva-009-annadana), [Annadana for One Day](/sevas#seva-012-annadana-for-one-day), or contribute toward the [Annadana Nidhi](/sevas#seva-057-annadana-nidhi).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -65,7 +65,7 @@ After completing the meal, an extraordinary lightness enters the chest. The knot
 
 #### Conclusion (Gentle Call to Action)
 
-You don't have to wait for a major crisis to experience the healing power of sacred food and humility. This week, try eating at least one quiet meal seated on the floor with your family, offering the first bite mentally to Sri Krishna with a prayer of gratitude. To deepen this bond, consider offering a small contribution to feed pilgrims by booking [Annadana](/sevas/seva-009-annadana) or contributing to [Annadana Sahitha Sarva Seva](/sevas/seva-015-annadana-sahitha-sarva-seva). Taking care of God’s children is the surest way to invite God’s care into your home.
+You don't have to wait for a major crisis to experience the healing power of sacred food and humility. This week, try eating at least one quiet meal seated on the floor with your family, offering the first bite mentally to Sri Krishna with a prayer of gratitude. To deepen this bond, consider offering a small contribution to feed pilgrims by booking [Annadana](/sevas#seva-009-annadana) or contributing to [Annadana Sahitha Sarva Seva](/sevas#seva-015-annadana-sahitha-sarva-seva). Taking care of God’s children is the surest way to invite God’s care into your home.
 
 ---
 
@@ -102,7 +102,7 @@ You don't have to wait for a major crisis to experience the healing power of sac
 3. **ಮೂರನೇ ಹಂತ: ಅನ್ನದಾನದ ಸಂಕಲ್ಪ ಮತ್ತು ಕೃತಜ್ಞತೆ**
    - ಊಟದ ನಂತರ ಭಗವಂತನಿಗೆ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸಿ. ನಮಗೆ ಅನ್ನ ನೀಡಿದ ಭಗವಂತನ ಪ್ರೀತಿಗಾಗಿ, ಹಸಿದ ಮತ್ತೊಬ್ಬರಿಗೆ ಅನ್ನವನ್ನು ತಲುಪಿಸುವ ಸಂಕಲ್ಪ ಮಾಡಿ.
    - ನಮ್ಮ ಕೈಲಾದ ಪುಟ್ಟ ಮೊತ್ತವಾದರೂ ಸರಿಯೇ, ಕೃಷ್ಣನ ಸನ್ನಿಧಿಯಲ್ಲಿ ನಡೆಯುವ ಮಹಾ ಅನ್ನಸಂತರ್ಪಣೆಗೆ ದೇಣಿಗೆ ನೀಡುವುದರಿಂದ ದಾನದ ಪುಣ್ಯವು ಕೋಟಿಗಟ್ಟಲೆ ವೃದ್ಧಿಯಾಗುತ್ತದೆ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಭಕ್ತರು ತಮ್ಮ ಸಂಕಷ್ಟ ನಿವಾರಣೆಗಾಗಿ [ಅನ್ನದಾನ ಸೇವೆ](/sevas/seva-009-annadana), [ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ](/sevas/seva-012-annadana-for-one-day), ಅಥವಾ [ಅನ್ನದಾನ ನಿಧಿ](/sevas/seva-057-annadana-nidhi) ಸಮರ್ಪಿಸಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಭಕ್ತರು ತಮ್ಮ ಸಂಕಷ್ಟ ನಿವಾರಣೆಗಾಗಿ [ಅನ್ನದಾನ ಸೇವೆ](/sevas#seva-009-annadana), [ಒಂದು ದಿನದ ಅನ್ನದಾನ ಸೇವೆ](/sevas#seva-012-annadana-for-one-day), ಅಥವಾ [ಅನ್ನದಾನ ನಿಧಿ](/sevas#seva-057-annadana-nidhi) ಸಮರ್ಪಿಸಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಕಷ್ಟ ಪರಿಹಾರ
 
@@ -112,4 +112,4 @@ You don't have to wait for a major crisis to experience the healing power of sac
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ಈ ವಾರವೇ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಕುಟುಂಬ ಸಮೇತರಾಗಿ ನೆಲದ ಮೇಲೆ ಕುಳಿತು ಭಗವಂತನ ಪ್ರಸಾದವನ್ನು ಸ್ವೀಕರಿಸಿ. ನಿಮ್ಮ ಕಷ್ಟಗಳು ಪರಿಹಾರವಾಗಬೇಕೆಂದು ಸಂಕಲ್ಪಿಸಿ, ಉಡುಪಿಯ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಗೆ ನಿಮ್ಮ ಶಕ್ತಿಗೆ ತಕ್ಕಂತೆ [ಅನ್ನದಾನ ಸೇವೆ](/sevas/seva-009-annadana) ಅಥವಾ [ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ](/sevas/seva-015-annadana-sahitha-sarva-seva) ಅರ್ಪಿಸಿ. ಅನ್ನದಾತನಾದ ಶ್ರೀಕೃಷ್ಣನು ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನೇ ಸ್ಥಾಪಿಸುತ್ತಾನೆ.
+ಈ ವಾರವೇ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಕುಟುಂಬ ಸಮೇತರಾಗಿ ನೆಲದ ಮೇಲೆ ಕುಳಿತು ಭಗವಂತನ ಪ್ರಸಾದವನ್ನು ಸ್ವೀಕರಿಸಿ. ನಿಮ್ಮ ಕಷ್ಟಗಳು ಪರಿಹಾರವಾಗಬೇಕೆಂದು ಸಂಕಲ್ಪಿಸಿ, ಉಡುಪಿಯ ಶ್ರೀಕೃಷ್ಣ-ಮುಖ್ಯಪ್ರಾಣರ ಸನ್ನಿಧಿಗೆ ನಿಮ್ಮ ಶಕ್ತಿಗೆ ತಕ್ಕಂತೆ [ಅನ್ನದಾನ ಸೇವೆ](/sevas#seva-009-annadana) ಅಥವಾ [ಅನ್ನದಾನ ಸಹಿತ ಸರ್ವ ಸೇವೆ](/sevas#seva-015-annadana-sahitha-sarva-seva) ಅರ್ಪಿಸಿ. ಅನ್ನದಾತನಾದ ಶ್ರೀಕೃಷ್ಣನು ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನೇ ಸ್ಥಾಪಿಸುತ್ತಾನೆ.

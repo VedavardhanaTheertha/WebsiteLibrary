@@ -55,7 +55,7 @@ Participating in the transformative grace of Rathotsava follows an invigorating,
 3. **Step 3: The Gift of Circumambulation (After the Journey)**
    - As the chariot completes its circumambulation of Car Street and comes to rest before the temple gates, offer a deep prostration (*sashtanga namaskara*) in the dust sanctified by the chariot wheels.
    - Receive the sacred flower prasada tossed down from the chariot.
-   - *Matching Sevas:* Families seeking complete turnaround in family unity, business breakthroughs, and victory over severe crises sponsor [Suvarna Rathotsava](/sevas/seva-024-suvarna-rathothsava), [Brahma Rathotsava](/sevas/seva-023-brahma-rathosthsava), [Garuda Rathotsava](/sevas/seva-033-garuda-rathothsava), or [Sarva Seva with Brahmothsava](/sevas/seva-020-sarva-seva-with-brahmothsava).
+   - *Matching Sevas:* Families seeking complete turnaround in family unity, business breakthroughs, and victory over severe crises sponsor [Suvarna Rathotsava](/sevas#seva-024-suvarna-rathothsava), [Brahma Rathotsava](/sevas#seva-023-brahma-rathosthsava), [Garuda Rathotsava](/sevas#seva-033-garuda-rathothsava), or [Sarva Seva with Brahmothsava](/sevas#seva-020-sarva-seva-with-brahmothsava).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -65,7 +65,7 @@ After the chariot stops, an extraordinary sense of lightness fills your spirit. 
 
 #### Conclusion (Gentle Call to Action)
 
-The next time you face a challenge that feels too heavy for one person to carry, do not struggle alone. Hand the ropes to Sri Krishna. Plan a visit with your family to experience the evening Rathotsava at Udupi. If distance keeps you away, you can sponsor a sacred chariot service on behalf of your family by dedicating a [Suvarna Rathotsava](/sevas/seva-024-suvarna-rathothsava) or [Brahma Rathotsava](/sevas/seva-023-brahma-rathosthsava). Let the Lord of Udupi steer your life to victory.
+The next time you face a challenge that feels too heavy for one person to carry, do not struggle alone. Hand the ropes to Sri Krishna. Plan a visit with your family to experience the evening Rathotsava at Udupi. If distance keeps you away, you can sponsor a sacred chariot service on behalf of your family by dedicating a [Suvarna Rathotsava](/sevas#seva-024-suvarna-rathothsava) or [Brahma Rathotsava](/sevas#seva-023-brahma-rathosthsava). Let the Lord of Udupi steer your life to victory.
 
 ---
 
@@ -102,7 +102,7 @@ The next time you face a challenge that feels too heavy for one person to carry,
 3. **ಮೂರನೇ ಹಂತ: ಪ್ರದಕ್ಷಿಣೆ ಮತ್ತು ಧನ್ಯತೆ**
    - ರಥಬೀದಿಯನ್ನು ಪ್ರದಕ್ಷಿಣೆ ಹಾಕಿ ರಥವು ಸ್ವಸ್ಥಾನಕ್ಕೆ ಬಂದಾಗ, ರಥದ ಚಕ್ರದ ಧೂಳಿಗೆ ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿ.
    - ರಥದಿಂದ ಅರ್ಚಕರು ಎಸೆಯುವ ಪ್ರಸಾದ ರೂಪಿಯಾದ ಹೂವು-ಹಣ್ಣುಗಳನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಸ್ವೀಕರಿಸಿ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಕೌಟುಂಬಿಕ ಏಳಿಗೆ, ವ್ಯಾಪಾರದಲ್ಲಿ ಮಹಾ ಜಯ ಮತ್ತು ಸಂಕಷ್ಟ ನಿವಾರಣೆಗಾಗಿ ಭಕ್ತರು ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ [ಸುವರ್ಣ ರಥೋತ್ಸವ](/sevas/seva-024-suvarna-rathothsava), [ಬ್ರಹ್ಮ ರಥೋತ್ಸವ](/sevas/seva-023-brahma-rathosthsava), [ಗರುಡ ರಥೋತ್ಸವ](/sevas/seva-033-garuda-rathothsava), ಅಥವಾ [ಸರ್ವ ಸೇವೆ ಸಹಿತ ಬ್ರಹ್ಮೋತ್ಸವ](/sevas/seva-020-sarva-seva-with-brahmothsava) ಸೇವೆಗಳನ್ನು ತಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಬುಕ್ ಮಾಡಿ ಸಮರ್ಪಿಸುತ್ತಾರೆ.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಕೌಟುಂಬಿಕ ಏಳಿಗೆ, ವ್ಯಾಪಾರದಲ್ಲಿ ಮಹಾ ಜಯ ಮತ್ತು ಸಂಕಷ್ಟ ನಿವಾರಣೆಗಾಗಿ ಭಕ್ತರು ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದಲ್ಲಿ [ಸುವರ್ಣ ರಥೋತ್ಸವ](/sevas#seva-024-suvarna-rathothsava), [ಬ್ರಹ್ಮ ರಥೋತ್ಸವ](/sevas#seva-023-brahma-rathosthsava), [ಗರುಡ ರಥೋತ್ಸವ](/sevas#seva-033-garuda-rathothsava), ಅಥವಾ [ಸರ್ವ ಸೇವೆ ಸಹಿತ ಬ್ರಹ್ಮೋತ್ಸವ](/sevas#seva-020-sarva-seva-with-brahmothsava) ಸೇವೆಗಳನ್ನು ತಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಬುಕ್ ಮಾಡಿ ಸಮರ್ಪಿಸುತ್ತಾರೆ.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಕೌಟುಂಬಿಕ ನೆಮ್ಮದಿ
 
@@ -112,4 +112,4 @@ The next time you face a challenge that feels too heavy for one person to carry,
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ನಿಮ್ಮ ಬದುಕಿನ ರಥವನ್ನು ಭಗವಂತನ ಕೈಗೆ ಒಪ್ಪಿಸಿ. ಕುಟುಂಬ ಸಮೇತರಾಗಿ ಉಡುಪಿಯ ರಥೋತ್ಸವದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಿ. ದೂರದಲ್ಲಿದ್ದರೂ ನಿಮ್ಮ ಕುಟುಂಬದ ಸಮಸ್ತ ಇಷ್ಟಾರ್ಥ ಸಿದ್ಧಿಗಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಸುವರ್ಣ ರಥೋತ್ಸವ](/sevas/seva-024-suvarna-rathothsava) ಅಥವಾ [ಬ್ರಹ್ಮ ರಥೋತ್ಸವ](/sevas/seva-023-brahma-rathosthsava) ಸೇವೆ ಸಮರ್ಪಿಸಿ, ಪಾರ್ಥಸಾರಥಿಯಾದ ಶ್ರೀಕೃಷ್ಣನ ಸದಾ ಜಯಶಾಲಿ ಆಶೀರ್ವಾದವನ್ನು ಪಡೆಯಿರಿ.
+ನಿಮ್ಮ ಬದುಕಿನ ರಥವನ್ನು ಭಗವಂತನ ಕೈಗೆ ಒಪ್ಪಿಸಿ. ಕುಟುಂಬ ಸಮೇತರಾಗಿ ಉಡುಪಿಯ ರಥೋತ್ಸವದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಿ. ದೂರದಲ್ಲಿದ್ದರೂ ನಿಮ್ಮ ಕುಟುಂಬದ ಸಮಸ್ತ ಇಷ್ಟಾರ್ಥ ಸಿದ್ಧಿಗಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಸುವರ್ಣ ರಥೋತ್ಸವ](/sevas#seva-024-suvarna-rathothsava) ಅಥವಾ [ಬ್ರಹ್ಮ ರಥೋತ್ಸವ](/sevas#seva-023-brahma-rathosthsava) ಸೇವೆ ಸಮರ್ಪಿಸಿ, ಪಾರ್ಥಸಾರಥಿಯಾದ ಶ್ರೀಕೃಷ್ಣನ ಸದಾ ಜಯಶಾಲಿ ಆಶೀರ್ವಾದವನ್ನು ಪಡೆಯಿರಿ.

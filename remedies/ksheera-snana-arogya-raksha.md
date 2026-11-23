@@ -59,7 +59,7 @@ To experience the full restorative power of this remedy, practice this focused t
    - After the abhisheka, the sanctified milk teertha is received with deep reverence in the palm of your right hand.
    - Sip the teertha mindfully, chanting *"Shri Krishnarpanamastu"*.
    - Acknowledge this sanctified fluid not merely as liquid, but as divine medicine infused with cosmic mantras.
-   - *Matching Sevas:* Devotees frequently sponsor the canonical [Ksheerabhisheka Seva](/sevas/seva-049-ksheerabhisheka), participate in [Panchamruthabhisheka](/sevas/seva-044-panchamruthabhisheka), or offer [Halu Benne (Milk & Butter) Samarpane](/sevas/seva-053-halu-bennemilk-buttersamarpane).
+   - *Matching Sevas:* Devotees frequently sponsor the canonical [Ksheerabhisheka Seva](/sevas#seva-049-ksheerabhisheka), participate in [Panchamruthabhisheka](/sevas#seva-044-panchamruthabhisheka), or offer [Halu Benne (Milk & Butter) Samarpane](/sevas#seva-053-halu-bennemilk-buttersamarpane).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -69,7 +69,7 @@ After partaking of the Ksheera Teertha, patients and caregivers consistently rep
 
 #### Conclusion (Gentle Call to Action)
 
-If you or someone in your family is navigating health challenges or feeling physically depleted, take one supportive spiritual step this week. Offer a cup of fresh, warm milk before Sri Krishna with sincere prayers for recovery, and drink the teertha with mindful faith. To connect your prayers directly with the sanctum in Udupi, you can book a [Ksheerabhisheka Seva](/sevas/seva-049-ksheerabhisheka) or [Panchamruthabhisheka](/sevas/seva-044-panchamruthabhisheka) to invoke the loving, healing embrace of Lord Sri Krishna.
+If you or someone in your family is navigating health challenges or feeling physically depleted, take one supportive spiritual step this week. Offer a cup of fresh, warm milk before Sri Krishna with sincere prayers for recovery, and drink the teertha with mindful faith. To connect your prayers directly with the sanctum in Udupi, you can book a [Ksheerabhisheka Seva](/sevas#seva-049-ksheerabhisheka) or [Panchamruthabhisheka](/sevas#seva-044-panchamruthabhisheka) to invoke the loving, healing embrace of Lord Sri Krishna.
 
 ---
 
@@ -108,7 +108,7 @@ If you or someone in your family is navigating health challenges or feeling phys
 3. **ಮೂರನೇ ಹಂತ: ಪವಿತ್ರ ಕ್ಷೀರ ತೀರ್ಥ ಸ್ವೀಕಾರ**
    - ಅಭಿಷೇಕವಾದ ನಂತರ ಆ ಪವಿತ್ರ ಹಾಲಿನ ತೀರ್ಥವನ್ನು ಬಲಗೈಯಲ್ಲಿ ಅತ್ಯಂತ ಭಕ್ತಿಯಿಂದ ಸ್ವೀಕರಿಸಿ, ಕಣ್ಣಿಗೆ ಮುಟ್ಟಿಸಿಕೊಂಡು ಕುಡಿಯಿರಿ.
    - ಇದು ಕೇವಲ ಹಾಲಲ್ಲ, ಸಾಕ್ಷಾತ್ ಭವ ರೋಗ ವೈದ್ಯನಾದ ಶ್ರೀಕೃಷ್ಣನ ಪ್ರಸಾದ ರೂಪಿಯಾದ ದಿವ್ಯೌಷಧ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಸನ್ನಿಧಿಗೆ ನಿತ್ಯವೂ ಭಕ್ತರು [ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ](/sevas/seva-049-ksheerabhisheka), [ಪಂಚಾಮೃತಾಭಿಷೇಕ ಸೇವೆ](/sevas/seva-044-panchamruthabhisheka), ಅಥವಾ [ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ](/sevas/seva-053-halu-bennemilk-buttersamarpane) ಸಲ್ಲಿಸಿ ಆರೋಗ್ಯ ಪ್ರಾಪ್ತಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತಾರೆ.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಸನ್ನಿಧಿಗೆ ನಿತ್ಯವೂ ಭಕ್ತರು [ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ](/sevas#seva-049-ksheerabhisheka), [ಪಂಚಾಮೃತಾಭಿಷೇಕ ಸೇವೆ](/sevas#seva-044-panchamruthabhisheka), ಅಥವಾ [ಹಾಲು ಬೆಣ್ಣೆ ಸಮರ್ಪಣೆ](/sevas#seva-053-halu-bennemilk-buttersamarpane) ಸಲ್ಲಿಸಿ ಆರೋಗ್ಯ ಪ್ರಾಪ್ತಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತಾರೆ.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಚೇತರಿಕೆ
 
@@ -118,4 +118,4 @@ If you or someone in your family is navigating health challenges or feeling phys
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಯಾರಾದರೂ ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿದ್ದರೆ, ಇಂದೇ ಶುದ್ಧ ಹಸುವಿನ ಹಾಲನ್ನು ಶ್ರೀಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿ, ಆ ತೀರ್ಥವನ್ನು ಅವರಿಗೆ ಕುಡಿಸಿ. ಅವರ ಶೀಘ್ರ ಗುಣಮುಖಕ್ಕಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ](/sevas/seva-049-ksheerabhisheka) ಅಥವಾ [ಪಂಚಾಮೃತಾಭಿಷೇಕ ಸೇವೆ](/sevas/seva-044-panchamruthabhisheka) ಸಮರ್ಪಿಸಿ, ಧನ್ವಂತರಿ ಸ್ವರೂಪಿಯಾದ ಕೃಷ್ಣನ ಆಶೀರ್ವಾದ ಪಡೆಯಿರಿ.
+ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಯಾರಾದರೂ ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿದ್ದರೆ, ಇಂದೇ ಶುದ್ಧ ಹಸುವಿನ ಹಾಲನ್ನು ಶ್ರೀಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿ, ಆ ತೀರ್ಥವನ್ನು ಅವರಿಗೆ ಕುಡಿಸಿ. ಅವರ ಶೀಘ್ರ ಗುಣಮುಖಕ್ಕಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಕ್ಷೀರಾಭಿಷೇಕ ಸೇವೆ](/sevas#seva-049-ksheerabhisheka) ಅಥವಾ [ಪಂಚಾಮೃತಾಭಿಷೇಕ ಸೇವೆ](/sevas#seva-044-panchamruthabhisheka) ಸಮರ್ಪಿಸಿ, ಧನ್ವಂತರಿ ಸ್ವರೂಪಿಯಾದ ಕೃಷ್ಣನ ಆಶೀರ್ವಾದ ಪಡೆಯಿರಿ.

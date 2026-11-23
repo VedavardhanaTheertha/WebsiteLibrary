@@ -57,7 +57,7 @@ To make this practice an empowering daily discipline in your home or during temp
 3. **Step 3: Extending the Light (After the Offering)**
    - Sit quietly for five minutes in the warm illumination. Do not rush away immediately.
    - Dedicate the merit of the light to the welfare of all beings, your ancestors (*pitrus*), and your family.
-   - *Matching Sevas:* To connect your personal prayer with the eternal flame burning before Sri Krishna in Udupi, you can sponsor the sacred [Ghrita Nandadeepa for 7 Days](/sevas/seva-032-ghrithaghee-nandadeepa7days) or participate in [Vishesha Hoovina Alankara](/sevas/seva-018-vishesha-hoovina-alankara).
+   - *Matching Sevas:* To connect your personal prayer with the eternal flame burning before Sri Krishna in Udupi, you can sponsor the sacred [Ghrita Nandadeepa for 7 Days](/sevas#seva-032-ghrithaghee-nandadeepa7days) or participate in [Vishesha Hoovina Alankara](/sevas#seva-018-vishesha-hoovina-alankara).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -67,7 +67,7 @@ After concluding the prayer, you will experience an unmistakable sense of freshn
 
 #### Conclusion (Gentle Call to Action)
 
-Begin this evening. Do not wait for a special occasion or until you feel spiritually "perfect." Take one small clay lamp, fill it with oil or ghee, light it at dusk, and place it reverently before your deity with a silent prayer for clarity and grace. If you wish to establish an unbroken stream of divine light for your family at the holy sanctum of Udupi, consider offering a [Ghrita Nandadeepa Seva](/sevas/seva-032-ghrithaghee-nandadeepa7days). May the sacred light of Sri Krishna illuminate every step of your journey.
+Begin this evening. Do not wait for a special occasion or until you feel spiritually "perfect." Take one small clay lamp, fill it with oil or ghee, light it at dusk, and place it reverently before your deity with a silent prayer for clarity and grace. If you wish to establish an unbroken stream of divine light for your family at the holy sanctum of Udupi, consider offering a [Ghrita Nandadeepa Seva](/sevas#seva-032-ghrithaghee-nandadeepa7days). May the sacred light of Sri Krishna illuminate every step of your journey.
 
 ---
 
@@ -106,7 +106,7 @@ Begin this evening. Do not wait for a special occasion or until you feel spiritu
 3. **ಮೂರನೇ ಹಂತ: ಶಾಂತ ಧ್ಯಾನ ಮತ್ತು ಕೃತಜ್ಞತೆ**
    - ದೀಪ ಹಚ್ಚಿದ ತಕ್ಷಣ ಎದ್ದು ಹೋಗದೆ, ಆ ದಿವ್ಯ ಬೆಳಕಿನ ಮುಂದೆ ಕನಿಷ್ಠ ಐದು ನಿಮಿಷಗಳ ಕಾಲ ಮೌನವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಿ.
    - ಈ ದೀಪದಾನದ ಪುಣ್ಯವು ನಿಮ್ಮ ಪಿತೃಗಳಿಗೂ, ನಿಮ್ಮ ಕುಟುಂಬಕ್ಕೂ ಮತ್ತು ಜಗತ್ತಿನ ಸಮಸ್ತ ಜೀವಿಗಳಿಗೂ ಶಾಂತಿಯನ್ನು ತರಲಿ ಎಂದು ಸಮರ್ಪಿಸಿ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ೮೦೦ ವರ್ಷಗಳಿಂದ ನಿರಂತರವಾಗಿ ಉರಿಯುತ್ತಿರುವ ನಂದಾದೀಪದ ಜ್ಯೋತಿಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಭಕ್ತರು [೭ ದಿನಗಳ ಘೃತ ನಂದಾದೀಪ ಸೇವೆ](/sevas/seva-032-ghrithaghee-nandadeepa7days) ಅಥವಾ [ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ ಪೂಜೆ](/sevas/seva-018-vishesha-hoovina-alankara) ಸಮರ್ಪಿಸಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ೮೦೦ ವರ್ಷಗಳಿಂದ ನಿರಂತರವಾಗಿ ಉರಿಯುತ್ತಿರುವ ನಂದಾದೀಪದ ಜ್ಯೋತಿಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಭಕ್ತರು [೭ ದಿನಗಳ ಘೃತ ನಂದಾದೀಪ ಸೇವೆ](/sevas#seva-032-ghrithaghee-nandadeepa7days) ಅಥವಾ [ವಿಶೇಷ ಹೂವಿನ ಅಲಂಕಾರ ಪೂಜೆ](/sevas#seva-018-vishesha-hoovina-alankara) ಸಮರ್ಪಿಸಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಜೀವನದಲ್ಲಿ ಬೆಳಕು
 
@@ -116,4 +116,4 @@ Begin this evening. Do not wait for a special occasion or until you feel spiritu
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ಇಂದೇ ಸಂಜೆ ನಿಮ್ಮ ಮನೆಯ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಅಥವಾ ತುಳಸಿಕಟ್ಟೆಯ ಮುಂದೆ ಒಂದು ಶುದ್ಧ ತುಪ್ಪದ ಅಥವಾ ಎಣ್ಣೆಯ ಹಣತೆಯನ್ನು ಬೆಳಗಿಸಿ. ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಶ್ರದ್ಧೆಯಿಂದ ನಮಸ್ಕರಿಸಿ. ನಿಮ್ಮ ಕುಟುಂಬದ ಶಾಶ್ವತ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಉಡುಪಿ ಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಘೃತ ನಂದಾದೀಪ ಸೇವೆ](/sevas/seva-032-ghrithaghee-nandadeepa7days) ಸಮರ್ಪಿಸಿ, ಶ್ರೀಕೃಷ್ಣನ ಪಾವನ ಜ್ಯೋತಿಯ ಆಶೀರ್ವಾದವನ್ನು ಸದಾ ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ.
+ಇಂದೇ ಸಂಜೆ ನಿಮ್ಮ ಮನೆಯ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ಅಥವಾ ತುಳಸಿಕಟ್ಟೆಯ ಮುಂದೆ ಒಂದು ಶುದ್ಧ ತುಪ್ಪದ ಅಥವಾ ಎಣ್ಣೆಯ ಹಣತೆಯನ್ನು ಬೆಳಗಿಸಿ. ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಶ್ರದ್ಧೆಯಿಂದ ನಮಸ್ಕರಿಸಿ. ನಿಮ್ಮ ಕುಟುಂಬದ ಶಾಶ್ವತ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಉಡುಪಿ ಕೃಷ್ಣ ಮಠಕ್ಕೆ [ಘೃತ ನಂದಾದೀಪ ಸೇವೆ](/sevas#seva-032-ghrithaghee-nandadeepa7days) ಸಮರ್ಪಿಸಿ, ಶ್ರೀಕೃಷ್ಣನ ಪಾವನ ಜ್ಯೋತಿಯ ಆಶೀರ್ವಾದವನ್ನು ಸದಾ ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ.

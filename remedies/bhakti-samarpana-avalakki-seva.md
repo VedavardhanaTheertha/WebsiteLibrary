@@ -59,7 +59,7 @@ To practice this empowering "Kuchela Pathway" of devotion in your daily life, fo
 3. **Step 3: Receiving the Inner Kingdom (After the Offering)**
    - Partake of the prasada with joy and share it with your family members and neighbors.
    - Remember what happened to Sudama: though he asked for nothing, when he returned home, his dilapidated hut had been transformed by the Lord into a celestial palace of gold and gems! When you give God your heart, God takes care of your world.
-   - *Matching Sevas:* Devotees seeking to offer intimate, loving food offerings to Lord Sri Krishna book [Uruli Naivedya Seva](/sevas/seva-037-uruli-naivedya-sevasampoorna), [Halu Payasa](/sevas/seva-075-halu-payasaexcluding-other), or participate through [Kanike](/sevas/seva-001-kanike).
+   - *Matching Sevas:* Devotees seeking to offer intimate, loving food offerings to Lord Sri Krishna book [Uruli Naivedya Seva](/sevas#seva-037-uruli-naivedya-sevasampoorna), [Halu Payasa](/sevas#seva-075-halu-payasaexcluding-other), or participate through [Kanike](/sevas#seva-001-kanike).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -69,7 +69,7 @@ After this prayer, a rich sense of inner fullness (*poornatva*) blossoms within 
 
 #### Conclusion (Gentle Call to Action)
 
-Tomorrow morning or evening, prepare a small bowl of beaten rice with jaggery and coconut. Place a Tulasi leaf on it, offer it to Sri Krishna with Kuchela’s childlike trust, and share it with your household. If you wish to dedicate a loving food offering to the Lord in the sacred sanctum of Udupi, consider offering an [Uruli Naivedya Seva](/sevas/seva-037-uruli-naivedya-sevasampoorna) or [Kanike](/sevas/seva-001-kanike). Sincerity is the only currency accepted in the kingdom of God.
+Tomorrow morning or evening, prepare a small bowl of beaten rice with jaggery and coconut. Place a Tulasi leaf on it, offer it to Sri Krishna with Kuchela’s childlike trust, and share it with your household. If you wish to dedicate a loving food offering to the Lord in the sacred sanctum of Udupi, consider offering an [Uruli Naivedya Seva](/sevas#seva-037-uruli-naivedya-sevasampoorna) or [Kanike](/sevas#seva-001-kanike). Sincerity is the only currency accepted in the kingdom of God.
 
 ---
 
@@ -109,7 +109,7 @@ Tomorrow morning or evening, prepare a small bowl of beaten rice with jaggery an
 3. **ಮೂರನೇ ಹಂತ: ಪ್ರಸಾದ ಸ್ವೀಕಾರ ಮತ್ತು ನೆಮ್ಮದಿ**
    - ನೈವೇದ್ಯವಾದ ಆ ಅವಲಕ್ಕಿಯನ್ನು ಕುಟುಂಬದವರೊಂದಿಗೆ, ಮಕ್ಕಳೊಂದಿಗೆ ಪ್ರಸಾದವಾಗಿ ಹಂಚಿ ತಿನ್ನಿ.
    - ಕುಚೇಲನು ಭಗವಂತನನ್ನು ಏನನ್ನೂ ಬೇಡಲಿಲ್ಲ; ಆದರೆ ಮನೆಗೆ ಮರಳಿದಾಗ ಅವನ ಹಳೆಯ ಗುಡಿಸಲು ಸ್ವರ್ಣ ಭವನವಾಗಿತ್ತು! ಭಗವಂತನಿಗೆ ನಿಷ್ಕಾಮ ಪ್ರೇಮದಿಂದ ಶರಣಾದಾಗ ಸಕಲ ಅಭೀಷ್ಟಗಳೂ ಸಿದ್ಧಿಸುತ್ತವೆ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಪರಮ ಪ್ರಿಯವಾದ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸಲು ಭಕ್ತರು [ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ](/sevas/seva-037-uruli-naivedya-sevasampoorna), [ಹಾಲು ಪಾಯಸ ನೈವೇದ್ಯ](/sevas/seva-075-halu-payasaexcluding-other), ಅಥವಾ ಭಕ್ತಿಯಿಂದ [ಕಾಣಿಕೆ](/sevas/seva-001-kanike) ಸಮರ್ಪಿಸಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಪರಮ ಪ್ರಿಯವಾದ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸಲು ಭಕ್ತರು [ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ](/sevas#seva-037-uruli-naivedya-sevasampoorna), [ಹಾಲು ಪಾಯಸ ನೈವೇದ್ಯ](/sevas#seva-075-halu-payasaexcluding-other), ಅಥವಾ ಭಕ್ತಿಯಿಂದ [ಕಾಣಿಕೆ](/sevas#seva-001-kanike) ಸಮರ್ಪಿಸಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಪೂರ್ಣತ್ವ
 
@@ -119,4 +119,4 @@ Tomorrow morning or evening, prepare a small bowl of beaten rice with jaggery an
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ನಾಳೆಯ ದಿನವೇ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಒಂದು ಮುಷ್ಟಿ ಅವಲಕ್ಕಿ-ಬೆಲ್ಲವನ್ನು ತುಳಸಿ ಸಮೇತ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿ, ಕುಚೇಲನಂತೆ ಶರಣಾಗಿ. ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಪವಿತ್ರ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸಲು [ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ](/sevas/seva-037-uruli-naivedya-sevasampoorna) ಅಥವಾ [ಕಾಣಿಕೆ](/sevas/seva-001-kanike) ಅರ್ಪಿಸಿ, ಭಕ್ತವತ್ಸಲನಾದ ಗೋವಿಂದನ ಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ.
+ನಾಳೆಯ ದಿನವೇ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಒಂದು ಮುಷ್ಟಿ ಅವಲಕ್ಕಿ-ಬೆಲ್ಲವನ್ನು ತುಳಸಿ ಸಮೇತ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿ, ಕುಚೇಲನಂತೆ ಶರಣಾಗಿ. ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣನಿಗೆ ಪವಿತ್ರ ನೈವೇದ್ಯ ಸಮರ್ಪಿಸಲು [ಉರುಳಿ ನೈವೇದ್ಯ ಸೇವೆ](/sevas#seva-037-uruli-naivedya-sevasampoorna) ಅಥವಾ [ಕಾಣಿಕೆ](/sevas#seva-001-kanike) ಅರ್ಪಿಸಿ, ಭಕ್ತವತ್ಸಲನಾದ ಗೋವಿಂದನ ಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ.

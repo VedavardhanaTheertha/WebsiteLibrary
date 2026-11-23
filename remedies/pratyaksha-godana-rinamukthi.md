@@ -53,7 +53,7 @@ Engaging in the transformative healing of Go-Seva follows a mindful, loving disc
 3. **Step 3: The Spirit of Protection (After the Service)**
    - Perform three quiet circumambulations (*pradakshina*) around the cow, bowing at her sacred feet.
    - Dedicate the spiritual merit of your service to the well-being of all speechless creatures and the prosperity of your family.
-   - *Matching Sevas:* Devotees seeking profound karmic debt relief and ancestral peace sponsor [Pratyaksha Godana](/sevas/seva-029-pratyaksha-godana), [Go-Pooja](/sevas/seva-048-gopooja), or provide [Gograsa for 1 Day](/sevas/seva-034-gograsa-1day).
+   - *Matching Sevas:* Devotees seeking profound karmic debt relief and ancestral peace sponsor [Pratyaksha Godana](/sevas#seva-029-pratyaksha-godana), [Go-Pooja](/sevas#seva-048-gopooja), or provide [Gograsa for 1 Day](/sevas#seva-034-gograsa-1day).
 
 #### Section 3 – The Inner Experience (During & After)
 
@@ -63,7 +63,7 @@ After performing Go-Pooja or sponsoring Godana, devotees routinely report a prof
 
 #### Conclusion (Gentle Call to Action)
 
-Take a moment this week to reconnect with Mother Cow. If there is a local goshala nearby, visit it with your family and feed a handful of fresh grass or jaggery. If physical distance prevents you, you can sponsor a day’s nourishing meal for the sacred cows of Sri Krishna Matha by booking [Gograsa for 1 Day](/sevas/seva-034-gograsa-1day), [Go-Pooja](/sevas/seva-048-gopooja), or [Pratyaksha Godana](/sevas/seva-029-pratyaksha-godana). May the boundless maternal grace of Gomata bless your family with abundance and peace.
+Take a moment this week to reconnect with Mother Cow. If there is a local goshala nearby, visit it with your family and feed a handful of fresh grass or jaggery. If physical distance prevents you, you can sponsor a day’s nourishing meal for the sacred cows of Sri Krishna Matha by booking [Gograsa for 1 Day](/sevas#seva-034-gograsa-1day), [Go-Pooja](/sevas#seva-048-gopooja), or [Pratyaksha Godana](/sevas#seva-029-pratyaksha-godana). May the boundless maternal grace of Gomata bless your family with abundance and peace.
 
 ---
 
@@ -99,7 +99,7 @@ Take a moment this week to reconnect with Mother Cow. If there is a local goshal
 3. **ಮೂರನೇ ಹಂತ: ಪ್ರದಕ್ಷಿಣೆ ಮತ್ತು ಕೃತಜ್ಞತೆ**
    - ಹಸುವಿಗೆ ಮೂರು ಬಾರಿ ಪ್ರದಕ್ಷಿಣೆ ಹಾಕಿ, ಅದರ ಪಾದಗಳಿಗೆ ನಮಸ್ಕರಿಸಿ.
    - ಈ ಪೂಜೆಯ ಪುಣ್ಯವನ್ನು ನಿಮ್ಮ ವಂಶದ ಪಿತೃಗಳ ಸದ್ಗತಿಗಾಗಿ ಮತ್ತು ಕೌಟುಂಬಿಕ ಸಮೃದ್ಧಿಗಾಗಿ ಸಮರ್ಪಿಸಿ.
-   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಗೋಶಾಲೆಗೆ ಭಕ್ತರು [ಪ್ರತ್ಯಕ್ಷ ಗೋದಾನ](/sevas/seva-029-pratyaksha-godana), [ಗೋಪೂಜೆ ಸೇವೆ](/sevas/seva-048-gopooja), ಅಥವಾ [೧ ದಿನದ ಗೋಗ್ರಾಸ ಸೇವೆ](/sevas/seva-034-gograsa-1day) ಸಲ್ಲಿಸಿ ಋಣಮುಕ್ತರಾಗಬಹುದು.
+   - *ಸಂಬಂಧಿತ ಸೇವೆಗಳು:* ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಗೋಶಾಲೆಗೆ ಭಕ್ತರು [ಪ್ರತ್ಯಕ್ಷ ಗೋದಾನ](/sevas#seva-029-pratyaksha-godana), [ಗೋಪೂಜೆ ಸೇವೆ](/sevas#seva-048-gopooja), ಅಥವಾ [೧ ದಿನದ ಗೋಗ್ರಾಸ ಸೇವೆ](/sevas#seva-034-gograsa-1day) ಸಲ್ಲಿಸಿ ಋಣಮುಕ್ತರಾಗಬಹುದು.
 
 #### ೩. ಆಂತರಿಕ ಅನುಭವ ಮತ್ತು ಋಣಮುಕ್ತಿ
 
@@ -109,4 +109,4 @@ Take a moment this week to reconnect with Mother Cow. If there is a local goshal
 
 #### ಮುಕ್ತಾಯ ಮತ್ತು ಪುಟ್ಟ ಹೆಜ್ಜೆ
 
-ಈ ವಾರವೇ ನಿಮ್ಮ ಸಮೀಪದ ಗೋಶಾಲೆಗೆ ಭೇಟಿ ನೀಡಿ ಗೋವಿಗೆ ಒಂದು ಹಿಡಿ ಹಸಿರು ಹುಲ್ಲು ಅಥವಾ ಬೆಲ್ಲವನ್ನು ತಿನ್ನಿಸಿ ಪ್ರದಕ್ಷಿಣೆ ಬನ್ನಿ. ನಿಮ್ಮ ಪೂರ್ವಜರ ಋಣಮುಕ್ತಿಗಾಗಿ ಮತ್ತು ಕೌಟುಂಬಿಕ ಏಳಿಗೆಗಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಗೋಶಾಲೆಗೆ [ಪ್ರತ್ಯಕ್ಷ ಗೋದಾನ](/sevas/seva-029-pratyaksha-godana) ಅಥವಾ [ಗೋಗ್ರಾಸ ಸೇವೆ](/sevas/seva-034-gograsa-1day) ಸಮರ್ಪಿಸಿ, ಕಾಮಧೇನುವಿನ ಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ.
+ಈ ವಾರವೇ ನಿಮ್ಮ ಸಮೀಪದ ಗೋಶಾಲೆಗೆ ಭೇಟಿ ನೀಡಿ ಗೋವಿಗೆ ಒಂದು ಹಿಡಿ ಹಸಿರು ಹುಲ್ಲು ಅಥವಾ ಬೆಲ್ಲವನ್ನು ತಿನ್ನಿಸಿ ಪ್ರದಕ್ಷಿಣೆ ಬನ್ನಿ. ನಿಮ್ಮ ಪೂರ್ವಜರ ಋಣಮುಕ್ತಿಗಾಗಿ ಮತ್ತು ಕೌಟುಂಬಿಕ ಏಳಿಗೆಗಾಗಿ ಉಡುಪಿ ಶ್ರೀಕೃಷ್ಣ ಮಠದ ಗೋಶಾಲೆಗೆ [ಪ್ರತ್ಯಕ್ಷ ಗೋದಾನ](/sevas#seva-029-pratyaksha-godana) ಅಥವಾ [ಗೋಗ್ರಾಸ ಸೇವೆ](/sevas#seva-034-gograsa-1day) ಸಮರ್ಪಿಸಿ, ಕಾಮಧೇನುವಿನ ಕೃಪೆಗೆ ಪಾತ್ರರಾಗಿ.
